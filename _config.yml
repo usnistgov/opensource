@@ -1,9 +1,9 @@
-name: "LLNL Software Portal"
+name: "National Lab Software Portal -- Demo"
 author: "Ian Lee <lee1001@llnl.gov>"
-title: LLNL Software Portal
-description: "Lawrence Livermore National Laboratory Software Portal"
+title: National Lab Software Portal -- Demo
+description: "National Laboratory Software Portal"
 
-url: "http://software.llnl.gov"
+url: "http://localhost:4000"
 
 # LLNL Piwik Analytics https://analytics.llnl.gov
 piwik_id: 250
@@ -17,7 +17,7 @@ twitter:
   username: llnl_opensource
 
 # GitHub Metadata -- https://github.com/jekyll/github-metadata
-repository: llnl/llnl.github.io
+# repository: llnl/llnl.github.io
 gems:
   - jekyll-github-metadata
   - jekyll-seo-tag
