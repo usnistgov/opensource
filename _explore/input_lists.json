@@ -27,5 +27,24 @@
         "hpc/spindle",
         "shusenl/nlpvis",
         "xbraid/xbraid"
+    ],
+    "topics": [
+        "build-tools",
+        "math-physics",
+        "app-infrastructure",
+        "data-viz",
+        "portability",
+        "memory-management",
+        "performance",
+        "workflows",
+        "hpc",
+        "application",
+        "library",
+        "proxy-app"
+    ],
+    "maturity": [
+        "alpha",
+        "beta",
+        "production"
     ]
 }
