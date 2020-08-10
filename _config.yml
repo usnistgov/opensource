@@ -48,3 +48,5 @@ exclude:
     - README.md
     - Makefile
     - build
+
+theme: jekyll-theme-cayman
