@@ -2,7 +2,7 @@ name: "NIST Opensource Portal"
 author: "NIST Open Source <opensource@nist.gov>"
 title: NIST Opensource Portal
 description: "National Institute of Standards Opensource Portal"
-remote_theme: usnistgov/Opensource-Theme
+remote_theme: LLNL/Jekyll-LLNL-Theme
 
 url: "https://opensource.nist.gov"
 repo_url: "https://github.com/usnistgov/opensource"
