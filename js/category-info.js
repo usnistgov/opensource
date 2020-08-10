@@ -1,17 +1,17 @@
 app.controller('gitHubDataController', function($scope, $http, $window, Category) {
-    var getCategoryInfo = $http.get('../category/category_info.json', {
+    var getCategoryInfo = $http.get('/opensource/category/category_info.json', {
         cache: true
     });
 
-    var getReposTopics = $http.get('./explore/github-data/labRepos_Topics.json', {
+    var getReposTopics = $http.get('/opensource/explore/github-data/labRepos_Topics.json', {
         cache: true
     });
 
-    var getReposInfo = $http.get('./explore/github-data/labReposInfo.json', {
+    var getReposInfo = $http.get('/opensource/explore/github-data/labReposInfo.json', {
         cache: true
     });
 
-    var getReposLogos = $http.get('./assets/images/logos/repo_logos.json', {
+    var getReposLogos = $http.get('/opensource/assets/images/logos/repo_logos.json', {
         cache: true
     });
 
