@@ -1,6 +1,6 @@
 {
-  "name": "llnl.github.io",
-  "description": "Public home for LLNL software catalog",
+  "name": "NIST Opensource",
+  "description": "Public home for NIST opensource catalog",
   "license": null,
   "openSourceProject": 1,
   "governmentWideReuseProject": 1,
@@ -8,6 +8,6 @@
     "jekyll"
   ],
   "contact": {
-    "email": "open-source@llnl.gov"
+    "email": "opensource@nist.gov"
   }
 }
