@@ -274,7 +274,7 @@
 
 @media (max-width: 768px) {
     .banner {
-        background-image: url('/assets/images/banner-top.png');
+        background-image: url('/opensource/assets/images/banner-top.png');
         /* background-color: #3d444a; */
         background-position: center, 50% 90%;
         background-repeat: no-repeat, no-repeat;
@@ -285,7 +285,7 @@
 
 @media (min-width: 769px) {
     .banner {
-        background-image: url('/assets/images/banner-top.png');
+        background-image: url('/opensource/assets/images/banner-top.png');
         /* background-color: #3d444a; */
         background-position: center, 50% 90%;
         background-repeat: no-repeat, no-repeat;
@@ -296,7 +296,7 @@
 
 /* @media (min-width: 768px) and (max-width: 1199px) {
     .banner {
-        background-image: url('/assets/images/banner-top.png'), url('/assets/images/OS-logo-white.png');
+        background-image: url('/opensource/assets/images/banner-top.png'), url('/opensource/assets/images/OS-logo-white.png');
         background-color: #3d444a;
         background-position: center, 50% 90%;
         background-repeat: no-repeat, no-repeat;
@@ -307,7 +307,7 @@
 
 @media (min-width: 1200px) {
     .banner {
-      background-image: url('/assets/images/banner-top.png');
+      background-image: url('/opensource/assets/images/banner-top.png');
       /* background-color: #3d444a; */
       background-position: 30% 50%, 70% 50%, 67% 90%;
       background-position: -webkit-calc(50% - 310px) 50%, -webkit-calc(50% + 310px) 50%, -webkit-calc(50% + 310px) 90%;
