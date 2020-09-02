@@ -3,29 +3,40 @@
         "SCIENTIFIC SOFTWARE": {
             "title": "SCIENTIFIC SOFTWARE",
             "icon": {
-                "path": "/opensource/assets/images/build-tools.svg",
+                "path": "/opensource/assets/images/math.svg",
                 "alt": "Scientific Software"
             },
-            "description": "Automate and simplify complex dependencies and deployments",
+            "description": "All opensource scientific software.",
             "topics": [
                 "software",
                 "science",
                 "scientific",
-                "application"
+                "application",
+                "chimad",
+                "materials-science",
+                "phase-field",
+                "optics",
+                "fipy"
             ]
         },
         "SIMULATION": {
             "title": "SIMULATION",
             "icon": {
-                "path": "/opensource/assets/images/math.svg",
+                "path": "/opensource/assets/images/application.svg",
                 "alt": "Simulation"
             },
-            "description": "Optimize solvers, higher order methods, and AMR frameworks",
+            "description": "All opensource simulation contributions.",
             "topics": [
                 "simulation",
                 "model",
                 "compute",
-                "approximate"
+                "approximate",
+                "chimad",
+                "python",
+                "materials-science",
+                "owl",
+                "phase-field",
+                "fipy"
             ]
         },
         "VIZUALISATION": {
@@ -34,7 +45,7 @@
                 "path": "/opensource/assets/images/data-manage.svg",
                 "alt": "Visualization"
             },
-            "description": "Manage visualizations with robust features and configurable analysis",
+            "description": "All opensource visualisation oriented contributions.",
             "topics": [
                 "visualisation",
                 "3d",
@@ -43,16 +54,17 @@
                 "render",
                 "mesh",
                 "image",
-                "video"
+                "video",
+                "scatter"
             ]
         },
         "AI AND MACHINE LEARNING": {
             "title": "AI & MACHINE LEARNING",
             "icon": {
-                "path": "/opensource/assets/images/application.svg",
+                "path": "/opensource/assets/images/portable.svg",
                 "alt": "AI & Machine Learning"
             },
-            "description": "Browse scientific simulation codes and IT management tools",
+            "description": "All AI and ML opensource models, frameworks or services.",
             "topics": [
                 "ai",
                 "model",
@@ -61,7 +73,11 @@
                 "machine",
                 "learning",
                 "nlp",
-                "ml"
+                "ml",
+                "irris",
+                "biometrics",
+                "face",
+                "optics"
             ]
         },
         "TOOLS": {
@@ -70,11 +86,16 @@
                 "path": "/opensource/assets/images/build-tools.svg",
                 "alt": "Tools"
             },
-            "description": "Prepare for testing and porting applications",
+            "description": "All open source tools or utilities.",
             "topics": [
                 "tool",
                 "utility",
-                "utilities"
+                "utilities",
+                "iot",
+                "lims",
+                "api",
+                "xml",
+                "json"
             ]
         },
         "HPC & WORKFLOW": {
@@ -83,12 +104,15 @@
                 "path": "/opensource/assets/images/performance.svg",
                 "alt": "High Performance Computing & Workflow"
             },
-            "description": "Manage and scale complex workflows, tracking, and data collection",
+            "description": "All intensive resource leveraging contributions.",
             "topics": [
                 "performance",
                 "big",
                 "hpc",
-                "data"
+                "data",
+                "lims",
+                "gpu",
+                "cpu"
             ]
         }
     }
