@@ -1,116 +1,94 @@
 {
     "data": {
-        "BUILD TOOLS": {
-            "title": "BUILD TOOLS",
+        "SCIENTIFIC SOFTWARE": {
+            "title": "SCIENTIFIC SOFTWARE",
             "icon": {
                 "path": "/opensource/assets/images/build-tools.svg",
-                "alt": "Build Tools"
+                "alt": "Scientific Software"
             },
             "description": "Automate and simplify complex dependencies and deployments",
             "topics": [
-                "build-tools"
-            ]
-        },
-        "MATH & PHYSICS LIBRARIES": {
-            "title": "MATH & PHYSICS LIBRARIES",
-            "icon": {
-                "path": "/opensource/assets/images/math.svg",
-                "alt": "Math & Physics Libraries"
-            },
-            "description": "Optimize solvers, higher order methods, and AMR frameworks",
-            "topics": [
-                "math-physics"
-            ]
-        },
-        "DATA MANAGEMENT & VIZ": {
-            "title": "DATA MANAGEMENT & VIZ",
-            "icon": {
-                "path": "/opensource/assets/images/data-manage.svg",
-                "alt": "Data Management & Visualization"
-            },
-            "description": "Manage visualizations with robust features and configurable analysis",
-            "topics": [
-                "data-management",
-                "data-viz"
-            ]
-        },
-        "APPLICATIONS": {
-            "title": "APPLICATIONS",
-            "icon": {
-                "path": "/opensource/assets/images/application.svg",
-                "alt": "Applications"
-            },
-            "description": "Browse scientific simulation codes and IT management tools",
-            "topics": [
+                "software",
+                "science",
+                "scientific",
                 "application"
             ]
         },
-        "PROXY APPLICATIONS": {
-            "title": "PROXY APPLICATIONS",
+        "SIMULATION": {
+            "title": "SIMULATION",
             "icon": {
-                "path": "/opensource/assets/images/prox-app.svg",
-                "alt": "Proxy Applications"
+                "path": "/opensource/assets/images/math.svg",
+                "alt": "Simulation"
+            },
+            "description": "Optimize solvers, higher order methods, and AMR frameworks",
+            "topics": [
+                "simulation",
+                "model",
+                "compute",
+                "approximate"
+            ]
+        },
+        "VIZUALISATION": {
+            "title": "VISUALIZATION",
+            "icon": {
+                "path": "/opensource/assets/images/data-manage.svg",
+                "alt": "Visualization"
+            },
+            "description": "Manage visualizations with robust features and configurable analysis",
+            "topics": [
+                "visualisation",
+                "3d",
+                "graph",
+                "gui",
+                "render",
+                "mesh",
+                "image",
+                "video"
+            ]
+        },
+        "AI AND MACHINE LEARNING": {
+            "title": "AI & MACHINE LEARNING",
+            "icon": {
+                "path": "/opensource/assets/images/application.svg",
+                "alt": "AI & Machine Learning"
+            },
+            "description": "Browse scientific simulation codes and IT management tools",
+            "topics": [
+                "ai",
+                "model",
+                "predict",
+                "train",
+                "machine",
+                "learning",
+                "nlp",
+                "ml"
+            ]
+        },
+        "TOOLS": {
+            "title": "TOOLS",
+            "icon": {
+                "path": "/opensource/assets/images/build-tools.svg",
+                "alt": "Tools"
             },
             "description": "Prepare for testing and porting applications",
             "topics": [
-                "proxy-application"
+                "tool",
+                "utility",
+                "utilities"
             ]
         },
-        "SYSTEM SOFTWARE": {
-            "title": "SYSTEM SOFTWARE",
-            "icon": {
-                "path": "/opensource/assets/images/system-software.svg",
-                "alt": "Systems Software"
-            },
-            "description": "Manage laptop and desktop computer systems, HPC clusters, and parallel environments",
-            "topics": [
-                "system-software"
-            ]
-        },
-        "PORTABLE EXECUTION & MEMORY MGMT": {
-            "title": "PORTABLE EXECUTION & MEMORY MGMT",
-            "icon": {
-                "path": "/opensource/assets/images/portable.svg",
-                "alt": "Portable Execution & Memory Management "
-            },
-            "description": "Automate data motion and memory allocation on advanced architectures",
-            "topics": [
-                "portability",
-                "memory-management"
-            ]
-        },
-        "PERFORMANCE & WORKFLOW": {
+        "HPC & WORKFLOW": {
             "title": "PERFORMANCE & WORKFLOW",
             "icon": {
                 "path": "/opensource/assets/images/performance.svg",
-                "alt": "Performance & Workflow"
+                "alt": "High Performance Computing & Workflow"
             },
             "description": "Manage and scale complex workflows, tracking, and data collection",
             "topics": [
                 "performance",
-                "workflows"
-            ]
-        },
-        "FILE SYSTEMS": {
-            "title": "FILE SYSTEMS",
-            "icon": {
-                "path": "/opensource/assets/images/file-systems.svg",
-                "alt": "File Systems"
-            },
-            "description": "Configure data storage and retrieval for more efficient workloads",
-            "topics": [
-                "file-system"
-            ]
-        },
-        "APP INFRASTRUCTURE": {
-            "title": "APP INFRASTRUCTURE",
-            "icon": {
-                "path": "/opensource/assets/images/app-infrastructure.svg",
-                "alt": "App Infrastructure"
-            },
-            "description": "Browse tools for basic functionality common in HPC codes",
-            "topics":[
-                "app-infrastructure"
+                "big",
+                "hpc",
+                "data"
             ]
         }
     }
