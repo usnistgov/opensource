@@ -4,28 +4,8 @@
 
 .static-text a,
     a:visited {
-      color: white;
+      color: #005dab;
       text-decoration: underline;
-}
-
-/* .navbar a.navbar-normal:hover {
-  color: #337ab7;
-} */
-
-.navbar-nav>li>a.navbar-normal:hover {
-  color: #337ab7;
-}
-
-.navbar-nav>li>a>span:hover {
-  color: #337ab7;
-}
-
-.navbar a.navbar-normal:hover {
-  color: #337ab7;
-}
-
-.navbar-brand:hover {
-  color: #337ab7;
 }
 
 /* FlexBox configuration */
@@ -154,24 +134,19 @@
 
 /* --- */
 .navbar-header a.navbar-brand {
-    color: white;
+    color: #005dab;
     font-weight: bold;
     text-decoration: none;
-    margin-left: -23%;
 }
 
 .navbar a.navbar-normal {
-    /* color: white; */
+    color: #005dab;
     text-decoration: none;
-    color: white;
 }
 
 .navbar {
     margin-bottom: 0;
     text-decoration: none;
-    background-color: black;
-    border-color: black;
-    border-radius: 0px;
 }
 
 /* Dropdown */
@@ -179,7 +154,7 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: black;
+    background-color: #f8f8f8;
     min-width: 160px;
     padding: 5px;
     text-decoration: none;
@@ -274,29 +249,29 @@
 
 @media (max-width: 768px) {
     .banner {
-        background-image: url('/assets/images/banner-top.png');
-        /* background-color: #3d444a; */
+        background-image: url('../assets/images/banner-top.svg'), url('../assets/images/OS-logo-white.png');
+        background-color: #3d444a;
         background-position: center, 50% 90%;
         background-repeat: no-repeat, no-repeat;
-        background-size: 40%;
+        background-size: auto, 80px 80px;
         height: 200px;
     }
 }
 
 @media (min-width: 769px) {
     .banner {
-        background-image: url('/assets/images/banner-top.png');
-        /* background-color: #3d444a; */
+        background-image: url('../assets/images/banner-top.svg'), url('../assets/images/OS-logo-white.png');
+        background-color: #3d444a;
         background-position: center, 50% 90%;
         background-repeat: no-repeat, no-repeat;
-        background-size: 40%;
+        background-size: auto, 100px 100px;
         height: 300px;
     }
 }
 
 /* @media (min-width: 768px) and (max-width: 1199px) {
     .banner {
-        background-image: url('/assets/images/banner-top.png'), url('/assets/images/OS-logo-white.png');
+        background-image: url('../assets/images/banner-top.svg'), url('../assets/images/OS-logo-white.png');
         background-color: #3d444a;
         background-position: center, 50% 90%;
         background-repeat: no-repeat, no-repeat;
@@ -307,14 +282,14 @@
 
 @media (min-width: 1200px) {
     .banner {
-      background-image: url('/assets/images/banner-top.png');
-      /* background-color: #3d444a; */
-      background-position: 30% 50%, 70% 50%, 67% 90%;
-      background-position: -webkit-calc(50% - 310px) 50%, -webkit-calc(50% + 310px) 50%, -webkit-calc(50% + 310px) 90%;
-      background-position: calc(50% + 310px) 50%, calc(50% + 310px) 90%;
-      background-repeat: no-repeat, no-repeat, no-repeat;
-      background-size: 40%;
-      height: 300px;
+        background-image: url('../assets/images/OS-icon-color.png'), url('../assets/images/banner-top.svg'), url('../assets/images/OS-logo-white.png');
+        background-color: #3d444a;
+        background-position: 30% 50%, 70% 50%, 67% 90%;
+        background-position: -webkit-calc(50% - 310px) 50%, -webkit-calc(50% + 310px) 50%, -webkit-calc(50% + 310px) 90%;
+        background-position: calc(50% - 310px) 50%, calc(50% + 310px) 50%, calc(50% + 310px) 90%;
+        background-repeat: no-repeat, no-repeat, no-repeat;
+        background-size: 550px 550px, auto, 130px 130px;
+        height: 300px;
     }
 }
 
