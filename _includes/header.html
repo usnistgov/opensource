@@ -18,8 +18,14 @@
         <li id="data-portal">
           <a class="navbar-normal" href="https://data.nist.gov" target="_blank">Data Portal</a></li>
         <li id="explore"
-          {% if page.url == "/opensource/explore/" %} class="active"
-          {% endif %}><a class="navbar-normal" href="/opensource/explore/">Explore</a></li>
+          {% if page.url == "/opensource/explore/" %} class="active dropdown"
+          {% else %} class="dropdown"
+          {% endif %}><a class="navbar-normal" href="/opensource/explore/">Explore</a>
+          <div class="dropdown-content">
+            <p><a class="navbar-normal" href="/opensource/explore/dependencies/">Dependencies</a></p>
+            <p><a class="navbar-normal" href="/opensource/explore/popular-repos/">Popular Repositories</a></p>
+          </div>
+        </li>
 
         <li id="about"
             {% if page.url == "/opensource/about/" %} class="active dropdown"
