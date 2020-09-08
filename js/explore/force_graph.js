@@ -7,7 +7,7 @@ function draw_force_graph(areaID) {
 
     // Draws graph
     function drawGraph(data, areaID) {
-        const graphHeader = 'LLNL Dependencies';
+        const graphHeader = 'NIST Dependencies';
 
         const margin = { top: stdMargin.top, right: stdMargin.right / 2, bottom: stdMargin.bottom / 2, left: stdMargin.left / 2 },
             width = stdTotalWidth * 2 - margin.left - margin.right,
@@ -56,7 +56,7 @@ function draw_force_graph(areaID) {
             .append('g')
                 .attr('stroke', '#999')
                 .attr('stroke-opacity', 0.6);
-        
+
         // Adds links
         link.selectAll('line')
             .data(links)
@@ -141,7 +141,7 @@ function draw_force_graph(areaID) {
                     const vertical = i * legendHeight - height / 2;
                     return `translate(${horizontal}, ${vertical})`;
                 });
-        
+
         // Adds rectangle for color reference
         legend
             .append('rect')
@@ -189,7 +189,7 @@ function draw_force_graph(areaID) {
         chart.append('g')
             .attr('transform', `translate(${width / 2 - margin.right / 2},${0 - height / 2 + margin.top / 2})`)
             .call(slider);
-        
+
         // What to do when the option slider is changed
         function optionChanged(o) {
             options[o.name].function();

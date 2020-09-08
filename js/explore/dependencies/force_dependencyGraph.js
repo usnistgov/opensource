@@ -7,7 +7,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
 
     // Draws graph
     function drawGraph(data, areaID, adjacentAreaID) {
-        const graphHeader = 'LLNL Dependencies';
+        const graphHeader = 'NIST Dependencies';
 
         const margin = { top: stdMargin.top, right: stdMargin.right / 2, bottom: stdMargin.bottom / 2, left: stdMargin.left / 2 },
             width = stdTotalWidth * 2 - 50 - margin.left - margin.right,
@@ -34,7 +34,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
             .html(function(d) {
                 return `${d.id}`;
             });
-            
+
         const linkTip = d3
             .tip()
             .attr('class', 'd3-tip')
@@ -75,7 +75,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
             .append('g')
                 .attr('stroke', '#999')
                 .attr('stroke-opacity', 0.6);
-        
+
         // Adds links
         link.selectAll('line')
             .data(links)
@@ -142,7 +142,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
 
         // Data for legend
         const labels = ['LLNL Repositories with Dependencies', 'External Packages', 'Internal Packages'];
-    
+
         // Creates legend
         const legend = chart
             .append('g');
@@ -154,7 +154,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
             color.forEach((d, i) => {
                 legendMap.push({ text: labels[i], color: d });
             });
-    
+
             const legendEntries = legend
                 .selectAll('g')
                 .data(legendMap)
@@ -167,7 +167,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
                         const vertical = i * legendHeight - height / 2;
                         return `translate(${horizontal}, ${vertical})`;
                     });
-            
+
             // Adds rectangle for color reference
             legendEntries
                 .append('rect')
@@ -179,7 +179,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
                     .style('stroke', d => {
                         return d.color;
                     });
-    
+
             // Adds legend text
             legendEntries
                 .append('text')
@@ -219,7 +219,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
         chart.append('g')
             .attr('transform', `translate(${width / 2 - margin.right / 2},${0 - height / 2 + margin.top / 2})`)
             .call(slider);
-        
+
         // What to do when the option slider is changed
         function optionChanged(o) {
             options[o.name].function();
@@ -638,9 +638,9 @@ function draw_force_graph(areaID, adjacentAreaID) {
             }
 
             data.children.sort((a,b) => compare(a,b));
-            
+
             const root = d3.tree().size([Math.min(Math.max(data.children.length * 15, treeWidth), treeHeight - margin.top), treeWidth * 0.3])(d3.hierarchy(data));
-            
+
             const treeChart = svg
                 .append('g');
 
@@ -707,7 +707,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
                     link.selectAll('line').transition(t)
                         .attr('stroke-opacity', 0.2);
                 });
-            
+
             treeNode.append('text')
                 .attr('dy', '0.31em')
                 .attr('x', d => d.children ? -6 : 6)
