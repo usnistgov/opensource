@@ -19,7 +19,7 @@ print("Repo list complete. Found %d repos." % (len(repolist)))
 dataCollectorInt = qm.DataManager(datfilepathInt, True)
 # Populate member list
 memberlist = []
-print("Getting LLNL members ...")
+print("Getting NIST members ...")
 memberlist = sorted(dataCollectorInt.data["data"].keys())
 print("Member list complete. Found %d users." % (len(memberlist)))
 

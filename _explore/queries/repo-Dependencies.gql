@@ -26,4 +26,4 @@ query ($ownName: String!, $repoName: String!, $numManifests: Int!, $numDependent
     }
   }
 }
-# {"ownName": "LLNL", "repoName": "llnl.github.io", "numManifests": 50, "numDependents": 50, "pgCursor": null}
+# {"ownName": "NIST", "repoName": "usnistgov.github.io", "numManifests": 50, "numDependents": 50, "pgCursor": null}

@@ -17,7 +17,7 @@ print("Repo list complete. Found %d repos." % (len(repolist)))
 inputLists = qm.DataManager("%s/labUsers.json" % ghDataDir, True)
 # Populate member list
 memberlist = []
-print("Getting LLNL members ...")
+print("Getting NIST members ...")
 memberlist = sorted(inputLists.data["data"].keys())
 print("Member list complete. Found %d users." % (len(memberlist)))
 

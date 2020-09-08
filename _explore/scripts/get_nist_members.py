@@ -5,8 +5,8 @@ ghDataDir = env.get("GITHUB_DATA", "../github-data")
 datfilepath = "%s/labUsers.json" % ghDataDir
 queryPath = "../queries/org-Members.gql"
 
-# Only looking at LLNL org members
-orglist = ["llnl"]
+# Only looking at NIST org members
+orglist = ["usnistgov"]
 
 # Initialize data collector
 dataCollector = qm.DataManager(datfilepath, False)

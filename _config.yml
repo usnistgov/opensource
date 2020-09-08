@@ -1,22 +1,22 @@
-name: "NIST Opensource Portal"
-author: "NIST Open Source <opensource@nist.gov>"
-title: NIST Opensource Portal
+name: "Opensource Portal"
+author: "Open Source <opensource@nist.gov>"
+title: Opensource Portal
 description: "National Institute of Standards Opensource Portal"
 remote_theme: opensource-theme
 
 url: "https://opensource.nist.gov"
 repo_url: "https://github.com/usnistgov/opensource"
 
-# LLNL Piwik Analytics https://analytics.llnl.gov
-# piwik_id: 250
+# NIST Piwik Analytics https://analytics.nist.gov
+# piwik_id: xxx
 
 # Google Analytics ID
 # google_analytics:
-#  tracking_id: UA-75179431-1
+#  tracking_id: XXXXXXXX
 
 # Twitter username (used by jekyll-seo-tag)
 # twitter:
-#  username: llnl_opensource
+#  username: xxxxx
 
 # GitHub Metadata -- https://github.com/jekyll/github-metadata
 repository: usnistgov/opensource
