@@ -77,8 +77,8 @@ function draw_pack_hierarchy(areaID) {
                     .enter()
                         .append('g')
                             .attr('transform', d => `translate(${d.x},${d.y})`);
-        
-        const parentNodes = node.filter(d => d.children != undefined); 
+
+        const parentNodes = node.filter(d => d.children != undefined);
         const childNodes = node.filter(d => d.children == undefined);
 
         let label = chart.append('g')
@@ -114,7 +114,7 @@ function draw_pack_hierarchy(areaID) {
                     .attr('radius', d => d.r * (maxRadius / d.parent.r))
                     .attr('pointer-events', 'none')
                     .text(d => {return d.data.name});
-            
+
             label.nodes().forEach(node => {
                 node.setAttribute('font-size', Math.floor(10 * node.getAttribute('radius') * 2 / (node.getComputedTextLength() + 5)) + 'px')
             });
@@ -122,7 +122,7 @@ function draw_pack_hierarchy(areaID) {
 
         updateLabel(focus.children);
         label.attr('fill-opacity', 1);
-        
+
 
         // Adds title
         chart
@@ -157,7 +157,7 @@ function draw_pack_hierarchy(areaID) {
             })
             .on('mouseout', tip.hide)
             .on('click', d => clicked(d.parent));
-        
+
         parentCircles.on('click', clicked);
 
         function clicked(o) {
@@ -214,8 +214,8 @@ function draw_pack_hierarchy(areaID) {
         }
 
         // Data for legend
-        const labels = ['External Contributors', 'Internal Contributors', 'Repositories', 'GitHub Organizations', 'LLNL'];
-    
+        const labels = ['External Contributors', 'Internal Contributors', 'Repositories', 'GitHub Organizations', 'NIST'];
+
         // Creates legend
         const legend = chart
             .append('g');
@@ -236,7 +236,7 @@ function draw_pack_hierarchy(areaID) {
                 .attr('y', 0 - legendSpacing)
                 .attr('x', -5)
                 .attr('rx', 10);
-    
+
             const legendEntries = legend
                 .selectAll('g')
                 .data(legendMap)
@@ -249,7 +249,7 @@ function draw_pack_hierarchy(areaID) {
                         const vertical = i * legendHeight;
                         return `translate(${horizontal}, ${vertical})`;
                     });
-            
+
             // Adds rectangle for color reference
             legendEntries
                 .append('rect')
@@ -261,7 +261,7 @@ function draw_pack_hierarchy(areaID) {
                     .style('stroke', d => {
                         return '#FFFFFF';
                     });
-    
+
             // Adds legend text
             legendEntries
                 .append('text')
@@ -279,7 +279,7 @@ function draw_pack_hierarchy(areaID) {
 
     // Turn json obj into desired working data
     function reformatData(obj1, obj2) {
-        var data = { name: 'LLNL Organizations', children: [] };
+        var data = { name: 'NIST Organizations', children: [] };
         for (var user in obj1['data']) {
             if (obj1['data'][user]['contributedLabRepositories'] === undefined) {
                 continue;
@@ -318,7 +318,7 @@ function draw_pack_hierarchy(areaID) {
                 data.children[indexOfOwner].children[indexOfRepo].children.push({ name: user, value: 1, internal: false, username: username });
             }
         }
-        
+
         return data;
     }
 }

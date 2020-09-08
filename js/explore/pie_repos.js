@@ -15,7 +15,7 @@ function draw_pie_repos(areaID) {
 
     // Draw graph from data
     function drawGraph(data, areaID) {
-        var graphHeader = 'LLNL Repositories';
+        var graphHeader = 'NIST Repositories';
 
         data.forEach(function(d) {
             d.count = +d.count;
@@ -147,7 +147,7 @@ function draw_pie_repos(areaID) {
             }
         });
         var subTotal = repoSubset.size;
-        var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only LLNL Contributors', count: repoTotal - subTotal }];
+        var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only NIST Contributors', count: repoTotal - subTotal }];
         return data;
     }
 }

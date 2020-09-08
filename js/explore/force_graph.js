@@ -120,7 +120,7 @@ function draw_force_graph(areaID) {
         });
 
         // Data for legend
-        const labels = ['LLNL Repositories with Dependencies', 'External Packages', 'Internal Packages'];
+        const labels = ['NIST Repositories with Dependencies', 'External Packages', 'Internal Packages'];
         const legendMap = [];
         colors.forEach((d, i) => {
             legendMap.push({ text: labels[i], color: d });

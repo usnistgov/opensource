@@ -141,7 +141,7 @@ function draw_force_graph(areaID, adjacentAreaID) {
         });
 
         // Data for legend
-        const labels = ['LLNL Repositories with Dependencies', 'External Packages', 'Internal Packages'];
+        const labels = ['NIST Repositories with Dependencies', 'External Packages', 'Internal Packages'];
 
         // Creates legend
         const legend = chart
@@ -196,10 +196,10 @@ function draw_force_graph(areaID, adjacentAreaID) {
         const options = {};
 
         // Options for graph view
-        options.normalView = { name: 'normalView', text: 'Repos connected to dependencies', labels: ['LLNL Repositories with Dependencies', 'External Packages', 'Internal Packages'], function: redraw };
-        options.simplifiedView = { name: 'simplifiedView', text: 'Repos connected by shared dependencies', labels: ['LLNL Repositories with Dependencies', 'External Packages', 'Internal Packages'], function: simplify };
-        options.orgView = { name: 'orgView', text: 'Organizations connected to dependency organizations', labels: ['LLNL Organizations', 'External Package Organizations', 'LLNL Package Organizations'], function: organize };
-        options.simplifiedOrgView = { name: 'simplifiedOrgView', text: 'Organizations connected by shared dependencies', labels: ['LLNL Organizations', 'External Package Organizations', 'LLNL Package Organizations'], function: simplifyOrganize };
+        options.normalView = { name: 'normalView', text: 'Repos connected to dependencies', labels: ['NIST Repositories with Dependencies', 'External Packages', 'Internal Packages'], function: redraw };
+        options.simplifiedView = { name: 'simplifiedView', text: 'Repos connected by shared dependencies', labels: ['NIST Repositories with Dependencies', 'External Packages', 'Internal Packages'], function: simplify };
+        options.orgView = { name: 'orgView', text: 'Organizations connected to dependency organizations', labels: ['NIST Organizations', 'External Package Organizations', 'NIST Package Organizations'], function: organize };
+        options.simplifiedOrgView = { name: 'simplifiedOrgView', text: 'Organizations connected by shared dependencies', labels: ['NIST Organizations', 'External Package Organizations', 'NIST Package Organizations'], function: simplifyOrganize };
         const optionsArray = Object.values(options);
 
         // Options slider
