@@ -246,6 +246,62 @@
                 "totalCount": 5
             }
         },
+        "usnistgov/ACVP-Server": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/nist",
+                        "topic": {
+                            "name": "nist"
+                        },
+                        "url": "https://github.com/topics/nist"
+                    },
+                    {
+                        "resourcePath": "/topics/protocol",
+                        "topic": {
+                            "name": "protocol"
+                        },
+                        "url": "https://github.com/topics/protocol"
+                    },
+                    {
+                        "resourcePath": "/topics/acvp",
+                        "topic": {
+                            "name": "acvp"
+                        },
+                        "url": "https://github.com/topics/acvp"
+                    },
+                    {
+                        "resourcePath": "/topics/acvp-server",
+                        "topic": {
+                            "name": "acvp-server"
+                        },
+                        "url": "https://github.com/topics/acvp-server"
+                    },
+                    {
+                        "resourcePath": "/topics/cryptography",
+                        "topic": {
+                            "name": "cryptography"
+                        },
+                        "url": "https://github.com/topics/cryptography"
+                    },
+                    {
+                        "resourcePath": "/topics/nist-approved-algorithms",
+                        "topic": {
+                            "name": "nist-approved-algorithms"
+                        },
+                        "url": "https://github.com/topics/nist-approved-algorithms"
+                    },
+                    {
+                        "resourcePath": "/topics/cryptographic-algorithm-validations",
+                        "topic": {
+                            "name": "cryptographic-algorithm-validations"
+                        },
+                        "url": "https://github.com/topics/cryptographic-algorithm-validations"
+                    }
+                ],
+                "totalCount": 7
+            }
+        },
         "usnistgov/AGA8": {
             "repositoryTopics": {
                 "nodes": [],
@@ -253,6 +309,12 @@
             }
         },
         "usnistgov/AGV_ObstAvoid": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/AM3DS": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -277,6 +339,12 @@
             }
         },
         "usnistgov/ARIAC": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/ATICC": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -1017,6 +1085,12 @@
                 "totalCount": 4
             }
         },
+        "usnistgov/Lightweight-Cryptography-Benchmarking": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/Lineage-Mapper": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1410,6 +1484,12 @@
             }
         },
         "usnistgov/NISTscan": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/NLPER": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2039,6 +2119,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/SabbatucciMACs": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/ScatterMIST": {
             "repositoryTopics": {
                 "nodes": [
@@ -2303,6 +2389,12 @@
                     }
                 ],
                 "totalCount": 3
+            }
+        },
+        "usnistgov/VEMOS": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "usnistgov/VectorsOfTrust": {
@@ -2581,6 +2673,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/atlas": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/atomman": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2812,6 +2910,12 @@
             }
         },
         "usnistgov/core_dashboard_registry_app": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/core_elasticsearch_app": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -3811,6 +3915,12 @@
             }
         },
         "usnistgov/gvt-ui": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/gwendolyn": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
