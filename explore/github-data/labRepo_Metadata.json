@@ -215,6 +215,20 @@
         ],
         "website": "https://usnistgov.github.io/ACVP/"
     },
+    "usnistgov/ACVP-Server": {
+        "description": "A repository tracking releases of NIST's ACVP server. See www.github.com/usnistgov/ACVP for the protocol.",
+        "name": "usnistgov/ACVP-Server",
+        "topics": [
+            "nist",
+            "protocol",
+            "acvp",
+            "acvp-server",
+            "cryptography",
+            "nist-approved-algorithms",
+            "cryptographic-algorithm-validations"
+        ],
+        "website": ""
+    },
     "usnistgov/AGA8": {
         "description": "Files associated with the AGA8 standard",
         "name": "usnistgov/AGA8",
@@ -224,6 +238,12 @@
     "usnistgov/AGV_ObstAvoid": {
         "description": "Visualization and Planning Software for Obstacle Avoidance with B-Splines to connect to a custom AGV (Autonomous Guided Vehicle) with a NDC8 Controller",
         "name": "usnistgov/AGV_ObstAvoid",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/AM3DS": {
+        "description": "Methods of defect detection on AM parts and AM ontology",
+        "name": "usnistgov/AM3DS",
         "topics": null,
         "website": null
     },
@@ -248,6 +268,12 @@
     "usnistgov/ARIAC": {
         "description": "Repository for ARIAC 2020, consisting of kit building in a simulated warehouse with a dual arm robot.",
         "name": "usnistgov/ARIAC",
+        "topics": null,
+        "website": ""
+    },
+    "usnistgov/ATICC": {
+        "description": "Assessment of Trusted Internet Connection Compliance  (ATICC) Dashboard",
+        "name": "usnistgov/ATICC",
         "topics": null,
         "website": ""
     },
@@ -824,6 +850,12 @@
         ],
         "website": null
     },
+    "usnistgov/Lightweight-Cryptography-Benchmarking": {
+        "description": null,
+        "name": "usnistgov/Lightweight-Cryptography-Benchmarking",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/Lineage-Mapper": {
         "description": "Lineage Mapper Fiji plugin and MATLAB source code",
         "name": "usnistgov/Lineage-Mapper",
@@ -1083,6 +1115,12 @@
         "name": "usnistgov/NISTscan",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/NLPER": {
+        "description": null,
+        "name": "usnistgov/NLPER",
+        "topics": null,
+        "website": null
     },
     "usnistgov/NamedIoT": {
         "description": "Composition of IoT devices into CPS in one of the challenges on modern architecture. ANTD is working on a novel approach to express the composition using NDN naming power. This approach bypasses the need of a composition engine by providing in-network composition capabilities.",
@@ -1528,6 +1566,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/SabbatucciMACs": {
+        "description": "Sabbatucci and Salvat's MACs",
+        "name": "usnistgov/SabbatucciMACs",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ScatterMIST": {
         "description": "Modeled Integrated Scatter Tool (MIST)",
         "name": "usnistgov/ScatterMIST",
@@ -1655,6 +1699,12 @@
             "factory-communication"
         ],
         "website": ""
+    },
+    "usnistgov/VEMOS": {
+        "description": "Visual Explorer for Metrics of Similarity",
+        "name": "usnistgov/VEMOS",
+        "topics": null,
+        "website": null
     },
     "usnistgov/VectorsOfTrust": {
         "description": null,
@@ -1932,6 +1982,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/atlas": {
+        "description": null,
+        "name": "usnistgov/atlas",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/atomman": {
         "description": "Atomistic Manipulation Toolkit",
         "name": "usnistgov/atomman",
@@ -2123,6 +2179,12 @@
     "usnistgov/core_dashboard_registry_app": {
         "description": null,
         "name": "usnistgov/core_dashboard_registry_app",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/core_elasticsearch_app": {
+        "description": null,
+        "name": "usnistgov/core_elasticsearch_app",
         "topics": null,
         "website": null
     },
@@ -2912,6 +2974,12 @@
     "usnistgov/gvt-ui": {
         "description": "HL7 v2 General Validation Tool User Interface",
         "name": "usnistgov/gvt-ui",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/gwendolyn": {
+        "description": "Contains Java related CRCL and RCS posemath jar utilities and sample code to use for gwendolyn planning",
+        "name": "usnistgov/gwendolyn",
         "topics": null,
         "website": null
     },
