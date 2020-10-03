@@ -12239,6 +12239,38 @@
                             "nodes": [
                                 {
                                     "packageManager": "MAVEN",
+                                    "packageName": "ca.uhn.hapi.fhir:hapi-fhir-validation-resources-r4",
+                                    "repository": {
+                                        "name": "hapi-fhir",
+                                        "nameWithOwner": "jamesagnew/hapi-fhir",
+                                        "owner": {
+                                            "login": "jamesagnew"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "gov.nist.asbestos:asbestos-mhd",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "gov.nist.asbestos:asbestos-proxy-support",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "gov.nist.asbestos:asbestos-test-engine",
+                                    "repository": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "MAVEN",
                                     "packageName": "org.apache.maven.plugins:maven-assembly-plugin",
                                     "repository": {
                                         "name": "maven-plugins",
@@ -12459,6 +12491,17 @@
                                 {
                                     "packageManager": "MAVEN",
                                     "packageName": "gov.nist.asbestos:service-properties",
+                                    "repository": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "gov.nist.asbestos:asbestos-proxy",
                                     "repository": null
                                 }
                             ]
@@ -56054,6 +56097,11 @@
             }
         },
         "usnistgov/opensource-actions": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
+        "usnistgov/opensource-data": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
