@@ -50583,10 +50583,10 @@
                                     "packageManager": "NPM",
                                     "packageName": "pouchdb",
                                     "repository": {
-                                        "name": "pouchdb",
-                                        "nameWithOwner": "pietervandereems/pouchdb",
+                                        "name": "pouchdb-dist",
+                                        "nameWithOwner": "xMartin/pouchdb-dist",
                                         "owner": {
-                                            "login": "pietervandereems"
+                                            "login": "xMartin"
                                         }
                                     }
                                 }

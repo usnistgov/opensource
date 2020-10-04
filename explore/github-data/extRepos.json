@@ -797,14 +797,6 @@
             },
             "nameWithOwner": "automl/auto-sklearn"
         },
-        "benjamingr/tmp-promise": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "benjamingr/tmp-promise"
-        },
         "beyucel/pymks": {
             "labContributors": {
                 "nodes": [
@@ -1867,6 +1859,14 @@
             },
             "nameWithOwner": "matplotlib/matplotlib"
         },
+        "maximelafarie/spamtoberfest": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "maximelafarie/spamtoberfest"
+        },
         "maxogden/websocket-stream": {
             "labContributors": {
                 "nodes": [
@@ -2047,7 +2047,6 @@
         "named-data/PyNDN2": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
                     "yoursunny"
                 ]
             },
@@ -2078,14 +2077,6 @@
                 ]
             },
             "nameWithOwner": "named-data/ndn-cxx"
-        },
-        "named-data/ndn-js": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "named-data/ndn-js"
         },
         "named-data/ndn-tools": {
             "labContributors": {
