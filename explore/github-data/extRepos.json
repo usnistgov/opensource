@@ -483,14 +483,6 @@
             },
             "nameWithOwner": "OAI/OpenAPI-Specification"
         },
-        "OpenSCAP/scap-workbench": {
-            "labContributors": {
-                "nodes": [
-                    "robertgendler"
-                ]
-            },
-            "nameWithOwner": "OpenSCAP/scap-workbench"
-        },
         "PM-Master/PMAdminTool": {
             "labContributors": {
                 "nodes": [
@@ -1204,6 +1196,14 @@
                 ]
             },
             "nameWithOwner": "dmzuckerman/Sampling-Uncertainty"
+        },
+        "dtk01/dtk": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "dtk01/dtk"
         },
         "dwsideri/bibtex": {
             "labContributors": {
@@ -2043,14 +2043,6 @@
                 ]
             },
             "nameWithOwner": "named-data/PSync"
-        },
-        "named-data/PyNDN2": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "named-data/PyNDN2"
         },
         "named-data/jndn": {
             "labContributors": {
