@@ -1958,6 +1958,11 @@
                 ]
             }
         },
+        "usnistgov/BRSKI-HLPSL": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
         "usnistgov/BallotDefinition": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -1974,11 +1979,6 @@
             }
         },
         "usnistgov/BlockchainCOI": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            }
-        },
-        "usnistgov/BoteSalvatICX.jl": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
@@ -4486,11 +4486,6 @@
             }
         },
         "usnistgov/NICE-Public": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            }
-        },
-        "usnistgov/NIST-BGP-SRx": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
@@ -8523,47 +8518,8 @@
                                 },
                                 {
                                     "packageManager": "MAVEN",
-                                    "packageName": "io.springfox:springfox-data-rest",
+                                    "packageName": "io.springfox:springfox-boot-starter",
                                     "repository": null
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "io.springfox:springfox-schema",
-                                    "repository": null
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "io.springfox:springfox-spring-web",
-                                    "repository": {
-                                        "name": "springfox-spring-web",
-                                        "nameWithOwner": "njittsscloud/springfox-spring-web",
-                                        "owner": {
-                                            "login": "njittsscloud"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "io.springfox:springfox-swagger-ui",
-                                    "repository": {
-                                        "name": "springfox-swagger-ui",
-                                        "nameWithOwner": "ettingshausen/springfox-swagger-ui",
-                                        "owner": {
-                                            "login": "ettingshausen"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "io.springfox:springfox-swagger2",
-                                    "repository": {
-                                        "name": "springfox",
-                                        "nameWithOwner": "springfox/springfox",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "springfox"
-                                        }
-                                    }
                                 },
                                 {
                                     "packageManager": "MAVEN",
@@ -8574,6 +8530,35 @@
                                         "owner": {
                                             "isVerified": true,
                                             "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.httpcomponents:httpclient",
+                                    "repository": {
+                                        "name": "httpcomponents-client",
+                                        "nameWithOwner": "apache/httpcomponents-client",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.keycloak.bom:keycloak-adapter-bom",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.keycloak:keycloak-spring-boot-starter",
+                                    "repository": {
+                                        "name": "keycloak",
+                                        "nameWithOwner": "keycloak/keycloak",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "keycloak"
                                         }
                                     }
                                 },
@@ -8598,6 +8583,39 @@
                                             "login": "philwebb"
                                         }
                                     }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.springframework.boot:spring-boot-starter-parent",
+                                    "repository": {
+                                        "name": "spring-boot-concourse",
+                                        "nameWithOwner": "philwebb/spring-boot-concourse",
+                                        "owner": {
+                                            "login": "philwebb"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.springframework.boot:spring-boot-starter-security",
+                                    "repository": {
+                                        "name": "spring-boot-concourse",
+                                        "nameWithOwner": "philwebb/spring-boot-concourse",
+                                        "owner": {
+                                            "login": "philwebb"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.springframework.security:spring-security-data",
+                                    "repository": {
+                                        "name": "spring-security",
+                                        "nameWithOwner": "sds0917/spring-security",
+                                        "owner": {
+                                            "login": "sds0917"
+                                        }
+                                    }
                                 }
                             ]
                         }
@@ -8605,6 +8623,17 @@
                     {
                         "dependencies": {
                             "nodes": [
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "com.googlecode.json-simple:json-simple",
+                                    "repository": {
+                                        "name": "json-simple",
+                                        "nameWithOwner": "fangyidong/json-simple",
+                                        "owner": {
+                                            "login": "fangyidong"
+                                        }
+                                    }
+                                },
                                 {
                                     "packageManager": "MAVEN",
                                     "packageName": "commons-io:commons-io",
@@ -8647,6 +8676,18 @@
                             "nodes": [
                                 {
                                     "packageManager": "MAVEN",
+                                    "packageName": "de.flapdoodle.embed:de.flapdoodle.embed.mongo",
+                                    "repository": {
+                                        "name": "de.flapdoodle.embed.mongo",
+                                        "nameWithOwner": "flapdoodle-oss/de.flapdoodle.embed.mongo",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "flapdoodle-oss"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
                                     "packageName": "gov.nist.itl.ssd.wipp:wipp-backend-argo-workflows",
                                     "repository": null
                                 },
@@ -8675,6 +8716,29 @@
                                         "nameWithOwner": "philwebb/spring-boot-concourse",
                                         "owner": {
                                             "login": "philwebb"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.springframework.boot:spring-boot-starter-test",
+                                    "repository": {
+                                        "name": "spring-boot-concourse",
+                                        "nameWithOwner": "philwebb/spring-boot-concourse",
+                                        "owner": {
+                                            "login": "philwebb"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.springframework.security:spring-security-test",
+                                    "repository": {
+                                        "name": "spring-security",
+                                        "nameWithOwner": "spring-projects/spring-security",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "spring-projects"
                                         }
                                     }
                                 }
@@ -9003,19 +9067,19 @@
                                 },
                                 {
                                     "packageManager": "NPM",
-                                    "packageName": "@types/flowjs",
+                                    "packageName": "@types/file-saver",
                                     "repository": {
-                                        "name": "DefinitelyTyped",
-                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped",
+                                        "name": "types-filesaver",
+                                        "nameWithOwner": "co-mmons/types-filesaver",
                                         "owner": {
                                             "isVerified": false,
-                                            "login": "DefinitelyTyped"
+                                            "login": "co-mmons"
                                         }
                                     }
                                 },
                                 {
                                     "packageManager": "NPM",
-                                    "packageName": "@types/jasmine",
+                                    "packageName": "@types/flowjs",
                                     "repository": {
                                         "name": "DefinitelyTyped",
                                         "nameWithOwner": "DefinitelyTyped/DefinitelyTyped",
