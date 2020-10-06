@@ -3470,7 +3470,7 @@
             },
             "date": {
                 "created": "2016-01-22",
-                "lastModified": "2020-09-18"
+                "lastModified": "2020-10-05"
             },
             "description": "Canonical Robot Command Language, a generic interface to industrial robots",
             "downloadURL": "https://api.github.com/repos/usnistgov/crcl/downloads",
@@ -4604,7 +4604,7 @@
             },
             "date": {
                 "created": "2016-04-27",
-                "lastModified": "2020-09-27"
+                "lastModified": "2020-10-05"
             },
             "description": "JSIP: Java SIP specification Reference Implementation (moved from java.net)",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsip/downloads",
@@ -7560,7 +7560,7 @@
             },
             "date": {
                 "created": "2016-12-05",
-                "lastModified": "2020-09-25"
+                "lastModified": "2020-10-06"
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "downloadURL": "https://api.github.com/repos/usnistgov/frvt/downloads",
@@ -12685,7 +12685,7 @@
             },
             "date": {
                 "created": "2017-11-16",
-                "lastModified": "2020-09-28"
+                "lastModified": "2020-10-05"
             },
             "description": "Source Code for the LV_Packages repository",
             "downloadURL": "https://api.github.com/repos/usnistgov/LV_Libraries/downloads",
@@ -17238,7 +17238,7 @@
             },
             "date": {
                 "created": "2019-01-29",
-                "lastModified": "2020-06-22"
+                "lastModified": "2020-10-06"
             },
             "description": "Web Image Processing Pipeline (WIPP) - backend",
             "downloadURL": "https://api.github.com/repos/usnistgov/WIPP-backend/downloads",
@@ -17246,8 +17246,8 @@
             "laborHours": 0,
             "languages": [
                 "Java",
-                "Dockerfile",
-                "Shell"
+                "Shell",
+                "Dockerfile"
             ],
             "name": "WIPP-backend",
             "organization": "National Institute of Standards and Technology",
@@ -17273,7 +17273,7 @@
             },
             "date": {
                 "created": "2019-01-29",
-                "lastModified": "2020-03-17"
+                "lastModified": "2020-10-06"
             },
             "description": "Web Image Processing Pipeline (WIPP) - frontend",
             "downloadURL": "https://api.github.com/repos/usnistgov/WIPP-frontend/downloads",
@@ -17433,7 +17433,7 @@
             },
             "date": {
                 "created": "2019-02-12",
-                "lastModified": "2020-07-08"
+                "lastModified": "2020-10-06"
             },
             "description": "Web Image Processing Pipeline (WIPP)",
             "downloadURL": "https://api.github.com/repos/usnistgov/WIPP/downloads",
@@ -18055,7 +18055,7 @@
             },
             "date": {
                 "created": "2019-03-21",
-                "lastModified": "2020-09-01"
+                "lastModified": "2020-10-05"
             },
             "description": "reusable scientific plotting routines (scatterplot and heatmap) based on d3",
             "downloadURL": "https://api.github.com/repos/usnistgov/d3-science/downloads",
@@ -18070,7 +18070,11 @@
             "name": "d3-science",
             "organization": "National Institute of Standards and Technology",
             "permissions": {
-                "licenses": null,
+                "licenses": [
+                    {
+                        "name": "NOASSERTION"
+                    }
+                ],
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/d3-science.git",
@@ -23953,7 +23957,7 @@
             },
             "date": {
                 "created": "2020-06-01",
-                "lastModified": "2020-09-27"
+                "lastModified": "2020-10-05"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-literature/downloads",
@@ -24011,7 +24015,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2020-09-26"
+                "lastModified": "2020-10-05"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -24126,7 +24130,7 @@
             },
             "date": {
                 "created": "2020-06-16",
-                "lastModified": "2020-10-04"
+                "lastModified": "2020-10-06"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/soup-xlm/downloads",
@@ -24958,7 +24962,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2020-10-01"
+                "lastModified": "2020-10-05"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -25502,7 +25506,7 @@
             },
             "date": {
                 "created": "2020-09-13",
-                "lastModified": "2020-10-03"
+                "lastModified": "2020-10-05"
             },
             "description": "Assessment of Trusted Internet Connection Compliance  (ATICC) Dashboard",
             "downloadURL": "https://api.github.com/repos/usnistgov/ATICC/downloads",
@@ -25700,6 +25704,33 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/opensource-data.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2020-10-05",
+                "lastModified": "2020-10-05"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/BRSKI-HLPSL/downloads",
+            "homepageURL": "https://github.com/usnistgov/BRSKI-HLPSL",
+            "laborHours": 0,
+            "languages": [],
+            "name": "BRSKI-HLPSL",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": null,
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/BRSKI-HLPSL.git",
             "status": "Development",
             "tags": [
                 "github"
