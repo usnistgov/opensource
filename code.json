@@ -950,7 +950,7 @@
             },
             "date": {
                 "created": "2015-02-09",
-                "lastModified": "2020-10-07"
+                "lastModified": "2020-10-08"
             },
             "description": "Tools for security content automation, baseline tailoring, and overlay development.",
             "downloadURL": "https://api.github.com/repos/usnistgov/sctools/downloads",
@@ -3517,7 +3517,7 @@
             },
             "date": {
                 "created": "2016-01-23",
-                "lastModified": "2020-09-03"
+                "lastModified": "2020-10-08"
             },
             "description": "Modeling of CPS Framework",
             "downloadURL": "https://api.github.com/repos/usnistgov/cpsframework/downloads",
@@ -5339,7 +5339,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2020-10-06"
+                "lastModified": "2020-10-09"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -9823,7 +9823,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2020-10-04"
+                "lastModified": "2020-10-08"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -16706,7 +16706,7 @@
             },
             "date": {
                 "created": "2018-10-02",
-                "lastModified": "2020-04-03"
+                "lastModified": "2020-10-08"
             },
             "description": "Hardware and software abstracted, IVI compliant, instrumentation and test modules written (mostly) in LabVIEW(tm)",
             "downloadURL": "https://api.github.com/repos/usnistgov/NistPluggableModules/downloads",
@@ -19957,7 +19957,7 @@
             },
             "date": {
                 "created": "2019-07-29",
-                "lastModified": "2020-09-24"
+                "lastModified": "2020-10-08"
             },
             "description": "EPQ is the Electron Probe Quantification library - the basis for DTSA-II",
             "downloadURL": "https://api.github.com/repos/usnistgov/EPQ/downloads",
@@ -20457,7 +20457,7 @@
             },
             "date": {
                 "created": "2019-09-14",
-                "lastModified": "2020-09-26"
+                "lastModified": "2020-10-08"
             },
             "description": "Core algorithms and data for X-ray microanalysis calculations",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLCore.jl/downloads",
@@ -20601,7 +20601,7 @@
             },
             "date": {
                 "created": "2019-09-21",
-                "lastModified": "2020-10-04"
+                "lastModified": "2020-10-08"
             },
             "description": "EDS spectrum analysis tools within the NeXL toolset",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLSpectrum.jl/downloads",
@@ -20635,7 +20635,7 @@
             },
             "date": {
                 "created": "2019-09-21",
-                "lastModified": "2020-09-24"
+                "lastModified": "2020-10-08"
             },
             "description": "Tools for handling correlated uncertainties in Julia",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLUncertainties.jl/downloads",
@@ -20668,7 +20668,7 @@
             },
             "date": {
                 "created": "2019-09-21",
-                "lastModified": "2020-10-04"
+                "lastModified": "2020-10-08"
             },
             "description": "EPMA matrix correction algorithms",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLMatrixCorrection.jl/downloads",
@@ -20882,15 +20882,14 @@
             },
             "date": {
                 "created": "2019-10-02",
-                "lastModified": "2020-08-07"
+                "lastModified": "2020-10-08"
             },
             "description": "A project oriented spectrum database",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLDatabase.jl/downloads",
             "homepageURL": "https://github.com/usnistgov/NeXLDatabase.jl",
             "laborHours": 0,
             "languages": [
-                "Julia",
-                "TSQL"
+                "Julia"
             ],
             "name": "NeXLDatabase.jl",
             "organization": "National Institute of Standards and Technology",
@@ -24015,7 +24014,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2020-10-07"
+                "lastModified": "2020-10-09"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -24576,7 +24575,7 @@
             },
             "date": {
                 "created": "2020-07-01",
-                "lastModified": "2020-07-01"
+                "lastModified": "2020-10-08"
             },
             "description": "Thermodynamic Extrapolation/Interpolation Library",
             "downloadURL": "https://api.github.com/repos/usnistgov/thermo-extrap/downloads",
@@ -24963,7 +24962,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2020-10-07"
+                "lastModified": "2020-10-08"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -25507,7 +25506,7 @@
             },
             "date": {
                 "created": "2020-09-13",
-                "lastModified": "2020-10-05"
+                "lastModified": "2020-10-09"
             },
             "description": "Assessment of Trusted Internet Connection Compliance  (ATICC) Dashboard",
             "downloadURL": "https://api.github.com/repos/usnistgov/ATICC/downloads",
