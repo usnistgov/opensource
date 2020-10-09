@@ -1133,6 +1133,11 @@
                 "nodes": []
             }
         },
+        "usnistgov/800-63-3": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
         "usnistgov/800-63-3-Implementation-Resources": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -66745,11 +66750,6 @@
             }
         },
         "usnistgov/trec_eval": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            }
-        },
-        "usnistgov/trojai": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
