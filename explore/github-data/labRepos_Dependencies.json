@@ -14340,6 +14340,54 @@
                 "nodes": []
             }
         },
+        "usnistgov/blob_utils": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "future",
+                                    "repository": {
+                                        "name": "python-future",
+                                        "nameWithOwner": "PythonCharmers/python-future",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "PythonCharmers"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "mongoengine",
+                                    "repository": {
+                                        "name": "mongoengine",
+                                        "nameWithOwner": "MongoEngine/mongoengine",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "MongoEngine"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pymongo",
+                                    "repository": {
+                                        "name": "mongo-python-driver",
+                                        "nameWithOwner": "mongodb/mongo-python-driver",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "mongodb"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
         "usnistgov/blockmatrix": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -61832,6 +61880,52 @@
                     {
                         "dependencies": {
                             "nodes": []
+                        }
+                    }
+                ]
+            }
+        },
+        "usnistgov/signals_utils": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "blinker",
+                                    "repository": {
+                                        "name": "blinker",
+                                        "nameWithOwner": "jek/blinker",
+                                        "owner": {
+                                            "login": "jek"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "mock",
+                                    "repository": {
+                                        "name": "python-mock",
+                                        "nameWithOwner": "calvinchengx/python-mock",
+                                        "owner": {
+                                            "login": "calvinchengx"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "mongoengine",
+                                    "repository": {
+                                        "name": "mongoengine",
+                                        "nameWithOwner": "MongoEngine/mongoengine",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "MongoEngine"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     }
                 ]
