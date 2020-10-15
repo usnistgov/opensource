@@ -2541,8 +2541,12 @@
         },
         "usnistgov/MRT": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/MRaDS-2017-Demo-Study": {
@@ -6032,9 +6036,18 @@
                 "nodes": [
                     {
                         "name": "Python"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "CSS"
                     }
                 ],
-                "totalCount": 1
+                "totalCount": 4
             }
         },
         "usnistgov/core_module_periodic_table_app": {

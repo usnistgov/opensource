@@ -1128,7 +1128,8 @@
         "conda-forge/staged-recipes": {
             "labContributors": {
                 "nodes": [
-                    "lmhale99"
+                    "lmhale99",
+                    "wd15"
                 ]
             },
             "nameWithOwner": "conda-forge/staged-recipes"
@@ -1962,6 +1963,14 @@
                 ]
             },
             "nameWithOwner": "mtkennerly/dunamai"
+        },
+        "musamamasood/jquery-validation-for-contact-form-7": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "musamamasood/jquery-validation-for-contact-form-7"
         },
         "mwouts/jupytext": {
             "labContributors": {

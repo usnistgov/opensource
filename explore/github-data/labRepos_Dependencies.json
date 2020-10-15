@@ -2802,6 +2802,11 @@
                 "nodes": []
             }
         },
+        "usnistgov/FederalProfile-8259A": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
         "usnistgov/FiPy-spinodal-decomposition-benchmark": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -3413,11 +3418,6 @@
                 ]
             }
         },
-        "usnistgov/MATS": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            }
-        },
         "usnistgov/MCMLpar": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -3900,6 +3900,11 @@
             }
         },
         "usnistgov/MJPdes": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
+        "usnistgov/MRT": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
@@ -14330,6 +14335,11 @@
                 "nodes": []
             }
         },
+        "usnistgov/biomdi": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
         "usnistgov/blob_utils": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -14616,11 +14626,6 @@
                         }
                     }
                 ]
-            }
-        },
-        "usnistgov/cdcs-docker": {
-            "dependencyGraphManifests": {
-                "nodes": []
             }
         },
         "usnistgov/cdcsclient-py": {
@@ -18939,6 +18944,30 @@
                     {
                         "dependencies": {
                             "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "core-curate-app",
+                                    "repository": {
+                                        "name": "core_curate_app",
+                                        "nameWithOwner": "usnistgov/core_curate_app",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "usnistgov"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "core-main-app",
+                                    "repository": {
+                                        "name": "core_main_app",
+                                        "nameWithOwner": "usnistgov/core_main_app",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "usnistgov"
+                                        }
+                                    }
+                                },
                                 {
                                     "packageManager": "PIP",
                                     "packageName": "core-main-registry-app",
@@ -58799,6 +58828,54 @@
                 "nodes": []
             }
         },
+        "usnistgov/pyMCR": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "numpy",
+                                    "repository": {
+                                        "name": "numpy",
+                                        "nameWithOwner": "numpy/numpy",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "numpy"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pytest",
+                                    "repository": {
+                                        "name": "pytest",
+                                        "nameWithOwner": "pytest-dev/pytest",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "pytest-dev"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "scipy",
+                                    "repository": {
+                                        "name": "scipy",
+                                        "nameWithOwner": "scipy/scipy",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "scipy"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
         "usnistgov/pyPRISM": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -77232,6 +77309,11 @@
             }
         },
         "usnistgov/vrmlHouseOfImmersion": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
+        "usnistgov/vulntology": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
