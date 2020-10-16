@@ -983,7 +983,7 @@
             },
             "date": {
                 "created": "2015-02-17",
-                "lastModified": "2020-10-01"
+                "lastModified": "2020-10-15"
             },
             "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SP800-90B_EntropyAssessment/downloads",
@@ -1294,7 +1294,7 @@
             },
             "date": {
                 "created": "2015-03-31",
-                "lastModified": "2020-06-13"
+                "lastModified": "2020-10-16"
             },
             "description": "Data acquisition for coincidence gamma spectroscopy",
             "downloadURL": "https://api.github.com/repos/usnistgov/qpx-gamma/downloads",
@@ -3470,7 +3470,7 @@
             },
             "date": {
                 "created": "2016-01-22",
-                "lastModified": "2020-10-13"
+                "lastModified": "2020-10-15"
             },
             "description": "Canonical Robot Command Language, a generic interface to industrial robots",
             "downloadURL": "https://api.github.com/repos/usnistgov/crcl/downloads",
@@ -3517,15 +3517,15 @@
             },
             "date": {
                 "created": "2016-01-23",
-                "lastModified": "2020-10-14"
+                "lastModified": "2020-10-15"
             },
             "description": "Modeling of CPS Framework",
             "downloadURL": "https://api.github.com/repos/usnistgov/cpsframework/downloads",
             "homepageURL": "https://github.com/usnistgov/cpsframework",
             "laborHours": 0,
             "languages": [
-                "XSLT",
                 "Shell",
+                "XSLT",
                 "Java",
                 "Batchfile"
             ],
@@ -4081,7 +4081,7 @@
             },
             "date": {
                 "created": "2016-03-23",
-                "lastModified": "2020-09-29"
+                "lastModified": "2020-10-15"
             },
             "description": "Image pyramid reader and writer",
             "downloadURL": "https://api.github.com/repos/usnistgov/pyramidio/downloads",
@@ -11125,7 +11125,7 @@
             },
             "date": {
                 "created": "2017-07-27",
-                "lastModified": "2019-07-23"
+                "lastModified": "2020-10-15"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-FAQ/downloads",
@@ -12418,7 +12418,7 @@
             },
             "date": {
                 "created": "2017-10-13",
-                "lastModified": "2020-07-20"
+                "lastModified": "2020-10-16"
             },
             "description": "Metrology for software; software for metrology",
             "downloadURL": "https://api.github.com/repos/usnistgov/Metrology/downloads",
@@ -14876,7 +14876,7 @@
             },
             "date": {
                 "created": "2018-05-14",
-                "lastModified": "2020-07-01"
+                "lastModified": "2020-10-15"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-3-Implementation-Resources/downloads",
@@ -17961,7 +17961,7 @@
             },
             "date": {
                 "created": "2019-03-15",
-                "lastModified": "2020-09-25"
+                "lastModified": "2020-10-15"
             },
             "description": "A pure javascript HDF5 reader",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsfive/downloads",
@@ -21715,7 +21715,7 @@
             },
             "date": {
                 "created": "2020-01-08",
-                "lastModified": "2020-08-12"
+                "lastModified": "2020-10-15"
             },
             "description": "This repository contains resources to support organizations’ use of the Privacy Framework. Resources include crosswalks, Profiles, guidance, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyFrmwkResources/downloads",
@@ -24017,7 +24017,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2020-10-14"
+                "lastModified": "2020-10-15"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -24965,7 +24965,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2020-10-12"
+                "lastModified": "2020-10-16"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -25092,7 +25092,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2020-10-14"
+                "lastModified": "2020-10-15"
             },
             "description": "Public home for LLNL software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource/downloads",
@@ -25794,6 +25794,40 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/NFRL.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2020-10-15",
+                "lastModified": "2020-10-15"
+            },
+            "description": "The code and data for the statistical analysis in the paper \"Merging Experiments and Computer Simulations in X-ray Computed Tomography Probability of Detection Analysis of Additive Manufacturing Flaws\"",
+            "downloadURL": "https://api.github.com/repos/usnistgov/exp_and_sim_pod/downloads",
+            "homepageURL": "https://github.com/usnistgov/exp_and_sim_pod",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "Stan"
+            ],
+            "name": "exp_and_sim_pod",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "NOASSERTION"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/exp_and_sim_pod.git",
             "status": "Development",
             "tags": [
                 "github"
