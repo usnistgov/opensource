@@ -1178,6 +1178,7 @@
                     "usnistgov/HAD-dns-monitor",
                     "usnistgov/HAD-email-monitor",
                     "usnistgov/HEV",
+                    "usnistgov/HLVU",
                     "usnistgov/HRI-HoloVive",
                     "usnistgov/HTE-NiTiAl",
                     "usnistgov/HTGS",
@@ -2491,6 +2492,7 @@
                     "usnistgov/HAD-dns-monitor",
                     "usnistgov/HAD-email-monitor",
                     "usnistgov/HEV",
+                    "usnistgov/HLVU",
                     "usnistgov/HRI-HoloVive",
                     "usnistgov/HTE-NiTiAl",
                     "usnistgov/HTGS",
@@ -3980,6 +3982,7 @@
                     "usnistgov/HAD-dns-monitor",
                     "usnistgov/HAD-email-monitor",
                     "usnistgov/HEV",
+                    "usnistgov/HLVU",
                     "usnistgov/HRI-HoloVive",
                     "usnistgov/HTE-NiTiAl",
                     "usnistgov/HTGS",
@@ -5341,6 +5344,7 @@
                     "usnistgov/HAD-dns-monitor",
                     "usnistgov/HAD-email-monitor",
                     "usnistgov/HEV",
+                    "usnistgov/HLVU",
                     "usnistgov/HRI-HoloVive",
                     "usnistgov/HTE-NiTiAl",
                     "usnistgov/HTGS",
@@ -6418,6 +6422,7 @@
                     "usnistgov/HAD-dns-monitor",
                     "usnistgov/HAD-email-monitor",
                     "usnistgov/HEV",
+                    "usnistgov/HLVU",
                     "usnistgov/HRI-HoloVive",
                     "usnistgov/HTE-NiTiAl",
                     "usnistgov/HTGS",
@@ -7344,6 +7349,7 @@
                     "usnistgov/HAD-dns-monitor",
                     "usnistgov/HAD-email-monitor",
                     "usnistgov/HEV",
+                    "usnistgov/HLVU",
                     "usnistgov/HRI-HoloVive",
                     "usnistgov/HTE-NiTiAl",
                     "usnistgov/HTGS",
@@ -8225,6 +8231,7 @@
                     "usnistgov/HAD-dns-monitor",
                     "usnistgov/HAD-email-monitor",
                     "usnistgov/HEV",
+                    "usnistgov/HLVU",
                     "usnistgov/HRI-HoloVive",
                     "usnistgov/HTE-NiTiAl",
                     "usnistgov/HTGS",
@@ -10048,6 +10055,11 @@
         },
         "trecvid": {
             "avatarUrl": "https://avatars2.githubusercontent.com/u/44267966?u=530b0c3cef7ddcd6acd75214e7a1d778cb8b3c53&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/HLVU"
+                ]
+            },
             "login": "trecvid",
             "name": "TRECVID"
         },
