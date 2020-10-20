@@ -3795,6 +3795,120 @@
                 "nodes": []
             }
         },
+        "usnistgov/MIST": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "com.nativelibs4java:bridj",
+                                    "repository": {
+                                        "name": "BridJ",
+                                        "nameWithOwner": "nativelibs4java/BridJ",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "nativelibs4java"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "commons-cli:commons-cli",
+                                    "repository": {
+                                        "name": "commons-cli",
+                                        "nameWithOwner": "apache/commons-cli",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "edu.mines:mines-jtk",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "io.scif:scifio",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "net.imagej:ij",
+                                    "repository": {
+                                        "name": "ImageJA",
+                                        "nameWithOwner": "imagej/ImageJA",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "imagej"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "ome:bio-formats_plugins",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "ome:formats-gpl",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.maven.plugins:maven-assembly-plugin",
+                                    "repository": {
+                                        "name": "maven-plugins",
+                                        "nameWithOwner": "apache/maven-plugins",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.maven.plugins:maven-compiler-plugin",
+                                    "repository": {
+                                        "name": "maven-plugins",
+                                        "nameWithOwner": "apache/maven-plugins",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.jcuda:jcuda",
+                                    "repository": {
+                                        "name": "jcuda",
+                                        "nameWithOwner": "jcuda/jcuda",
+                                        "owner": {
+                                            "login": "jcuda"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.jcuda:jcufft",
+                                    "repository": {
+                                        "name": "jcufft",
+                                        "nameWithOwner": "jcuda/jcufft",
+                                        "owner": {
+                                            "login": "jcuda"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
         "usnistgov/MJPdes": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -3830,7 +3944,14 @@
                                 {
                                     "packageManager": "PIP",
                                     "packageName": "mysql-connector-python",
-                                    "repository": null
+                                    "repository": {
+                                        "name": "mysql-connector-python",
+                                        "nameWithOwner": "mysql/mysql-connector-python",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "mysql"
+                                        }
+                                    }
                                 },
                                 {
                                     "packageManager": "PIP",
@@ -4406,6 +4527,11 @@
                 "nodes": []
             }
         },
+        "usnistgov/NIST-Tech-Pubs": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
         "usnistgov/NIST-Uncertainty-Machine": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -4839,6 +4965,11 @@
             }
         },
         "usnistgov/NeXLUncertainties.jl": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
+        "usnistgov/NexusLIMS": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
@@ -66778,6 +66909,176 @@
         "usnistgov/trojai-literature": {
             "dependencyGraphManifests": {
                 "nodes": []
+            }
+        },
+        "usnistgov/trojai-test-harness": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "libvirt-python",
+                                    "repository": {
+                                        "name": "libvirt-python",
+                                        "nameWithOwner": "libvirt/libvirt-python",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "libvirt"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "dominate",
+                                    "repository": {
+                                        "name": "dominate",
+                                        "nameWithOwner": "Knio/dominate",
+                                        "owner": {
+                                            "login": "Knio"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "gitpython",
+                                    "repository": {
+                                        "name": "GitPython",
+                                        "nameWithOwner": "gitpython-developers/GitPython",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "gitpython-developers"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "google-api-python-client",
+                                    "repository": {
+                                        "name": "google-api-python-client",
+                                        "nameWithOwner": "googleapis/google-api-python-client",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "googleapis"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "google-auth-httplib2",
+                                    "repository": {
+                                        "name": "google-auth-library-python-httplib2",
+                                        "nameWithOwner": "googleapis/google-auth-library-python-httplib2",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "googleapis"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "google-auth-oauthlib",
+                                    "repository": {
+                                        "name": "google-auth-library-python-oauthlib",
+                                        "nameWithOwner": "googleapis/google-auth-library-python-oauthlib",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "googleapis"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "httplib2",
+                                    "repository": {
+                                        "name": "httplib2",
+                                        "nameWithOwner": "httplib2/httplib2",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "httplib2"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "jsonpickle",
+                                    "repository": {
+                                        "name": "jsonpickle_prev",
+                                        "nameWithOwner": "eoghanmurray/jsonpickle_prev",
+                                        "owner": {
+                                            "login": "eoghanmurray"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "numpy",
+                                    "repository": {
+                                        "name": "numpy",
+                                        "nameWithOwner": "numpy/numpy",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "numpy"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pid",
+                                    "repository": {
+                                        "name": "pid",
+                                        "nameWithOwner": "trbs/pid",
+                                        "owner": {
+                                            "login": "trbs"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pytablewriter",
+                                    "repository": {
+                                        "name": "pytablewriter",
+                                        "nameWithOwner": "thombashi/pytablewriter",
+                                        "owner": {
+                                            "login": "thombashi"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "sklearn",
+                                    "repository": {
+                                        "name": "scikit-learn",
+                                        "nameWithOwner": "scikit-learn/scikit-learn",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "scikit-learn"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "wheel",
+                                    "repository": {
+                                        "name": "debpkg_python-wheel",
+                                        "nameWithOwner": "IsCoolEntertainment/debpkg_python-wheel",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "IsCoolEntertainment"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
             }
         },
         "usnistgov/ubuntu": {

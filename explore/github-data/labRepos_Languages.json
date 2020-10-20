@@ -873,6 +873,12 @@
                 "totalCount": 4
             }
         },
+        "usnistgov/ACE": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/ACVP": {
             "languages": {
                 "nodes": [
@@ -7803,10 +7809,34 @@
                         "name": "HTML"
                     },
                     {
+                        "name": "C++"
+                    },
+                    {
                         "name": "Java"
                     },
                     {
+                        "name": "C"
+                    },
+                    {
+                        "name": "GLSL"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
                         "name": "Shell"
+                    },
+                    {
+                        "name": "CMake"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "HLSL"
+                    },
+                    {
+                        "name": "QMake"
                     },
                     {
                         "name": "CSS"
@@ -7815,10 +7845,13 @@
                         "name": "JavaScript"
                     },
                     {
+                        "name": "Perl"
+                    },
+                    {
                         "name": "Batchfile"
                     }
                 ],
-                "totalCount": 6
+                "totalCount": 15
             }
         },
         "usnistgov/gzaprsros": {
@@ -9006,16 +9039,13 @@
                         "name": "AMPL"
                     },
                     {
-                        "name": "XSLT"
-                    },
-                    {
                         "name": "Nix"
                     },
                     {
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 4
             }
         },
         "usnistgov/jsfive": {
