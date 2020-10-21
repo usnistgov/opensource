@@ -351,6 +351,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/CASE-Implementation-GNU-Time": {
+        "description": null,
+        "name": "usnistgov/CASE-Implementation-GNU-Time",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/CEGO": {
         "description": "C++11 Evolutionary Global Optimization",
         "name": "usnistgov/CEGO",
@@ -3279,6 +3285,12 @@
         "name": "usnistgov/hl7-profile-validation",
         "topics": null,
         "website": null
+    },
+    "usnistgov/hl7-schemas": {
+        "description": "XML schemas for HL7 message profiles",
+        "name": "usnistgov/hl7-schemas",
+        "topics": null,
+        "website": ""
     },
     "usnistgov/hl7-vocabulary-service": {
         "description": "HL7 Vocabulary Service",
