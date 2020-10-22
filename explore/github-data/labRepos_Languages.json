@@ -12241,9 +12241,12 @@
                 "nodes": [
                     {
                         "name": "Python"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 1
+                "totalCount": 2
             }
         },
         "usnistgov/trojai-literature": {
