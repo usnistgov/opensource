@@ -564,6 +564,14 @@
             },
             "nameWithOwner": "QualityInformationFramework/qif-community"
         },
+        "RDFLib/rdflib": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "RDFLib/rdflib"
+        },
         "RDFLib/rdflib-jsonld": {
             "labContributors": {
                 "nodes": [
@@ -950,6 +958,14 @@
             },
             "nameWithOwner": "casework/CASE-Examples"
         },
+        "casework/CASE-Implementation-GNU-Time": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Implementation-GNU-Time"
+        },
         "casework/CASE-Utility-RDFDiff": {
             "labContributors": {
                 "nodes": [
@@ -989,14 +1005,6 @@
                 ]
             },
             "nameWithOwner": "chavoosh/ndn-video-frontend"
-        },
-        "ciandt-china-dev/drupal-module-html_title": {
-            "labContributors": {
-                "nodes": [
-                    "jonraedeke"
-                ]
-            },
-            "nameWithOwner": "ciandt-china-dev/drupal-module-html_title"
         },
         "cisco/libacvp": {
             "labContributors": {
