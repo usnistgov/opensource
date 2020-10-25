@@ -16395,95 +16395,6 @@
                 "nodes": []
             }
         },
-        "usnistgov/core_custom_queries_app": {
-            "dependencyGraphManifests": {
-                "nodes": [
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "core-main-app",
-                                    "repository": {
-                                        "name": "core_main_app",
-                                        "nameWithOwner": "usnistgov/core_main_app",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "usnistgov"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "celery",
-                                    "repository": {
-                                        "name": "celery",
-                                        "nameWithOwner": "celery/celery",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "celery"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "django",
-                                    "repository": {
-                                        "name": "django",
-                                        "nameWithOwner": "django/django",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "django"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "kombu",
-                                    "repository": {
-                                        "name": "kombu",
-                                        "nameWithOwner": "celery/kombu",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "celery"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "mongoengine",
-                                    "repository": {
-                                        "name": "mongoengine",
-                                        "nameWithOwner": "MongoEngine/mongoengine",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "MongoEngine"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "redis",
-                                    "repository": {
-                                        "name": "redis-py",
-                                        "nameWithOwner": "alisaifee/redis-py",
-                                        "owner": {
-                                            "login": "alisaifee"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        },
         "usnistgov/core_dashboard_app": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -76717,6 +76628,660 @@
                                 {
                                     "packageManager": "MAVEN",
                                     "packageName": "org.cpswt:base-events",
+                                    "repository": null
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "usnistgov/ucef-wrappers": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "com.fasterxml.jackson.core:jackson-core",
+                                    "repository": {
+                                        "name": "jackson-core",
+                                        "nameWithOwner": "FasterXML/jackson-core",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "FasterXML"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "com.fasterxml.jackson.core:jackson-databind",
+                                    "repository": {
+                                        "name": "jackson-databind",
+                                        "nameWithOwner": "FasterXML/jackson-databind",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "FasterXML"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "gov.nist.hla:gateway-federate",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.logging.log4j:log4j-api",
+                                    "repository": {
+                                        "name": "logging-log4j2",
+                                        "nameWithOwner": "apache/logging-log4j2",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.logging.log4j:log4j-core",
+                                    "repository": {
+                                        "name": "logging-log4j2",
+                                        "nameWithOwner": "apache/logging-log4j2",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.maven.plugins:maven-shade-plugin",
+                                    "repository": {
+                                        "name": "maven-plugins",
+                                        "nameWithOwner": "apache/maven-plugins",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.porticoproject:portico",
+                                    "repository": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "com.fasterxml.jackson.core:jackson-core",
+                                    "repository": {
+                                        "name": "jackson-core",
+                                        "nameWithOwner": "FasterXML/jackson-core",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "FasterXML"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "com.fasterxml.jackson.core:jackson-databind",
+                                    "repository": {
+                                        "name": "jackson-databind",
+                                        "nameWithOwner": "FasterXML/jackson-databind",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "FasterXML"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "gov.nist.hla:gateway-federate",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "mysql:mysql-connector-java",
+                                    "repository": {
+                                        "name": "mysql-connector-j",
+                                        "nameWithOwner": "mysql/mysql-connector-j",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "mysql"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.logging.log4j:log4j-api",
+                                    "repository": {
+                                        "name": "logging-log4j2",
+                                        "nameWithOwner": "apache/logging-log4j2",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.logging.log4j:log4j-core",
+                                    "repository": {
+                                        "name": "logging-log4j2",
+                                        "nameWithOwner": "apache/logging-log4j2",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.maven.plugins:maven-shade-plugin",
+                                    "repository": {
+                                        "name": "maven-plugins",
+                                        "nameWithOwner": "apache/maven-plugins",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.porticoproject:portico",
+                                    "repository": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "asap",
+                                    "repository": {
+                                        "name": "asap",
+                                        "nameWithOwner": "kriskowal/asap",
+                                        "owner": {
+                                            "login": "kriskowal"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "babel-runtime",
+                                    "repository": {
+                                        "name": "babel-runtime",
+                                        "nameWithOwner": "ecomfe/babel-runtime",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "ecomfe"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "barrage",
+                                    "repository": {
+                                        "name": "barrage",
+                                        "nameWithOwner": "ForbesLindesay/barrage",
+                                        "owner": {
+                                            "login": "ForbesLindesay"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bignumber.js",
+                                    "repository": {
+                                        "name": "bignumber.js",
+                                        "nameWithOwner": "MikeMcl/bignumber.js",
+                                        "owner": {
+                                            "login": "MikeMcl"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "buffer-from",
+                                    "repository": {
+                                        "name": "buffer-from",
+                                        "nameWithOwner": "LinusU/buffer-from",
+                                        "owner": {
+                                            "login": "LinusU"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "commander",
+                                    "repository": {
+                                        "name": "commander.js",
+                                        "nameWithOwner": "tj/commander.js",
+                                        "owner": {
+                                            "login": "tj"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "complex.js",
+                                    "repository": {
+                                        "name": "Complex.js",
+                                        "nameWithOwner": "infusion/Complex.js",
+                                        "owner": {
+                                            "login": "infusion"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "concat-stream",
+                                    "repository": {
+                                        "name": "concat-stream",
+                                        "nameWithOwner": "maxogden/concat-stream",
+                                        "owner": {
+                                            "login": "maxogden"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "core-js",
+                                    "repository": {
+                                        "name": "core-js",
+                                        "nameWithOwner": "zloirock/core-js",
+                                        "owner": {
+                                            "login": "zloirock"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "core-util-is",
+                                    "repository": {
+                                        "name": "core-util-is",
+                                        "nameWithOwner": "isaacs/core-util-is",
+                                        "owner": {
+                                            "login": "isaacs"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "decimal.js",
+                                    "repository": {
+                                        "name": "decimal.js",
+                                        "nameWithOwner": "MikeMcl/decimal.js",
+                                        "owner": {
+                                            "login": "MikeMcl"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "escape-latex",
+                                    "repository": {
+                                        "name": "escape-latex",
+                                        "nameWithOwner": "dangmai/escape-latex",
+                                        "owner": {
+                                            "login": "dangmai"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "fraction.js",
+                                    "repository": {
+                                        "name": "Fraction.js",
+                                        "nameWithOwner": "infusion/Fraction.js",
+                                        "owner": {
+                                            "login": "infusion"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "get-port",
+                                    "repository": {
+                                        "name": "get-port",
+                                        "nameWithOwner": "sindresorhus/get-port",
+                                        "owner": {
+                                            "login": "sindresorhus"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "inherits",
+                                    "repository": {
+                                        "name": "inherits",
+                                        "nameWithOwner": "isaacs/inherits",
+                                        "owner": {
+                                            "login": "isaacs"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "isarray",
+                                    "repository": {
+                                        "name": "isarray",
+                                        "nameWithOwner": "juliangruber/isarray",
+                                        "owner": {
+                                            "login": "juliangruber"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "javascript-natural-sort",
+                                    "repository": {
+                                        "name": "javascript-natural-sort",
+                                        "nameWithOwner": "Bill4Time/javascript-natural-sort",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "Bill4Time"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "marky",
+                                    "repository": {
+                                        "name": "marky",
+                                        "nameWithOwner": "nolanlawson/marky",
+                                        "owner": {
+                                            "login": "nolanlawson"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "mathjs",
+                                    "repository": {
+                                        "name": "mathjs",
+                                        "nameWithOwner": "josdejong/mathjs",
+                                        "owner": {
+                                            "login": "josdejong"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "mysql",
+                                    "repository": {
+                                        "name": "mysql",
+                                        "nameWithOwner": "mysqljs/mysql",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "mysqljs"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "process-nextick-args",
+                                    "repository": {
+                                        "name": "process-nextick-args",
+                                        "nameWithOwner": "calvinmetcalf/process-nextick-args",
+                                        "owner": {
+                                            "login": "calvinmetcalf"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "promise",
+                                    "repository": {
+                                        "name": "promise",
+                                        "nameWithOwner": "then/promise",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "then"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "readable-stream",
+                                    "repository": {
+                                        "name": "readable-stream",
+                                        "nameWithOwner": "nodejs/readable-stream",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "nodejs"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "regenerator-runtime",
+                                    "repository": {
+                                        "name": "regenerator",
+                                        "nameWithOwner": "facebook/regenerator",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "facebook"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "safe-buffer",
+                                    "repository": {
+                                        "name": "safe-buffer",
+                                        "nameWithOwner": "feross/safe-buffer",
+                                        "owner": {
+                                            "login": "feross"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "commander",
+                                    "repository": {
+                                        "name": "commander.js",
+                                        "nameWithOwner": "tj/commander.js",
+                                        "owner": {
+                                            "login": "tj"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "marky",
+                                    "repository": {
+                                        "name": "marky",
+                                        "nameWithOwner": "nolanlawson/marky",
+                                        "owner": {
+                                            "login": "nolanlawson"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "mathjs",
+                                    "repository": {
+                                        "name": "mathjs",
+                                        "nameWithOwner": "josdejong/mathjs",
+                                        "owner": {
+                                            "login": "josdejong"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "sync-mysql",
+                                    "repository": {
+                                        "name": "sync-mysql",
+                                        "nameWithOwner": "ForbesLindesay/sync-mysql",
+                                        "owner": {
+                                            "login": "ForbesLindesay"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.maven.plugins:maven-compiler-plugin",
+                                    "repository": {
+                                        "name": "maven-plugins",
+                                        "nameWithOwner": "apache/maven-plugins",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.eclipse.emf:org.eclipse.emf.common",
+                                    "repository": {
+                                        "name": "emf",
+                                        "nameWithOwner": "eclipse/emf",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "eclipse"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.eclipse.emf:org.eclipse.emf.ecore",
+                                    "repository": {
+                                        "name": "emf",
+                                        "nameWithOwner": "eclipse/emf",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "eclipse"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.eclipse.emf:org.eclipse.emf.ecore.xmi",
+                                    "repository": {
+                                        "name": "emf",
+                                        "nameWithOwner": "eclipse/emf",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "eclipse"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "com.fasterxml.jackson.core:jackson-core",
+                                    "repository": {
+                                        "name": "jackson-core",
+                                        "nameWithOwner": "FasterXML/jackson-core",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "FasterXML"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "com.fasterxml.jackson.core:jackson-databind",
+                                    "repository": {
+                                        "name": "jackson-databind",
+                                        "nameWithOwner": "FasterXML/jackson-databind",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "FasterXML"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "gov.nist.hla.gridlabd:gridlabd-schema",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "gov.nist.hla:gateway-federate",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.httpcomponents:httpclient",
+                                    "repository": {
+                                        "name": "httpcomponents-client",
+                                        "nameWithOwner": "apache/httpcomponents-client",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.logging.log4j:log4j-api",
+                                    "repository": {
+                                        "name": "logging-log4j2",
+                                        "nameWithOwner": "apache/logging-log4j2",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.logging.log4j:log4j-core",
+                                    "repository": {
+                                        "name": "logging-log4j2",
+                                        "nameWithOwner": "apache/logging-log4j2",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.maven.plugins:maven-shade-plugin",
+                                    "repository": {
+                                        "name": "maven-plugins",
+                                        "nameWithOwner": "apache/maven-plugins",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.porticoproject:portico",
                                     "repository": null
                                 }
                             ]
