@@ -14510,9 +14510,10 @@
                                     "packageName": "django-webpack-loader",
                                     "repository": {
                                         "name": "django-webpack-loader",
-                                        "nameWithOwner": "owais/django-webpack-loader",
+                                        "nameWithOwner": "jazzband/django-webpack-loader",
                                         "owner": {
-                                            "login": "owais"
+                                            "isVerified": true,
+                                            "login": "jazzband"
                                         }
                                     }
                                 },
@@ -16393,6 +16394,95 @@
         "usnistgov/core_curate_registry_suggestions_app": {
             "dependencyGraphManifests": {
                 "nodes": []
+            }
+        },
+        "usnistgov/core_custom_queries_app": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "core-main-app",
+                                    "repository": {
+                                        "name": "core_main_app",
+                                        "nameWithOwner": "usnistgov/core_main_app",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "usnistgov"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "celery",
+                                    "repository": {
+                                        "name": "celery",
+                                        "nameWithOwner": "celery/celery",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "celery"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "django",
+                                    "repository": {
+                                        "name": "django",
+                                        "nameWithOwner": "django/django",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "django"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "kombu",
+                                    "repository": {
+                                        "name": "kombu",
+                                        "nameWithOwner": "celery/kombu",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "celery"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "mongoengine",
+                                    "repository": {
+                                        "name": "mongoengine",
+                                        "nameWithOwner": "MongoEngine/mongoengine",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "MongoEngine"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "redis",
+                                    "repository": {
+                                        "name": "redis-py",
+                                        "nameWithOwner": "alisaifee/redis-py",
+                                        "owner": {
+                                            "login": "alisaifee"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
             }
         },
         "usnistgov/core_dashboard_app": {
@@ -24692,78 +24782,6 @@
                                     "packageManager": "MAVEN",
                                     "packageName": "org.immregistries.vfa:ForecastConnector",
                                     "repository": null
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        },
-        "usnistgov/fhirClientImmunizationRecommendation": {
-            "dependencyGraphManifests": {
-                "nodes": [
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "ca.uhn.hapi.fhir:hapi-fhir-base",
-                                    "repository": {
-                                        "name": "hapi-fhir",
-                                        "nameWithOwner": "jamesagnew/hapi-fhir",
-                                        "owner": {
-                                            "login": "jamesagnew"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "ca.uhn.hapi.fhir:hapi-fhir-structures-dstu3",
-                                    "repository": {
-                                        "name": "hapi-fhir",
-                                        "nameWithOwner": "jamesagnew/hapi-fhir",
-                                        "owner": {
-                                            "login": "jamesagnew"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "ca.uhn.hapi.fhir:hapi-fhir-structures-r4",
-                                    "repository": {
-                                        "name": "hapi-fhir",
-                                        "nameWithOwner": "jamesagnew/hapi-fhir",
-                                        "owner": {
-                                            "login": "jamesagnew"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "gov.nist.fhir:fhirLib",
-                                    "repository": null
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "gov.nist.healthcare.cds:cds-base-domain",
-                                    "repository": null
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "gov.nist.healthcare.cds:cds-base-service",
-                                    "repository": null
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "org.apache.httpcomponents:httpclient",
-                                    "repository": {
-                                        "name": "httpcomponents-client",
-                                        "nameWithOwner": "apache/httpcomponents-client",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "apache"
-                                        }
-                                    }
                                 }
                             ]
                         }
@@ -50401,319 +50419,6 @@
                 "nodes": []
             }
         },
-        "usnistgov/nestor-tmp2": {
-            "dependencyGraphManifests": {
-                "nodes": [
-                    {
-                        "dependencies": {
-                            "nodes": []
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "flask",
-                                    "repository": {
-                                        "name": "flask",
-                                        "nameWithOwner": "pallets/flask",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "pallets"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "bokeh",
-                                    "repository": {
-                                        "name": "bokeh",
-                                        "nameWithOwner": "bokeh/bokeh",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "bokeh"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "chardet",
-                                    "repository": {
-                                        "name": "chardet",
-                                        "nameWithOwner": "chardet/chardet",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "chardet"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "fuzzywuzzy",
-                                    "repository": {
-                                        "name": "fuzzywuzzy",
-                                        "nameWithOwner": "seatgeek/fuzzywuzzy",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "seatgeek"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "holoviews",
-                                    "repository": {
-                                        "name": "TestDependenciesSetupPy",
-                                        "nameWithOwner": "HeyLaurelTestOrg/TestDependenciesSetupPy",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "HeyLaurelTestOrg"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "joblib",
-                                    "repository": {
-                                        "name": "joblib",
-                                        "nameWithOwner": "joblib/joblib",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "joblib"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "matplotlib",
-                                    "repository": {
-                                        "name": "matplotlib",
-                                        "nameWithOwner": "matplotlib/matplotlib",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "matplotlib"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "networkx",
-                                    "repository": {
-                                        "name": "networkx",
-                                        "nameWithOwner": "networkx/networkx",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "networkx"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "numpy",
-                                    "repository": {
-                                        "name": "numpy",
-                                        "nameWithOwner": "numpy/numpy",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "numpy"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "pandas",
-                                    "repository": {
-                                        "name": "pandas",
-                                        "nameWithOwner": "pandas-dev/pandas",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "pandas-dev"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "pyaml",
-                                    "repository": {
-                                        "name": "pretty-yaml",
-                                        "nameWithOwner": "mk-fg/pretty-yaml",
-                                        "owner": {
-                                            "login": "mk-fg"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "pyqt5",
-                                    "repository": null
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "scikit-learn",
-                                    "repository": {
-                                        "name": "scikit-learn",
-                                        "nameWithOwner": "scikit-learn/scikit-learn",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "scikit-learn"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "seaborn",
-                                    "repository": {
-                                        "name": "seaborn",
-                                        "nameWithOwner": "mwaskom/seaborn",
-                                        "owner": {
-                                            "login": "mwaskom"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "tables",
-                                    "repository": {
-                                        "name": "seatingchart-helper",
-                                        "nameWithOwner": "Seth-Rothschild/seatingchart-helper",
-                                        "owner": {
-                                            "login": "Seth-Rothschild"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "tqdm",
-                                    "repository": {
-                                        "name": "tqdm",
-                                        "nameWithOwner": "tqdm/tqdm",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "tqdm"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": []
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "ipython",
-                                    "repository": {
-                                        "name": "ipython",
-                                        "nameWithOwner": "ipython/ipython",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "ipython"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "m2r",
-                                    "repository": {
-                                        "name": "m2r",
-                                        "nameWithOwner": "miyakogi/m2r",
-                                        "owner": {
-                                            "login": "miyakogi"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "nbsphinx",
-                                    "repository": {
-                                        "name": "nbsphinx",
-                                        "nameWithOwner": "spatialaudio/nbsphinx",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "spatialaudio"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "numpydoc",
-                                    "repository": {
-                                        "name": "numpydoc",
-                                        "nameWithOwner": "numpy/numpydoc",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "numpy"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "sphinx",
-                                    "repository": {
-                                        "name": "sphinx",
-                                        "nameWithOwner": "sphinx-doc/sphinx",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "sphinx-doc"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "sphinx-rtd-theme",
-                                    "repository": {
-                                        "name": "sphinx_rtd_theme",
-                                        "nameWithOwner": "readthedocs/sphinx_rtd_theme",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "readthedocs"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "sphinxcontrib-bibtex",
-                                    "repository": {
-                                        "name": "sphinxcontrib-bibtex",
-                                        "nameWithOwner": "mcmtroffaes/sphinxcontrib-bibtex",
-                                        "owner": {
-                                            "login": "mcmtroffaes"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": []
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": []
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": []
-                        }
-                    }
-                ]
-            }
-        },
         "usnistgov/nestor-web": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -54838,11 +54543,6 @@
                         }
                     }
                 ]
-            }
-        },
-        "usnistgov/oar-metadata": {
-            "dependencyGraphManifests": {
-                "nodes": []
             }
         },
         "usnistgov/oar-pdr": {
@@ -60276,7 +59976,14 @@
                                 {
                                     "packageManager": "PIP",
                                     "packageName": "importlib-resources",
-                                    "repository": null
+                                    "repository": {
+                                        "name": "importlib_resources",
+                                        "nameWithOwner": "python/importlib_resources",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "python"
+                                        }
+                                    }
                                 },
                                 {
                                     "packageManager": "PIP",
