@@ -1910,6 +1910,7 @@
                     "usnistgov/fhirClientImmunizationRecommendation",
                     "usnistgov/fhirLib",
                     "usnistgov/forecast.FHIR.server",
+                    "usnistgov/gvt-resource-bundle",
                     "usnistgov/nist-hit-resource-portal",
                     "usnistgov/saml-lib",
                     "usnistgov/schematronValidation"
@@ -4929,6 +4930,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/MCV-QoE-firmware",
+                    "usnistgov/MRT",
                     "usnistgov/accessTime",
                     "usnistgov/mouth2ear"
                 ]
