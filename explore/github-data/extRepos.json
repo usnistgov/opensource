@@ -452,14 +452,6 @@
             },
             "nameWithOwner": "NREL/OpenStudio"
         },
-        "NSLS-II-SST/profile_collection": {
-            "labContributors": {
-                "nodes": [
-                    "pbeaucage"
-                ]
-            },
-            "nameWithOwner": "NSLS-II-SST/profile_collection"
-        },
         "NativeScript/nativescript-cli": {
             "labContributors": {
                 "nodes": [
@@ -1580,6 +1572,14 @@
             },
             "nameWithOwner": "jShainline/soen_sim"
         },
+        "jaylittle/pi-top-control": {
+            "labContributors": {
+                "nodes": [
+                    "jesse-frey"
+                ]
+            },
+            "nameWithOwner": "jaylittle/pi-top-control"
+        },
         "jbarlow83/OCRmyPDF": {
             "labContributors": {
                 "nodes": [
@@ -1611,14 +1611,6 @@
                 ]
             },
             "nameWithOwner": "jmcdani/GRCh38_stratification_validation"
-        },
-        "joaquimserafim/bindexOf": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "joaquimserafim/bindexOf"
         },
         "joferkington/mplstereonet": {
             "labContributors": {
@@ -1892,6 +1884,14 @@
                 ]
             },
             "nameWithOwner": "mikerenfro/hpc-shell"
+        },
+        "mitre/cpsa": {
+            "labContributors": {
+                "nodes": [
+                    "kerrymckay"
+                ]
+            },
+            "nameWithOwner": "mitre/cpsa"
         },
         "mjs/imapclient": {
             "labContributors": {

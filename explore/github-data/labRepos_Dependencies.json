@@ -1148,11 +1148,6 @@
                 "nodes": []
             }
         },
-        "usnistgov/ABDNavigator": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            }
-        },
         "usnistgov/ACE": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -9617,6 +9612,41 @@
                                         "owner": {
                                             "isVerified": true,
                                             "login": "apache"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "usnistgov/WIPP-pyramid-building": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "ecstatic",
+                                    "repository": {
+                                        "name": "node-ecstatic",
+                                        "nameWithOwner": "jfhbrook/node-ecstatic",
+                                        "owner": {
+                                            "login": "jfhbrook"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "http-server",
+                                    "repository": {
+                                        "name": "http-server",
+                                        "nameWithOwner": "http-party/http-server",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "http-party"
                                         }
                                     }
                                 }
@@ -59113,11 +59143,6 @@
                 "nodes": []
             }
         },
-        "usnistgov/psc-ns3": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            }
-        },
         "usnistgov/pscr-openwrt-fork": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -59463,11 +59488,6 @@
                         }
                     }
                 ]
-            }
-        },
-        "usnistgov/pySCATMECH": {
-            "dependencyGraphManifests": {
-                "nodes": []
             }
         },
         "usnistgov/pycdcs": {
@@ -67196,6 +67216,36 @@
         "usnistgov/trojai-test-harness": {
             "dependencyGraphManifests": {
                 "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "numpy",
+                                    "repository": {
+                                        "name": "numpy",
+                                        "nameWithOwner": "numpy/numpy",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "numpy"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pandas",
+                                    "repository": {
+                                        "name": "pandas",
+                                        "nameWithOwner": "pandas-dev/pandas",
+                                        "owner": {
+                                            "isVerified": false,
+                                            "login": "pandas-dev"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
                     {
                         "dependencies": {
                             "nodes": [
