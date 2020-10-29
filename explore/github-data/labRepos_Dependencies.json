@@ -1148,6 +1148,11 @@
                 "nodes": []
             }
         },
+        "usnistgov/ABDNavigator": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
         "usnistgov/ACE": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -3115,11 +3120,6 @@
             }
         },
         "usnistgov/FSMR": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            }
-        },
-        "usnistgov/FastImage": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
@@ -8290,11 +8290,6 @@
             }
         },
         "usnistgov/TSQUARE": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            }
-        },
-        "usnistgov/Texture-Sampling-PhaseMeasurement-BiasErrors": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
@@ -24899,66 +24894,6 @@
                 "nodes": []
             }
         },
-        "usnistgov/fipy": {
-            "dependencyGraphManifests": {
-                "nodes": [
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "future",
-                                    "repository": {
-                                        "name": "python-future",
-                                        "nameWithOwner": "PythonCharmers/python-future",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "PythonCharmers"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "matplotlib",
-                                    "repository": {
-                                        "name": "matplotlib",
-                                        "nameWithOwner": "matplotlib/matplotlib",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "matplotlib"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "numpy",
-                                    "repository": {
-                                        "name": "numpy",
-                                        "nameWithOwner": "numpy/numpy",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "numpy"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "scipy",
-                                    "repository": {
-                                        "name": "scipy",
-                                        "nameWithOwner": "scipy/scipy",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "scipy"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        },
         "usnistgov/fits-client": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -27464,6 +27399,18 @@
                                 {
                                     "packageManager": "MAVEN",
                                     "packageName": "org.apache.maven.plugins:maven-resources-plugin",
+                                    "repository": {
+                                        "name": "maven-plugins",
+                                        "nameWithOwner": "apache/maven-plugins",
+                                        "owner": {
+                                            "isVerified": true,
+                                            "login": "apache"
+                                        }
+                                    }
+                                },
+                                {
+                                    "packageManager": "MAVEN",
+                                    "packageName": "org.apache.maven.plugins:maven-source-plugin",
                                     "repository": {
                                         "name": "maven-plugins",
                                         "nameWithOwner": "apache/maven-plugins",
@@ -59143,6 +59090,11 @@
                 "nodes": []
             }
         },
+        "usnistgov/psc-ns3": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
         "usnistgov/pscr-openwrt-fork": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -59488,6 +59440,11 @@
                         }
                     }
                 ]
+            }
+        },
+        "usnistgov/pySCATMECH": {
+            "dependencyGraphManifests": {
+                "nodes": []
             }
         },
         "usnistgov/pycdcs": {
@@ -63089,11 +63046,6 @@
                         }
                     }
                 ]
-            }
-        },
-        "usnistgov/swid-autotools": {
-            "dependencyGraphManifests": {
-                "nodes": []
             }
         },
         "usnistgov/swid-tools": {
