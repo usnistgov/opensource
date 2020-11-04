@@ -139,7 +139,7 @@
 	float:left;
 	padding:0;
 	margin:4px 0px 0px 0px;
-	background: url("../images/small_nist_logo.jpg") no-repeat top center;
+	background: url("/images/small_nist_logo.jpg") no-repeat top center;
 }
 .nist-menu-tab > a {
 	display: block;
@@ -297,7 +297,7 @@
 }
 
 span.showto {
-	background: url("../images/mailto.png") no-repeat;
+	background: url("/images/mailto.png") no-repeat;
 	margin-left: 5px;
 	padding-right: 15px
 }

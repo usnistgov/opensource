@@ -4,15 +4,15 @@ angular.module('app', []).controller('gitHubDataController', [
     '$window',
     '$location',
     function($scope, $http, $window, $location) {
-        var getCategoryInfo = $http.get('./category/category_info.json', {
+        var getCategoryInfo = $http.get('/category/category_info.json', {
             cache: true
         });
 
-        var getReposTopics = $http.get('./explore/github-data/labRepos_Topics.json', {
+        var getReposTopics = $http.get('/explore/github-data/labRepos_Topics.json', {
             cache: true
         });
 
-        var getReposInfo = $http.get('./explore/github-data/labReposInfo.json', {
+        var getReposInfo = $http.get('/explore/github-data/labReposInfo.json', {
             cache: true
         });
 
@@ -74,7 +74,7 @@ angular.module('app', []).controller('gitHubDataController', [
             var complete = {
                 title: 'ALL SOFTWARE',
                 icon: {
-                    path: './assets/images/catalog.svg',
+                    path: '/assets/images/catalog.svg',
                     alt: 'All Software'
                 },
                 description: 'Browse all NIST open source projects',
@@ -98,7 +98,7 @@ angular.module('app', []).controller('gitHubDataController', [
                     var index = $scope.catData.length - 1;
                     $scope.selectedIndex = index;
                     var result = $scope.catData[index].title.replace(/ /g, '');
-                    $window.location.href = '../category#' + result;
+                    $window.location.href = '/category#' + result;
                 }
             }
 
@@ -164,13 +164,13 @@ angular.module('app', []).controller('gitHubDataController', [
 
                 //create function for generating hash url for each repo
                 $scope.repoHref = function(nametag) {
-                    $window.location.href = './repo#' + nametag;
+                    $window.location.href = '/repo#' + nametag;
                 };
 
                 //function to generate hash url for each category
                 $scope.categoryHref = function(nametag) {
                     var result = nametag.replace(/ /g, '');
-                    $window.location.href = './category#' + result;
+                    $window.location.href = '/category#' + result;
                 };
             });
         });

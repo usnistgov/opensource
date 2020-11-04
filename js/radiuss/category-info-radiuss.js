@@ -1,17 +1,17 @@
 app.controller('gitHubDataController', function($scope, $http, $window, Category) {
-    var getCategoryInfo = $http.get('../radiuss/category_info_radiuss.json', {
+    var getCategoryInfo = $http.get('/radiuss/category_info_radiuss.json', {
         cache: true
     });
 
-    var getReposTopics = $http.get('../explore/github-data/labRepos_Topics.json', {
+    var getReposTopics = $http.get('/explore/github-data/labRepos_Topics.json', {
         cache: true
     });
 
-    var getReposInfo = $http.get('../explore/github-data/labReposInfo.json', {
+    var getReposInfo = $http.get('/explore/github-data/labReposInfo.json', {
         cache: true
     });
 
-    var getReposLogos = $http.get('../assets/images/logos/repo_logos.json', {
+    var getReposLogos = $http.get('/assets/images/logos/repo_logos.json', {
         cache: true
     });
 
@@ -87,7 +87,7 @@ app.controller('gitHubDataController', function($scope, $http, $window, Category
 
                 //create function for generating hash url for each repo
                 $scope.repoHref = function(nametag) {
-                    $window.location.href = '../repo#' + nametag;
+                    $window.location.href = '/repo#' + nametag;
                 };
             });
         });
