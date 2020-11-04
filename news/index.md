@@ -16,8 +16,6 @@ permalink: /news/
 
   </article>
   {% endfor %}
-  
-   <br />
-                <a class="btn btn-primary btn-block news" href="/opensource/news/archive/" role="button">See all news in the archive</a>
- 
 
+   <br />
+                <a class="btn btn-primary btn-block news" href="./news/archive/" role="button">See all news in the archive</a>
