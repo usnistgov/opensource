@@ -454,7 +454,7 @@
             },
             "date": {
                 "created": "2014-08-25",
-                "lastModified": "2020-12-01"
+                "lastModified": "2020-12-02"
             },
             "description": "FiPy is a Finite Volume PDE solver written in Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/fipy/downloads",
@@ -5288,7 +5288,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2020-11-09"
+                "lastModified": "2020-12-03"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -17090,7 +17090,7 @@
             },
             "date": {
                 "created": "2018-07-02",
-                "lastModified": "2020-11-05"
+                "lastModified": "2020-12-02"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/core_module_local_id_registry_app/downloads",
@@ -18746,7 +18746,7 @@
             },
             "date": {
                 "created": "2018-12-21",
-                "lastModified": "2020-11-25"
+                "lastModified": "2020-12-02"
             },
             "description": "A single file database containing comprehensive coverage of cysteine disulfide bonds in the protein databank",
             "downloadURL": "https://api.github.com/repos/usnistgov/Cys.sqlite/downloads",
@@ -21305,7 +21305,7 @@
             },
             "date": {
                 "created": "2019-06-27",
-                "lastModified": "2020-11-23"
+                "lastModified": "2020-12-02"
             },
             "description": "The purpose of this repository is to enable community development of JSON schema within materials science and engineering.",
             "downloadURL": "https://api.github.com/repos/usnistgov/mgi-json-schema/downloads",
@@ -21869,7 +21869,7 @@
             },
             "date": {
                 "created": "2019-08-11",
-                "lastModified": "2020-11-05"
+                "lastModified": "2020-12-03"
             },
             "description": "API database tools for accessing the NIST Interatomic Potentials Repository: explore and download interatomic potentials and computed properties.",
             "downloadURL": "https://api.github.com/repos/usnistgov/potentials/downloads",
@@ -26681,7 +26681,7 @@
             },
             "date": {
                 "created": "2020-06-29",
-                "lastModified": "2020-12-01"
+                "lastModified": "2020-12-02"
             },
             "description": "Software test harness for running TrojAI leaderboards.",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-test-harness/downloads",
@@ -27323,7 +27323,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2020-12-01"
+                "lastModified": "2020-12-02"
             },
             "description": "Public home for LLNL software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource/downloads",
@@ -28223,7 +28223,7 @@
             },
             "date": {
                 "created": "2020-10-20",
-                "lastModified": "2020-10-20"
+                "lastModified": "2020-12-02"
             },
             "description": "XML schemas for HL7 message profiles",
             "downloadURL": "https://api.github.com/repos/usnistgov/hl7-schemas/downloads",
@@ -28381,6 +28381,85 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/ifpc.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2020-12-02",
+                "lastModified": "2020-12-02"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/2020-12-15-nist-chimad/downloads",
+            "homepageURL": "https://github.com/usnistgov/2020-12-15-nist-chimad",
+            "laborHours": 0,
+            "languages": [
+                "HTML",
+                "Python",
+                "SCSS",
+                "Makefile",
+                "R",
+                "CSS",
+                "JavaScript",
+                "Shell",
+                "Ruby"
+            ],
+            "name": "2020-12-15-nist-chimad",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/newrepotemplate/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/2020-12-15-nist-chimad.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2020-12-02",
+                "lastModified": "2020-12-02"
+            },
+            "description": "GIAB pipeline for benchmarking genome assemblies",
+            "downloadURL": "https://api.github.com/repos/usnistgov/giab-asm-benchmarking/downloads",
+            "homepageURL": "https://github.com/usnistgov/giab-asm-benchmarking",
+            "laborHours": 0,
+            "languages": [
+                "JavaScript",
+                "Python",
+                "R",
+                "Perl"
+            ],
+            "name": "giab-asm-benchmarking",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/newrepotemplate/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/giab-asm-benchmarking.git",
             "status": "Development",
             "tags": [
                 "github"
