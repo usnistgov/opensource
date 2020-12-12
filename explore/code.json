@@ -5112,7 +5112,7 @@
             },
             "date": {
                 "created": "2016-04-28",
-                "lastModified": "2020-12-08"
+                "lastModified": "2020-12-11"
             },
             "description": "Home to public development of NIST Special Publication 800-63-3: Digital Authentication Guidelines",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-3/downloads",
@@ -7085,7 +7085,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2020-12-10"
+                "lastModified": "2020-12-11"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -15915,7 +15915,7 @@
             },
             "date": {
                 "created": "2018-04-17",
-                "lastModified": "2020-12-10"
+                "lastModified": "2020-12-11"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/vaccination_deduplication/downloads",
@@ -21196,7 +21196,7 @@
             },
             "date": {
                 "created": "2019-06-20",
-                "lastModified": "2020-11-16"
+                "lastModified": "2020-12-11"
             },
             "description": "Optimal Bayesian Experiment Design ",
             "downloadURL": "https://api.github.com/repos/usnistgov/optbayesexpt/downloads",
@@ -22832,7 +22832,7 @@
             },
             "date": {
                 "created": "2019-10-03",
-                "lastModified": "2020-12-09"
+                "lastModified": "2020-12-11"
             },
             "description": "Implementation of the The United States Web Design System (USWDS) 2.0 using the Hugo open-source static site generator",
             "downloadURL": "https://api.github.com/repos/usnistgov/hugo-uswds/downloads",
@@ -22940,7 +22940,7 @@
             },
             "date": {
                 "created": "2019-10-11",
-                "lastModified": "2020-11-27"
+                "lastModified": "2020-12-11"
             },
             "description": "The NIST IFC File Analyzer (IFA) generates a spreadsheet from an IFC file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/IFA/downloads",
@@ -23688,7 +23688,7 @@
             },
             "date": {
                 "created": "2020-01-08",
-                "lastModified": "2020-12-10"
+                "lastModified": "2020-12-11"
             },
             "description": "This repository contains resources to support organizations’ use of the Privacy Framework. Resources include crosswalks, Profiles, guidance, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyFrmwkResources/downloads",
@@ -24971,7 +24971,7 @@
             },
             "date": {
                 "created": "2020-03-26",
-                "lastModified": "2020-12-06"
+                "lastModified": "2020-12-11"
             },
             "description": "Scanning probe control and sample navigation for atom-based devices",
             "downloadURL": "https://api.github.com/repos/usnistgov/ABDNavigator/downloads",
@@ -27193,7 +27193,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2020-12-10"
+                "lastModified": "2020-12-12"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -27328,7 +27328,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2020-12-10"
+                "lastModified": "2020-12-11"
             },
             "description": "Public home for LLNL software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource/downloads",
@@ -28296,7 +28296,7 @@
             },
             "date": {
                 "created": "2020-11-10",
-                "lastModified": "2020-12-10"
+                "lastModified": "2020-12-11"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/IoT-Device-Cybersecurity-Requirement-Catalogs/downloads",
@@ -28497,6 +28497,42 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/pv2.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2020-12-11",
+                "lastModified": "2020-12-11"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/CASE-Implementation-ExifTool/downloads",
+            "homepageURL": "https://github.com/usnistgov/CASE-Implementation-ExifTool",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "Makefile",
+                "Shell"
+            ],
+            "name": "CASE-Implementation-ExifTool",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/newrepotemplate/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/CASE-Implementation-ExifTool.git",
             "status": "Development",
             "tags": [
                 "github"
