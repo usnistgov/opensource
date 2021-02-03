@@ -168,6 +168,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/2020-12-15-nist-chimad": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/3DScanningProject": {
             "repositoryTopics": {
                 "nodes": [],
@@ -386,6 +392,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/BaselineDeepLearningRadarDetectors": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/BiometricEvaluation": {
             "repositoryTopics": {
                 "nodes": [
@@ -461,6 +473,12 @@
             }
         },
         "usnistgov/CAD-PMI-Testing": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/CASE-Implementation-ExifTool": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -544,7 +562,7 @@
                 "totalCount": 0
             }
         },
-        "usnistgov/CloudSecurityArchitectureTool-CSAT": {
+        "usnistgov/CloudSecurityArchitectureTool-CSAT-v0.1": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -634,6 +652,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/E3": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/EGT": {
             "repositoryTopics": {
                 "nodes": [],
@@ -674,6 +698,12 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/ESV-Server": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/EaaS": {
             "repositoryTopics": {
                 "nodes": [],
@@ -688,8 +718,16 @@
         },
         "usnistgov/ElectionEventLogging": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/common-data-format",
+                        "topic": {
+                            "name": "common-data-format"
+                        },
+                        "url": "https://github.com/topics/common-data-format"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/ElectionGlossary": {
@@ -723,6 +761,12 @@
             }
         },
         "usnistgov/FFAST.jl": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/FIPS201": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -817,6 +861,12 @@
             }
         },
         "usnistgov/GCode1.09MotiveModified": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/Gwendolen": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -1026,6 +1076,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/IoT-Device-Cybersecurity-Requirement-Catalogs": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/JARVIS-DFT": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1177,8 +1233,30 @@
         },
         "usnistgov/MRT": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/mrt",
+                        "topic": {
+                            "name": "mrt"
+                        },
+                        "url": "https://github.com/topics/mrt"
+                    },
+                    {
+                        "resourcePath": "/topics/intelligibility",
+                        "topic": {
+                            "name": "intelligibility"
+                        },
+                        "url": "https://github.com/topics/intelligibility"
+                    },
+                    {
+                        "resourcePath": "/topics/nist",
+                        "topic": {
+                            "name": "nist"
+                        },
+                        "url": "https://github.com/topics/nist"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/MRaDS-2017-Demo-Study": {
@@ -1313,9 +1391,23 @@
                             "name": "quality"
                         },
                         "url": "https://github.com/topics/quality"
+                    },
+                    {
+                        "resourcePath": "/topics/nfiq",
+                        "topic": {
+                            "name": "nfiq"
+                        },
+                        "url": "https://github.com/topics/nfiq"
+                    },
+                    {
+                        "resourcePath": "/topics/iso",
+                        "topic": {
+                            "name": "iso"
+                        },
+                        "url": "https://github.com/topics/iso"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 5
             }
         },
         "usnistgov/NFIR": {
@@ -1487,6 +1579,48 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "usnistgov/NISTPFAS": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/pfas",
+                        "topic": {
+                            "name": "pfas"
+                        },
+                        "url": "https://github.com/topics/pfas"
+                    },
+                    {
+                        "resourcePath": "/topics/chemometrics",
+                        "topic": {
+                            "name": "chemometrics"
+                        },
+                        "url": "https://github.com/topics/chemometrics"
+                    },
+                    {
+                        "resourcePath": "/topics/mass-spectrometry",
+                        "topic": {
+                            "name": "mass-spectrometry"
+                        },
+                        "url": "https://github.com/topics/mass-spectrometry"
+                    },
+                    {
+                        "resourcePath": "/topics/chemistry",
+                        "topic": {
+                            "name": "chemistry"
+                        },
+                        "url": "https://github.com/topics/chemistry"
+                    },
+                    {
+                        "resourcePath": "/topics/analytical-chemistry",
+                        "topic": {
+                            "name": "analytical-chemistry"
+                        },
+                        "url": "https://github.com/topics/analytical-chemistry"
+                    }
+                ],
+                "totalCount": 5
             }
         },
         "usnistgov/NIST_IGAMT_TCAMT_XML_Tool": {
@@ -1693,6 +1827,18 @@
             }
         },
         "usnistgov/PEDEditor": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/PMUCal": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/PMUCalPostProcessing": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2250,12 +2396,6 @@
                 "totalCount": 0
             }
         },
-        "usnistgov/SimpleFactory": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
         "usnistgov/SimulatedRadarWaveformGenerator": {
             "repositoryTopics": {
                 "nodes": [
@@ -2427,6 +2567,12 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/UsabilityConsole": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/VEMOS": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2447,8 +2593,16 @@
         },
         "usnistgov/Voting": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/common-data-format",
+                        "topic": {
+                            "name": "common-data-format"
+                        },
+                        "url": "https://github.com/topics/common-data-format"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/VotingMethods": {
@@ -2650,6 +2804,12 @@
             }
         },
         "usnistgov/ariac-docker": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/artiq-clocks": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -3440,6 +3600,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/crcl2ros": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/crontest": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3554,6 +3720,12 @@
             }
         },
         "usnistgov/diffcap": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/disaster-failure-studies-portal": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -3896,13 +4068,25 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/giab-asm-benchmarking": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/giab-pFDA-2nd-challenge": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/git-novice-MSE": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
             }
         },
-        "usnistgov/github-issue-reports": {
+        "usnistgov/github-branch-reports": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -3957,12 +4141,6 @@
             }
         },
         "usnistgov/gvt-ui": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
-        "usnistgov/gwendolyn": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -4295,6 +4473,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/hl7-diff-tool-frontend": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/hl7-igamt": {
             "repositoryTopics": {
                 "nodes": [],
@@ -4469,6 +4653,12 @@
             }
         },
         "usnistgov/iadnlp": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/ifpc": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -5173,8 +5363,16 @@
         },
         "usnistgov/ndn-dpdk": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/ndn",
+                        "topic": {
+                            "name": "ndn"
+                        },
+                        "url": "https://github.com/topics/ndn"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/ndntrace": {
@@ -5851,6 +6049,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/pv2": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/pyLLE": {
             "repositoryTopics": {
                 "nodes": [],
@@ -6517,6 +6721,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/trojai-baseline-pruning": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/trojai-example": {
             "repositoryTopics": {
                 "nodes": [],
@@ -6752,12 +6962,6 @@
             }
         },
         "usnistgov/winder": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
-        "usnistgov/wireless-factory-sysml": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
