@@ -1071,10 +1071,13 @@
                         "name": "Java"
                     },
                     {
+                        "name": "Go"
+                    },
+                    {
                         "name": "CSS"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "usnistgov/ActEV_Scorer": {
@@ -5182,9 +5185,12 @@
                     },
                     {
                         "name": "R"
+                    },
+                    {
+                        "name": "Python"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "usnistgov/active-evaluation": {
