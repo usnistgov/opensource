@@ -88,6 +88,14 @@
             },
             "nameWithOwner": "Anderson-Lab/compare_web"
         },
+        "ArchiveTeam/google-sites-grab": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "ArchiveTeam/google-sites-grab"
+        },
         "ArchiveTeam/warrior-dockerfile": {
             "labContributors": {
                 "nodes": [
@@ -161,6 +169,14 @@
             },
             "nameWithOwner": "CVEProject/cve-services"
         },
+        "Chris-Turner-NIST/vulntology": {
+            "labContributors": {
+                "nodes": [
+                    "david-waltermire-nist"
+                ]
+            },
+            "nameWithOwner": "Chris-Turner-NIST/vulntology"
+        },
         "CoolProp/CoolProp": {
             "labContributors": {
                 "nodes": [
@@ -224,14 +240,6 @@
                 ]
             },
             "nameWithOwner": "GiovineItalia/Gadfly.jl"
-        },
-        "HCBravoLab/metagenomeFeatures": {
-            "labContributors": {
-                "nodes": [
-                    "nate-d-olson"
-                ]
-            },
-            "nameWithOwner": "HCBravoLab/metagenomeFeatures"
         },
         "IETF-Hackathon/ietf109-project-presentations": {
             "labContributors": {
@@ -586,14 +594,6 @@
                 ]
             },
             "nameWithOwner": "RDFLib/rdflib"
-        },
-        "RDFLib/rdflib-jsonld": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "RDFLib/rdflib-jsonld"
         },
         "RIPE-NCC/ripe-atlas-software-probe": {
             "labContributors": {
@@ -1288,14 +1288,6 @@
                 ]
             },
             "nameWithOwner": "elear/mud-sbom"
-        },
-        "emeryberger/CSrankings": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "emeryberger/CSrankings"
         },
         "evhub/coconut": {
             "labContributors": {
@@ -2808,14 +2800,6 @@
                 ]
             },
             "nameWithOwner": "uswds/uswds"
-        },
-        "wendellpiez/OSCAL": {
-            "labContributors": {
-                "nodes": [
-                    "david-waltermire-nist"
-                ]
-            },
-            "nameWithOwner": "wendellpiez/OSCAL"
         },
         "wendellpiez/metaschema": {
             "labContributors": {

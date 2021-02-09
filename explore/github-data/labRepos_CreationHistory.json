@@ -2255,6 +2255,11 @@
             "firstCommitAt": "2014-02-26T18:32:45Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/err-schema-docs": {
+            "createdAt": "2021-02-05T22:04:55Z",
+            "firstCommitAt": "2021-02-05T22:06:24Z",
+            "initBeforeGitHubRepo": false
+        },
         "usnistgov/erx-message-utils": {
             "createdAt": "2016-02-12T17:05:57Z",
             "firstCommitAt": "2016-02-12T08:09:12Z",
@@ -2448,6 +2453,11 @@
         "usnistgov/gzaprsros": {
             "createdAt": "2019-10-16T20:16:38Z",
             "firstCommitAt": "2019-10-16T20:29:07Z",
+            "initBeforeGitHubRepo": false
+        },
+        "usnistgov/gzaprsworld": {
+            "createdAt": "2021-02-08T16:29:24Z",
+            "firstCommitAt": "2021-02-08T16:29:26Z",
             "initBeforeGitHubRepo": false
         },
         "usnistgov/had-monitor": {
@@ -3124,11 +3134,6 @@
             "createdAt": "2016-03-08T05:49:49Z",
             "firstCommitAt": "2016-03-02T18:56:34Z",
             "initBeforeGitHubRepo": true
-        },
-        "usnistgov/newrepotemplate": {
-            "createdAt": "2020-06-12T16:33:47Z",
-            "firstCommitAt": "2020-06-12T16:33:49Z",
-            "initBeforeGitHubRepo": false
         },
         "usnistgov/nist-code-portal": {
             "createdAt": "2020-06-11T08:54:07Z",

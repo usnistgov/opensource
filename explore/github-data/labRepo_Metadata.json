@@ -278,7 +278,7 @@
         "website": null
     },
     "usnistgov/ARIAC": {
-        "description": "Repository for ARIAC 2020, consisting of kit building in a simulated warehouse with a dual arm robot.",
+        "description": "Repository for ARIAC 2020/2021, consisting of kit building and assembly in a simulated warehouse with a dual arm robot.",
         "name": "usnistgov/ARIAC",
         "topics": null,
         "website": ""
@@ -2903,6 +2903,12 @@
         "topics": null,
         "website": "https://github.com/usnistgov/erccdashboard/wiki"
     },
+    "usnistgov/err-schema-docs": {
+        "description": null,
+        "name": "usnistgov/err-schema-docs",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/erx-message-utils": {
         "description": null,
         "name": "usnistgov/erx-message-utils",
@@ -3134,6 +3140,12 @@
     "usnistgov/gzaprsros": {
         "description": "Gazebo simulation of Agility Performance Lab using Gazebo and ROS",
         "name": "usnistgov/gzaprsros",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/gzaprsworld": {
+        "description": "Using a shell script, creates various configurations of an Agility Lab world in Gazebo  SDF depending on selections.",
+        "name": "usnistgov/gzaprsworld",
         "topics": null,
         "website": null
     },
@@ -4026,12 +4038,6 @@
     "usnistgov/newTCAMT": {
         "description": null,
         "name": "usnistgov/newTCAMT",
-        "topics": null,
-        "website": null
-    },
-    "usnistgov/newrepotemplate": {
-        "description": "repo for new repositories",
-        "name": "usnistgov/newrepotemplate",
         "topics": null,
         "website": null
     },
