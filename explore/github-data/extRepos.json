@@ -161,6 +161,14 @@
             },
             "nameWithOwner": "CTG-Boulder/nsbt-test"
         },
+        "CVEProject/cve-schema": {
+            "labContributors": {
+                "nodes": [
+                    "david-waltermire-nist"
+                ]
+            },
+            "nameWithOwner": "CVEProject/cve-schema"
+        },
         "CVEProject/cve-services": {
             "labContributors": {
                 "nodes": [
@@ -1228,6 +1236,7 @@
         "digitalcorpora/app": {
             "labContributors": {
                 "nodes": [
+                    "ajnelson-nist",
                     "simsong"
                 ]
             },
@@ -2340,6 +2349,14 @@
                 ]
             },
             "nameWithOwner": "pydata/xarray"
+        },
+        "pyiron/pyiron_meltingpoint": {
+            "labContributors": {
+                "nodes": [
+                    "ianhbell"
+                ]
+            },
+            "nameWithOwner": "pyiron/pyiron_meltingpoint"
         },
         "pypa/packaging.python.org": {
             "labContributors": {
