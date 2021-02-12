@@ -6840,6 +6840,7 @@
                 "nodes": [
                     "usnistgov/800-63-3",
                     "usnistgov/800-63-3-Implementation-Resources",
+                    "usnistgov/800-63-4",
                     "usnistgov/800-63-FAQ",
                     "usnistgov/FederalProfile-8259A"
                 ]
@@ -8887,6 +8888,16 @@
             },
             "login": "dpintaric",
             "name": "Domagoj Pintaric"
+        },
+        "dpmadruga": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/78376111?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/800-63-4"
+                ]
+            },
+            "login": "dpmadruga",
+            "name": null
         },
         "dpshelio": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/963242?u=579b11c419f39a3895b4eb02a6fba2b00e632214&v=4",
@@ -12995,6 +13006,7 @@
                 "nodes": [
                     "usnistgov/800-63-3",
                     "usnistgov/800-63-3-Implementation-Resources",
+                    "usnistgov/800-63-4",
                     "usnistgov/800-63-FAQ",
                     "usnistgov/FIPS201",
                     "usnistgov/FederalProfile-8259A",
@@ -13721,6 +13733,7 @@
                 "nodes": [
                     "usnistgov/800-63-3",
                     "usnistgov/800-63-3-Implementation-Resources",
+                    "usnistgov/800-63-4",
                     "usnistgov/800-63-FAQ",
                     "usnistgov/FIPS201",
                     "usnistgov/FederalProfile-8259A",
@@ -21238,6 +21251,16 @@
             "login": "sgimenez",
             "name": "St\u00e9phane Gimenez"
         },
+        "sgupta-14": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/65726580?u=4f4f31eeebc1b3c487827d84fa745c1a428add61&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/800-63-4"
+                ]
+            },
+            "login": "sgupta-14",
+            "name": "Sarbari Gupta"
+        },
         "shadowk29": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6291169?v=4",
             "contributedLabRepositories": {
@@ -21371,7 +21394,7 @@
             "name": "shravya ks"
         },
         "shrinidhi99": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/32514046?u=c0df3fe41908c91009d4da6dd0d5708d1e49d46e&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32514046?u=3ad08c1704502f6b6252a7e6efe1f12de7d2b9ce&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/psc-ns3"

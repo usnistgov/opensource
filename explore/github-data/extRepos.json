@@ -2826,6 +2826,14 @@
             },
             "nameWithOwner": "uswds/uswds"
         },
+        "wendellpiez/OSCAL": {
+            "labContributors": {
+                "nodes": [
+                    "david-waltermire-nist"
+                ]
+            },
+            "nameWithOwner": "wendellpiez/OSCAL"
+        },
         "wendellpiez/metaschema": {
             "labContributors": {
                 "nodes": [
@@ -2833,6 +2841,14 @@
                 ]
             },
             "nameWithOwner": "wendellpiez/metaschema"
+        },
+        "wendellpiez/oscal-content": {
+            "labContributors": {
+                "nodes": [
+                    "david-waltermire-nist"
+                ]
+            },
+            "nameWithOwner": "wendellpiez/oscal-content"
         },
         "wigig-tools/qd-realization": {
             "labContributors": {

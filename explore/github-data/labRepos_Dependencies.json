@@ -1437,30 +1437,6 @@
                 ]
             }
         },
-        "usnistgov/ACVP": {
-            "dependencyGraphManifests": {
-                "nodes": [
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "RUBYGEMS",
-                                    "packageName": "metanorma-cli",
-                                    "repository": {
-                                        "name": "metanorma-cli",
-                                        "nameWithOwner": "metanorma/metanorma-cli",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "metanorma"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        },
         "usnistgov/ACVP-Server": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -25532,141 +25508,6 @@
                 "nodes": []
             }
         },
-        "usnistgov/elr-aphl-validation-plugins": {
-            "dependencyGraphManifests": {
-                "nodes": [
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "com.fasterxml.jackson.core:jackson-annotations",
-                                    "repository": {
-                                        "name": "jackson-annotations",
-                                        "nameWithOwner": "FasterXML/jackson-annotations",
-                                        "owner": {
-                                            "isVerified": false,
-                                            "login": "FasterXML"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "commons-io:commons-io",
-                                    "repository": {
-                                        "name": "commons-io",
-                                        "nameWithOwner": "apache/commons-io",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "apache"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "gov.nist.healthcare:hl7-v2-validation-plugin-utils",
-                                    "repository": null
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "gov.nist:hl7-v2-validation",
-                                    "repository": null
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "junit:junit",
-                                    "repository": {
-                                        "name": "junit4",
-                                        "nameWithOwner": "junit-team/junit4",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "junit-team"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "log4j:log4j",
-                                    "repository": {
-                                        "name": "log4j",
-                                        "nameWithOwner": "apache/log4j",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "apache"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "org.apache.commons:commons-collections4",
-                                    "repository": {
-                                        "name": "commons-collections",
-                                        "nameWithOwner": "apache/commons-collections",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "apache"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "org.apache.commons:commons-csv",
-                                    "repository": {
-                                        "name": "commons-csv",
-                                        "nameWithOwner": "apache/commons-csv",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "apache"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "org.apache.commons:commons-lang3",
-                                    "repository": {
-                                        "name": "commons-lang",
-                                        "nameWithOwner": "apache/commons-lang",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "apache"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "org.apache.maven.plugins:maven-compiler-plugin",
-                                    "repository": {
-                                        "name": "maven-plugins",
-                                        "nameWithOwner": "apache/maven-plugins",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "apache"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "org.apache.maven.plugins:maven-release-plugin",
-                                    "repository": {
-                                        "name": "maven-plugins",
-                                        "nameWithOwner": "apache/maven-plugins",
-                                        "owner": {
-                                            "isVerified": true,
-                                            "login": "apache"
-                                        }
-                                    }
-                                },
-                                {
-                                    "packageManager": "MAVEN",
-                                    "packageName": "org.glassfish.jersey.core:jersey-client",
-                                    "repository": null
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        },
         "usnistgov/engineering-design-models": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -27588,6 +27429,11 @@
             }
         },
         "usnistgov/giab-asm-benchmarking": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            }
+        },
+        "usnistgov/giab-pFDA-2nd-challenge": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
@@ -38649,11 +38495,6 @@
             }
         },
         "usnistgov/iadnlp": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            }
-        },
-        "usnistgov/ifpc": {
             "dependencyGraphManifests": {
                 "nodes": []
             }
