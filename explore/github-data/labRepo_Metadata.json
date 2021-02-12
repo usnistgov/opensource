@@ -167,6 +167,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/2020-12-15-nist-chimad": {
+        "description": null,
+        "name": "usnistgov/2020-12-15-nist-chimad",
+        "topics": null,
+        "website": "https://pages.nist.gov/2020-12-15-nist-chimad/"
+    },
     "usnistgov/3DScanningProject": {
         "description": null,
         "name": "usnistgov/3DScanningProject",
@@ -188,6 +194,12 @@
     "usnistgov/800-63-3-Implementation-Resources": {
         "description": null,
         "name": "usnistgov/800-63-3-Implementation-Resources",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/800-63-4": {
+        "description": null,
+        "name": "usnistgov/800-63-4",
         "topics": null,
         "website": null
     },
@@ -219,7 +231,7 @@
             "nist",
             "nist-approved-algorithms"
         ],
-        "website": "https://usnistgov.github.io/ACVP/"
+        "website": "https://pages.nist.gov/ACVP/"
     },
     "usnistgov/ACVP-Server": {
         "description": "A repository tracking releases of NIST's ACVP server. See www.github.com/usnistgov/ACVP for the protocol.",
@@ -272,7 +284,7 @@
         "website": null
     },
     "usnistgov/ARIAC": {
-        "description": "Repository for ARIAC 2020, consisting of kit building in a simulated warehouse with a dual arm robot.",
+        "description": "Repository for ARIAC 2020/2021, consisting of kit building and assembly in a simulated warehouse with a dual arm robot.",
         "name": "usnistgov/ARIAC",
         "topics": null,
         "website": ""
@@ -313,6 +325,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/BaselineDeepLearningRadarDetectors": {
+        "description": "Baseline models for the paper \"A Tutorial on Generating RF Datasets for Training and Testing Baseline Deep Learning Detectors: Radar Detection in the 3.5 GHz CBRS Band\"",
+        "name": "usnistgov/BaselineDeepLearningRadarDetectors",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/BiometricEvaluation": {
         "description": "NIST Image Group Biometric Repositories",
         "name": "usnistgov/BiometricEvaluation",
@@ -348,6 +366,12 @@
     "usnistgov/CAD-PMI-Testing": {
         "description": null,
         "name": "usnistgov/CAD-PMI-Testing",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/CASE-Implementation-ExifTool": {
+        "description": null,
+        "name": "usnistgov/CASE-Implementation-ExifTool",
         "topics": null,
         "website": null
     },
@@ -429,9 +453,9 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/CloudSecurityArchitectureTool-CSAT": {
+    "usnistgov/CloudSecurityArchitectureTool-CSAT-v0.1": {
         "description": null,
-        "name": "usnistgov/CloudSecurityArchitectureTool-CSAT",
+        "name": "usnistgov/CloudSecurityArchitectureTool-CSAT-v0.1",
         "topics": null,
         "website": null
     },
@@ -519,6 +543,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/E3": {
+        "description": "API that provides standards based economic calculations. ",
+        "name": "usnistgov/E3",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/EGT": {
         "description": "Empirical Gradient Thresholding Method",
         "name": "usnistgov/EGT",
@@ -541,6 +571,12 @@
         ],
         "website": ""
     },
+    "usnistgov/ESV-Server": {
+        "description": "Entropy Source Validation Protocol and Server specifications",
+        "name": "usnistgov/ESV-Server",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/EaaS": {
         "description": "Entropy as a Service protocol",
         "name": "usnistgov/EaaS",
@@ -556,7 +592,9 @@
     "usnistgov/ElectionEventLogging": {
         "description": "Common data format specification for election event logging data",
         "name": "usnistgov/ElectionEventLogging",
-        "topics": null,
+        "topics": [
+            "common-data-format"
+        ],
         "website": "https://pages.nist.gov/ElectionEventLogging/"
     },
     "usnistgov/ElectionGlossary": {
@@ -594,6 +632,12 @@
         "name": "usnistgov/FFAST.jl",
         "topics": null,
         "website": null
+    },
+    "usnistgov/FIPS201": {
+        "description": "Working draft of FIPS 201-3",
+        "name": "usnistgov/FIPS201",
+        "topics": null,
+        "website": "https://pages.nist.gov/FIPS201/"
     },
     "usnistgov/FSMR": {
         "description": "Full Statistical Mode Reconstruction of a light field",
@@ -668,6 +712,12 @@
     "usnistgov/GCode1.09MotiveModified": {
         "description": null,
         "name": "usnistgov/GCode1.09MotiveModified",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/Gwendolen": {
+        "description": "CRCL communication from Kitting demo integrates with Java gwendolen ",
+        "name": "usnistgov/Gwendolen",
         "topics": null,
         "website": null
     },
@@ -815,6 +865,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/IoT-Device-Cybersecurity-Requirement-Catalogs": {
+        "description": null,
+        "name": "usnistgov/IoT-Device-Cybersecurity-Requirement-Catalogs",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/JARVIS-DFT": {
         "description": null,
         "name": "usnistgov/JARVIS-DFT",
@@ -890,7 +946,7 @@
         "description": "Multi-spectrum Analysis Tool for Spectroscopy",
         "name": "usnistgov/MATS",
         "topics": null,
-        "website": null
+        "website": "https://pages.nist.gov/MATS/"
     },
     "usnistgov/MCMLpar": {
         "description": null,
@@ -941,10 +997,14 @@
         "website": ""
     },
     "usnistgov/MRT": {
-        "description": null,
+        "description": "Modified Rhyme Test Speech Intelligibility Graphical User Interface",
         "name": "usnistgov/MRT",
-        "topics": null,
-        "website": null
+        "topics": [
+            "mrt",
+            "intelligibility",
+            "nist"
+        ],
+        "website": ""
     },
     "usnistgov/MRaDS-2017-Demo-Study": {
         "description": "This is the demo study project at MRaDS Conference 2017.",
@@ -1025,7 +1085,9 @@
         "topics": [
             "fingerprint",
             "biometrics",
-            "quality"
+            "quality",
+            "nfiq",
+            "iso"
         ],
         "website": "https://www.nist.gov/services-resources/software/development-nfiq-20"
     },
@@ -1116,6 +1178,18 @@
         "topics": null,
         "website": "https://pages.nist.gov/NISTIR-8149"
     },
+    "usnistgov/NISTPFAS": {
+        "description": "Data hub and data tool repository related to the NIST PFAS Program.",
+        "name": "usnistgov/NISTPFAS",
+        "topics": [
+            "pfas",
+            "chemometrics",
+            "mass-spectrometry",
+            "chemistry",
+            "analytical-chemistry"
+        ],
+        "website": ""
+    },
     "usnistgov/NIST_IGAMT_TCAMT_XML_Tool": {
         "description": null,
         "name": "usnistgov/NIST_IGAMT_TCAMT_XML_Tool",
@@ -1153,7 +1227,7 @@
         "website": ""
     },
     "usnistgov/NLPER": {
-        "description": "A virtual escape room game design and implemented as part of the NLP18 capstone project",
+        "description": "A virtual escape room game design and implemented by NIST NLP18 class.",
         "name": "usnistgov/NLPER",
         "topics": null,
         "website": "https://pages.nist.gov/NLPER"
@@ -1301,6 +1375,18 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/PMUCal": {
+        "description": "PMU and PMU Calibrator Calibration System",
+        "name": "usnistgov/PMUCal",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/PMUCalPostProcessing": {
+        "description": "Tools for creating PMU Calibration and Calibrator Calibration reports from result data",
+        "name": "usnistgov/PMUCalPostProcessing",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/PPEPPD2019-data": {
         "description": "Work materials for the All About Data workshop at PPEPPD-2019",
         "name": "usnistgov/PPEPPD2019-data",
@@ -1384,7 +1470,7 @@
         "website": "https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space"
     },
     "usnistgov/PrivacyFrmwkResources": {
-        "description": "This repository contains resources to support organizations\u2019 use of the Privacy Framework. Resources include crosswalks, Profiles, guidance, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.",
+        "description": "This repository contains resources to support organizations\u2019 use of the Privacy Framework. Resources include crosswalks, Profiles, guidelines, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.",
         "name": "usnistgov/PrivacyFrmwkResources",
         "topics": null,
         "website": "https://www.nist.gov/privacy-framework/resource-repository"
@@ -1637,12 +1723,6 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/SimpleFactory": {
-        "description": "This is a simple factory created with the PySim discrete event simulator",
-        "name": "usnistgov/SimpleFactory",
-        "topics": null,
-        "website": null
-    },
     "usnistgov/SimulatedRadarWaveformGenerator": {
         "description": "A software tool that generates simulated radar signals and creates RF datasets for developing and testing machine/deep learning detection algorithms. ",
         "name": "usnistgov/SimulatedRadarWaveformGenerator",
@@ -1736,6 +1816,12 @@
         ],
         "website": ""
     },
+    "usnistgov/UsabilityConsole": {
+        "description": null,
+        "name": "usnistgov/UsabilityConsole",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/VEMOS": {
         "description": "Visual Explorer for Metrics of Similarity",
         "name": "usnistgov/VEMOS",
@@ -1755,9 +1841,11 @@
         "website": "https://pages.nist.gov/VoterRecordsInterchange"
     },
     "usnistgov/Voting": {
-        "description": "The NIST Voting Program repository - ",
+        "description": "The NIST Voting Program repository",
         "name": "usnistgov/Voting",
-        "topics": null,
+        "topics": [
+            "common-data-format"
+        ],
         "website": "http://vote.nist.gov"
     },
     "usnistgov/VotingMethods": {
@@ -1961,6 +2049,12 @@
     "usnistgov/ariac-docker": {
         "description": "Containerization of ARIAC competition server and competitors' code",
         "name": "usnistgov/ariac-docker",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/artiq-clocks": {
+        "description": null,
+        "name": "usnistgov/artiq-clocks",
         "topics": null,
         "website": null
     },
@@ -2587,6 +2681,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/crcl2ros": {
+        "description": "Robot CRCL to ROS using moveit trajectory and kinematics and displayed with Gazebo",
+        "name": "usnistgov/crcl2ros",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/crontest": {
         "description": "Testing a cron based backup for docker based databases",
         "name": "usnistgov/crontest",
@@ -2679,6 +2779,12 @@
     "usnistgov/diffcap": {
         "description": "FiPy scripts for differential capacitance calculations",
         "name": "usnistgov/diffcap",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/disaster-failure-studies-portal": {
+        "description": null,
+        "name": "usnistgov/disaster-failure-studies-portal",
         "topics": null,
         "website": null
     },
@@ -2802,6 +2908,12 @@
         "name": "usnistgov/erccdashboard_preBioC",
         "topics": null,
         "website": "https://github.com/usnistgov/erccdashboard/wiki"
+    },
+    "usnistgov/err-schema-docs": {
+        "description": null,
+        "name": "usnistgov/err-schema-docs",
+        "topics": null,
+        "website": null
     },
     "usnistgov/erx-message-utils": {
         "description": null,
@@ -2953,15 +3065,27 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/giab-asm-benchmarking": {
+        "description": "GIAB pipeline for benchmarking genome assemblies",
+        "name": "usnistgov/giab-asm-benchmarking",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/giab-pFDA-2nd-challenge": {
+        "description": "Code and intermediate data used to generate figures and results for the manuscript describing the challenge.",
+        "name": "usnistgov/giab-pFDA-2nd-challenge",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/git-novice-MSE": {
         "description": null,
         "name": "usnistgov/git-novice-MSE",
         "topics": null,
         "website": null
     },
-    "usnistgov/github-issue-reports": {
+    "usnistgov/github-branch-reports": {
         "description": "Generate reports on Github issues.",
-        "name": "usnistgov/github-issue-reports",
+        "name": "usnistgov/github-branch-reports",
         "topics": null,
         "website": null
     },
@@ -3019,15 +3143,15 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/gwendolyn": {
-        "description": "Contains Java related CRCL and RCS posemath jar utilities and sample code to use for gwendolyn planning",
-        "name": "usnistgov/gwendolyn",
-        "topics": null,
-        "website": null
-    },
     "usnistgov/gzaprsros": {
         "description": "Gazebo simulation of Agility Performance Lab using Gazebo and ROS",
         "name": "usnistgov/gzaprsros",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/gzaprsworld": {
+        "description": "Using a shell script, creates various configurations of an Agility Lab world in Gazebo  SDF depending on selections.",
+        "name": "usnistgov/gzaprsworld",
         "topics": null,
         "website": null
     },
@@ -3268,6 +3392,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/hl7-diff-tool-frontend": {
+        "description": null,
+        "name": "usnistgov/hl7-diff-tool-frontend",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/hl7-igamt": {
         "description": null,
         "name": "usnistgov/hl7-igamt",
@@ -3390,6 +3520,12 @@
     "usnistgov/iadnlp": {
         "description": "Tools for natural language processing of TranscribeMe! transcripts",
         "name": "usnistgov/iadnlp",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ifpc": {
+        "description": "Presentations and videos from the International Face Performance Conference",
+        "name": "usnistgov/ifpc",
         "topics": null,
         "website": null
     },
@@ -3847,8 +3983,10 @@
     "usnistgov/ndn-dpdk": {
         "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
         "name": "usnistgov/ndn-dpdk",
-        "topics": null,
-        "website": ""
+        "topics": [
+            "ndn"
+        ],
+        "website": "https://www.nist.gov/publications/ndn-forwarding-100-gbps-commodity-hardware"
     },
     "usnistgov/ndntrace": {
         "description": "Traceroute-like tool for NDN",
@@ -3906,12 +4044,6 @@
     "usnistgov/newTCAMT": {
         "description": null,
         "name": "usnistgov/newTCAMT",
-        "topics": null,
-        "website": null
-    },
-    "usnistgov/newrepotemplate": {
-        "description": "repo for new repositories",
-        "name": "usnistgov/newrepotemplate",
         "topics": null,
         "website": null
     },
@@ -4299,6 +4431,12 @@
     "usnistgov/pscr-openwrt-packages-fork": {
         "description": "This is another test.  Do not rely on it for, well, anything.",
         "name": "usnistgov/pscr-openwrt-packages-fork",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/pv2": {
+        "description": "Present Value of PhotoVoltaics (PV2) is an app that allows homeowners to determine a complete cost of ownership for residential rooftop solar PV systems.",
+        "name": "usnistgov/pv2",
         "topics": null,
         "website": null
     },
@@ -4752,6 +4890,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/trojai-baseline-pruning": {
+        "description": "Pruning-based Baseline Approach to Trojan Detection in AI Models",
+        "name": "usnistgov/trojai-baseline-pruning",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/trojai-example": {
         "description": "Example TrojAI Submission",
         "name": "usnistgov/trojai-example",
@@ -4961,12 +5105,6 @@
         "name": "usnistgov/winder",
         "topics": null,
         "website": ""
-    },
-    "usnistgov/wireless-factory-sysml": {
-        "description": "SysML model of the wireless connected factory workcell",
-        "name": "usnistgov/wireless-factory-sysml",
-        "topics": null,
-        "website": null
     },
     "usnistgov/workbench_admin_per_menu": {
         "description": "I am a module that provides workbench access for Drupal menus.",
