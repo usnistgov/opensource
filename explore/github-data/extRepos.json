@@ -362,6 +362,14 @@
             },
             "nameWithOwner": "JuliaLang/julia"
         },
+        "JuliaNLSolvers/OptimBase.jl": {
+            "labContributors": {
+                "nodes": [
+                    "NicholasWMRitchie"
+                ]
+            },
+            "nameWithOwner": "JuliaNLSolvers/OptimBase.jl"
+        },
         "JuliaPOMDP/POMDPModels.jl": {
             "labContributors": {
                 "nodes": [
@@ -618,14 +626,6 @@
                 ]
             },
             "nameWithOwner": "RIPE-NCC/ripe-atlas-software-probe"
-        },
-        "RedHatGov/rolie": {
-            "labContributors": {
-                "nodes": [
-                    "stephenbanghart"
-                ]
-            },
-            "nameWithOwner": "RedHatGov/rolie"
         },
         "ResearchKit/ResearchKit": {
             "labContributors": {
@@ -1519,19 +1519,19 @@
         "hpc-carpentry/hpc-carpentry.github.io": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
                     "tkphd"
                 ]
             },
             "nameWithOwner": "hpc-carpentry/hpc-carpentry.github.io"
         },
-        "hpc-carpentry/hpc-carpentry.org": {
+        "hpc-carpentry/hpc-carpentry.old-site": {
             "labContributors": {
                 "nodes": [
+                    "reid-a",
                     "tkphd"
                 ]
             },
-            "nameWithOwner": "hpc-carpentry/hpc-carpentry.org"
+            "nameWithOwner": "hpc-carpentry/hpc-carpentry.old-site"
         },
         "hpc-carpentry/hpc-chapel": {
             "labContributors": {
@@ -1540,6 +1540,14 @@
                 ]
             },
             "nameWithOwner": "hpc-carpentry/hpc-chapel"
+        },
+        "hpc-carpentry/hpc-parallel-novice": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "hpc-carpentry/hpc-parallel-novice"
         },
         "hpc-carpentry/hpc-python": {
             "labContributors": {

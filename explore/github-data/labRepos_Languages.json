@@ -7066,13 +7066,16 @@
                         "name": "QMake"
                     },
                     {
+                        "name": "HTML"
+                    },
+                    {
                         "name": "C"
                     },
                     {
                         "name": "Perl"
                     }
                 ],
-                "totalCount": 10
+                "totalCount": 11
             }
         },
         "usnistgov/crontest": {
@@ -8261,13 +8264,10 @@
                         "name": "Python"
                     },
                     {
-                        "name": "C++"
-                    },
-                    {
                         "name": "Perl"
                     }
                 ],
-                "totalCount": 8
+                "totalCount": 7
             }
         },
         "usnistgov/had-monitor": {
