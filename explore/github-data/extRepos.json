@@ -676,6 +676,14 @@
             },
             "nameWithOwner": "Systems-Modeling/SysML-v2-Pilot-Implementation"
         },
+        "TLP-COI/tlp-coi-docs": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "TLP-COI/tlp-coi-docs"
+        },
         "TonyGermaneri/canvas-datagrid": {
             "labContributors": {
                 "nodes": [
@@ -1010,6 +1018,7 @@
         "carpentries/styles": {
             "labContributors": {
                 "nodes": [
+                    "reid-a",
                     "tkphd"
                 ]
             },
@@ -2073,6 +2082,14 @@
                 ]
             },
             "nameWithOwner": "named-data/PSync"
+        },
+        "named-data/jndn": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "named-data/jndn"
         },
         "named-data/name-based-access-control": {
             "labContributors": {
