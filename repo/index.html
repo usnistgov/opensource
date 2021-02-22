@@ -5,8 +5,8 @@ layout: repo
 
 {% raw %}
 
-<link rel="stylesheet" type="text/css" href="https://software.llnl.gov/css/repostyle.css" />
-<link rel="stylesheet" type="text/css" href="https://software.llnl.gov/css/graphstyle.css" />
+<link type="text/css" href="/css/repostyle.css" />
+<link type="text/css" href=/css/graphstyle.css" />
 
 <div id="mainContent">
     <h1 class="page-header text-center">
@@ -43,9 +43,8 @@ layout: repo
         <br /><svg class="pieUsers"></svg>
         <br /><svg ng-if="count.pulls" class="piePulls"></svg><svg ng-if="count.issues" class="pieIssues"></svg>
         <br /><svg class="repoCreationHistory"></svg>
-        <br /><svg ng-if="repo.stargazers.totalCount" class="repoStarHistory"></svg>
         <span ng-if="repo.languages.totalCount || repo.repositoryTopics.totalCount">
-            <br /><svg ng-if="repo.languages.totalCount" class="languagePie"></svg><svg ng-if="repo.repositoryTopics.totalCount" class="topicCloud"></svg>
+            <br /><svg ng-if="repo.languages.totalCount" class="languageCloud"></svg><svg ng-if="repo.repositoryTopics.totalCount" class="topicCloud"></svg>
         </span>
     </center>
 </div>
@@ -53,20 +52,19 @@ layout: repo
 {% endraw %}
 
 <!-- Load basic D3 and helper scripts -->
-<script src="https://cdn.llnl.gov/d3/5.16.0/d3.min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://cdn.llnl.gov/d3-tip/1.0/d3-tip.js"></script>
-<script type="text/javascript" src="https://cdn.llnl.gov/d3-v4-cloud/1.2.2/build/d3.layout.cloud.js"></script>
-<script type="text/javascript" src="https://software.llnl.gov/js/explore/helpers.js"></script>
+<script type="text/javascript" src="/js/d3.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/js/d3-tip.js"></script>
+<script type="text/javascript" src="/js/d3.layout.cloud.js"></script>
+<script type="text/javascript" src="/js/explore/helpers.js"></script>
 
 <!-- Load drawing JS -->
-<script type="text/javascript" src="https://software.llnl.gov/js/explore/line_repoActivity.js"></script>
-<script type="text/javascript" src="https://software.llnl.gov/js/explore/pie_repoUsers.js"></script>
-<script type="text/javascript" src="https://software.llnl.gov/js/explore/pie_repoPulls.js"></script>
-<script type="text/javascript" src="https://software.llnl.gov/js/explore/pie_repoIssues.js"></script>
-<script type="text/javascript" src="https://software.llnl.gov/js/explore/line_repoCreationHistory.js"></script>
-<script type="text/javascript" src="https://software.llnl.gov/js/explore/pie_language.js"></script>
-<script type="text/javascript" src="https://software.llnl.gov/js/explore/cloud_topics.js"></script>
-<script type="text/javascript" src="https://software.llnl.gov/js/explore/line_repoStarHistory.js"></script>
+<script type="text/javascript" src="/js/explore/line_repoActivity.js"></script>
+<script type="text/javascript" src="/js/explore/pie_repoUsers.js"></script>
+<script type="text/javascript" src="/js/explore/pie_repoPulls.js"></script>
+<script type="text/javascript" src="/js/explore/pie_repoIssues.js"></script>
+<script type="text/javascript" src="/js/explore/line_repoCreationHistory.js"></script>
+<script type="text/javascript" src="/js/explore/cloud_languages.js"></script>
+<script type="text/javascript" src="/js/explore/cloud_topics.js"></script>
 
 <script>
     // GiHub Data Directory
@@ -83,5 +81,5 @@ layout: repo
         stdLgndSpacing = 20;
 </script>
 
-<script src="https://cdn.llnl.gov/angularjs/1.5.8/angular.min.js"></script>
-<script src="../js/repo/repo-dynamic.js"></script>
+<script src="/js/angular.min.js"></script>
+<script src="/js/repo/repo-dynamic.js"></script>
