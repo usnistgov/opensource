@@ -319,7 +319,12 @@
                     "usnistgov/oar-metadata",
                     "usnistgov/oar-pdr",
                     "usnistgov/oar-rmm",
-                    "usnistgov/oar-sdp"
+                    "usnistgov/oar-sdp",
+                    "usnistgov/opensource",
+                    "usnistgov/opensource-actions",
+                    "usnistgov/opensource-data",
+                    "usnistgov/opensource-repo",
+                    "usnistgov/opensource-theme"
                 ]
             },
             "login": "GRG2",
@@ -2135,7 +2140,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4742026?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/HTE-NiTiAl"
+                    "usnistgov/HTE-NiTiAl",
+                    "usnistgov/jarvis"
                 ]
             },
             "login": "bdecost",
