@@ -4411,10 +4411,13 @@
             "languages": {
                 "nodes": [
                     {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
                         "name": "Python"
                     }
                 ],
-                "totalCount": 1
+                "totalCount": 2
             }
         },
         "usnistgov/SVClassify": {
@@ -7029,7 +7032,7 @@
                         "name": "SCSS"
                     },
                     {
-                        "name": "NASL"
+                        "name": "PHP"
                     }
                 ],
                 "totalCount": 19

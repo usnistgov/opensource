@@ -829,6 +829,14 @@
             },
             "nameWithOwner": "asmunder/BPIPMDS"
         },
+        "aspuru-guzik-group/tequila": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "aspuru-guzik-group/tequila"
+        },
         "astra-toolbox/astra-toolbox": {
             "labContributors": {
                 "nodes": [
@@ -1079,14 +1087,6 @@
                 ]
             },
             "nameWithOwner": "chartbeat-labs/textacy"
-        },
-        "clojure-emacs/cider": {
-            "labContributors": {
-                "nodes": [
-                    "pdenno"
-                ]
-            },
-            "nameWithOwner": "clojure-emacs/cider"
         },
         "cmallery99/Encrypter2": {
             "labContributors": {
@@ -2505,14 +2505,6 @@
             },
             "nameWithOwner": "reflectivity/reflectivity.github.io"
         },
-        "reflectivity/reproducibility": {
-            "labContributors": {
-                "nodes": [
-                    "bmaranville"
-                ]
-            },
-            "nameWithOwner": "reflectivity/reproducibility"
-        },
         "reflectometry/refl1d": {
             "labContributors": {
                 "nodes": [
@@ -2609,6 +2601,14 @@
                 ]
             },
             "nameWithOwner": "satyaprakash-1729/ndn-python-catalog"
+        },
+        "scapcommunity/endpoint-collection": {
+            "labContributors": {
+                "nodes": [
+                    "stephenbanghart"
+                ]
+            },
+            "nameWithOwner": "scapcommunity/endpoint-collection"
         },
         "scapcommunity/site": {
             "labContributors": {
@@ -2947,14 +2947,6 @@
                 ]
             },
             "nameWithOwner": "xojs/xo"
-        },
-        "ycphs/openxlsx": {
-            "labContributors": {
-                "nodes": [
-                    "gfiumara"
-                ]
-            },
-            "nameWithOwner": "ycphs/openxlsx"
         },
         "yoursunny/NDNph": {
             "labContributors": {
