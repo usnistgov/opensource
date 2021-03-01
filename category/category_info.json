@@ -3,7 +3,7 @@
         "SCIENTIFIC SOFTWARE": {
             "title": "SCIENTIFIC SOFTWARE",
             "icon": {
-                "path": "./assets/images/math.svg",
+                "path": "https://pages.nist.gov/opensource/assets/images/math.svg",
                 "alt": "Scientific Software"
             },
             "description": "All opensource scientific software.",
@@ -22,7 +22,7 @@
         "SIMULATION": {
             "title": "SIMULATION",
             "icon": {
-                "path": "./assets/images/application.svg",
+                "path": "https://pages.nist.gov/opensource/assets/images/application.svg",
                 "alt": "Simulation"
             },
             "description": "All opensource simulation contributions.",
@@ -42,7 +42,7 @@
         "VIZUALISATION": {
             "title": "VISUALIZATION",
             "icon": {
-                "path": "./assets/images/data-manage.svg",
+                "path": "https://pages.nist.gov/opensource/assets/images/data-manage.svg",
                 "alt": "Visualization"
             },
             "description": "All opensource visualisation oriented contributions.",
@@ -61,7 +61,7 @@
         "AI AND MACHINE LEARNING": {
             "title": "AI & MACHINE LEARNING",
             "icon": {
-                "path": "./assets/images/portable.svg",
+                "path": "https://pages.nist.gov/opensource/assets/images/portable.svg",
                 "alt": "AI & Machine Learning"
             },
             "description": "All AI and ML opensource models, frameworks or services.",
@@ -83,7 +83,7 @@
         "TOOLS": {
             "title": "TOOLS",
             "icon": {
-                "path": "./assets/images/build-tools.svg",
+                "path": "https://pages.nist.gov/opensource/assets/images/build-tools.svg",
                 "alt": "Tools"
             },
             "description": "All open source tools or utilities.",
@@ -101,7 +101,7 @@
         "HPC & WORKFLOW": {
             "title": "PERFORMANCE & WORKFLOW",
             "icon": {
-                "path": "./assets/images/performance.svg",
+                "path": "https://pages.nist.gov/opensource/assets/images/performance.svg",
                 "alt": "High Performance Computing & Workflow"
             },
             "description": "All intensive resource leveraging contributions.",
