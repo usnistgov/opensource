@@ -48,7 +48,7 @@ app.service('Category', function() {
         }
         //if repo has unique logo use it
         if (match) {
-            return './assets/images/logos/' + file;
+            return 'https://pages.nist.gov/opensource/assets/images/logos/' + file;
         }
         //if repo does not have unique logo use org logo
         else if (!match) {
