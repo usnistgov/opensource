@@ -4,15 +4,15 @@ angular.module('app', []).controller('gitHubDataController', [
     '$window',
     '$location',
     function($scope, $http, $window, $location) {
-        var getCategoryInfo = $http.get('./category/category_info.json', {
+        var getCategoryInfo = $http.get('https://pages.nist.gov/opensource/category/category_info.json', {
             cache: true
         });
 
-        var getReposTopics = $http.get('./explore/github-data/labRepos_Topics.json', {
+        var getReposTopics = $http.get('https://pages.nist.gov/opensource/explore/github-data/labRepos_Topics.json', {
             cache: true
         });
 
-        var getReposInfo = $http.get('./explore/github-data/labReposInfo.json', {
+        var getReposInfo = $http.get('https://pages.nist.gov/opensource/explore/github-data/labReposInfo.json', {
             cache: true
         });
 
@@ -74,7 +74,7 @@ angular.module('app', []).controller('gitHubDataController', [
             var complete = {
                 title: 'ALL SOFTWARE',
                 icon: {
-                    path: './assets/images/catalog.svg',
+                    path: 'https://pages.nist.gov/opensource/assets/images/catalog.svg',
                     alt: 'All Software'
                 },
                 description: 'Browse all NIST open source projects',
