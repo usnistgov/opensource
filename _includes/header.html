@@ -9,7 +9,7 @@
       </button>
 
       <p id="nist-menu-tab" class="pull-left"><a href="https://www.nist.gov"></a></p>
-      <a class="navbar-brand" href="./">{{ site.name }}</a>
+      <a class="navbar-brand" onclick="return cref('/');">{{ site.name }}</a>
       <span class="badge" style="color:black;background-color:#f0f0f0;vertical-align: text-top;margin-top: 10px;">{{ site.version }}</span>
     </div>
 
@@ -20,17 +20,17 @@
         <li id="explore"
           {% if page.url == "./explore/" %} class="active dropdown"
           {% else %} class="dropdown"
-          {% endif %}><a class="navbar-normal" href="./explore/">Explore</a>
+          {% endif %}><a class="navbar-normal" onclick="return cref('explore/');">Explore</a>
           <div class="dropdown-content">
-            <p><a class="navbar-normal" href="./explore/dependencies/">Dependencies</a></p>
-            <p><a class="navbar-normal" href="./explore/popular-repos/">Popular Repositories</a></p>
+            <p><a class="navbar-normal" onclick="return cref('explore/dependencies/');">Dependencies</a></p>
+            <p><a class="navbar-normal" onclick="return cref('explore/popular-repos/');">Popular Repositories</a></p>
           </div>
         </li>
 
         <li id="about"
             {% if page.url == "./about/" %} class="active dropdown"
             {% else %} class="dropdown"
-            {% endif %}><a class="navbar-normal" href="./about/">About</a>
+            {% endif %}><a class="navbar-normal" onclick="return cref('about/');">About</a>
           <!-- <div class="dropdown-content">
             <p><a class="navbar-normal" href="/about/using-github/">Using GitHub</a></p>
             <p><a class="navbar-normal" href="/about/licenses/">Licensing</a></p>
