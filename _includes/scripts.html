@@ -12,7 +12,7 @@
     function cref(location) {
         var paths = window.location.pathname.split("/");
         
-        if (paths[0] == "opensource") {
+        if (paths[1] == "opensource") {
             window.location.href = window.location.origin+"/opensource/"+location;;
         } else{
             window.location.href = window.location.origin+"/"+location;
