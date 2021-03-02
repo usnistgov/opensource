@@ -8,7 +8,14 @@
 </script>
 
 <script>
+    //Contexttual href.
     function cref(location) {
-        console.log("RUnning everywhere: "+location);
+        var paths = window.location.pathname.split("/");
+        
+        if (paths[0] == "opensource") {
+            window.location.href = window.location.origin+"/opensource/"+location;;
+        } else{
+            window.location.href = window.location.origin+"/"+location;
+        }
     }
 </script> 
