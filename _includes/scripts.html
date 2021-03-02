@@ -18,4 +18,14 @@
             window.location.href = window.location.origin+"/"+location;
         }
     }
+    
+    function cpath(location) {
+        var paths = window.location.pathname.split("/");
+        
+        if (paths[1] == "opensource") {
+            return window.location.origin+"/opensource/"+location;
+        } else{
+            return window.location.origin+"/"+location;
+        }
+    }
 </script> 
