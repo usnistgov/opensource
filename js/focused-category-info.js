@@ -173,6 +173,7 @@ angular.module('app', []).controller('gitHubDataController', [
                     var result = nametag.replace(/ /g, '');
                     //$window.location.replace(cpath('category/#/' + result));
                     $(location).attr('href', '../category/#/' + result);
+                    window.location.reload();
                 };
             });
         });
