@@ -172,7 +172,7 @@ angular.module('app', []).controller('gitHubDataController', [
                 $scope.categoryHref = function(nametag) {
                     var result = nametag.replace(/ /g, '');
                     //$window.location.replace(cpath('category/#/' + result));
-                    $(location).attr('href', cpath('category/#/' + result));
+                    $(location).attr('href', '../category/#/' + result);
                 };
             });
         });
