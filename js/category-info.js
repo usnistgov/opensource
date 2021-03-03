@@ -85,13 +85,13 @@ app.controller('gitHubDataController', function($scope, $http, $window, Category
 
                 //function for generating hash url for each repo
                 $scope.repoHref = function(nametag) {
-                    $window.location.replace(cpath('/repo/#/' + nametag));
+                    $window.location.replace(cpath('repo/#/' + nametag));
                 };
 
                 //function to generate hash url for each category
                 $scope.categoryHref = function(nametag) {
                     var result = nametag.replace(/ /g, '');
-                    $window.location.replace(cpath('/category/#/' + result));
+                    $window.location.replace(cpath('category/#/' + result));
                 };
             });
         });
