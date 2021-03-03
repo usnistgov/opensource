@@ -164,13 +164,13 @@ angular.module('app', []).controller('gitHubDataController', [
 
                 //create function for generating hash url for each repo
                 $scope.repoHref = function(nametag) {
-                    $window.location.href = cpath('repo#' + nametag);
+                    $window.location.href = cpath('repo/#/' + nametag);
                 };
 
                 //function to generate hash url for each category
                 $scope.categoryHref = function(nametag) {
                     var result = nametag.replace(/ /g, '');
-                    $window.location.href = cpath('category#' + result);
+                    $window.location.href = cpath('category/#/' + result);
                 };
             });
         });
