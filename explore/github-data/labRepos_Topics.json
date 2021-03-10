@@ -1725,6 +1725,55 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/NetSimulyzer": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/ns-3",
+                        "topic": {
+                            "name": "ns-3"
+                        },
+                        "url": "https://github.com/topics/ns-3"
+                    },
+                    {
+                        "resourcePath": "/topics/visualisation",
+                        "topic": {
+                            "name": "visualisation"
+                        },
+                        "url": "https://github.com/topics/visualisation"
+                    },
+                    {
+                        "resourcePath": "/topics/qt",
+                        "topic": {
+                            "name": "qt"
+                        },
+                        "url": "https://github.com/topics/qt"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
+        "usnistgov/NetSimulyzer-ns3-module": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/ns-3",
+                        "topic": {
+                            "name": "ns-3"
+                        },
+                        "url": "https://github.com/topics/ns-3"
+                    },
+                    {
+                        "resourcePath": "/topics/visualization",
+                        "topic": {
+                            "name": "visualization"
+                        },
+                        "url": "https://github.com/topics/visualization"
+                    }
+                ],
+                "totalCount": 2
+            }
+        },
         "usnistgov/NexusLIMS": {
             "repositoryTopics": {
                 "nodes": [],

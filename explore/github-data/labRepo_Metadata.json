@@ -1286,6 +1286,25 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/NetSimulyzer": {
+        "description": "A flexible 3D visualizer for displaying, debugging, presenting, and understanding ns-3 scenarios.",
+        "name": "usnistgov/NetSimulyzer",
+        "topics": [
+            "ns-3",
+            "visualisation",
+            "qt"
+        ],
+        "website": ""
+    },
+    "usnistgov/NetSimulyzer-ns3-module": {
+        "description": "A flexible 3D visualizer for displaying, debugging, presenting, and understanding ns-3 scenarios.",
+        "name": "usnistgov/NetSimulyzer-ns3-module",
+        "topics": [
+            "ns-3",
+            "visualization"
+        ],
+        "website": ""
+    },
     "usnistgov/NexusLIMS": {
         "description": "The Nexus Microscopy Facility Laboratory Information Management System",
         "name": "usnistgov/NexusLIMS",
