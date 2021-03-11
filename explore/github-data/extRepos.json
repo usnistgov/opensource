@@ -828,6 +828,14 @@
             },
             "nameWithOwner": "astropy/astropy"
         },
+        "autodiff/autodiff": {
+            "labContributors": {
+                "nodes": [
+                    "ianhbell"
+                ]
+            },
+            "nameWithOwner": "autodiff/autodiff"
+        },
         "automl/auto-sklearn": {
             "labContributors": {
                 "nodes": [
@@ -932,13 +940,13 @@
             },
             "nameWithOwner": "blaiszik/moment"
         },
-        "brianrufgsa/OSCAL": {
+        "brian-ruf/OSCAL": {
             "labContributors": {
                 "nodes": [
                     "david-waltermire-nist"
                 ]
             },
-            "nameWithOwner": "brianrufgsa/OSCAL"
+            "nameWithOwner": "brian-ruf/OSCAL"
         },
         "bumps/bumps": {
             "labContributors": {
@@ -2786,6 +2794,14 @@
             },
             "nameWithOwner": "swcarpentry/python-novice-gapminder"
         },
+        "swcarpentry/r-novice-gapminder": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "swcarpentry/r-novice-gapminder"
+        },
         "systemd/systemd": {
             "labContributors": {
                 "nodes": [
@@ -2938,14 +2954,6 @@
                 ]
             },
             "nameWithOwner": "xojs/xo"
-        },
-        "yoursunny/ndn-cxx-breaks": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "yoursunny/ndn-cxx-breaks"
         },
         "yoursunny/ndn-cxx-code-style": {
             "labContributors": {
