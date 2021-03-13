@@ -540,8 +540,16 @@
         },
         "usnistgov/CastVoteRecords": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/common-data-format",
+                        "topic": {
+                            "name": "common-data-format"
+                        },
+                        "url": "https://github.com/topics/common-data-format"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/Cell-Imaging": {
@@ -750,8 +758,16 @@
         },
         "usnistgov/ElectionResultsReporting": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/common-data-format",
+                        "topic": {
+                            "name": "common-data-format"
+                        },
+                        "url": "https://github.com/topics/common-data-format"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/EmbodiedAI": {
@@ -2654,8 +2670,16 @@
         },
         "usnistgov/VoterRecordsInterchange": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/common-data-format",
+                        "topic": {
+                            "name": "common-data-format"
+                        },
+                        "url": "https://github.com/topics/common-data-format"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/Voting": {
