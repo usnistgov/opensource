@@ -426,7 +426,9 @@
     "usnistgov/CastVoteRecords": {
         "description": "Common data format specification for cast vote records",
         "name": "usnistgov/CastVoteRecords",
-        "topics": null,
+        "topics": [
+            "common-data-format"
+        ],
         "website": "https://pages.nist.gov/CastVoteRecords"
     },
     "usnistgov/Cell-Imaging": {
@@ -612,7 +614,9 @@
     "usnistgov/ElectionResultsReporting": {
         "description": "Common data format specification for election results reporting data",
         "name": "usnistgov/ElectionResultsReporting",
-        "topics": null,
+        "topics": [
+            "common-data-format"
+        ],
         "website": "https://pages.nist.gov/ElectionResultsReporting"
     },
     "usnistgov/EmbodiedAI": {
@@ -1868,7 +1872,9 @@
     "usnistgov/VoterRecordsInterchange": {
         "description": "Common data format specification for voter records interchange data",
         "name": "usnistgov/VoterRecordsInterchange",
-        "topics": null,
+        "topics": [
+            "common-data-format"
+        ],
         "website": "https://pages.nist.gov/VoterRecordsInterchange"
     },
     "usnistgov/Voting": {
