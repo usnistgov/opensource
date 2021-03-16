@@ -402,6 +402,14 @@
             },
             "nameWithOwner": "LLNL/RAJA"
         },
+        "LLNL/spark-hdf5": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "LLNL/spark-hdf5"
+        },
         "LabShare/WIPP-frontend": {
             "labContributors": {
                 "nodes": [
