@@ -3060,16 +3060,19 @@
                         "name": "M4"
                     },
                     {
-                        "name": "C++"
-                    },
-                    {
                         "name": "Roff"
                     },
                     {
                         "name": "Perl"
                     },
                     {
+                        "name": "C++"
+                    },
+                    {
                         "name": "Smarty"
+                    },
+                    {
+                        "name": "Objective-C"
                     },
                     {
                         "name": "Common Lisp"
@@ -3078,7 +3081,7 @@
                         "name": "Awk"
                     }
                 ],
-                "totalCount": 11
+                "totalCount": 12
             }
         },
         "usnistgov/NIST-FDD-for-Residential-Air-Conditioners-and-Heat-Pumps": {
@@ -4135,10 +4138,10 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "Python"
+                        "name": "C"
                     },
                     {
-                        "name": "C"
+                        "name": "Python"
                     },
                     {
                         "name": "C++"
@@ -10166,12 +10169,9 @@
                     },
                     {
                         "name": "MATLAB"
-                    },
-                    {
-                        "name": "Dockerfile"
                     }
                 ],
-                "totalCount": 9
+                "totalCount": 8
             }
         },
         "usnistgov/mosaic-examples": {
@@ -11077,7 +11077,7 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "CSS"
+                        "name": "SCSS"
                     },
                     {
                         "name": "HTML"
