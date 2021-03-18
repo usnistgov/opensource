@@ -1737,7 +1737,12 @@
             "languages": {
                 "totalCount": 4
             },
-            "licenseInfo": null,
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
             "mentionableUsers": {
                 "totalCount": 16
             },
@@ -1754,7 +1759,7 @@
                 "totalCount": 2
             },
             "pullRequests_Merged": {
-                "totalCount": 20
+                "totalCount": 21
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -1786,7 +1791,12 @@
             "languages": {
                 "totalCount": 0
             },
-            "licenseInfo": null,
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
             "mentionableUsers": {
                 "totalCount": 15
             },
@@ -1810,14 +1820,14 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "url": "https://github.com/usnistgov/800-63-4"
         },
         "usnistgov/800-63-FAQ": {
             "createdAt": "2017-07-27T14:07:07Z",
             "defaultBranchRef": {
-                "name": "master"
+                "name": "nist-pages"
             },
             "description": null,
             "forks": {
@@ -1833,7 +1843,12 @@
             "languages": {
                 "totalCount": 0
             },
-            "licenseInfo": null,
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
             "mentionableUsers": {
                 "totalCount": 16
             },
@@ -1848,7 +1863,7 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 23
+                "totalCount": 24
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -1980,10 +1995,10 @@
             },
             "homepageUrl": "https://pages.nist.gov/ACVP/",
             "issues_Closed": {
-                "totalCount": 770
+                "totalCount": 772
             },
             "issues_Open": {
-                "totalCount": 44
+                "totalCount": 42
             },
             "languages": {
                 "totalCount": 3
@@ -2005,7 +2020,7 @@
                 "totalCount": 21
             },
             "pullRequests_Merged": {
-                "totalCount": 306
+                "totalCount": 307
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -2029,10 +2044,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 60
+                "totalCount": 64
             },
             "issues_Open": {
-                "totalCount": 26
+                "totalCount": 22
             },
             "languages": {
                 "totalCount": 0
@@ -2372,7 +2387,7 @@
                 "totalCount": 60
             },
             "issues_Open": {
-                "totalCount": 8
+                "totalCount": 9
             },
             "languages": {
                 "totalCount": 4
@@ -3531,7 +3546,7 @@
                 "totalCount": 1
             },
             "stargazers": {
-                "totalCount": 11
+                "totalCount": 12
             },
             "url": "https://github.com/usnistgov/CastVoteRecords"
         },
@@ -5234,10 +5249,10 @@
             },
             "homepageUrl": "https://pages.nist.gov/FIPS201/",
             "issues_Closed": {
-                "totalCount": 74
+                "totalCount": 75
             },
             "issues_Open": {
-                "totalCount": 320
+                "totalCount": 319
             },
             "languages": {
                 "totalCount": 4
@@ -10706,7 +10721,7 @@
                 "totalCount": 408
             },
             "issues_Open": {
-                "totalCount": 113
+                "totalCount": 115
             },
             "languages": {
                 "totalCount": 8
@@ -10742,7 +10757,7 @@
                 "totalCount": 4
             },
             "stargazers": {
-                "totalCount": 271
+                "totalCount": 272
             },
             "url": "https://github.com/usnistgov/OSCAL"
         },
@@ -12325,7 +12340,7 @@
                 "totalCount": 256
             },
             "issues_Open": {
-                "totalCount": 39
+                "totalCount": 40
             },
             "languages": {
                 "totalCount": 0
@@ -12470,7 +12485,7 @@
                 "totalCount": 320
             },
             "issues_Open": {
-                "totalCount": 10
+                "totalCount": 11
             },
             "languages": {
                 "totalCount": 12
@@ -15304,7 +15319,7 @@
                 "totalCount": 95
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -16559,10 +16574,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 56
+                "totalCount": 59
             },
             "issues_Open": {
-                "totalCount": 67
+                "totalCount": 65
             },
             "languages": {
                 "totalCount": 8
@@ -24265,10 +24280,10 @@
             },
             "homepageUrl": "http://www.ctcms.nist.gov/fipy",
             "issues_Closed": {
-                "totalCount": 519
+                "totalCount": 520
             },
             "issues_Open": {
-                "totalCount": 124
+                "totalCount": 123
             },
             "languages": {
                 "totalCount": 2
@@ -29608,7 +29623,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 184
+                "totalCount": 185
             },
             "url": "https://github.com/usnistgov/jsip"
         },
@@ -30261,10 +30276,10 @@
                 "totalCount": 8
             },
             "pullRequests_Merged": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 7
@@ -31886,7 +31901,7 @@
             },
             "homepageUrl": "https://www.nist.gov/publications/ndn-forwarding-100-gbps-commodity-hardware",
             "issues_Closed": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "issues_Open": {
                 "totalCount": 2
@@ -33397,7 +33412,7 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 29
+                "totalCount": 30
             },
             "pullRequests_Open": {
                 "totalCount": 2
@@ -35231,7 +35246,7 @@
             },
             "description": "Public Safety Communication modeling tools based on ns-3",
             "forks": {
-                "totalCount": 27
+                "totalCount": 28
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -35562,7 +35577,7 @@
                 "totalCount": 6
             },
             "issues_Open": {
-                "totalCount": 9
+                "totalCount": 10
             },
             "languages": {
                 "totalCount": 1
@@ -37892,7 +37907,7 @@
             },
             "description": null,
             "forks": {
-                "totalCount": 7
+                "totalCount": 6
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -39111,7 +39126,7 @@
             },
             "description": null,
             "forks": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -39147,7 +39162,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 40
+                "totalCount": 41
             },
             "url": "https://github.com/usnistgov/trojai-literature"
         },
