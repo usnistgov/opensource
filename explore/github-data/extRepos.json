@@ -112,14 +112,6 @@
             },
             "nameWithOwner": "Boulder-Cryogenic-Quantum-Testbed/measurement"
         },
-        "COVID19Tracking/issues": {
-            "labContributors": {
-                "nodes": [
-                    "saewoonam"
-                ]
-            },
-            "nameWithOwner": "COVID19Tracking/issues"
-        },
         "CTG-Boulder/ETK-prototype": {
             "labContributors": {
                 "nodes": [
@@ -650,14 +642,6 @@
             },
             "nameWithOwner": "RIPE-NCC/ripe-atlas-software-probe"
         },
-        "ResearchKit/ResearchKit": {
-            "labContributors": {
-                "nodes": [
-                    "gfiumara"
-                ]
-            },
-            "nameWithOwner": "ResearchKit/ResearchKit"
-        },
         "SasView/sasview": {
             "labContributors": {
                 "nodes": [
@@ -828,14 +812,6 @@
             },
             "nameWithOwner": "arc-lessons/security"
         },
-        "ashiqopu/ndn-arm-builds": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "ashiqopu/ndn-arm-builds"
-        },
         "asmunder/BPIPMDS": {
             "labContributors": {
                 "nodes": [
@@ -907,6 +883,14 @@
                 ]
             },
             "nameWithOwner": "beyucel/pymks"
+        },
+        "bioconda/bioconda-recipes": {
+            "labContributors": {
+                "nodes": [
+                    "nate-d-olson"
+                ]
+            },
+            "nameWithOwner": "bioconda/bioconda-recipes"
         },
         "biometricITC/Administration": {
             "labContributors": {
@@ -980,14 +964,6 @@
             },
             "nameWithOwner": "blaiszik/moment"
         },
-        "brian-ruf/OSCAL": {
-            "labContributors": {
-                "nodes": [
-                    "david-waltermire-nist"
-                ]
-            },
-            "nameWithOwner": "brian-ruf/OSCAL"
-        },
         "bumps/bumps": {
             "labContributors": {
                 "nodes": [
@@ -1053,6 +1029,14 @@
                 ]
             },
             "nameWithOwner": "carpentries/carpentries-theme"
+        },
+        "carpentries/lesson-example": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "carpentries/lesson-example"
         },
         "carpentries/styles": {
             "labContributors": {
@@ -1135,6 +1119,14 @@
             },
             "nameWithOwner": "cmscaltech/sandie-ndn"
         },
+        "codeforamerica/brigade-information": {
+            "labContributors": {
+                "nodes": [
+                    "jimfenton"
+                ]
+            },
+            "nameWithOwner": "codeforamerica/brigade-information"
+        },
         "conda-forge/cdcs-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -1150,6 +1142,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/fipy-feedstock"
+        },
+        "conda-forge/gmsh-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "guyer"
+                ]
+            },
+            "nameWithOwner": "conda-forge/gmsh-feedstock"
         },
         "conda-forge/iprpy-feedstock": {
             "labContributors": {
@@ -1191,14 +1191,6 @@
             },
             "nameWithOwner": "conda-forge/pyprism-feedstock"
         },
-        "conda-forge/sfepy-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "wd15"
-                ]
-            },
-            "nameWithOwner": "conda-forge/sfepy-feedstock"
-        },
         "conda-forge/staged-recipes": {
             "labContributors": {
                 "nodes": [
@@ -1239,6 +1231,14 @@
                 ]
             },
             "nameWithOwner": "data-8/textbook"
+        },
+        "datacarpentry/r-intro-geospatial": {
+            "labContributors": {
+                "nodes": [
+                    "juanfung"
+                ]
+            },
+            "nameWithOwner": "datacarpentry/r-intro-geospatial"
         },
         "datacarpentry/r-socialsci": {
             "labContributors": {
@@ -1440,14 +1440,6 @@
                 ]
             },
             "nameWithOwner": "getfem-doc/getfem-examples"
-        },
-        "glichtner/pystackreg": {
-            "labContributors": {
-                "nodes": [
-                    "AndrewHerzing"
-                ]
-            },
-            "nameWithOwner": "glichtner/pystackreg"
         },
         "golang/go": {
             "labContributors": {
@@ -1709,14 +1701,6 @@
             },
             "nameWithOwner": "jez/pandoc-sidenote"
         },
-        "jimmywarting/StreamSaver.js": {
-            "labContributors": {
-                "nodes": [
-                    "jat255"
-                ]
-            },
-            "nameWithOwner": "jimmywarting/StreamSaver.js"
-        },
         "jjhelmus/pyfive": {
             "labContributors": {
                 "nodes": [
@@ -1935,14 +1919,6 @@
             },
             "nameWithOwner": "mgreiner79/xps_json_schema"
         },
-        "mikerenfro/hpc-shell": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "mikerenfro/hpc-shell"
-        },
         "mitre/cpsa": {
             "labContributors": {
                 "nodes": [
@@ -1974,6 +1950,14 @@
                 ]
             },
             "nameWithOwner": "mmoghadam1/Connectionless-CTE"
+        },
+        "mojohaus/jaxb2-maven-plugin": {
+            "labContributors": {
+                "nodes": [
+                    "wshackle"
+                ]
+            },
+            "nameWithOwner": "mojohaus/jaxb2-maven-plugin"
         },
         "mprot/msgpack-js": {
             "labContributors": {
@@ -2302,22 +2286,6 @@
             },
             "nameWithOwner": "openid/AppAuth-Android"
         },
-        "openmicroanalysis/DTSA-II": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "openmicroanalysis/DTSA-II"
-        },
-        "openmicroanalysis/EPQ": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "openmicroanalysis/EPQ"
-        },
         "openmicroanalysis/HeinrichsKs": {
             "labContributors": {
                 "nodes": [
@@ -2429,6 +2397,14 @@
                 ]
             },
             "nameWithOwner": "pollere/NDNpatches"
+        },
+        "prism-em/prismatic": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "prism-em/prismatic"
         },
         "probml/pml-book": {
             "labContributors": {
@@ -2600,6 +2576,14 @@
                 ]
             },
             "nameWithOwner": "rhelmot/CelesteRandomizer"
+        },
+        "rms-open-letter/rms-open-letter.github.io": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "rms-open-letter/rms-open-letter.github.io"
         },
         "rolieup/rolie": {
             "labContributors": {
@@ -2818,6 +2802,14 @@
             },
             "nameWithOwner": "stepan-tsirkin/wannier-berri"
         },
+        "stephenbanghart/OSCAL": {
+            "labContributors": {
+                "nodes": [
+                    "david-waltermire-nist"
+                ]
+            },
+            "nameWithOwner": "stephenbanghart/OSCAL"
+        },
         "summer-2020-interns/mailtools": {
             "labContributors": {
                 "nodes": [
@@ -2873,6 +2865,14 @@
                 ]
             },
             "nameWithOwner": "systemd/systemd"
+        },
+        "tdh1/latex-resources": {
+            "labContributors": {
+                "nodes": [
+                    "timothysprock"
+                ]
+            },
+            "nameWithOwner": "tdh1/latex-resources"
         },
         "the-paperless-project/paperless": {
             "labContributors": {
@@ -2946,6 +2946,14 @@
             },
             "nameWithOwner": "ucoProject/UCO"
         },
+        "ucoProject/UCO-Utility-Pre-0.7.0-Validator": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "ucoProject/UCO-Utility-Pre-0.7.0-Validator"
+        },
         "unstubbable/typedoc-plugin-monorepo": {
             "labContributors": {
                 "nodes": [
@@ -3018,6 +3026,14 @@
                 ]
             },
             "nameWithOwner": "yoursunny/ndn-cxx-code-style"
+        },
+        "zadam/trilium": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "zadam/trilium"
         },
         "zephyrproject-rtos/zephyr": {
             "labContributors": {
