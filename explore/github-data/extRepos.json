@@ -1951,6 +1951,14 @@
             },
             "nameWithOwner": "mmoghadam1/Connectionless-CTE"
         },
+        "mojohaus/jaxb2-maven-plugin": {
+            "labContributors": {
+                "nodes": [
+                    "wshackle"
+                ]
+            },
+            "nameWithOwner": "mojohaus/jaxb2-maven-plugin"
+        },
         "mprot/msgpack-js": {
             "labContributors": {
                 "nodes": [
@@ -2937,6 +2945,14 @@
                 ]
             },
             "nameWithOwner": "ucoProject/UCO"
+        },
+        "ucoProject/UCO-Utility-Pre-0.7.0-Validator": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "ucoProject/UCO-Utility-Pre-0.7.0-Validator"
         },
         "unstubbable/typedoc-plugin-monorepo": {
             "labContributors": {
