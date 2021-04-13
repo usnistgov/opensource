@@ -1364,7 +1364,10 @@
             "assessment",
             "xml",
             "json",
-            "schema"
+            "schema",
+            "nist",
+            "automation",
+            "authorization"
         ],
         "website": "https://pages.nist.gov/OSCAL/"
     },

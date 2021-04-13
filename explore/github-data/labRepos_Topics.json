@@ -1868,9 +1868,30 @@
                             "name": "schema"
                         },
                         "url": "https://github.com/topics/schema"
+                    },
+                    {
+                        "resourcePath": "/topics/nist",
+                        "topic": {
+                            "name": "nist"
+                        },
+                        "url": "https://github.com/topics/nist"
+                    },
+                    {
+                        "resourcePath": "/topics/automation",
+                        "topic": {
+                            "name": "automation"
+                        },
+                        "url": "https://github.com/topics/automation"
+                    },
+                    {
+                        "resourcePath": "/topics/authorization",
+                        "topic": {
+                            "name": "authorization"
+                        },
+                        "url": "https://github.com/topics/authorization"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 7
             }
         },
         "usnistgov/OpenFSGIM": {
