@@ -642,6 +642,14 @@
             },
             "nameWithOwner": "RIPE-NCC/ripe-atlas-software-probe"
         },
+        "ReviewNB/support": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "ReviewNB/support"
+        },
         "SasView/sasview": {
             "labContributors": {
                 "nodes": [
@@ -2445,6 +2453,14 @@
                 ]
             },
             "nameWithOwner": "pyxem/pyxem"
+        },
+        "rafael-radkowski/TrackingExpertPlus": {
+            "labContributors": {
+                "nodes": [
+                    "wzbernstein"
+                ]
+            },
+            "nameWithOwner": "rafael-radkowski/TrackingExpertPlus"
         },
         "reductus/reductus": {
             "labContributors": {
