@@ -4,7 +4,7 @@
 
 .static-text a,
     a:visited {
-      color: white;
+      /*color: white;*/
       text-decoration: underline;
 }
 
