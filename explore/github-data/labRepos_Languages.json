@@ -3703,13 +3703,10 @@
                         "name": "JavaScript"
                     },
                     {
-                        "name": "TypeScript"
-                    },
-                    {
                         "name": "Dockerfile"
                     }
                 ],
-                "totalCount": 8
+                "totalCount": 7
             }
         },
         "usnistgov/OpenFSGIM": {
@@ -7125,12 +7122,6 @@
                         "name": "Shell"
                     },
                     {
-                        "name": "CSS"
-                    },
-                    {
-                        "name": "JavaScript"
-                    },
-                    {
                         "name": "Python"
                     },
                     {
@@ -7146,7 +7137,7 @@
                         "name": "Batchfile"
                     },
                     {
-                        "name": "Slice"
+                        "name": "JavaScript"
                     },
                     {
                         "name": "CMake"
@@ -7155,16 +7146,13 @@
                         "name": "MATLAB"
                     },
                     {
-                        "name": "HTML"
-                    },
-                    {
-                        "name": "SCSS"
-                    },
-                    {
                         "name": "PHP"
+                    },
+                    {
+                        "name": "HTML"
                     }
                 ],
-                "totalCount": 19
+                "totalCount": 16
             }
         },
         "usnistgov/crcl2ros": {
