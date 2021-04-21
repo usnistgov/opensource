@@ -5,7 +5,7 @@ layout: info
 
 ## {{ page.title }}
 
-Welcome to the NIST Open Source Software (OSS) code portal,   otherwise known as code.nist.gov.    This website allows public users to search and explore open source software developed by NIST and affiliated code collaborators.   We want to expressly thank the [LLNL Software Portal](https://software.llnl.gov/) developers for sharing their portal code base,  of which this site is built on.  In other words, this is a site which demonstrates the value of OSS for reuse for discovery and exchange of code! 
+Welcome to the NIST Open Source Software (OSS) code portal,   otherwise known as code.nist.gov.    This website allows public users to search and explore open source software developed by NIST and affiliated code collaborators.   We want to expressly thank the [NIST Code Portal](https://github.com/usnistgov) developers for sharing their portal code base,  of which this site is built on.  In other words, this is a site which demonstrates the value of OSS for reuse for discovery and exchange of code! 
 
 The NIST OSS catalog is also exported in compliance with [Federal Source Code Policy](https://code.gov/agency-compliance/compliance/dashboard) for agency inventory in [Code.gov](https://code.gov/).   
 
@@ -16,7 +16,7 @@ NIST Software Licensing
 
 #### LICENSE file
 
-Every repository must include a license statement in a [LICENSE.md](https://github.com/usnistgov/newrepotemplate/blob/master/LICENSE.md) file.
+Every repository must include a license statement in a [LICENSE.md](https://github.com/usnistgov/opensource-repo/blob/master/LICENSE.md) file.
 
 #### Other considerations
 
@@ -46,8 +46,8 @@ If you're new to GitHub, you may want to read through the GitHub Help pages on 
 
     -   Photo: A headshot photo, or image that is uniquely you.
     -   Name: Your first and last name.
-    -   Bio: Include a few words about yourself! Don't forget to mention @LLNL.
-    -   URL: This might be your [nist.gov/people](http://nist.gov/people) page.
+    -   Bio: Include a few words about yourself! Don't forget to mention @NIST.
+    -   URL: This might be your [nist.gov/people](https://www.nist.gov/about-nist/our-organization/people) page.
     -   Company: Probably `National Institute of Standards and Technology`
     -   Location: Your primary location.
 3.  Add your `@NIST` email address (and any aliases) to your [Email Settings](https://github.com/settings/emails) page.
@@ -60,7 +60,7 @@ The USNISTGOV organization is managed by NIST.   Only NIST staff may become a 
 
 Send the Rules of Behavior by email, with your GitHub username included, to <devops@nist.gov>, requesting to be added to the organization.
 
-1.  After an administrator has added you to the organization, you will receive a notification email from GitHub. Alternatively, once the invitation has been sent, you will see a notification banner at the top of [github.com/llnl](http://github.com/llnl) which you can use to accept the invitation.
+1.  After an administrator has added you to the organization, you will receive a notification email from GitHub. Alternatively, once the invitation has been sent, you will see a notification banner at the top of [github.com/usnistgov](https://github.com/usnistgov) which you can use to accept the invitation.
 
 2.  Head over to the [@NIST People](https://github.com/orgs/USNISTGOV/people) page and make your membership `Public`.
 
@@ -76,7 +76,7 @@ Contact [public-access@nist.gov](mailto:public-access@nist.gov?subject=Publishi
 
 #### Repository Content
 
-Before content is placed into a NIST [GitHub.com](http://github.com/) repository it should contain at a minimum the following information.
+Before content is placed into a NIST [GitHub.com](https://github.com/) repository it should contain at a minimum the following information.
 
 -   Every repository must include a license statement in a [LICENSE.md](https://github.com/usnistgov/opensource-repo/blob/master/LICENSE.md) file. For most cases, use the text in the blue box for [NIST software](https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software#software).
 -   README.MD or README.rst file clearly describes, in layman's terms:
@@ -107,7 +107,7 @@ When in doubt, contact your ITSO for guidance.
 
 ### GitHub Pages
 
-GitHub Pages are public websites hosted and published through a branch in your repository. The default service provided by GitHub on [github.io](http://github.io/) domains may not be used with repositories in the NIST GitHub organization.  An alternate service, hosted by NIST and forked from the [18F pages-server](https://github.com/18f/pages-server) is available, see the [pages wiki](https://github.com/usnistgov/pages-root/wiki) for more information.
+GitHub Pages are public websites hosted and published through a branch in your repository. The default service provided by GitHub on [github.io](https://github.io/) domains may not be used with repositories in the NIST GitHub organization.  An alternate service, hosted by NIST and forked from the [18F pages-server](https://github.com/18f/pages-server) is available, see the [pages wiki](https://github.com/usnistgov/pages-root/wiki) for more information.
 
 #### Repository Visibility 
 
@@ -125,7 +125,7 @@ Once your project is on GitHub, make sure users and contributors can find it! Th
 
     -   If your repository exists under a different organization, you can move it to NIST by selecting "Transfer Ownership" under Settings.
 
-Make sure your repository is listed properly following [Guidance for Publishing Software](https://inet.nist.gov/adlp/publishing-instructions/publishing-software).
+Make sure your repository is listed properly following (internal) [Guidance for Publishing Software](https://inet.nist.gov/adlp/publishing-instructions/publishing-software).
 
 ### Other References
 
