@@ -72,8 +72,6 @@ Repositories within the NIST organization are owned and managed by NIST.  Pleas
 
 All public information produced by NIST follow the guidance set forth by the NIST directives and policies on the [Internal only software publishing ](https://inet.nist.gov/adlp/publishing-instructions/publishing-software)information website.
 
-Contact [public-access@nist.gov](mailto:public-access@nist.gov?subject=Publishing%20Instructions%20page%20on%20inet) for more information.
-
 #### Repository Content
 
 Before content is placed into a NIST [GitHub.com](https://github.com/) repository it should contain at a minimum the following information.
