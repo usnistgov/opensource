@@ -113,7 +113,7 @@ Once your project is on GitHub, make sure users and contributors can find it! Th
 
 1.  Include meaningful metadata (description and topic tags) in your repository. 
 
-    -   Start with our** [list](https://github.com/usnistgov/opensource-repo/blob/master/CODEMETA.yaml)**of recommended, standardized topics (categories and themes).
+    -   Start with our** [list](https://github.com/usnistgov/opensource-repo/blob/master/CODEMETA.yaml) **of recommended, standardized topics (categories and themes).
 
     -   See helpful hints on [GitHub's topic help page](https://help.github.com/articles/about-topics/). Add tags relevant to your project's programming language, platforms, and more (e.g., Python, HPC, Linux).
 
