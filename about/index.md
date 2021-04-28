@@ -90,7 +90,7 @@ Before content is placed into a NIST [GitHub.com](https://github.com/) reposit
 -   [CODEMETA.YAML](https://github.com/usnistgov/opensource-repo/blob/master/CODEMETA.yaml) file,  edit to include your relevant categories and topics to be indexed by [code.nist.gov](https://code.nist.gov/) portal and NIST websites for search.
 -   [Policies, Directives, and NIST's Public Access Plan](https://www.nist.gov/topics/data/public-access-nist-research/policies-directives-and-nists-public-access-plan)
 
-Remember that these repositories *are hosted* on GitHub servers, and show contain only L/L/L scientific research data.
+Remember that these repositories *are hosted* on GitHub servers, and should contain only L/L/L scientific research data.
 
 -   NO Classified
 -   NO Export Controlled
