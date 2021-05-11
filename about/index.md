@@ -7,7 +7,7 @@ layout: info
 
 Welcome to the NIST Open Source Software (OSS) code portal,   otherwise known as code.nist.gov.    This website allows public users to search and explore open source software developed by NIST and affiliated code collaborators.   We want to expressly thank the [NIST Code Portal](https://github.com/usnistgov) developers for sharing their portal code base,  of which this site is built on.  In other words, this is a site which demonstrates the value of OSS for reuse for discovery and exchange of code! 
 
-The NIST OSS catalog is also exported in compliance with [Federal Source Code Policy](https://code.gov/agency-compliance/compliance/dashboard) for agency inventory in [Code.gov](https://code.gov/).   
+The NIST OSS catalog is also exported in compliance with [Federal Source Code Policy](https://code.gov/agency-compliance/compliance/dashboard) for agency inventory in [Code.gov](https://code.gov/). The NIST open source code inventory is accessible from this website [here](https://code.nist.gov/explore/code.json).
 
 NIST Software Licensing
 =======================
@@ -88,9 +88,8 @@ Before content is placed into a NIST [GitHub.com](https://github.com/) reposit
 -   Binaries, if used, must be signed.[\
     ](https://github.com/usnistgov/discuss/issues/2)
 -   [CODEMETA.YAML](https://github.com/usnistgov/opensource-repo/blob/master/CODEMETA.yaml) file,  edit to include your relevant categories and topics to be indexed by [code.nist.gov](https://code.nist.gov/) portal and NIST websites for search.
--   [Policies, Directives, and NIST's Public Access Plan](https://www.nist.gov/topics/data/public-access-nist-research/policies-directives-and-nists-public-access-plan)
 
-Remember that these repositories *are hosted* on GitHub servers, and should contain only L/L/L scientific research data.
+Remember that these repositories *are hosted* on GitHub servers, and should contain only NIST scientific research data.
 
 -   NO Classified
 -   NO Export Controlled
