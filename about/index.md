@@ -5,7 +5,7 @@ layout: info
 
 ## {{ page.title }}
 
-Welcome to the NIST Open Source Software (OSS) code portal,   otherwise known as code.nist.gov.    This website allows public users to search and explore open source software developed by NIST and affiliated code collaborators.   We want to expressly thank the [NIST Code Portal](https://github.com/usnistgov) developers for sharing their portal code base,  of which this site is built on.  In other words, this is a site which demonstrates the value of OSS for reuse for discovery and exchange of code! 
+Welcome to the NIST Open Source Software (OSS) code portal,   otherwise known as code.nist.gov.    This website allows public users to search and explore open source software developed by NIST and affiliated code collaborators.   We want to expressly thank the [LLNL Software Portal](https://software.llnl.gov/) developers for sharing their portal code base,  of which this site is built on.  In other words, this is a site which demonstrates the value of OSS for reuse for discovery and exchange of code! 
 
 The NIST OSS catalog is also exported in compliance with [Federal Source Code Policy](https://code.gov/agency-compliance/compliance/dashboard) for agency inventory in [Code.gov](https://code.gov/). The NIST open source code inventory is accessible from this website [here](https://code.nist.gov/explore/code.json).
 
