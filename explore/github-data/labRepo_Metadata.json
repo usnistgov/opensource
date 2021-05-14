@@ -173,6 +173,18 @@
         "topics": null,
         "website": "https://pages.nist.gov/2020-12-15-nist-chimad/"
     },
+    "usnistgov/2021-05-26-nist": {
+        "description": null,
+        "name": "usnistgov/2021-05-26-nist",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/2021-06-10-nist": {
+        "description": null,
+        "name": "usnistgov/2021-06-10-nist",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/3DScanningProject": {
         "description": null,
         "name": "usnistgov/3DScanningProject",
@@ -1176,6 +1188,20 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/NIST-PROVEDIt": {
+        "description": "Data in support of... [title of manuscript]",
+        "name": "usnistgov/NIST-PROVEDIt",
+        "topics": [
+            "dna",
+            "mixtures",
+            "probabilistic-models",
+            "markov-chain",
+            "maximum-likelihood-estimation",
+            "forensic-genetics",
+            "interpretation"
+        ],
+        "website": ""
+    },
     "usnistgov/NIST-Tech-Pubs": {
         "description": "XML metadata for NIST Technical Series Publications",
         "name": "usnistgov/NIST-Tech-Pubs",
@@ -1785,6 +1811,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/ShopbotPyQt": {
+        "description": "GUI for controlling custom Shopbot/Fluigent 3D printer with in situ cameras",
+        "name": "usnistgov/ShopbotPyQt",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/SimulatedRadarWaveformGenerator": {
         "description": "A software tool that generates simulated radar signals and creates RF datasets for developing and testing machine/deep learning detection algorithms. ",
         "name": "usnistgov/SimulatedRadarWaveformGenerator",
@@ -1984,6 +2016,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/WIPP-fpn-inference-plugin": {
+        "description": "WIPP plugin for nucleus segmentation using FPN-Watershed.",
+        "name": "usnistgov/WIPP-fpn-inference-plugin",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/WIPP-frontend": {
         "description": "Web Image Processing Pipeline (WIPP) - frontend",
         "name": "usnistgov/WIPP-frontend",
@@ -2008,6 +2046,18 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/WIPP-mrcnn-inference-plugin": {
+        "description": "Mask R-CNN method for Nucleus Segmentation ",
+        "name": "usnistgov/WIPP-mrcnn-inference-plugin",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/WIPP-mrcnn2-inference-plugin": {
+        "description": "WIPP plugin for nucleus segmentation using Mask R-CNN with tile fixing.",
+        "name": "usnistgov/WIPP-mrcnn2-inference-plugin",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/WIPP-pyramid-building": {
         "description": "pyramid building algorithm",
         "name": "usnistgov/WIPP-pyramid-building",
@@ -2029,6 +2079,12 @@
     "usnistgov/WIPP-time-seq-fov-plugin": {
         "description": null,
         "name": "usnistgov/WIPP-time-seq-fov-plugin",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/WIPP-training-inference-plugin": {
+        "description": "WIPP plugin for training on nuclei images.",
+        "name": "usnistgov/WIPP-training-inference-plugin",
         "topics": null,
         "website": null
     },
@@ -2119,12 +2175,6 @@
     "usnistgov/ariac-docker": {
         "description": "Containerization of ARIAC competition server and competitors' code",
         "name": "usnistgov/ariac-docker",
-        "topics": null,
-        "website": null
-    },
-    "usnistgov/artiq-clocks": {
-        "description": null,
-        "name": "usnistgov/artiq-clocks",
         "topics": null,
         "website": null
     },
@@ -3022,7 +3072,7 @@
         "website": null
     },
     "usnistgov/feasst": {
-        "description": "The Free Energy and Advanced Sampling Simulation Toolkit (FEASST) is a free, open-source, modular program to conduct molecular and particle-based simulations with flat-histogram Monte Carlo and molecular dynamics methods.",
+        "description": "The Free Energy and Advanced Sampling Simulation Toolkit (FEASST) is a free, open-source, modular program to conduct molecular and particle-based simulations with flat-histogram Monte Carlo methods.",
         "name": "usnistgov/feasst",
         "topics": null,
         "website": "http://pages.nist.gov/feasst"
@@ -3423,6 +3473,12 @@
     "usnistgov/hit-resource-client": {
         "description": "Client for publishing resources directly into HIT MU Tools",
         "name": "usnistgov/hit-resource-client",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/hit-stats-logger": {
+        "description": "Logging Library for Health IT Projects",
+        "name": "usnistgov/hit-stats-logger",
         "topics": null,
         "website": null
     },
@@ -4260,6 +4316,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/oar-pdr-py": {
+        "description": "Python Components for the The NIST Open Access to Research (OAR) Public Data Repository (PDR) system",
+        "name": "usnistgov/oar-pdr-py",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/oar-rmm": {
         "description": null,
         "name": "usnistgov/oar-rmm",
@@ -4289,6 +4351,12 @@
         "name": "usnistgov/ocr-pipeline",
         "topics": null,
         "website": null
+    },
+    "usnistgov/openfoamEmbedded3DP": {
+        "description": "Python tools for OpenFOAM simulations of filament shapes in embedded 3D printing",
+        "name": "usnistgov/openfoamEmbedded3DP",
+        "topics": null,
+        "website": ""
     },
     "usnistgov/opensource": {
         "description": "Public home for LLNL software catalog",
@@ -4485,6 +4553,12 @@
         "name": "usnistgov/potentials",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/potentials-cdcs": {
+        "description": null,
+        "name": "usnistgov/potentials-cdcs",
+        "topics": null,
+        "website": null
     },
     "usnistgov/potter": {
         "description": "Routines for integrating virial coefficients and working with pair potentials",
@@ -4849,6 +4923,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/stopped-flow-sans": {
+        "description": "Jupyter notebooks and python routines for processing time-resolved SANS measurements at NCNR for stopped-flow experiments",
+        "name": "usnistgov/stopped-flow-sans",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/supply-chain-interdependency-tool": {
         "description": null,
         "name": "usnistgov/supply-chain-interdependency-tool",
@@ -4858,6 +4938,12 @@
     "usnistgov/swid-autotools": {
         "description": null,
         "name": "usnistgov/swid-autotools",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/swid-reg": {
+        "description": null,
+        "name": "usnistgov/swid-reg",
         "topics": null,
         "website": null
     },

@@ -174,6 +174,18 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/2021-05-26-nist": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/2021-06-10-nist": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/3DScanningProject": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1597,6 +1609,62 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/NIST-PROVEDIt": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/dna",
+                        "topic": {
+                            "name": "dna"
+                        },
+                        "url": "https://github.com/topics/dna"
+                    },
+                    {
+                        "resourcePath": "/topics/mixtures",
+                        "topic": {
+                            "name": "mixtures"
+                        },
+                        "url": "https://github.com/topics/mixtures"
+                    },
+                    {
+                        "resourcePath": "/topics/probabilistic-models",
+                        "topic": {
+                            "name": "probabilistic-models"
+                        },
+                        "url": "https://github.com/topics/probabilistic-models"
+                    },
+                    {
+                        "resourcePath": "/topics/markov-chain",
+                        "topic": {
+                            "name": "markov-chain"
+                        },
+                        "url": "https://github.com/topics/markov-chain"
+                    },
+                    {
+                        "resourcePath": "/topics/maximum-likelihood-estimation",
+                        "topic": {
+                            "name": "maximum-likelihood-estimation"
+                        },
+                        "url": "https://github.com/topics/maximum-likelihood-estimation"
+                    },
+                    {
+                        "resourcePath": "/topics/forensic-genetics",
+                        "topic": {
+                            "name": "forensic-genetics"
+                        },
+                        "url": "https://github.com/topics/forensic-genetics"
+                    },
+                    {
+                        "resourcePath": "/topics/interpretation",
+                        "topic": {
+                            "name": "interpretation"
+                        },
+                        "url": "https://github.com/topics/interpretation"
+                    }
+                ],
+                "totalCount": 7
+            }
+        },
         "usnistgov/NIST-Tech-Pubs": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2524,6 +2592,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/ShopbotPyQt": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/SimulatedRadarWaveformGenerator": {
             "repositoryTopics": {
                 "nodes": [
@@ -2813,6 +2887,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/WIPP-fpn-inference-plugin": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/WIPP-frontend": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2837,6 +2917,18 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/WIPP-mrcnn-inference-plugin": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/WIPP-mrcnn2-inference-plugin": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/WIPP-pyramid-building": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2856,6 +2948,12 @@
             }
         },
         "usnistgov/WIPP-time-seq-fov-plugin": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/WIPP-training-inference-plugin": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2946,12 +3044,6 @@
             }
         },
         "usnistgov/ariac-docker": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
-        "usnistgov/artiq-clocks": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -4591,6 +4683,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/hit-stats-logger": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/hit-validation": {
             "repositoryTopics": {
                 "nodes": [],
@@ -5779,6 +5877,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/oar-pdr-py": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/oar-rmm": {
             "repositoryTopics": {
                 "nodes": [],
@@ -5804,6 +5908,12 @@
             }
         },
         "usnistgov/ocr-pipeline": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/openfoamEmbedded3DP": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -6144,6 +6254,12 @@
             }
         },
         "usnistgov/potentials": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/potentials-cdcs": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -6716,6 +6832,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/stopped-flow-sans": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/supply-chain-interdependency-tool": {
             "repositoryTopics": {
                 "nodes": [],
@@ -6723,6 +6845,12 @@
             }
         },
         "usnistgov/swid-autotools": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/swid-reg": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
