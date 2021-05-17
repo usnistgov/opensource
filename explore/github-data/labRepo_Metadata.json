@@ -4307,13 +4307,25 @@
     "usnistgov/oar-metadata": {
         "description": "Metadata support for the OAR open data platform",
         "name": "usnistgov/oar-metadata",
-        "topics": null,
-        "website": null
+        "topics": [
+            "python-library",
+            "metadata",
+            "pod-dataset"
+        ],
+        "website": ""
     },
     "usnistgov/oar-pdr": {
         "description": "The NIST Open Access to Research (OAR) Public Data Repository (PDR) system software",
         "name": "usnistgov/oar-pdr",
-        "topics": null,
+        "topics": [
+            "python",
+            "data-management",
+            "data-repository",
+            "javascript",
+            "java",
+            "typescript",
+            "data-publisher"
+        ],
         "website": ""
     },
     "usnistgov/oar-pdr-py": {

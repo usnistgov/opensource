@@ -5867,14 +5867,86 @@
         },
         "usnistgov/oar-metadata": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/python-library",
+                        "topic": {
+                            "name": "python-library"
+                        },
+                        "url": "https://github.com/topics/python-library"
+                    },
+                    {
+                        "resourcePath": "/topics/metadata",
+                        "topic": {
+                            "name": "metadata"
+                        },
+                        "url": "https://github.com/topics/metadata"
+                    },
+                    {
+                        "resourcePath": "/topics/pod-dataset",
+                        "topic": {
+                            "name": "pod-dataset"
+                        },
+                        "url": "https://github.com/topics/pod-dataset"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/oar-pdr": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/data-management",
+                        "topic": {
+                            "name": "data-management"
+                        },
+                        "url": "https://github.com/topics/data-management"
+                    },
+                    {
+                        "resourcePath": "/topics/data-repository",
+                        "topic": {
+                            "name": "data-repository"
+                        },
+                        "url": "https://github.com/topics/data-repository"
+                    },
+                    {
+                        "resourcePath": "/topics/javascript",
+                        "topic": {
+                            "name": "javascript"
+                        },
+                        "url": "https://github.com/topics/javascript"
+                    },
+                    {
+                        "resourcePath": "/topics/java",
+                        "topic": {
+                            "name": "java"
+                        },
+                        "url": "https://github.com/topics/java"
+                    },
+                    {
+                        "resourcePath": "/topics/typescript",
+                        "topic": {
+                            "name": "typescript"
+                        },
+                        "url": "https://github.com/topics/typescript"
+                    },
+                    {
+                        "resourcePath": "/topics/data-publisher",
+                        "topic": {
+                            "name": "data-publisher"
+                        },
+                        "url": "https://github.com/topics/data-publisher"
+                    }
+                ],
+                "totalCount": 7
             }
         },
         "usnistgov/oar-pdr-py": {

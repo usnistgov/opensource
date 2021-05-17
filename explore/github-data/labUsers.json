@@ -890,13 +890,19 @@
                     "usnistgov/jsont",
                     "usnistgov/mgi-resmd",
                     "usnistgov/multibag-py",
+                    "usnistgov/nist-software-scraper",
                     "usnistgov/oar-build",
                     "usnistgov/oar-dist-service",
                     "usnistgov/oar-metadata",
                     "usnistgov/oar-pdr",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
-                    "usnistgov/oar-sdp"
+                    "usnistgov/oar-sdp",
+                    "usnistgov/opensource",
+                    "usnistgov/opensource-actions",
+                    "usnistgov/opensource-data",
+                    "usnistgov/opensource-repo",
+                    "usnistgov/opensource-theme"
                 ]
             },
             "login": "RayPlante",
