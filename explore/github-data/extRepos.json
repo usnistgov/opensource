@@ -1013,6 +1013,7 @@
         "carpentries-incubator/jekyll-pages-novice": {
             "labContributors": {
                 "nodes": [
+                    "reid-a",
                     "tkphd"
                 ]
             },
@@ -1682,6 +1683,14 @@
             },
             "nameWithOwner": "jez/pandoc-sidenote"
         },
+        "jimmywarting/StreamSaver.js": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "jimmywarting/StreamSaver.js"
+        },
         "justin-bao/word_acronym_checker": {
             "labContributors": {
                 "nodes": [
@@ -2169,6 +2178,14 @@
                 ]
             },
             "nameWithOwner": "named-data/python-ndn"
+        },
+        "named-data/repo-ng": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "named-data/repo-ng"
         },
         "nengo-labs/nengo-ocl": {
             "labContributors": {
@@ -2939,7 +2956,6 @@
         "uswds/uswds": {
             "labContributors": {
                 "nodes": [
-                    "jonraedeke",
                     "phernand42"
                 ]
             },
