@@ -1627,14 +1627,6 @@
             },
             "nameWithOwner": "immregistries/mqe-validator"
         },
-        "ipython/ipyparallel": {
-            "labContributors": {
-                "nodes": [
-                    "johnmichaloski"
-                ]
-            },
-            "nameWithOwner": "ipython/ipyparallel"
-        },
         "jShainline/soen_sim": {
             "labContributors": {
                 "nodes": [
@@ -3105,6 +3097,14 @@
                 ]
             },
             "nameWithOwner": "zkpstandard/zkreference"
+        },
+        "zongyi-li/fourier_neural_operator": {
+            "labContributors": {
+                "nodes": [
+                    "atvassilev"
+                ]
+            },
+            "nameWithOwner": "zongyi-li/fourier_neural_operator"
         }
     }
 }
