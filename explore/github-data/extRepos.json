@@ -386,14 +386,6 @@
             },
             "nameWithOwner": "JuliaPOMDP/POMDPModels.jl"
         },
-        "JunoLab/JunoDocs.jl": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "JunoLab/JunoDocs.jl"
-        },
         "K-FOSS/TS-ESNode": {
             "labContributors": {
                 "nodes": [
@@ -1381,6 +1373,14 @@
                 ]
             },
             "nameWithOwner": "eric135/YaNFD"
+        },
+        "eric135/ndn-reachability": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "eric135/ndn-reachability"
         },
         "evhub/coconut": {
             "labContributors": {
