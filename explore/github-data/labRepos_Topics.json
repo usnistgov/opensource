@@ -2426,18 +2426,18 @@
                         "url": "https://github.com/topics/owl"
                     },
                     {
-                        "resourcePath": "/topics/rdf",
-                        "topic": {
-                            "name": "rdf"
-                        },
-                        "url": "https://github.com/topics/rdf"
-                    },
-                    {
                         "resourcePath": "/topics/stepcode",
                         "topic": {
                             "name": "stepcode"
                         },
                         "url": "https://github.com/topics/stepcode"
+                    },
+                    {
+                        "resourcePath": "/topics/semantic-web",
+                        "topic": {
+                            "name": "semantic-web"
+                        },
+                        "url": "https://github.com/topics/semantic-web"
                     }
                 ],
                 "totalCount": 5
