@@ -5085,9 +5085,58 @@
                             "name": "scikit-learn"
                         },
                         "url": "https://github.com/topics/scikit-learn"
+                    },
+                    {
+                        "resourcePath": "/topics/tensorflow",
+                        "topic": {
+                            "name": "tensorflow"
+                        },
+                        "url": "https://github.com/topics/tensorflow"
+                    },
+                    {
+                        "resourcePath": "/topics/pytorch",
+                        "topic": {
+                            "name": "pytorch"
+                        },
+                        "url": "https://github.com/topics/pytorch"
+                    },
+                    {
+                        "resourcePath": "/topics/atomistic-simulations",
+                        "topic": {
+                            "name": "atomistic-simulations"
+                        },
+                        "url": "https://github.com/topics/atomistic-simulations"
+                    },
+                    {
+                        "resourcePath": "/topics/materials-informatics",
+                        "topic": {
+                            "name": "materials-informatics"
+                        },
+                        "url": "https://github.com/topics/materials-informatics"
+                    },
+                    {
+                        "resourcePath": "/topics/mgi",
+                        "topic": {
+                            "name": "mgi"
+                        },
+                        "url": "https://github.com/topics/mgi"
+                    },
+                    {
+                        "resourcePath": "/topics/ai",
+                        "topic": {
+                            "name": "ai"
+                        },
+                        "url": "https://github.com/topics/ai"
+                    },
+                    {
+                        "resourcePath": "/topics/quantum-computing",
+                        "topic": {
+                            "name": "quantum-computing"
+                        },
+                        "url": "https://github.com/topics/quantum-computing"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 12
             }
         },
         "usnistgov/jsfive": {
