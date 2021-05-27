@@ -3774,7 +3774,7 @@
             },
             "date": {
                 "created": "2016-01-22",
-                "lastModified": "2021-05-25"
+                "lastModified": "2021-05-26"
             },
             "description": "Canonical Robot Command Language, a generic interface to industrial robots",
             "downloadURL": "https://api.github.com/repos/usnistgov/crcl/downloads",
@@ -5438,7 +5438,7 @@
             },
             "date": {
                 "created": "2016-05-19",
-                "lastModified": "2021-01-12"
+                "lastModified": "2021-05-26"
             },
             "description": "A software tool based on Monte Carlo methods, ZENO computes material properties at nanoscale. ",
             "downloadURL": "https://api.github.com/repos/usnistgov/ZENO/downloads",
@@ -5868,7 +5868,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2021-05-24"
+                "lastModified": "2021-05-26"
             },
             "description": "The NIST STEP File Analyzer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SFA/downloads",
@@ -7016,7 +7016,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2021-05-14"
+                "lastModified": "2021-05-27"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -7664,7 +7664,7 @@
             },
             "date": {
                 "created": "2016-10-19",
-                "lastModified": "2021-05-24"
+                "lastModified": "2021-05-26"
             },
             "description": "Biometric fingerprint image quality assessment tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/NFIQ2/downloads",
@@ -7679,7 +7679,8 @@
                 "Python",
                 "HTML",
                 "C",
-                "JavaScript"
+                "JavaScript",
+                "Shell"
             ],
             "name": "NFIQ2",
             "organization": "National Institute of Standards and Technology",
@@ -9721,7 +9722,7 @@
             },
             "date": {
                 "created": "2017-04-05",
-                "lastModified": "2021-04-16"
+                "lastModified": "2021-05-26"
             },
             "description": "Public Safety Communication modeling tools based on ns-3",
             "downloadURL": "https://api.github.com/repos/usnistgov/psc-ns3/downloads",
@@ -10790,7 +10791,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2021-05-24"
+                "lastModified": "2021-05-26"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -10821,7 +10822,14 @@
                 "md",
                 "vasp",
                 "lammps",
-                "scikit-learn"
+                "scikit-learn",
+                "tensorflow",
+                "pytorch",
+                "atomistic-simulations",
+                "materials-informatics",
+                "mgi",
+                "ai",
+                "quantum-computing"
             ],
             "vcs": "git"
         },
@@ -21139,7 +21147,7 @@
             },
             "date": {
                 "created": "2019-06-20",
-                "lastModified": "2021-05-25"
+                "lastModified": "2021-05-26"
             },
             "description": "Optimal Bayesian Experiment Design ",
             "downloadURL": "https://api.github.com/repos/usnistgov/optbayesexpt/downloads",
@@ -22741,7 +22749,7 @@
             },
             "date": {
                 "created": "2019-10-03",
-                "lastModified": "2021-04-22"
+                "lastModified": "2021-05-27"
             },
             "description": "Implementation of the The United States Web Design System (USWDS) 2.0 using the Hugo open-source static site generator",
             "downloadURL": "https://api.github.com/repos/usnistgov/hugo-uswds/downloads",
@@ -23598,7 +23606,7 @@
             },
             "date": {
                 "created": "2020-01-08",
-                "lastModified": "2021-05-18"
+                "lastModified": "2021-05-26"
             },
             "description": "This repository contains resources to support organizations’ use of the Privacy Framework. Resources include crosswalks, Profiles, guidelines, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyFrmwkResources/downloads",
@@ -23915,7 +23923,7 @@
             },
             "date": {
                 "created": "2020-01-24",
-                "lastModified": "2021-05-25"
+                "lastModified": "2021-05-27"
             },
             "description": "Repository for ARIAC 2020/2021, consisting of kit building and assembly in a simulated warehouse with a dual arm robot.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ARIAC/downloads",
@@ -24262,7 +24270,7 @@
             },
             "date": {
                 "created": "2020-02-24",
-                "lastModified": "2021-05-20"
+                "lastModified": "2021-05-26"
             },
             "description": "A flexible 3D visualizer for displaying, debugging, presenting, and understanding ns-3 scenarios.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NetSimulyzer/downloads",
@@ -26204,7 +26212,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2021-05-25"
+                "lastModified": "2021-05-26"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -26505,7 +26513,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2021-05-26"
+                "lastModified": "2021-05-27"
             },
             "description": "Translator from STEP format to OWL format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2OWL/downloads",
@@ -26513,6 +26521,7 @@
             "laborHours": 0,
             "languages": [
                 "C++",
+                "Python",
                 "C"
             ],
             "name": "STP2OWL",
@@ -27199,7 +27208,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2021-05-18"
+                "lastModified": "2021-05-26"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -27334,7 +27343,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2021-05-25"
+                "lastModified": "2021-05-26"
             },
             "description": "Public home for LLNL software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource/downloads",
@@ -27777,7 +27786,7 @@
             },
             "date": {
                 "created": "2020-09-13",
-                "lastModified": "2021-05-26"
+                "lastModified": "2021-05-27"
             },
             "description": "Assessment of Trusted Internet Connection Compliance  (ATICC) Dashboard",
             "downloadURL": "https://api.github.com/repos/usnistgov/ATICC/downloads",
@@ -29072,7 +29081,7 @@
             },
             "date": {
                 "created": "2021-02-25",
-                "lastModified": "2021-05-04"
+                "lastModified": "2021-05-26"
             },
             "description": "Emulated IoT data to simulate emergency first response scenarios",
             "downloadURL": "https://api.github.com/repos/usnistgov/IoTData_EmergencyScenarios/downloads",
