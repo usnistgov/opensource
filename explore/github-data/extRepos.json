@@ -1382,14 +1382,6 @@
             },
             "nameWithOwner": "elear/mud-sbom"
         },
-        "eric135/YaNFD": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "eric135/YaNFD"
-        },
         "eric135/ndn-reachability": {
             "labContributors": {
                 "nodes": [
@@ -2135,6 +2127,14 @@
                 ]
             },
             "nameWithOwner": "named-data/StateVectorSync"
+        },
+        "named-data/YaNFD": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "named-data/YaNFD"
         },
         "named-data/jndn": {
             "labContributors": {
