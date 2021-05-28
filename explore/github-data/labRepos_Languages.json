@@ -3137,9 +3137,12 @@
                     },
                     {
                         "name": "JavaScript"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 9
+                "totalCount": 10
             }
         },
         "usnistgov/NFIR": {
@@ -4588,10 +4591,13 @@
                         "name": "C++"
                     },
                     {
+                        "name": "Python"
+                    },
+                    {
                         "name": "C"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "usnistgov/STP2X3D": {

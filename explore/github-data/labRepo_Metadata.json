@@ -3795,7 +3795,14 @@
             "md",
             "vasp",
             "lammps",
-            "scikit-learn"
+            "scikit-learn",
+            "tensorflow",
+            "pytorch",
+            "atomistic-simulations",
+            "materials-informatics",
+            "mgi",
+            "ai",
+            "quantum-computing"
         ],
         "website": "https://jarvis.nist.gov"
     },
