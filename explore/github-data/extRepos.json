@@ -1132,6 +1132,14 @@
             },
             "nameWithOwner": "castorini/pyserini"
         },
+        "catchorg/Catch2": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "catchorg/Catch2"
+        },
         "cmallery99/Encrypter2": {
             "labContributors": {
                 "nodes": [
@@ -1191,6 +1199,7 @@
         "conda-forge/jarvis-tools-feedstock": {
             "labContributors": {
                 "nodes": [
+                    "knc6",
                     "wd15"
                 ]
             },
@@ -1963,6 +1972,14 @@
                 ]
             },
             "nameWithOwner": "mmoghadam1/Connectionless-CTE"
+        },
+        "mmozeiko/aes-finder": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "mmozeiko/aes-finder"
         },
         "mojohaus/jaxb2-maven-plugin": {
             "labContributors": {
