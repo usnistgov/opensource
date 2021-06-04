@@ -1954,6 +1954,22 @@
                 "totalCount": 2
             }
         },
+        "usnistgov/FastLoader": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "C++"
+                    },
+                    {
+                        "name": "CMake"
+                    },
+                    {
+                        "name": "C"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
         "usnistgov/Feature_variability": {
             "languages": {
                 "nodes": [
@@ -9917,6 +9933,19 @@
                     }
                 ],
                 "totalCount": 4
+            }
+        },
+        "usnistgov/lantern": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/leaveNotice": {
