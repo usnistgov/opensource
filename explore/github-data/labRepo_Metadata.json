@@ -2372,6 +2372,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/cmrg-benchmarkset-manuscript": {
+        "description": "Code used to generate manuscript figures and results.",
+        "name": "usnistgov/cmrg-benchmarkset-manuscript",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/combinatorial-testing-tools": {
         "description": "Tools for combinatorial testing developed by the NIST ACTS project",
         "name": "usnistgov/combinatorial-testing-tools",
@@ -3218,6 +3224,12 @@
     "usnistgov/giab-asm-benchmarking": {
         "description": "GIAB pipeline for benchmarking genome assemblies",
         "name": "usnistgov/giab-asm-benchmarking",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/giab-cmrg-benchmarkset": {
+        "description": "Code used to generate Genome In A Bottle CMRG benchmark sets",
+        "name": "usnistgov/giab-cmrg-benchmarkset",
         "topics": null,
         "website": null
     },
