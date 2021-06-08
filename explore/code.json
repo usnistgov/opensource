@@ -7016,7 +7016,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2021-06-04"
+                "lastModified": "2021-06-08"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -7664,7 +7664,7 @@
             },
             "date": {
                 "created": "2016-10-19",
-                "lastModified": "2021-06-04"
+                "lastModified": "2021-06-07"
             },
             "description": "Biometric fingerprint image quality assessment tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/NFIQ2/downloads",
@@ -10791,7 +10791,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2021-06-06"
+                "lastModified": "2021-06-07"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -12174,13 +12174,17 @@
             },
             "date": {
                 "created": "2017-07-27",
-                "lastModified": "2021-04-14"
+                "lastModified": "2021-06-07"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-FAQ/downloads",
             "homepageURL": "https://github.com/usnistgov/800-63-FAQ",
             "laborHours": 0,
-            "languages": [],
+            "languages": [
+                "CSS",
+                "JavaScript",
+                "HTML"
+            ],
             "name": "800-63-FAQ",
             "organization": "National Institute of Standards and Technology",
             "permissions": {
@@ -12373,7 +12377,7 @@
             },
             "date": {
                 "created": "2017-08-07",
-                "lastModified": "2021-05-04"
+                "lastModified": "2021-06-08"
             },
             "description": "High Performance Computing Strategies for Boundary Value Problems",
             "downloadURL": "https://api.github.com/repos/usnistgov/hiperc/downloads",
@@ -18208,7 +18212,7 @@
             },
             "date": {
                 "created": "2018-10-12",
-                "lastModified": "2021-05-28"
+                "lastModified": "2021-06-08"
             },
             "description": "Privacy Engineering Collaboration Space",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyEngCollabSpace/downloads",
@@ -22373,7 +22377,7 @@
             },
             "date": {
                 "created": "2019-09-19",
-                "lastModified": "2021-06-07"
+                "lastModified": "2021-06-08"
             },
             "description": "Documentation for and implementations of the metaschema modeling language",
             "downloadURL": "https://api.github.com/repos/usnistgov/metaschema/downloads",
@@ -22749,7 +22753,7 @@
             },
             "date": {
                 "created": "2019-10-03",
-                "lastModified": "2021-06-07"
+                "lastModified": "2021-06-08"
             },
             "description": "Implementation of the The United States Web Design System (USWDS) 2.0 using the Hugo open-source static site generator",
             "downloadURL": "https://api.github.com/repos/usnistgov/hugo-uswds/downloads",
@@ -23606,7 +23610,7 @@
             },
             "date": {
                 "created": "2020-01-08",
-                "lastModified": "2021-05-26"
+                "lastModified": "2021-06-07"
             },
             "description": "This repository contains resources to support organizations’ use of the Privacy Framework. Resources include crosswalks, Profiles, guidelines, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyFrmwkResources/downloads",
@@ -24270,7 +24274,7 @@
             },
             "date": {
                 "created": "2020-02-24",
-                "lastModified": "2021-06-02"
+                "lastModified": "2021-06-07"
             },
             "description": "A flexible 3D visualizer for displaying, debugging, presenting, and understanding ns-3 scenarios.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NetSimulyzer/downloads",
@@ -25566,7 +25570,7 @@
             },
             "date": {
                 "created": "2020-04-17",
-                "lastModified": "2020-12-18"
+                "lastModified": "2021-06-07"
             },
             "description": "Multi-spectrum Analysis Tool for Spectroscopy",
             "downloadURL": "https://api.github.com/repos/usnistgov/MATS/downloads",
@@ -25853,7 +25857,7 @@
             },
             "date": {
                 "created": "2020-05-07",
-                "lastModified": "2021-05-18"
+                "lastModified": "2021-06-07"
             },
             "description": "Resources for NIST's Evaluation of Latent Friction Ridge Technology",
             "downloadURL": "https://api.github.com/repos/usnistgov/elft/downloads",
@@ -26211,7 +26215,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2021-06-05"
+                "lastModified": "2021-06-07"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -27097,7 +27101,7 @@
             },
             "date": {
                 "created": "2020-07-29",
-                "lastModified": "2021-06-02"
+                "lastModified": "2021-06-07"
             },
             "description": "A flexible 3D visualizer for displaying, debugging, presenting, and understanding ns-3 scenarios.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NetSimulyzer-ns3-module/downloads",
@@ -27342,7 +27346,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2021-06-06"
+                "lastModified": "2021-06-07"
             },
             "description": "Public home for LLNL software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource/downloads",
@@ -28447,7 +28451,7 @@
             },
             "date": {
                 "created": "2020-12-10",
-                "lastModified": "2021-06-04"
+                "lastModified": "2021-06-07"
             },
             "description": "Present Value of PhotoVoltaics (PV2) is an app that allows homeowners to determine a complete cost of ownership for residential rooftop solar PV systems.",
             "downloadURL": "https://api.github.com/repos/usnistgov/pv2/downloads",
@@ -29926,7 +29930,7 @@
             },
             "date": {
                 "created": "2021-05-05",
-                "lastModified": "2021-05-19"
+                "lastModified": "2021-06-07"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/2021-06-10-nist/downloads",
@@ -30083,7 +30087,7 @@
             },
             "date": {
                 "created": "2021-06-02",
-                "lastModified": "2021-06-03"
+                "lastModified": "2021-06-07"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/lantern/downloads",
@@ -30139,6 +30143,74 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/vrHeadRotation.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2021-06-07",
+                "lastModified": "2021-06-07"
+            },
+            "description": "Code used to generate Genome In A Bottle CMRG benchmark sets",
+            "downloadURL": "https://api.github.com/repos/usnistgov/giab-cmrg-benchmarkset/downloads",
+            "homepageURL": "https://github.com/usnistgov/giab-cmrg-benchmarkset",
+            "laborHours": 0,
+            "languages": [],
+            "name": "giab-cmrg-benchmarkset",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/giab-cmrg-benchmarkset.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2021-06-07",
+                "lastModified": "2021-06-08"
+            },
+            "description": "Code used to generate manuscript figures and results.",
+            "downloadURL": "https://api.github.com/repos/usnistgov/cmrg-benchmarkset-manuscript/downloads",
+            "homepageURL": "https://github.com/usnistgov/cmrg-benchmarkset-manuscript",
+            "laborHours": 0,
+            "languages": [
+                "Jupyter Notebook",
+                "R",
+                "Python"
+            ],
+            "name": "cmrg-benchmarkset-manuscript",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/cmrg-benchmarkset-manuscript.git",
             "status": "Development",
             "tags": [
                 "github"
