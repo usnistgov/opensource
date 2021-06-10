@@ -958,8 +958,18 @@
         },
         "usnistgov/800-63-FAQ": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "HTML"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/ABDNavigator": {
@@ -6065,6 +6075,22 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/cmrg-benchmarkset-manuscript": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "R"
+                    },
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
         "usnistgov/combinatorial-testing-tools": {
             "languages": {
                 "nodes": [
@@ -8404,6 +8430,12 @@
                     }
                 ],
                 "totalCount": 4
+            }
+        },
+        "usnistgov/giab-cmrg-benchmarkset": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "usnistgov/giab-pFDA-2nd-challenge": {
