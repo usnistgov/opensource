@@ -434,14 +434,6 @@
             },
             "nameWithOwner": "Materials-Consortia/optimade-python-tools"
         },
-        "Materials-Consortia/providers": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "Materials-Consortia/providers"
-        },
         "MicrosoftDocs/Hololens": {
             "labContributors": {
                 "nodes": [
@@ -733,14 +725,6 @@
                 ]
             },
             "nameWithOwner": "VainF/Torch-Pruning"
-        },
-        "Velocidex/c-aff4": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "Velocidex/c-aff4"
         },
         "WolfgangErb/LC2Ditp": {
             "labContributors": {
@@ -1893,14 +1877,6 @@
             },
             "nameWithOwner": "mathml-refresh/discussion-papers"
         },
-        "mathml-refresh/mathml": {
-            "labContributors": {
-                "nodes": [
-                    "brucemiller"
-                ]
-            },
-            "nameWithOwner": "mathml-refresh/mathml"
-        },
         "maximelafarie/spamtoberfest": {
             "labContributors": {
                 "nodes": [
@@ -2518,14 +2494,6 @@
             },
             "nameWithOwner": "replikativ/datahike"
         },
-        "replikativ/datahike-frontend": {
-            "labContributors": {
-                "nodes": [
-                    "pdenno"
-                ]
-            },
-            "nameWithOwner": "replikativ/datahike-frontend"
-        },
         "rhelmot/CelesteRandomizer": {
             "labContributors": {
                 "nodes": [
@@ -2920,6 +2888,14 @@
                 ]
             },
             "nameWithOwner": "uswds/uswds"
+        },
+        "w3c/mathml": {
+            "labContributors": {
+                "nodes": [
+                    "brucemiller"
+                ]
+            },
+            "nameWithOwner": "w3c/mathml"
         },
         "wannier-berri/wannier-berri": {
             "labContributors": {
