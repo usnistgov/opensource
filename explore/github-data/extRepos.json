@@ -249,6 +249,14 @@
             },
             "nameWithOwner": "ICN2020/icn-360"
         },
+        "IDSIA/sacred": {
+            "labContributors": {
+                "nodes": [
+                    "tnnandi"
+                ]
+            },
+            "nameWithOwner": "IDSIA/sacred"
+        },
         "IETF-Hackathon/ietf109-project-presentations": {
             "labContributors": {
                 "nodes": [
@@ -1350,14 +1358,6 @@
                 ]
             },
             "nameWithOwner": "dwsideri/latex-cv"
-        },
-        "earldouglas/codedown": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "earldouglas/codedown"
         },
         "elear/mud-sbom": {
             "labContributors": {
@@ -2679,14 +2679,6 @@
                 ]
             },
             "nameWithOwner": "sinara-hw/meta"
-        },
-        "sknetwork-team/scikit-network": {
-            "labContributors": {
-                "nodes": [
-                    "tbsexton"
-                ]
-            },
-            "nameWithOwner": "sknetwork-team/scikit-network"
         },
         "sleuthkit/autopsy": {
             "labContributors": {
