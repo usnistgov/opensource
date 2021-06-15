@@ -2076,6 +2076,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/WIPP-mrcnn-training-plugin": {
+        "description": "WIPP plugin for training on nuclei images.",
+        "name": "usnistgov/WIPP-mrcnn-training-plugin",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/WIPP-mrcnn2-inference-plugin": {
         "description": "WIPP plugin for nucleus segmentation using Mask R-CNN with tile fixing.",
         "name": "usnistgov/WIPP-mrcnn2-inference-plugin",
@@ -2103,12 +2109,6 @@
     "usnistgov/WIPP-time-seq-fov-plugin": {
         "description": null,
         "name": "usnistgov/WIPP-time-seq-fov-plugin",
-        "topics": null,
-        "website": null
-    },
-    "usnistgov/WIPP-training-inference-plugin": {
-        "description": "WIPP plugin for training on nuclei images.",
-        "name": "usnistgov/WIPP-training-inference-plugin",
         "topics": null,
         "website": null
     },
@@ -2941,6 +2941,12 @@
     "usnistgov/diffcap": {
         "description": "FiPy scripts for differential capacitance calculations",
         "name": "usnistgov/diffcap",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/dioptra": {
+        "description": "Test Software for the Characterization of AI Technologies ",
+        "name": "usnistgov/dioptra",
         "topics": null,
         "website": null
     },
@@ -3894,10 +3900,15 @@
         "website": null
     },
     "usnistgov/lantern": {
-        "description": null,
+        "description": "Interpretable genotype-phenotype landscape modeling",
         "name": "usnistgov/lantern",
-        "topics": null,
-        "website": null
+        "topics": [
+            "bioinformatics",
+            "machine-learning",
+            "computational-biology",
+            "synthetic-biology"
+        ],
+        "website": ""
     },
     "usnistgov/leaveNotice": {
         "description": "A jQuery plugin for notifying users of their exiting a page.",

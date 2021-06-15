@@ -5344,6 +5344,22 @@
                 "totalCount": 6
             }
         },
+        "usnistgov/WIPP-mrcnn-training-plugin": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
         "usnistgov/WIPP-mrcnn2-inference-plugin": {
             "languages": {
                 "nodes": [
@@ -5425,22 +5441,6 @@
                     },
                     {
                         "name": "Shell"
-                    }
-                ],
-                "totalCount": 3
-            }
-        },
-        "usnistgov/WIPP-training-inference-plugin": {
-            "languages": {
-                "nodes": [
-                    {
-                        "name": "Python"
-                    },
-                    {
-                        "name": "Jupyter Notebook"
-                    },
-                    {
-                        "name": "Dockerfile"
                     }
                 ],
                 "totalCount": 3
@@ -7765,6 +7765,28 @@
                 "totalCount": 2
             }
         },
+        "usnistgov/dioptra": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Mako"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/disaster-failure-studies-portal": {
             "languages": {
                 "nodes": [
@@ -9465,12 +9487,9 @@
                     },
                     {
                         "name": "HTML"
-                    },
-                    {
-                        "name": "JavaScript"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 2
             }
         },
         "usnistgov/hugo-uswds-docs": {
