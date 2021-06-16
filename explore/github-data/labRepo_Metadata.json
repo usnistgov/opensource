@@ -1493,6 +1493,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/PS-002-WALDO": {
+        "description": null,
+        "name": "usnistgov/PS-002-WALDO",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/PTPM": {
         "description": "Tool(s) for the collection, display and analysis of position tracking performance metrics ",
         "name": "usnistgov/PTPM",
@@ -2948,7 +2954,7 @@
         "description": "Test Software for the Characterization of AI Technologies ",
         "name": "usnistgov/dioptra",
         "topics": null,
-        "website": null
+        "website": "https://pages.nist.gov/dioptra/"
     },
     "usnistgov/disaster-failure-studies-portal": {
         "description": null,
@@ -5088,6 +5094,12 @@
     "usnistgov/tesim_omnetpp": {
         "description": "Tennessee Simulator federated with OMNET++ networking model",
         "name": "usnistgov/tesim_omnetpp",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/testais": {
+        "description": null,
+        "name": "usnistgov/testais",
         "topics": null,
         "website": null
     },
