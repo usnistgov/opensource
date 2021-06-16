@@ -2947,6 +2947,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/WIPP-mrcnn-training-plugin": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/WIPP-mrcnn2-inference-plugin": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2972,12 +2978,6 @@
             }
         },
         "usnistgov/WIPP-time-seq-fov-plugin": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
-        "usnistgov/WIPP-training-inference-plugin": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -3996,6 +3996,12 @@
             }
         },
         "usnistgov/diffcap": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/dioptra": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -5240,8 +5246,37 @@
         },
         "usnistgov/lantern": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/bioinformatics",
+                        "topic": {
+                            "name": "bioinformatics"
+                        },
+                        "url": "https://github.com/topics/bioinformatics"
+                    },
+                    {
+                        "resourcePath": "/topics/machine-learning",
+                        "topic": {
+                            "name": "machine-learning"
+                        },
+                        "url": "https://github.com/topics/machine-learning"
+                    },
+                    {
+                        "resourcePath": "/topics/computational-biology",
+                        "topic": {
+                            "name": "computational-biology"
+                        },
+                        "url": "https://github.com/topics/computational-biology"
+                    },
+                    {
+                        "resourcePath": "/topics/synthetic-biology",
+                        "topic": {
+                            "name": "synthetic-biology"
+                        },
+                        "url": "https://github.com/topics/synthetic-biology"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "usnistgov/leaveNotice": {
