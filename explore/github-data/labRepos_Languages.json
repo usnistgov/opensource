@@ -3253,19 +3253,13 @@
                         "name": "C++"
                     },
                     {
-                        "name": "Smarty"
-                    },
-                    {
-                        "name": "Objective-C"
-                    },
-                    {
                         "name": "Common Lisp"
                     },
                     {
                         "name": "Awk"
                     }
                 ],
-                "totalCount": 12
+                "totalCount": 10
             }
         },
         "usnistgov/NIST-FDD-for-Residential-Air-Conditioners-and-Heat-Pumps": {
@@ -5603,6 +5597,31 @@
                     }
                 ],
                 "totalCount": 3
+            }
+        },
+        "usnistgov/ace-ui": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "name": "SCSS"
+                    }
+                ],
+                "totalCount": 6
             }
         },
         "usnistgov/active-evaluation": {
