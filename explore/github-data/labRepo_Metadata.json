@@ -953,6 +953,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/LJH.jl": {
+        "description": "Julia module for reading/writing LJH microcalorimeter data files",
+        "name": "usnistgov/LJH.jl",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/LTECoverageTool": {
         "description": "The LTE Coverage Tool application and SDK enable first responders and public safety personnel to survey and evaluate coverage by LTE networks in environments where incidents are ongoing or planned. While accuracy of the data from UE measurements is much lower than that of specialized equipment, the application provides subjective assessments of coverage quality, using UEs which are already available to agencies and personnel.",
         "name": "usnistgov/LTECoverageTool",
