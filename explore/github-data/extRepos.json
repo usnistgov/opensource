@@ -522,14 +522,6 @@
             },
             "nameWithOwner": "PainterQubits/Unitful.jl"
         },
-        "Parsl/parsl": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "Parsl/parsl"
-        },
         "PennyLaneAI/pennylane": {
             "labContributors": {
                 "nodes": [
@@ -1149,14 +1141,6 @@
             },
             "nameWithOwner": "conda-forge/pymks-feedstock"
         },
-        "conda-forge/pyprism-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "martintb"
-                ]
-            },
-            "nameWithOwner": "conda-forge/pyprism-feedstock"
-        },
         "conda-forge/staged-recipes": {
             "labContributors": {
                 "nodes": [
@@ -1246,6 +1230,15 @@
             },
             "nameWithOwner": "dbeaver/dbeaver"
         },
+        "dfxml-working-group/dfxml_python": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist",
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "dfxml-working-group/dfxml_python"
+        },
         "dginev/LaTeXML": {
             "labContributors": {
                 "nodes": [
@@ -1310,6 +1303,14 @@
                 ]
             },
             "nameWithOwner": "dwsideri/latex-cv"
+        },
+        "easyScience/easyReflectometryApp": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "easyScience/easyReflectometryApp"
         },
         "elear/mud-sbom": {
             "labContributors": {
@@ -2667,7 +2668,8 @@
         "swcarpentry/git-novice": {
             "labContributors": {
                 "nodes": [
-                    "jat255"
+                    "jat255",
+                    "tkphd"
                 ]
             },
             "nameWithOwner": "swcarpentry/git-novice"
