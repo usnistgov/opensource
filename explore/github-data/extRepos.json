@@ -506,14 +506,6 @@
             },
             "nameWithOwner": "OAI/OpenAPI-Specification"
         },
-        "PM-Master/PMAdminTool": {
-            "labContributors": {
-                "nodes": [
-                    "gopikatwala"
-                ]
-            },
-            "nameWithOwner": "PM-Master/PMAdminTool"
-        },
         "PainterQubits/Unitful.jl": {
             "labContributors": {
                 "nodes": [
@@ -1229,6 +1221,15 @@
                 ]
             },
             "nameWithOwner": "dbeaver/dbeaver"
+        },
+        "dfxml-working-group/dfxml_cpp": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist",
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "dfxml-working-group/dfxml_cpp"
         },
         "dfxml-working-group/dfxml_python": {
             "labContributors": {
@@ -2851,6 +2852,14 @@
                 ]
             },
             "nameWithOwner": "wpk-nist-gov/MATS"
+        },
+        "wpk-nist-gov/MATSgp": {
+            "labContributors": {
+                "nodes": [
+                    "JIMonroe"
+                ]
+            },
+            "nameWithOwner": "wpk-nist-gov/MATSgp"
         },
         "xiaobai1217/Awesome-Video-Datasets": {
             "labContributors": {
