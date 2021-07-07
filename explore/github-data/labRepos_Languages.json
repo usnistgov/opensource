@@ -6721,13 +6721,16 @@
                         "name": "Python"
                     },
                     {
-                        "name": "JavaScript"
+                        "name": "HTML"
                     },
                     {
-                        "name": "HTML"
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "JavaScript"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 4
             }
         },
         "usnistgov/core_module_auto_key_app": {
@@ -6770,10 +6773,10 @@
                         "name": "Python"
                     },
                     {
-                        "name": "JavaScript"
+                        "name": "HTML"
                     },
                     {
-                        "name": "HTML"
+                        "name": "JavaScript"
                     }
                 ],
                 "totalCount": 3

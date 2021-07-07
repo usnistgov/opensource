@@ -482,14 +482,6 @@
             },
             "nameWithOwner": "Nayald/ndnperf"
         },
-        "Nesvilab/FragPipe": {
-            "labContributors": {
-                "nodes": [
-                    "neely"
-                ]
-            },
-            "nameWithOwner": "Nesvilab/FragPipe"
-        },
         "NixOS/nixpkgs": {
             "labContributors": {
                 "nodes": [
@@ -2625,6 +2617,14 @@
                 ]
             },
             "nameWithOwner": "sleuthkit/autopsy"
+        },
+        "sleuthkit/sleuthkit": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "sleuthkit/sleuthkit"
         },
         "smahesh29/Django-WebApp": {
             "labContributors": {
