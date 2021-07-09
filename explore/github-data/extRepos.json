@@ -538,6 +538,14 @@
             },
             "nameWithOwner": "PostgREST/postgrest-docs"
         },
+        "QualityInformationFramework/qif-community": {
+            "labContributors": {
+                "nodes": [
+                    "TomRKramer"
+                ]
+            },
+            "nameWithOwner": "QualityInformationFramework/qif-community"
+        },
         "RDFLib/rdflib": {
             "labContributors": {
                 "nodes": [
@@ -721,7 +729,7 @@
         "ansible-lockdown/RHEL7-CIS": {
             "labContributors": {
                 "nodes": [
-                    "mrampant-nist"
+                    "rptmat57"
                 ]
             },
             "nameWithOwner": "ansible-lockdown/RHEL7-CIS"
@@ -1239,6 +1247,14 @@
                 ]
             },
             "nameWithOwner": "dfxml-working-group/dfxml_python"
+        },
+        "dfxml-working-group/dfxml_schema": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "dfxml-working-group/dfxml_schema"
         },
         "dginev/LaTeXML": {
             "labContributors": {
