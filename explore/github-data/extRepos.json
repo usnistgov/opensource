@@ -546,6 +546,14 @@
             },
             "nameWithOwner": "QualityInformationFramework/qif-community"
         },
+        "RDFLib/pySHACL": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "RDFLib/pySHACL"
+        },
         "RDFLib/rdflib": {
             "labContributors": {
                 "nodes": [
@@ -1320,6 +1328,14 @@
                 ]
             },
             "nameWithOwner": "dwsideri/latex-cv"
+        },
+        "earldouglas/codedown": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "earldouglas/codedown"
         },
         "easyScience/easyReflectometryApp": {
             "labContributors": {
