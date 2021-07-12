@@ -1605,6 +1605,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/PyHyperScattering": {
+        "description": "Python utilities for loading, reducing, slicing, and plotting hyperspectral scattering datasets",
+        "name": "usnistgov/PyHyperScattering",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/PySTLTweak": {
         "description": "Use numpy-stl to modify STL file to recenter, scale, rotate, translate. Useful for ROS STL model tweaking.",
         "name": "usnistgov/PySTLTweak",
