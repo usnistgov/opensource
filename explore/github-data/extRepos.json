@@ -937,6 +937,23 @@
             },
             "nameWithOwner": "carpentries-incubator/SDC-BIDS-dMRI"
         },
+        "carpentries-incubator/SDC-BIDS-fMRI": {
+            "labContributors": {
+                "nodes": [
+                    "reid-a",
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "carpentries-incubator/SDC-BIDS-fMRI"
+        },
+        "carpentries-incubator/foundational-computer-skills": {
+            "labContributors": {
+                "nodes": [
+                    "wd15"
+                ]
+            },
+            "nameWithOwner": "carpentries-incubator/foundational-computer-skills"
+        },
         "carpentries-incubator/hpc-intro": {
             "labContributors": {
                 "nodes": [
@@ -1432,14 +1449,6 @@
                 ]
             },
             "nameWithOwner": "gentoo/qt"
-        },
-        "getfem-doc/getfem-examples": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "getfem-doc/getfem-examples"
         },
         "golang/go": {
             "labContributors": {
@@ -2156,14 +2165,6 @@
                 ]
             },
             "nameWithOwner": "nengo/nengo-dl"
-        },
-        "nengo/nengo.github.io": {
-            "labContributors": {
-                "nodes": [
-                    "atait"
-                ]
-            },
-            "nameWithOwner": "nengo/nengo.github.io"
         },
         "networktocode/ntc-templates": {
             "labContributors": {

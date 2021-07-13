@@ -417,6 +417,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/CASE-Utility-SHACL-Inheritance-Reviewer": {
+        "description": null,
+        "name": "usnistgov/CASE-Utility-SHACL-Inheritance-Reviewer",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/CEGO": {
         "description": "C++11 Evolutionary Global Optimization",
         "name": "usnistgov/CEGO",
@@ -3906,7 +3912,7 @@
             "ai",
             "quantum-computing"
         ],
-        "website": "https://jarvis.nist.gov"
+        "website": "https://jarvis-tools.readthedocs.io/"
     },
     "usnistgov/jsfive": {
         "description": "A pure javascript HDF5 reader",
