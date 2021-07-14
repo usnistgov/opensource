@@ -1883,6 +1883,7 @@
                     "usnistgov/swid-tools",
                     "usnistgov/swp-mds-client",
                     "usnistgov/tattoo",
+                    "usnistgov/tb3py",
                     "usnistgov/tcamt",
                     "usnistgov/tcamt-2",
                     "usnistgov/tcp_c2_rviz",
@@ -3364,6 +3365,7 @@
                     "usnistgov/swid-tools",
                     "usnistgov/swp-mds-client",
                     "usnistgov/tattoo",
+                    "usnistgov/tb3py",
                     "usnistgov/tcamt",
                     "usnistgov/tcamt-2",
                     "usnistgov/tcp_c2_rviz",
@@ -4987,6 +4989,7 @@
                     "usnistgov/swid-tools",
                     "usnistgov/swp-mds-client",
                     "usnistgov/tattoo",
+                    "usnistgov/tb3py",
                     "usnistgov/tcamt",
                     "usnistgov/tcamt-2",
                     "usnistgov/tcp_c2_rviz",
@@ -6472,6 +6475,7 @@
                     "usnistgov/swid-tools",
                     "usnistgov/swp-mds-client",
                     "usnistgov/tattoo",
+                    "usnistgov/tb3py",
                     "usnistgov/tcamt",
                     "usnistgov/tcamt-2",
                     "usnistgov/tcp_c2_rviz",
@@ -6648,7 +6652,8 @@
                 "nodes": [
                     "usnistgov/ThreeBodyTB.jl",
                     "usnistgov/jarvis",
-                    "usnistgov/spring_cluster"
+                    "usnistgov/spring_cluster",
+                    "usnistgov/tb3py"
                 ]
             },
             "login": "kfgarrity",
@@ -6783,7 +6788,8 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/JARVIS-DFT",
-                    "usnistgov/jarvis"
+                    "usnistgov/jarvis",
+                    "usnistgov/tb3py"
                 ]
             },
             "login": "knc6",
@@ -7624,6 +7630,7 @@
                     "usnistgov/swid-tools",
                     "usnistgov/swp-mds-client",
                     "usnistgov/tattoo",
+                    "usnistgov/tb3py",
                     "usnistgov/tcamt",
                     "usnistgov/tcamt-2",
                     "usnistgov/tcp_c2_rviz",
@@ -8638,6 +8645,7 @@
                     "usnistgov/swid-tools",
                     "usnistgov/swp-mds-client",
                     "usnistgov/tattoo",
+                    "usnistgov/tb3py",
                     "usnistgov/tcamt",
                     "usnistgov/tcamt-2",
                     "usnistgov/tcp_c2_rviz",
@@ -9602,6 +9610,7 @@
                     "usnistgov/swid-tools",
                     "usnistgov/swp-mds-client",
                     "usnistgov/tattoo",
+                    "usnistgov/tb3py",
                     "usnistgov/tcamt",
                     "usnistgov/tcamt-2",
                     "usnistgov/tcp_c2_rviz",
@@ -11185,6 +11194,7 @@
                     "usnistgov/swid-tools",
                     "usnistgov/swp-mds-client",
                     "usnistgov/tattoo",
+                    "usnistgov/tb3py",
                     "usnistgov/tcamt",
                     "usnistgov/tcamt-2",
                     "usnistgov/tcp_c2_rviz",
