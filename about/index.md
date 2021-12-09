@@ -16,7 +16,7 @@ NIST Software Licensing
 
 #### LICENSE file
 
-Every repository must include a license statement in a [LICENSE.md](https://github.com/usnistgov/opensource-repo/blob/master/LICENSE.md) file.
+Every repository must include a license statement in a [LICENSE.md](https://github.com/usnistgov/opensource-repo/blob/main/LICENSE.md) file.
 
 #### Other considerations
 
@@ -76,7 +76,7 @@ All public information produced by NIST follow the guidance set forth by the NIS
 
 Before content is placed into a NIST [GitHub.com](https://github.com/) repository it should contain at a minimum the following information.
 
--   Every repository must include a license statement in a [LICENSE.md](https://github.com/usnistgov/opensource-repo/blob/master/LICENSE.md) file. For most cases, use the text in the blue box for [NIST software](https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software#software).
+-   Every repository must include a license statement in a [LICENSE.md](https://github.com/usnistgov/opensource-repo/blob/main/LICENSE.md) file. For most cases, use the text in the blue box for [NIST software](https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software#software).
 -   README.MD or README.rst file clearly describes, in layman's terms:
     -   goals of the repository and project
     -   whether the code is usable (pre-release, production-ready, or in-between?)
@@ -87,7 +87,7 @@ Before content is placed into a NIST [GitHub.com](https://github.com/) reposit
     -   basic usage
 -   Binaries, if used, must be signed.[\
     ](https://github.com/usnistgov/discuss/issues/2)
--   [CODEMETA.YAML](https://github.com/usnistgov/opensource-repo/blob/master/CODEMETA.yaml) file,  edit to include your relevant categories and topics to be indexed by [code.nist.gov](https://code.nist.gov/) portal and NIST websites for search.
+-   [CODEMETA.YAML](https://github.com/usnistgov/opensource-repo/blob/main/CODEMETA.yaml) file,  edit to include your relevant categories and topics to be indexed by [code.nist.gov](https://code.nist.gov/) portal and NIST websites for search.
 
 Remember that these repositories *are hosted* on GitHub servers, and should contain only NIST scientific research data.
 
@@ -112,11 +112,11 @@ Once your project is on GitHub, make sure users and contributors can find it! Th
 
 1.  Include meaningful metadata (description and topic tags) in your repository. 
 
-    -   Start with our** [list](https://github.com/usnistgov/opensource-repo/blob/master/CODEMETA.yaml) **of recommended, standardized topics (categories and themes).
+    -   Start with our** [list](https://github.com/usnistgov/opensource-repo/blob/main/CODEMETA.yaml) **of recommended, standardized topics (categories and themes).
 
     -   See helpful hints on [GitHub's topic help page](https://help.github.com/articles/about-topics/). Add tags relevant to your project's programming language, platforms, and more (e.g., Python, HPC, Linux).
 
-    -   Add custom Topics along with the appropriate [category ](https://github.com/usnistgov/opensource-repo/blob/master/CODEMETA.yaml)[and themes](https://github.com/usnistgov/opensource-repo/blob/master/CODEMETA.yaml) (based on the [NIST Taxonomy](https://data.nist.gov/od/id/691DDF3315711C14E0532457068146BE1907) tier 1 terms).
+    -   Add custom Topics along with the appropriate [category ](https://github.com/usnistgov/opensource-repo/blob/main/CODEMETA.yaml)[and themes](https://github.com/usnistgov/opensource-repo/blob/main/CODEMETA.yaml) (based on the [NIST Taxonomy](https://data.nist.gov/od/id/691DDF3315711C14E0532457068146BE1907) tier 1 terms).
 
     -   Publicize any outreach activities or major milestones related to your project. Examples: You have a paper/poster/presentation accepted at a conference; you're hosting a workshop or webinar; your project is nominated for an award; or you're speaking on a podcast or guest blogging.
 
