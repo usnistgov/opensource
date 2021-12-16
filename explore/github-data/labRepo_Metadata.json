@@ -185,6 +185,20 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/2021-10-22-ctcms-online": {
+        "description": "HPC Carpentry pilot workshop",
+        "name": "usnistgov/2021-10-22-ctcms-online",
+        "topics": [
+            "hpc-carpentry"
+        ],
+        "website": "https://pages.nist.gov/2021-10-22-ctcms-online/"
+    },
+    "usnistgov/2021-11-09-nist": {
+        "description": null,
+        "name": "usnistgov/2021-11-09-nist",
+        "topics": null,
+        "website": "https://pages.nist.gov/2021-11-09-nist/"
+    },
     "usnistgov/3DScanningProject": {
         "description": null,
         "name": "usnistgov/3DScanningProject",
@@ -218,12 +232,6 @@
     "usnistgov/800-63-FAQ": {
         "description": null,
         "name": "usnistgov/800-63-FAQ",
-        "topics": null,
-        "website": null
-    },
-    "usnistgov/90B-Shall-Statements": {
-        "description": "A spreadsheet containing all SHALL statements from SP 800-90B and associated IGs. Intended for discussion on the requirements.",
-        "name": "usnistgov/90B-Shall-Statements",
         "topics": null,
         "website": null
     },
@@ -298,6 +306,18 @@
     "usnistgov/AMVP": {
         "description": "Industry/NIST Collaboration on the development of an Automated Cryptographic Module Validation Protocol",
         "name": "usnistgov/AMVP",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ANDiE-v1_0": {
+        "description": "ANDiE: Autonomous Neutron Diffraction Explorer ",
+        "name": "usnistgov/ANDiE-v1_0",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/AR-PMI": {
+        "description": null,
+        "name": "usnistgov/AR-PMI",
         "topics": null,
         "website": null
     },
@@ -429,6 +449,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/COMET": {
+        "description": "R Shiny application for analyzing dilution series cell count data.",
+        "name": "usnistgov/COMET",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/CONTAM-apps": {
         "description": null,
         "name": "usnistgov/CONTAM-apps",
@@ -482,6 +508,12 @@
     "usnistgov/Charpy": {
         "description": "Data analysis software for instrumented Charpy tests",
         "name": "usnistgov/Charpy",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/CharpyCurveFitting": {
+        "description": "R Shiny application to fit various models and quantify uncertainty for temperature transition data",
+        "name": "usnistgov/CharpyCurveFitting",
         "topics": null,
         "website": null
     },
@@ -580,6 +612,18 @@
         "name": "usnistgov/DiffStress",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/Differential-Privacy-Synthetic-Data-Challenge-assets": {
+        "description": "This repository contains all public data, python scripts, and documentation relating to NIST Public Safety Communications Research Division's Differential Privacy program including past prize challenges and bechmark problem sets. ",
+        "name": "usnistgov/Differential-Privacy-Synthetic-Data-Challenge-assets",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets": {
+        "description": null,
+        "name": "usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets",
+        "topics": null,
+        "website": null
     },
     "usnistgov/DiscreteEventLogisticsSystems": {
         "description": "SysML model libraries supporting model-based production and logistics systems modeling ",
@@ -755,6 +799,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/Freq_Cal": {
+        "description": "Frequency measuring instrument calibration",
+        "name": "usnistgov/Freq_Cal",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/GCTC": {
         "description": "Global City Teams Challenge",
         "name": "usnistgov/GCTC",
@@ -846,6 +896,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/HyperspectraWithNeXL.jl": {
+        "description": "Code associated with the article \"Reproducible Spectral and Hyper-Spectral Analysis using NeXL\"",
+        "name": "usnistgov/HyperspectraWithNeXL.jl",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/IARPA-N2N": {
         "description": "Fingerprint Template Generation and Matching API for IARPA's Nail to Nail Fingerprint Capture Challenge",
         "name": "usnistgov/IARPA-N2N",
@@ -860,6 +916,12 @@
     "usnistgov/ICCF": {
         "description": null,
         "name": "usnistgov/ICCF",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ICDAS": {
+        "description": "Integrated Control and data aquisition system",
+        "name": "usnistgov/ICDAS",
         "topics": null,
         "website": null
     },
@@ -1030,6 +1092,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/MCV-QOE-TVO": {
+        "description": "Mission critical voice quality of experience measurement calibration software to perform transmit volume optimization for push-to-talk communications.",
+        "name": "usnistgov/MCV-QOE-TVO",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/MCV-QoE-firmware": {
         "description": null,
         "name": "usnistgov/MCV-QoE-firmware",
@@ -1149,6 +1217,12 @@
         ],
         "website": ""
     },
+    "usnistgov/NEMO-timezone-plugin": {
+        "description": null,
+        "name": "usnistgov/NEMO-timezone-plugin",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/NEXUS-CDCS": {
         "description": null,
         "name": "usnistgov/NEXUS-CDCS",
@@ -1205,6 +1279,12 @@
             "bgp-srx"
         ],
         "website": "https://www.nist.gov/services-resources/software/bgp-secure-routing-extension-bgp-srx-prototype"
+    },
+    "usnistgov/NIST-Decision-Tree": {
+        "description": "R Shiny application that recommends and executes interlaboratory comparison statistical procedures",
+        "name": "usnistgov/NIST-Decision-Tree",
+        "topics": null,
+        "website": null
     },
     "usnistgov/NIST-FDD-for-Residential-Air-Conditioners-and-Heat-Pumps": {
         "description": "LabView codes, and associated codes, for doing a rule-based-chart method of fault detection and diagnosis",
@@ -1629,6 +1709,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/RDaF-site": {
+        "description": "Project Page for ",
+        "name": "usnistgov/RDaF-site",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/RECON": {
         "description": "RECON - Restricted English for Constructing Ontologies",
         "name": "usnistgov/RECON",
@@ -1894,11 +1980,23 @@
         ],
         "website": ""
     },
+    "usnistgov/SineFit": {
+        "description": "4-Parameter sine fitter class",
+        "name": "usnistgov/SineFit",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/Solubility": {
         "description": "REST website (CakePHP) for Solubility data",
         "name": "usnistgov/Solubility",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/SpectralToolkit": {
+        "description": "MATLAB toolkit for spectral analysis",
+        "name": "usnistgov/SpectralToolkit",
+        "topics": null,
+        "website": null
     },
     "usnistgov/SpectrumBrowser": {
         "description": "ITL",
@@ -2196,6 +2294,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/abcmrt16": {
+        "description": "Articulation Band Correlated Modified Rhyme Test software ported to python",
+        "name": "usnistgov/abcmrt16",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/accessTime": {
         "description": "Code to measure access delay of PTT voice communications systems",
         "name": "usnistgov/accessTime",
@@ -2219,6 +2323,12 @@
         "name": "usnistgov/agreement-platform",
         "topics": null,
         "website": null
+    },
+    "usnistgov/alignn": {
+        "description": "Atomistic Line Graph Neural Network",
+        "name": "usnistgov/alignn",
+        "topics": null,
+        "website": "https://doi.org/10.1038/s41524-021-00650-1"
     },
     "usnistgov/ambench": {
         "description": null,
@@ -2316,6 +2426,18 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/atomqc": {
+        "description": null,
+        "name": "usnistgov/atomqc",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/atomvision": {
+        "description": null,
+        "name": "usnistgov/atomvision",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/awesome-nist": {
         "description": "List of open-source software from NIST",
         "name": "usnistgov/awesome-nist",
@@ -2372,6 +2494,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/carpentries-development": {
+        "description": "Repository for development related to NIST's Carpentries efforts",
+        "name": "usnistgov/carpentries-development",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/cdaGeneration": {
         "description": null,
         "name": "usnistgov/cdaGeneration",
@@ -2399,6 +2527,12 @@
     "usnistgov/cds-base": {
         "description": null,
         "name": "usnistgov/cds-base",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/cell-line-engineering": {
+        "description": null,
+        "name": "usnistgov/cell-line-engineering",
         "topics": null,
         "website": null
     },
@@ -2438,6 +2572,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/cmomy": {
+        "description": null,
+        "name": "usnistgov/cmomy",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/cmrg-benchmarkset-manuscript": {
         "description": "Code used to generate manuscript figures and results.",
         "name": "usnistgov/cmrg-benchmarkset-manuscript",
@@ -2459,6 +2599,12 @@
     "usnistgov/configurable-form-tool": {
         "description": null,
         "name": "usnistgov/configurable-form-tool",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/continuous-scientific-python": {
+        "description": "Repository to track, build, and push a min-requirement container to make common scientific workflows easier and reproducible.",
+        "name": "usnistgov/continuous-scientific-python",
         "topics": null,
         "website": null
     },
@@ -2762,6 +2908,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/core_user_registration_app": {
+        "description": null,
+        "name": "usnistgov/core_user_registration_app",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/core_visualization_app": {
         "description": null,
         "name": "usnistgov/core_visualization_app",
@@ -2825,9 +2977,21 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/corr-compute": {
+        "description": "The CoRR computing base repository available to fork and trigger commits as computations records.",
+        "name": "usnistgov/corr-compute",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/corr-deploy": {
         "description": "CoRR platform deployment repository",
         "name": "usnistgov/corr-deploy",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/corr-engine": {
+        "description": "The CoRR runner that collects all corr-compute and corr-repo forks as projects, source code and computations and updates corr-platform.",
+        "name": "usnistgov/corr-engine",
         "topics": null,
         "website": null
     },
@@ -2855,11 +3019,23 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/corr-platform": {
+        "description": "The CoRR platform frontend a Github pages that is regularly updated by corr-engine.",
+        "name": "usnistgov/corr-platform",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/corr-prov": {
         "description": "A Python library for W3C Provenance Data Model (PROV)",
         "name": "usnistgov/corr-prov",
         "topics": null,
         "website": "http://prov.readthedocs.io/"
+    },
+    "usnistgov/corr-repo": {
+        "description": "The CoRR base repository related to corr-compute. It's also available to fork and will be linked to the forked corr-compute repository.",
+        "name": "usnistgov/corr-repo",
+        "topics": null,
+        "website": null
     },
     "usnistgov/corr-reprozip": {
         "description": "ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.",
@@ -2912,6 +3088,12 @@
     "usnistgov/crontest": {
         "description": "Testing a cron based backup for docker based databases",
         "name": "usnistgov/crontest",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ctRSD-simulator": {
+        "description": null,
+        "name": "usnistgov/ctRSD-simulator",
         "topics": null,
         "website": null
     },
@@ -3003,6 +3185,12 @@
         "name": "usnistgov/diffcap",
         "topics": null,
         "website": null
+    },
+    "usnistgov/diffraction-labeling-consensus-study": {
+        "description": "Supporting code for combinatorial diffraction consensus study (10.1007/s40192-021-00213-8)",
+        "name": "usnistgov/diffraction-labeling-consensus-study",
+        "topics": null,
+        "website": "https://dx.doi.org/10.1007/s40192-021-00213-8"
     },
     "usnistgov/dioptra": {
         "description": "Test Software for the Characterization of AI Technologies ",
@@ -3317,6 +3505,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/ginseng-roa-202109": {
+        "description": "Repository for data and analysis of ginseng elemental data in ROA 646.01-21-xxx (identifier to be updated when ROA is published)",
+        "name": "usnistgov/ginseng-roa-202109",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/git-novice-MSE": {
         "description": null,
         "name": "usnistgov/git-novice-MSE",
@@ -3395,11 +3589,31 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/h5wasm": {
+        "description": "A WebAssembly HDF5 reader/writer library ",
+        "name": "usnistgov/h5wasm",
+        "topics": [
+            "nodejs",
+            "browser",
+            "hdf5",
+            "webassembly",
+            "wasm",
+            "zero-dependency",
+            "javascript"
+        ],
+        "website": ""
+    },
     "usnistgov/had-monitor": {
         "description": "Perl scripts with HAD-monitor tests",
         "name": "usnistgov/had-monitor",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/hea-feature-importance-study": {
+        "description": "supporting code for feature importance study in https://dx.doi.org/10.1063/5.0050885",
+        "name": "usnistgov/hea-feature-importance-study",
+        "topics": null,
+        "website": "https://dx.doi.org/10.1063/5.0050885"
     },
     "usnistgov/hedgehog": {
         "description": null,
@@ -3638,9 +3852,21 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/hl7-diff-tool-backend": {
+        "description": null,
+        "name": "usnistgov/hl7-diff-tool-backend",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/hl7-diff-tool-frontend": {
         "description": null,
         "name": "usnistgov/hl7-diff-tool-frontend",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/hl7-diff-tool-infra": {
+        "description": null,
+        "name": "usnistgov/hl7-diff-tool-infra",
         "topics": null,
         "website": null
     },
@@ -3847,6 +4073,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/intelligibility": {
+        "description": "Code to measure intelligibility of PTT voice communications systems",
+        "name": "usnistgov/intelligibility",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/interaction-injection": {
         "description": "Demostrates the injection of interactions and objects into a federation.",
         "name": "usnistgov/interaction-injection",
@@ -3921,7 +4153,7 @@
             "hdf5",
             "javascript"
         ],
-        "website": "https://ncnr.nist.gov/ncnrdata/view/nexus-hdf-viewer.html?pathlist=ncnrdata+ng7sans+201911+nonims83+data&filename=sans102051.nxs.ng7"
+        "website": ""
     },
     "usnistgov/jsip": {
         "description": "JSIP: Java SIP specification Reference Implementation (moved from java.net)",
@@ -3932,6 +4164,12 @@
     "usnistgov/jsont": {
         "description": "a (abandoned) python package for transforming JSON via stylesheets",
         "name": "usnistgov/jsont",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/kriss_k157": {
+        "description": "XRR Measurements and analysis of BIPM K157 - HfO2 thickness (using KRISS reference materials)",
+        "name": "usnistgov/kriss_k157",
         "topics": null,
         "website": null
     },
@@ -4081,6 +4319,18 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/mcvqoe": {
+        "description": "Hub for mission critical voice quality of experience measurement software",
+        "name": "usnistgov/mcvqoe",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/mcvqoe-base": {
+        "description": "Base library for mission critical voice quality of experience measurement methods",
+        "name": "usnistgov/mcvqoe-base",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/mdcs-legacy-1.5": {
         "description": "DEPRECATED: MDCS 1.5",
         "name": "usnistgov/mdcs-legacy-1.5",
@@ -4220,6 +4470,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/multicomplex": {
+        "description": "Multicomplex algebra",
+        "name": "usnistgov/multicomplex",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/mumpce_py": {
         "description": null,
         "name": "usnistgov/mumpce_py",
@@ -4260,9 +4516,19 @@
         "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
         "name": "usnistgov/ndn-dpdk",
         "topics": [
+            "ndn",
+            "hacktoberfest",
+            "dpdk"
+        ],
+        "website": "https://www.nist.gov/publications/ndn-dpdk-ndn-forwarding-100-gbps-commodity-hardware"
+    },
+    "usnistgov/ndn-dpdk-ICN20": {
+        "description": "NDN-DPDK Benchmark for ACM-ICN 2020 Paper",
+        "name": "usnistgov/ndn-dpdk-ICN20",
+        "topics": [
             "ndn"
         ],
-        "website": "https://www.nist.gov/publications/ndn-forwarding-100-gbps-commodity-hardware"
+        "website": "https://www.nist.gov/publications/ndn-dpdk-ndn-forwarding-100-gbps-commodity-hardware"
     },
     "usnistgov/ndntrace": {
         "description": "Traceroute-like tool for NDN",
@@ -4310,12 +4576,6 @@
         "name": "usnistgov/netzero",
         "topics": null,
         "website": "http://commercedataservice.github.io/NZERTF"
-    },
-    "usnistgov/new-igamt": {
-        "description": "NIST IGAMT repository, with builds and deploys using docker and ansible",
-        "name": "usnistgov/new-igamt",
-        "topics": null,
-        "website": null
     },
     "usnistgov/newTCAMT": {
         "description": null,
@@ -4497,10 +4757,10 @@
         "website": ""
     },
     "usnistgov/opensource": {
-        "description": "Public home for LLNL software catalog",
+        "description": "Public home for NIST open source software catalog",
         "name": "usnistgov/opensource",
         "topics": null,
-        "website": "https://software.llnl.gov"
+        "website": "https://code.nist.gov"
     },
     "usnistgov/opensource-actions": {
         "description": "Auto-updater for NIST software catalog",
@@ -4569,7 +4829,7 @@
         "description": "Tools for the OSCAL project",
         "name": "usnistgov/oscal-tools",
         "topics": null,
-        "website": null
+        "website": "https://pages.nist.gov/oscal-tools/"
     },
     "usnistgov/oss-maven": {
         "description": null,
@@ -4728,6 +4988,12 @@
         ],
         "website": null
     },
+    "usnistgov/pscr-lmr2lte": {
+        "description": "Software for LMR to LTE",
+        "name": "usnistgov/pscr-lmr2lte",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/pscr-openwrt-fork": {
         "description": "This is a fork to pull OpenWrt code within the NIST GitHub organization for testing purposes. ",
         "name": "usnistgov/pscr-openwrt-fork",
@@ -4737,6 +5003,12 @@
     "usnistgov/pscr-openwrt-packages-fork": {
         "description": "This is another test.  Do not rely on it for, well, anything.",
         "name": "usnistgov/pscr-openwrt-packages-fork",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/psud": {
+        "description": "Code to measure the probability of successful delivery for PTT voice communications systems.",
+        "name": "usnistgov/psud",
         "topics": null,
         "website": null
     },
@@ -4964,9 +5236,21 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/semi-supervised-neutron": {
+        "description": "Here we look at semi-supervised approaches to analyzing neutron scattering data",
+        "name": "usnistgov/semi-supervised-neutron",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/sesame": {
         "description": "2-d drift-diffusion-Poisson python code",
         "name": "usnistgov/sesame",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/shearCellTensiometry": {
+        "description": "Tools for analyzing videos of droplet deformation for measurement of interfacial tension using a Linkam shear cell",
+        "name": "usnistgov/shearCellTensiometry",
         "topics": null,
         "website": null
     },
@@ -5061,6 +5345,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/steppyngstounes": {
+        "description": "Python package for getting from here to there",
+        "name": "usnistgov/steppyngstounes",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/stopped-flow-sans": {
         "description": "Jupyter notebooks and python routines for processing time-resolved SANS measurements at NCNR for stopped-flow experiments",
         "name": "usnistgov/stopped-flow-sans",
@@ -5132,6 +5422,12 @@
         "name": "usnistgov/tem_analysis",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/teqp": {
+        "description": null,
+        "name": "usnistgov/teqp",
+        "topics": null,
+        "website": null
     },
     "usnistgov/tesim": {
         "description": "Tennessee Eastman simulation using Gilbert channel modeling PLC scan failure due to network uncertainties.",
@@ -5401,7 +5697,7 @@
         "website": null
     },
     "usnistgov/vrHeadRotation": {
-        "description": null,
+        "description": "A MATLAB open-source model to generate 3-DOF head rotation.",
         "name": "usnistgov/vrHeadRotation",
         "topics": null,
         "website": null
