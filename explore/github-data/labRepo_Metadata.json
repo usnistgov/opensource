@@ -3355,6 +3355,17 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/face-recognition-humans-machines": {
+        "description": "Face recognition in humans and machines",
+        "name": "usnistgov/face-recognition-humans-machines",
+        "topics": [
+            "biometrics",
+            "face-recognition",
+            "face",
+            "forensics"
+        ],
+        "website": ""
+    },
     "usnistgov/facility": {
         "description": "Demo Production Facility Ontology Management System",
         "name": "usnistgov/facility",

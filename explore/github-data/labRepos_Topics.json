@@ -4484,6 +4484,41 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/face-recognition-humans-machines": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/biometrics",
+                        "topic": {
+                            "name": "biometrics"
+                        },
+                        "url": "https://github.com/topics/biometrics"
+                    },
+                    {
+                        "resourcePath": "/topics/face-recognition",
+                        "topic": {
+                            "name": "face-recognition"
+                        },
+                        "url": "https://github.com/topics/face-recognition"
+                    },
+                    {
+                        "resourcePath": "/topics/face",
+                        "topic": {
+                            "name": "face"
+                        },
+                        "url": "https://github.com/topics/face"
+                    },
+                    {
+                        "resourcePath": "/topics/forensics",
+                        "topic": {
+                            "name": "forensics"
+                        },
+                        "url": "https://github.com/topics/forensics"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
         "usnistgov/facility": {
             "repositoryTopics": {
                 "nodes": [],

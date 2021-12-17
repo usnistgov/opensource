@@ -272,14 +272,6 @@
             },
             "nameWithOwner": "JARVIS-Materials-Design/dbdocs"
         },
-        "JARVIS-Materials-Design/dosgnn": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "JARVIS-Materials-Design/dosgnn"
-        },
         "JARVIS-Materials-Design/jarvis-tools": {
             "labContributors": {
                 "nodes": [
@@ -1738,6 +1730,7 @@
         "hpc-carpentry/hpc-parallel-novice": {
             "labContributors": {
                 "nodes": [
+                    "reid-a",
                     "tkphd"
                 ]
             },
