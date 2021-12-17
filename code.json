@@ -5872,7 +5872,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2021-12-15"
+                "lastModified": "2021-12-17"
             },
             "description": "The NIST STEP File Analyzer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SFA/downloads",
@@ -7215,7 +7215,7 @@
             },
             "date": {
                 "created": "2016-10-03",
-                "lastModified": "2021-12-01"
+                "lastModified": "2021-12-16"
             },
             "description": "NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NEMO/downloads",
@@ -7861,7 +7861,7 @@
             },
             "date": {
                 "created": "2016-10-25",
-                "lastModified": "2021-12-15"
+                "lastModified": "2021-12-16"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/decima/downloads",
@@ -15734,7 +15734,7 @@
             },
             "date": {
                 "created": "2018-04-10",
-                "lastModified": "2021-01-12"
+                "lastModified": "2021-12-16"
             },
             "description": "A Java library for X-ray microanalysis",
             "downloadURL": "https://api.github.com/repos/usnistgov/Roentgen/downloads",
@@ -22841,7 +22841,7 @@
             },
             "date": {
                 "created": "2019-10-11",
-                "lastModified": "2021-11-23"
+                "lastModified": "2021-12-17"
             },
             "description": "The NIST IFC File Analyzer (IFA) generates a spreadsheet from an IFC file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/IFA/downloads",
@@ -24367,7 +24367,7 @@
             },
             "date": {
                 "created": "2020-02-27",
-                "lastModified": "2021-09-25"
+                "lastModified": "2021-12-16"
             },
             "description": "Java tools and libraries providing a Metaschema toolchain",
             "downloadURL": "https://api.github.com/repos/usnistgov/metaschema-java/downloads",
@@ -26518,7 +26518,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2021-12-12"
+                "lastModified": "2021-12-17"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -26699,7 +26699,7 @@
             },
             "date": {
                 "created": "2020-06-29",
-                "lastModified": "2021-12-13"
+                "lastModified": "2021-12-16"
             },
             "description": "Software test harness for running TrojAI leaderboards.",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-test-harness/downloads",
@@ -27254,7 +27254,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2021-12-12"
+                "lastModified": "2021-12-16"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -27389,7 +27389,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2021-12-09"
+                "lastModified": "2021-12-16"
             },
             "description": "Public home for NIST open source software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource/downloads",
@@ -27465,7 +27465,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2021-05-14"
+                "lastModified": "2021-12-16"
             },
             "description": "Auto-updater for NIST software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource-actions/downloads",
@@ -30467,7 +30467,7 @@
             },
             "date": {
                 "created": "2021-06-07",
-                "lastModified": "2021-11-08"
+                "lastModified": "2021-12-16"
             },
             "description": "Test Software for the Characterization of AI Technologies ",
             "downloadURL": "https://api.github.com/repos/usnistgov/dioptra/downloads",
@@ -32405,6 +32405,42 @@
             "status": "Development",
             "tags": [
                 "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2021-12-16",
+                "lastModified": "2021-12-16"
+            },
+            "description": "Face recognition in humans and machines",
+            "downloadURL": "https://api.github.com/repos/usnistgov/face-recognition-humans-machines/downloads",
+            "homepageURL": "https://github.com/usnistgov/face-recognition-humans-machines",
+            "laborHours": 0,
+            "languages": [],
+            "name": "face-recognition-humans-machines",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/face-recognition-humans-machines.git",
+            "status": "Development",
+            "tags": [
+                "github",
+                "biometrics",
+                "face-recognition",
+                "face",
+                "forensics"
             ],
             "vcs": "git"
         }
