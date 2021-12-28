@@ -1861,7 +1861,7 @@
             },
             "date": {
                 "created": "2015-06-04",
-                "lastModified": "2021-12-07"
+                "lastModified": "2021-12-27"
             },
             "description": "Convert a corpus of PDF to clean text files on a distributed architecture",
             "downloadURL": "https://api.github.com/repos/usnistgov/ocr-pipeline/downloads",
@@ -3774,7 +3774,7 @@
             },
             "date": {
                 "created": "2016-01-22",
-                "lastModified": "2021-12-22"
+                "lastModified": "2021-12-27"
             },
             "description": "Canonical Robot Command Language, a generic interface to industrial robots",
             "downloadURL": "https://api.github.com/repos/usnistgov/crcl/downloads",
@@ -10794,7 +10794,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2021-12-20"
+                "lastModified": "2021-12-28"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -16947,7 +16947,7 @@
             },
             "date": {
                 "created": "2018-06-25",
-                "lastModified": "2021-12-22"
+                "lastModified": "2021-12-28"
             },
             "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
             "downloadURL": "https://api.github.com/repos/usnistgov/ndn-dpdk/downloads",
@@ -18646,7 +18646,7 @@
             },
             "date": {
                 "created": "2018-12-18",
-                "lastModified": "2021-12-09"
+                "lastModified": "2021-12-27"
             },
             "description": "Process design kit for NIST superconducting optoelectronic technologies",
             "downloadURL": "https://api.github.com/repos/usnistgov/SOEN-PDK/downloads",
@@ -18756,7 +18756,7 @@
             },
             "date": {
                 "created": "2019-01-29",
-                "lastModified": "2021-07-08"
+                "lastModified": "2021-12-27"
             },
             "description": "Web Image Processing Pipeline (WIPP) - backend",
             "downloadURL": "https://api.github.com/repos/usnistgov/WIPP-backend/downloads",
@@ -21809,7 +21809,7 @@
             },
             "date": {
                 "created": "2019-08-11",
-                "lastModified": "2021-12-01"
+                "lastModified": "2021-12-28"
             },
             "description": "API database tools for accessing the NIST Interatomic Potentials Repository: explore and download interatomic potentials and computed properties.",
             "downloadURL": "https://api.github.com/repos/usnistgov/potentials/downloads",
@@ -22841,7 +22841,7 @@
             },
             "date": {
                 "created": "2019-10-11",
-                "lastModified": "2021-12-17"
+                "lastModified": "2021-12-27"
             },
             "description": "The NIST IFC File Analyzer (IFA) generates a spreadsheet from an IFC file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/IFA/downloads",
@@ -26193,7 +26193,7 @@
             },
             "date": {
                 "created": "2020-06-01",
-                "lastModified": "2021-12-17"
+                "lastModified": "2021-12-28"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-literature/downloads",
@@ -26518,7 +26518,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2021-12-17"
+                "lastModified": "2021-12-27"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -27254,7 +27254,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2021-12-16"
+                "lastModified": "2021-12-28"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -28711,61 +28711,6 @@
             },
             "date": {
                 "created": "2021-01-14",
-                "lastModified": "2021-10-22"
-            },
-            "description": "CRCL communication from Kitting demo integrates with Java gwendolen ",
-            "downloadURL": "https://api.github.com/repos/usnistgov/Gwendolen/downloads",
-            "homepageURL": "https://github.com/usnistgov/Gwendolen",
-            "laborHours": 0,
-            "languages": [
-                "Java",
-                "C++",
-                "HTML",
-                "C",
-                "Raku",
-                "Shell",
-                "Makefile",
-                "TeX",
-                "Ada",
-                "MATLAB",
-                "GAP",
-                "Prolog",
-                "M4",
-                "PostScript",
-                "ANTLR",
-                "CSS",
-                "Assembly",
-                "Batchfile",
-                "JavaScript",
-                "XSLT",
-                "sed",
-                "eC"
-            ],
-            "name": "Gwendolen",
-            "organization": "National Institute of Standards and Technology",
-            "permissions": {
-                "licenses": [
-                    {
-                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
-                        "name": "NIST"
-                    }
-                ],
-                "usageType": "openSource"
-            },
-            "repositoryURL": "git://github.com/usnistgov/Gwendolen.git",
-            "status": "Development",
-            "tags": [
-                "github"
-            ],
-            "vcs": "git"
-        },
-        {
-            "contact": {
-                "URL": "https://github.com/usnistgov",
-                "email": "devops@nist.gov"
-            },
-            "date": {
-                "created": "2021-01-14",
                 "lastModified": "2021-04-09"
             },
             "description": "Tennessee Eastman simulation using Gilbert channel modeling PLC scan failure due to network uncertainties.",
@@ -29861,7 +29806,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2021-12-24"
+                "lastModified": "2021-12-27"
             },
             "description": "Atomistic Line Graph Neural Network",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -30749,7 +30694,7 @@
             },
             "date": {
                 "created": "2021-06-28",
-                "lastModified": "2021-12-23"
+                "lastModified": "2021-12-28"
             },
             "description": "Accurate and fast tight-binding calculations, using pre-fit coefficients and three-body terms.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ThreeBodyTB.jl/downloads",
@@ -30925,7 +30870,7 @@
             },
             "date": {
                 "created": "2021-07-13",
-                "lastModified": "2021-11-14"
+                "lastModified": "2021-12-28"
             },
             "description": "TB3Py",
             "downloadURL": "https://api.github.com/repos/usnistgov/tb3py/downloads",
