@@ -2216,7 +2216,7 @@
                 "totalCount": 857
             },
             "issues_Open": {
-                "totalCount": 30
+                "totalCount": 31
             },
             "languages": {
                 "totalCount": 3
@@ -2850,6 +2850,60 @@
                 "totalCount": 38
             },
             "url": "https://github.com/usnistgov/ActEV_Scorer"
+        },
+        "usnistgov/AnalyticTimeSeries": {
+            "createdAt": "2021-12-29T21:36:13Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "submodule for creating analytic test signals",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 10
+            },
+            "name": "AnalyticTimeSeries",
+            "nameWithOwner": "usnistgov/AnalyticTimeSeries",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "MATLAB"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/usnistgov/AnalyticTimeSeries"
         },
         "usnistgov/BIAS-2.0": {
             "createdAt": "2016-03-28T17:38:05Z",
@@ -14607,7 +14661,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 98
+                "totalCount": 99
             },
             "url": "https://github.com/usnistgov/SCTK"
         },
@@ -19908,7 +19962,7 @@
                 "totalCount": 7
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -31729,7 +31783,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 16
+                "totalCount": 17
             },
             "url": "https://github.com/usnistgov/hugo-uswds"
         },
@@ -32291,7 +32345,7 @@
             },
             "homepageUrl": "https://ihexds.nist.gov",
             "issues_Closed": {
-                "totalCount": 279
+                "totalCount": 280
             },
             "issues_Open": {
                 "totalCount": 241
@@ -33963,7 +34017,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 582
+                "totalCount": 583
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -38002,7 +38056,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 15
+                "totalCount": 16
             },
             "url": "https://github.com/usnistgov/optbayesexpt"
         },

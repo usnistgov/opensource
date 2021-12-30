@@ -538,14 +538,6 @@
             },
             "nameWithOwner": "PM-Master/policy-machine-go"
         },
-        "PennyLaneAI/pennylane": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "PennyLaneAI/pennylane"
-        },
         "PhdLoLi/NDNlive": {
             "labContributors": {
                 "nodes": [
@@ -2199,7 +2191,8 @@
         "named-data/ndn-svs": {
             "labContributors": {
                 "nodes": [
-                    "Pesa"
+                    "Pesa",
+                    "yoursunny"
                 ]
             },
             "nameWithOwner": "named-data/ndn-svs"
