@@ -3774,7 +3774,7 @@
             },
             "date": {
                 "created": "2016-01-22",
-                "lastModified": "2021-12-27"
+                "lastModified": "2021-12-29"
             },
             "description": "Canonical Robot Command Language, a generic interface to industrial robots",
             "downloadURL": "https://api.github.com/repos/usnistgov/crcl/downloads",
@@ -5215,7 +5215,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2021-12-23"
+                "lastModified": "2021-12-29"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -11017,7 +11017,7 @@
             },
             "date": {
                 "created": "2017-07-06",
-                "lastModified": "2021-12-02"
+                "lastModified": "2021-12-29"
             },
             "description": "Election process model development",
             "downloadURL": "https://api.github.com/repos/usnistgov/ElectionModeling/downloads",
@@ -21136,7 +21136,7 @@
             },
             "date": {
                 "created": "2019-06-20",
-                "lastModified": "2021-12-07"
+                "lastModified": "2021-12-30"
             },
             "description": "Optimal Bayesian Experiment Design ",
             "downloadURL": "https://api.github.com/repos/usnistgov/optbayesexpt/downloads",
@@ -22285,7 +22285,7 @@
             },
             "date": {
                 "created": "2019-09-14",
-                "lastModified": "2021-12-25"
+                "lastModified": "2021-12-29"
             },
             "description": "Core algorithms and data for X-ray microanalysis calculations",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLCore.jl/downloads",
@@ -22734,7 +22734,7 @@
             },
             "date": {
                 "created": "2019-10-03",
-                "lastModified": "2021-12-01"
+                "lastModified": "2021-12-30"
             },
             "description": "Implementation of the The United States Web Design System (USWDS) 2.0 using the Hugo open-source static site generator",
             "downloadURL": "https://api.github.com/repos/usnistgov/hugo-uswds/downloads",
@@ -26257,7 +26257,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2021-12-27"
+                "lastModified": "2021-12-29"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -32389,6 +32389,40 @@
                 "face-recognition",
                 "face",
                 "forensics"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2021-12-29",
+                "lastModified": "2021-12-29"
+            },
+            "description": "submodule for creating analytic test signals",
+            "downloadURL": "https://api.github.com/repos/usnistgov/AnalyticTimeSeries/downloads",
+            "homepageURL": "https://github.com/usnistgov/AnalyticTimeSeries",
+            "laborHours": 0,
+            "languages": [
+                "MATLAB"
+            ],
+            "name": "AnalyticTimeSeries",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/AnalyticTimeSeries.git",
+            "status": "Development",
+            "tags": [
+                "github"
             ],
             "vcs": "git"
         }
