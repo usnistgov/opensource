@@ -339,6 +339,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/AnalyticTimeSeries": {
+        "description": "submodule for creating analytic test signals",
+        "name": "usnistgov/AnalyticTimeSeries",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/BIAS-2.0": {
         "description": "A framework for deploying and invoking biometric operations, such as enrolling, identifying (comparing one to many), and verifying (comparing one to one) biometric information over a service-oriented architecture. It is a high-level abstraction that supports any biometric modality or data format.",
         "name": "usnistgov/BIAS-2.0",
