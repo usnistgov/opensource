@@ -2556,6 +2556,16 @@
             "login": "NicolasDorier",
             "name": "Nicolas Dorier"
         },
+        "Nist-ALoane": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/85191235?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/NistPluggableModules"
+                ]
+            },
+            "login": "Nist-ALoane",
+            "name": null
+        },
         "NoahDove": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/85965774?v=4",
             "contributedLabRepositories": {
@@ -5803,6 +5813,7 @@
                 "nodes": [
                     "usnistgov/AnalyticTimeSeries",
                     "usnistgov/Freq_Cal",
+                    "usnistgov/NistPluggableModules",
                     "usnistgov/SpectralToolkit"
                 ]
             },
@@ -23443,6 +23454,16 @@
             "login": "stintel",
             "name": "Stijn Tintel"
         },
+        "stivalet": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9197867?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/VTSG"
+                ]
+            },
+            "login": "stivalet",
+            "name": "Bertrand Stivalet"
+        },
         "stl-steve-moore": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/889913?v=4",
             "contributedLabRepositories": {
@@ -23901,7 +23922,7 @@
                 ]
             },
             "login": "tashakim",
-            "name": "Tasha J. Kim"
+            "name": "Tasha Kim"
         },
         "tautme": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/15580867?u=9c82a3eecd9af379fc0e5048020a2ea75eb6f020&v=4",

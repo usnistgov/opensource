@@ -1442,6 +1442,14 @@
             },
             "nameWithOwner": "digitalcorpora/digitalcorpora-stats"
         },
+        "dlech/KeeAgent": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "dlech/KeeAgent"
+        },
         "dmlc/dgl": {
             "labContributors": {
                 "nodes": [
@@ -2375,14 +2383,6 @@
                 ]
             },
             "nameWithOwner": "pollere/DCT"
-        },
-        "pollere/DNMP-v2": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "pollere/DNMP-v2"
         },
         "pollere/NDNpatches": {
             "labContributors": {
