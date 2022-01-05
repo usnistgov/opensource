@@ -5872,7 +5872,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2021-12-24"
+                "lastModified": "2022-01-04"
             },
             "description": "The NIST STEP File Analyzer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SFA/downloads",
@@ -7861,7 +7861,7 @@
             },
             "date": {
                 "created": "2016-10-25",
-                "lastModified": "2022-01-03"
+                "lastModified": "2022-01-04"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/decima/downloads",
@@ -7902,7 +7902,7 @@
             },
             "date": {
                 "created": "2016-10-25",
-                "lastModified": "2021-12-23"
+                "lastModified": "2022-01-04"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/scapval/downloads",
@@ -7974,7 +7974,7 @@
             },
             "date": {
                 "created": "2016-10-25",
-                "lastModified": "2021-02-27"
+                "lastModified": "2022-01-04"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/swid-tools/downloads",
@@ -8294,7 +8294,7 @@
             },
             "date": {
                 "created": "2016-12-05",
-                "lastModified": "2022-01-03"
+                "lastModified": "2022-01-05"
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "downloadURL": "https://api.github.com/repos/usnistgov/frvt/downloads",
@@ -22316,7 +22316,7 @@
             },
             "date": {
                 "created": "2019-09-14",
-                "lastModified": "2021-12-29"
+                "lastModified": "2022-01-04"
             },
             "description": "Core algorithms and data for X-ray microanalysis calculations",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLCore.jl/downloads",
@@ -22430,7 +22430,7 @@
             },
             "date": {
                 "created": "2019-09-21",
-                "lastModified": "2021-12-23"
+                "lastModified": "2022-01-04"
             },
             "description": "EDS spectrum analysis tools within the NeXL toolset",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLSpectrum.jl/downloads",
@@ -22465,7 +22465,7 @@
             },
             "date": {
                 "created": "2019-09-21",
-                "lastModified": "2021-12-28"
+                "lastModified": "2022-01-04"
             },
             "description": "Tools for handling correlated uncertainties in Julia",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLUncertainties.jl/downloads",
@@ -22499,7 +22499,7 @@
             },
             "date": {
                 "created": "2019-09-21",
-                "lastModified": "2021-10-11"
+                "lastModified": "2022-01-04"
             },
             "description": "EPMA matrix correction algorithms",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLMatrixCorrection.jl/downloads",
@@ -22872,7 +22872,7 @@
             },
             "date": {
                 "created": "2019-10-11",
-                "lastModified": "2021-12-27"
+                "lastModified": "2022-01-04"
             },
             "description": "The NIST IFC File Analyzer (IFA) generates a spreadsheet from an IFC file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/IFA/downloads",
@@ -27019,7 +27019,7 @@
             },
             "date": {
                 "created": "2020-07-14",
-                "lastModified": "2021-12-22"
+                "lastModified": "2022-01-04"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/cdcs-docker/downloads",
@@ -27420,7 +27420,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2022-01-03"
+                "lastModified": "2022-01-04"
             },
             "description": "Public home for NIST open source software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource/downloads",
@@ -32525,6 +32525,83 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/VTSG.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-01-04",
+                "lastModified": "2022-01-04"
+            },
+            "description": "NIST workshop on Git Branching",
+            "downloadURL": "https://api.github.com/repos/usnistgov/2022-01-13-nist-git-branching-online/downloads",
+            "homepageURL": "https://github.com/usnistgov/2022-01-13-nist-git-branching-online",
+            "laborHours": 0,
+            "languages": [
+                "HTML",
+                "Python",
+                "SCSS",
+                "R",
+                "Makefile",
+                "CSS",
+                "JavaScript",
+                "Shell",
+                "Ruby"
+            ],
+            "name": "2022-01-13-nist-git-branching-online",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/2022-01-13-nist-git-branching-online.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-01-04",
+                "lastModified": "2022-01-04"
+            },
+            "description": "NIST Git Branching Workshop",
+            "downloadURL": "https://api.github.com/repos/usnistgov/2022-01-13-nist-git-branching-online-test/downloads",
+            "homepageURL": "https://github.com/usnistgov/2022-01-13-nist-git-branching-online-test",
+            "laborHours": 0,
+            "languages": [
+                "HTML",
+                "CSS"
+            ],
+            "name": "2022-01-13-nist-git-branching-online-test",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/2022-01-13-nist-git-branching-online-test.git",
             "status": "Development",
             "tags": [
                 "github"
