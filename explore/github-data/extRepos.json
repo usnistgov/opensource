@@ -305,14 +305,6 @@
             },
             "nameWithOwner": "JuliaDatabases/SQLite.jl"
         },
-        "JuliaGraphs/MetaGraphsNext.jl": {
-            "labContributors": {
-                "nodes": [
-                    "bks-nist"
-                ]
-            },
-            "nameWithOwner": "JuliaGraphs/MetaGraphsNext.jl"
-        },
         "JuliaLang/julia": {
             "labContributors": {
                 "nodes": [
@@ -1180,6 +1172,14 @@
                 ]
             },
             "nameWithOwner": "catchorg/Catch2"
+        },
+        "cell-line-engineering/cell-line-engineering": {
+            "labContributors": {
+                "nodes": [
+                    "GRG2"
+                ]
+            },
+            "nameWithOwner": "cell-line-engineering/cell-line-engineering"
         },
         "citation-style-language/styles": {
             "labContributors": {
