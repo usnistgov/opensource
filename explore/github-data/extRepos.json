@@ -1041,14 +1041,6 @@
             },
             "nameWithOwner": "carpentries-incubator/markdown-intro"
         },
-        "carpentries-incubator/proposals": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/proposals"
-        },
         "carpentries-incubator/python-interactive-data-visualizations": {
             "labContributors": {
                 "nodes": [
@@ -1977,6 +1969,14 @@
                 ]
             },
             "nameWithOwner": "materialsinnovation/pymks"
+        },
+        "materialsproject/matbench": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "materialsproject/matbench"
         },
         "mathml-refresh/discussion-papers": {
             "labContributors": {
