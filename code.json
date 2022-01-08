@@ -5215,7 +5215,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2021-12-29"
+                "lastModified": "2022-01-07"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -18454,7 +18454,7 @@
             },
             "date": {
                 "created": "2018-11-19",
-                "lastModified": "2021-12-15"
+                "lastModified": "2022-01-07"
             },
             "description": "Software components for biometric technology evaluations.",
             "downloadURL": "https://api.github.com/repos/usnistgov/libbiomeval/downloads",
@@ -27285,7 +27285,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2022-01-01"
+                "lastModified": "2022-01-07"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -27420,7 +27420,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2022-01-06"
+                "lastModified": "2022-01-07"
             },
             "description": "Public home for NIST open source software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource/downloads",
@@ -27824,7 +27824,7 @@
             },
             "date": {
                 "created": "2020-09-09",
-                "lastModified": "2021-12-01"
+                "lastModified": "2022-01-07"
             },
             "description": "A repository tracking releases of NIST's ACVP server. See www.github.com/usnistgov/ACVP for the protocol.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP-Server/downloads",
@@ -28528,7 +28528,7 @@
             },
             "date": {
                 "created": "2020-12-10",
-                "lastModified": "2021-12-02"
+                "lastModified": "2022-01-07"
             },
             "description": "Present Value of PhotoVoltaics (PV2) is an app that allows homeowners to determine a complete cost of ownership for residential rooftop solar PV systems.",
             "downloadURL": "https://api.github.com/repos/usnistgov/pv2/downloads",
@@ -28669,7 +28669,7 @@
             },
             "date": {
                 "created": "2021-01-05",
-                "lastModified": "2022-01-06"
+                "lastModified": "2022-01-07"
             },
             "description": "API that provides standards based economic calculations. ",
             "downloadURL": "https://api.github.com/repos/usnistgov/E3/downloads",
@@ -29412,7 +29412,7 @@
             },
             "date": {
                 "created": "2021-03-22",
-                "lastModified": "2022-01-06"
+                "lastModified": "2022-01-07"
             },
             "description": "GUI for controlling custom Shopbot/Fluigent 3D printer with in situ cameras",
             "downloadURL": "https://api.github.com/repos/usnistgov/ShopbotPyQt/downloads",
@@ -30831,7 +30831,7 @@
             },
             "date": {
                 "created": "2021-07-01",
-                "lastModified": "2021-11-29"
+                "lastModified": "2022-01-07"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/blossom-dashboard/downloads",
@@ -30841,7 +30841,8 @@
                 "TypeScript",
                 "JavaScript",
                 "HTML",
-                "CSS"
+                "CSS",
+                "Shell"
             ],
             "name": "blossom-dashboard",
             "organization": "National Institute of Standards and Technology",
@@ -32572,11 +32573,11 @@
             },
             "date": {
                 "created": "2022-01-04",
-                "lastModified": "2022-01-04"
+                "lastModified": "2022-01-07"
             },
             "description": "NIST workshop on Git Branching",
-            "downloadURL": "https://api.github.com/repos/usnistgov/2022-01-13-nist-git-branching-online/downloads",
-            "homepageURL": "https://github.com/usnistgov/2022-01-13-nist-git-branching-online",
+            "downloadURL": "https://api.github.com/repos/usnistgov/2022-01-27-nist-branching-online/downloads",
+            "homepageURL": "https://github.com/usnistgov/2022-01-27-nist-branching-online",
             "laborHours": 0,
             "languages": [
                 "HTML",
@@ -32589,7 +32590,7 @@
                 "Shell",
                 "Ruby"
             ],
-            "name": "2022-01-13-nist-git-branching-online",
+            "name": "2022-01-27-nist-branching-online",
             "organization": "National Institute of Standards and Technology",
             "permissions": {
                 "licenses": [
@@ -32600,7 +32601,7 @@
                 ],
                 "usageType": "openSource"
             },
-            "repositoryURL": "git://github.com/usnistgov/2022-01-13-nist-git-branching-online.git",
+            "repositoryURL": "git://github.com/usnistgov/2022-01-27-nist-branching-online.git",
             "status": "Development",
             "tags": [
                 "github"
@@ -32614,17 +32615,17 @@
             },
             "date": {
                 "created": "2022-01-04",
-                "lastModified": "2022-01-04"
+                "lastModified": "2022-01-07"
             },
             "description": "NIST Git Branching Workshop",
-            "downloadURL": "https://api.github.com/repos/usnistgov/2022-01-13-nist-git-branching-online-test/downloads",
-            "homepageURL": "https://github.com/usnistgov/2022-01-13-nist-git-branching-online-test",
+            "downloadURL": "https://api.github.com/repos/usnistgov/2022-01-27-nist-branching-online-test/downloads",
+            "homepageURL": "https://github.com/usnistgov/2022-01-27-nist-branching-online-test",
             "laborHours": 0,
             "languages": [
                 "HTML",
                 "CSS"
             ],
-            "name": "2022-01-13-nist-git-branching-online-test",
+            "name": "2022-01-27-nist-branching-online-test",
             "organization": "National Institute of Standards and Technology",
             "permissions": {
                 "licenses": [
@@ -32635,7 +32636,7 @@
                 ],
                 "usageType": "openSource"
             },
-            "repositoryURL": "git://github.com/usnistgov/2022-01-13-nist-git-branching-online-test.git",
+            "repositoryURL": "git://github.com/usnistgov/2022-01-27-nist-branching-online-test.git",
             "status": "Development",
             "tags": [
                 "github"
