@@ -272,14 +272,6 @@
             },
             "nameWithOwner": "JARVIS-Materials-Design/dbdocs"
         },
-        "JARVIS-Materials-Design/jarvis-tools": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "JARVIS-Materials-Design/jarvis-tools"
-        },
         "JARVIS-Materials-Design/jarvis-tools-notebooks": {
             "labContributors": {
                 "nodes": [
@@ -377,6 +369,14 @@
                 ]
             },
             "nameWithOwner": "LabShare/WIPP-frontend"
+        },
+        "MDAnalysis/mdanalysis": {
+            "labContributors": {
+                "nodes": [
+                    "JIMonroe"
+                ]
+            },
+            "nameWithOwner": "MDAnalysis/mdanalysis"
         },
         "Materials-Consortia/providers": {
             "labContributors": {
@@ -1374,6 +1374,14 @@
                 ]
             },
             "nameWithOwner": "deepmaterials/dlmatreview"
+        },
+        "deoyani/oar-metadata": {
+            "labContributors": {
+                "nodes": [
+                    "RayPlante"
+                ]
+            },
+            "nameWithOwner": "deoyani/oar-metadata"
         },
         "dfrws/dfrws2017-challenge": {
             "labContributors": {
