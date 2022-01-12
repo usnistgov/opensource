@@ -5872,7 +5872,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2022-01-04"
+                "lastModified": "2022-01-11"
             },
             "description": "The NIST STEP File Analyzer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SFA/downloads",
@@ -7020,7 +7020,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2022-01-08"
+                "lastModified": "2022-01-12"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -13870,7 +13870,7 @@
             },
             "date": {
                 "created": "2017-11-16",
-                "lastModified": "2021-08-06"
+                "lastModified": "2022-01-11"
             },
             "description": "Source Code for the LV_Packages repository",
             "downloadURL": "https://api.github.com/repos/usnistgov/LV_Libraries/downloads",
@@ -21556,7 +21556,7 @@
             },
             "date": {
                 "created": "2019-07-16",
-                "lastModified": "2021-12-16"
+                "lastModified": "2022-01-11"
             },
             "description": "A tool for characterizing the network behavior of IoT Devices. The primary intended use is to assist in the generation of allowlist files formatted according to the Manufacturer Usage Description specification.",
             "downloadURL": "https://api.github.com/repos/usnistgov/MUD-PD/downloads",
@@ -22438,6 +22438,7 @@
             "laborHours": 0,
             "languages": [
                 "Julia",
+                "HTML",
                 "Jupyter Notebook"
             ],
             "name": "NeXLSpectrum.jl",
@@ -23410,7 +23411,7 @@
             },
             "date": {
                 "created": "2019-12-03",
-                "lastModified": "2021-09-23"
+                "lastModified": "2022-01-11"
             },
             "description": "SEM/EDS particle analysis tools",
             "downloadURL": "https://api.github.com/repos/usnistgov/NeXLParticle.jl/downloads",
@@ -23975,7 +23976,7 @@
             },
             "date": {
                 "created": "2020-01-24",
-                "lastModified": "2021-12-10"
+                "lastModified": "2022-01-12"
             },
             "description": "Repository for ARIAC 2020/2021, consisting of kit building and assembly in a simulated warehouse with a dual arm robot.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ARIAC/downloads",
@@ -26549,7 +26550,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2021-12-27"
+                "lastModified": "2022-01-11"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -27718,7 +27719,7 @@
                 "created": "2020-08-31",
                 "lastModified": "2022-01-11"
             },
-            "description": "Simulation of maintenance in manufacturing systems",
+            "description": "Simulation of manufacturing systems",
             "downloadURL": "https://api.github.com/repos/usnistgov/simantha/downloads",
             "homepageURL": "https://github.com/usnistgov/simantha",
             "laborHours": 0,
@@ -28602,7 +28603,7 @@
             },
             "date": {
                 "created": "2020-12-21",
-                "lastModified": "2021-12-31"
+                "lastModified": "2022-01-11"
             },
             "description": "Entropy Source Validation Protocol and Server specifications",
             "downloadURL": "https://api.github.com/repos/usnistgov/ESV-Server/downloads",
