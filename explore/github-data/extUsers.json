@@ -2818,18 +2818,6 @@
             "login": "Peter-Jeavons",
             "name": "Peter Jeavons"
         },
-        "Peynn": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/25882820?v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "usnistgov/WIPP",
-                    "usnistgov/WIPP-backend",
-                    "usnistgov/WIPP-frontend"
-                ]
-            },
-            "login": "Peynn",
-            "name": "VANTOUROUT Damien"
-        },
         "Pierre-rigodiat": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/17032111?v=4",
             "contributedLabRepositories": {
@@ -9836,6 +9824,18 @@
             },
             "login": "duvi",
             "name": null
+        },
+        "dvantourout": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/25882820?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/WIPP",
+                    "usnistgov/WIPP-backend",
+                    "usnistgov/WIPP-frontend"
+                ]
+            },
+            "login": "dvantourout",
+            "name": "VANTOUROUT Damien"
         },
         "dvitas": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5735415?u=dc50cab8e45819ab8196fcf58518d0c189706ff2&v=4",
@@ -18502,6 +18502,8 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/ICDAS",
+                    "usnistgov/LV_Libraries",
+                    "usnistgov/LV_Packages",
                     "usnistgov/NistPluggableModules"
                 ]
             },

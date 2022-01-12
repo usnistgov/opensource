@@ -300,7 +300,6 @@
         "JuliaLang/julia": {
             "labContributors": {
                 "nodes": [
-                    "NicholasWMRitchie",
                     "ggggggggg"
                 ]
             },
@@ -594,11 +593,18 @@
             },
             "nameWithOwner": "ReviewNB/support"
         },
+        "SINTEF/thermopack": {
+            "labContributors": {
+                "nodes": [
+                    "ianhbell"
+                ]
+            },
+            "nameWithOwner": "SINTEF/thermopack"
+        },
         "SasView/sasview": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville",
-                    "skrueger111"
+                    "bmaranville"
                 ]
             },
             "nameWithOwner": "SasView/sasview"
@@ -938,8 +944,7 @@
         "carpentries-incubator/SDC-BIDS-IntroMRI": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/SDC-BIDS-IntroMRI"
@@ -947,8 +952,7 @@
         "carpentries-incubator/SDC-BIDS-dMRI": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/SDC-BIDS-dMRI"
@@ -956,8 +960,7 @@
         "carpentries-incubator/SDC-BIDS-fMRI": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/SDC-BIDS-fMRI"
@@ -965,8 +968,7 @@
         "carpentries-incubator/bioc-intro": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/bioc-intro"
@@ -974,8 +976,7 @@
         "carpentries-incubator/camera-traps": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/camera-traps"
@@ -991,8 +992,7 @@
         "carpentries-incubator/git-novice-branch-pr": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/git-novice-branch-pr"
@@ -1009,8 +1009,7 @@
         "carpentries-incubator/jekyll-pages-novice": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/jekyll-pages-novice"
@@ -1026,8 +1025,7 @@
         "carpentries-incubator/machine-learning-novice-python": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/machine-learning-novice-python"
@@ -1035,8 +1033,7 @@
         "carpentries-incubator/markdown-intro": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/markdown-intro"
@@ -1044,8 +1041,7 @@
         "carpentries-incubator/python-interactive-data-visualizations": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/python-interactive-data-visualizations"
@@ -1053,8 +1049,7 @@
         "carpentries-incubator/python-intermediate-development": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/python-intermediate-development"
@@ -1062,8 +1057,7 @@
         "carpentries-incubator/template": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "carpentries-incubator/template"
@@ -2201,7 +2195,8 @@
         "named-data/ndn-tools": {
             "labContributors": {
                 "nodes": [
-                    "Pesa"
+                    "Pesa",
+                    "yoursunny"
                 ]
             },
             "nameWithOwner": "named-data/ndn-tools"
@@ -2384,14 +2379,6 @@
                 ]
             },
             "nameWithOwner": "prism-em/prismatic"
-        },
-        "pwilmart/Cloud_desktop_benchmarks": {
-            "labContributors": {
-                "nodes": [
-                    "neely"
-                ]
-            },
-            "nameWithOwner": "pwilmart/Cloud_desktop_benchmarks"
         },
         "pybind/cmake_example": {
             "labContributors": {
@@ -2757,14 +2744,6 @@
             },
             "nameWithOwner": "swarm-lab/ROpenCVLite"
         },
-        "swcarpentry/git-novice": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "swcarpentry/git-novice"
-        },
         "swcarpentry/python-novice-gapminder": {
             "labContributors": {
                 "nodes": [
@@ -2772,14 +2751,6 @@
                 ]
             },
             "nameWithOwner": "swcarpentry/python-novice-gapminder"
-        },
-        "swcarpentry/r-novice-gapminder": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "swcarpentry/r-novice-gapminder"
         },
         "swcarpentry/shell-novice": {
             "labContributors": {
