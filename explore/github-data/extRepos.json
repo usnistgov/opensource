@@ -163,6 +163,7 @@
         "DefinitelyTyped/DefinitelyTyped": {
             "labContributors": {
                 "nodes": [
+                    "bmaranville",
                     "yoursunny"
                 ]
             },
@@ -2281,6 +2282,14 @@
                 ]
             },
             "nameWithOwner": "nix-community/nix-user-chroot"
+        },
+        "open-vsx/publish-extensions": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "open-vsx/publish-extensions"
         },
         "openanalytics/shinyproxy": {
             "labContributors": {
