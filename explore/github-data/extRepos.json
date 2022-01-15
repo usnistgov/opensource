@@ -506,14 +506,6 @@
             },
             "nameWithOwner": "PM-Master/fabric"
         },
-        "PM-Master/policies": {
-            "labContributors": {
-                "nodes": [
-                    "joshua-roberts"
-                ]
-            },
-            "nameWithOwner": "PM-Master/policies"
-        },
         "PM-Master/policy-machine-core": {
             "labContributors": {
                 "nodes": [
@@ -1297,6 +1289,14 @@
                 ]
             },
             "nameWithOwner": "danieljprice/phantom"
+        },
+        "dannng/dannng.github.io": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "dannng/dannng.github.io"
         },
         "daroczig/logger": {
             "labContributors": {
@@ -2744,14 +2744,6 @@
                 ]
             },
             "nameWithOwner": "snakemake/snakemake-wrappers"
-        },
-        "stephenbanghart/OSCAL": {
-            "labContributors": {
-                "nodes": [
-                    "david-waltermire-nist"
-                ]
-            },
-            "nameWithOwner": "stephenbanghart/OSCAL"
         },
         "swarm-lab/ROpenCVLite": {
             "labContributors": {
