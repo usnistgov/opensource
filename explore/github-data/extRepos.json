@@ -338,6 +338,14 @@
             },
             "nameWithOwner": "JuliaRegistries/General"
         },
+        "JuliaStats/MixedModels.jl": {
+            "labContributors": {
+                "nodes": [
+                    "apintar"
+                ]
+            },
+            "nameWithOwner": "JuliaStats/MixedModels.jl"
+        },
         "JuliaSymbolics/Symbolics.jl": {
             "labContributors": {
                 "nodes": [
@@ -2437,6 +2445,14 @@
             },
             "nameWithOwner": "pymeasure/pymeasure"
         },
+        "pymupdf/PyMuPDF": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "pymupdf/PyMuPDF"
+        },
         "pyodide/pyodide": {
             "labContributors": {
                 "nodes": [
@@ -2452,14 +2468,6 @@
                 ]
             },
             "nameWithOwner": "pypa/packaging.python.org"
-        },
-        "pyro-ppl/pyro": {
-            "labContributors": {
-                "nodes": [
-                    "ShawnGeller"
-                ]
-            },
-            "nameWithOwner": "pyro-ppl/pyro"
         },
         "python/typeshed": {
             "labContributors": {
