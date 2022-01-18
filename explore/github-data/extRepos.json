@@ -1266,6 +1266,14 @@
             },
             "nameWithOwner": "conda-forge/pymks-feedstock"
         },
+        "conda-forge/pytorch-ignite-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "conda-forge/pytorch-ignite-feedstock"
+        },
         "conda-forge/staged-recipes": {
             "labContributors": {
                 "nodes": [
