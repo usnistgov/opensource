@@ -2451,16 +2451,16 @@
         "website": null
     },
     "usnistgov/atomqc": {
-        "description": null,
+        "description": "Atomistic Calculations on Quantum Computers",
         "name": "usnistgov/atomqc",
         "topics": null,
-        "website": null
+        "website": ""
     },
     "usnistgov/atomvision": {
-        "description": null,
+        "description": "Deep learning framework for atomistic image data",
         "name": "usnistgov/atomvision",
         "topics": null,
-        "website": null
+        "website": ""
     },
     "usnistgov/awesome-nist": {
         "description": "List of open-source software from NIST",
@@ -5566,6 +5566,12 @@
     "usnistgov/trojai-test-harness": {
         "description": "Software test harness for running TrojAI leaderboards.",
         "name": "usnistgov/trojai-test-harness",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/trojai-utility": {
+        "description": "Utility code supporting the TrojAI program.",
+        "name": "usnistgov/trojai-utility",
         "topics": null,
         "website": null
     },

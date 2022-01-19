@@ -188,6 +188,7 @@
         "GSA/fedramp-automation": {
             "labContributors": {
                 "nodes": [
+                    "aj-stein-nist",
                     "david-waltermire-nist"
                 ]
             },
@@ -553,6 +554,14 @@
                 ]
             },
             "nameWithOwner": "QualityInformationFramework/qif-community"
+        },
+        "RDFLib/OWL-RL": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "RDFLib/OWL-RL"
         },
         "RDFLib/pySHACL": {
             "labContributors": {
@@ -1973,6 +1982,14 @@
             },
             "nameWithOwner": "martinmoene/span-lite"
         },
+        "materials-data-facility/MaterialsIO": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "materials-data-facility/MaterialsIO"
+        },
         "materialsinnovation/materialhub-ui": {
             "labContributors": {
                 "nodes": [
@@ -2020,6 +2037,14 @@
                 ]
             },
             "nameWithOwner": "meronmetaferia/Bias-Debias-Extra-Credit"
+        },
+        "mesonbuild/meson": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "mesonbuild/meson"
         },
         "microsoft/vcpkg": {
             "labContributors": {
