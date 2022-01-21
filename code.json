@@ -5796,7 +5796,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2022-01-12"
+                "lastModified": "2022-01-20"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -23660,7 +23660,7 @@
             },
             "date": {
                 "created": "2020-01-08",
-                "lastModified": "2021-11-25"
+                "lastModified": "2022-01-20"
             },
             "description": "This repository contains resources to support organizations’ use of the Privacy Framework. Resources include crosswalks, Profiles, guidelines, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyFrmwkResources/downloads",
@@ -26289,7 +26289,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2022-01-19"
+                "lastModified": "2022-01-20"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -26550,7 +26550,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2022-01-11"
+                "lastModified": "2022-01-21"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -30798,7 +30798,7 @@
             },
             "date": {
                 "created": "2021-06-30",
-                "lastModified": "2022-01-05"
+                "lastModified": "2022-01-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/OFDM-GAN/downloads",
@@ -32608,13 +32608,15 @@
             },
             "date": {
                 "created": "2022-01-18",
-                "lastModified": "2022-01-18"
+                "lastModified": "2022-01-20"
             },
             "description": "Utility code supporting the TrojAI program.",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-utility/downloads",
             "homepageURL": "https://github.com/usnistgov/trojai-utility",
             "laborHours": 0,
-            "languages": [],
+            "languages": [
+                "Python"
+            ],
             "name": "trojai-utility",
             "organization": "National Institute of Standards and Technology",
             "permissions": {
