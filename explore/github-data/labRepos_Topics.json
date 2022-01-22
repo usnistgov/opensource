@@ -986,6 +986,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/FormalModelsOfOnboardingProtocols": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/ForrestalBuildingSubmetering": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2525,8 +2531,37 @@
         },
         "usnistgov/SDNist": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/python3",
+                        "topic": {
+                            "name": "python3"
+                        },
+                        "url": "https://github.com/topics/python3"
+                    },
+                    {
+                        "resourcePath": "/topics/synthetic-data",
+                        "topic": {
+                            "name": "synthetic-data"
+                        },
+                        "url": "https://github.com/topics/synthetic-data"
+                    },
+                    {
+                        "resourcePath": "/topics/synthetic-data-generator",
+                        "topic": {
+                            "name": "synthetic-data-generator"
+                        },
+                        "url": "https://github.com/topics/synthetic-data-generator"
+                    },
+                    {
+                        "resourcePath": "/topics/privacy",
+                        "topic": {
+                            "name": "privacy"
+                        },
+                        "url": "https://github.com/topics/privacy"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "usnistgov/SEDcorr": {
@@ -6026,6 +6061,12 @@
             }
         },
         "usnistgov/mixturesolutions": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/ml-materials-reflections": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
