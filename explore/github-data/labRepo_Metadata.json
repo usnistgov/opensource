@@ -811,6 +811,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/FormalModelsOfOnboardingProtocols": {
+        "description": null,
+        "name": "usnistgov/FormalModelsOfOnboardingProtocols",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ForrestalBuildingSubmetering": {
         "description": "Project to convert Forrestal Building data to Green Button",
         "name": "usnistgov/ForrestalBuildingSubmetering",
@@ -1857,10 +1863,15 @@
         "website": null
     },
     "usnistgov/SDNist": {
-        "description": "This repository houses SDNist, a collaborative project between NIST and Sarus Technologies, SAS, under CRADA CN-21-0143. ",
+        "description": "SDNist: Benchmark data and evaluation tools for data synthesizers.",
         "name": "usnistgov/SDNist",
-        "topics": null,
-        "website": " https://doi.org/10.18434/mds2-250"
+        "topics": [
+            "python3",
+            "synthetic-data",
+            "synthetic-data-generator",
+            "privacy"
+        ],
+        "website": "https://doi.org/10.18434/mds2-250"
     },
     "usnistgov/SEDcorr": {
         "description": "Systematic Energy Deficit correction for APT data",
@@ -4437,6 +4448,12 @@
     "usnistgov/mixturesolutions": {
         "description": "solving linear models of genome-scale mixture datasets",
         "name": "usnistgov/mixturesolutions",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ml-materials-reflections": {
+        "description": null,
+        "name": "usnistgov/ml-materials-reflections",
         "topics": null,
         "website": null
     },
