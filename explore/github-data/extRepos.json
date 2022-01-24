@@ -766,14 +766,6 @@
             },
             "nameWithOwner": "agl-c/deid2_dpsyn"
         },
-        "alanshaw/it-pushable": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "alanshaw/it-pushable"
-        },
         "ansible-lockdown/RHEL7-CIS": {
             "labContributors": {
                 "nodes": [
@@ -805,14 +797,6 @@
                 ]
             },
             "nameWithOwner": "avendesora/pythonbible"
-        },
-        "awslabs/open-data-registry": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "awslabs/open-data-registry"
         },
         "bbatsov/prelude": {
             "labContributors": {
@@ -2270,7 +2254,8 @@
         "named-data/ndns": {
             "labContributors": {
                 "nodes": [
-                    "Pesa"
+                    "Pesa",
+                    "yoursunny"
                 ]
             },
             "nameWithOwner": "named-data/ndns"
