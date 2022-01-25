@@ -427,6 +427,14 @@
             },
             "nameWithOwner": "NIST-ISODB/AJBrownThesisIsotherms"
         },
+        "NIST-ISODB/aif_tutorial": {
+            "labContributors": {
+                "nodes": [
+                    "dwsideriusNIST"
+                ]
+            },
+            "nameWithOwner": "NIST-ISODB/aif_tutorial"
+        },
         "NIST-ISODB/isodb-library": {
             "labContributors": {
                 "nodes": [
@@ -482,6 +490,14 @@
                 ]
             },
             "nameWithOwner": "NixOS/nixpkgs"
+        },
+        "NowanIlfideme/pydantic-yaml": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "NowanIlfideme/pydantic-yaml"
         },
         "PM-Master/blockmatrix": {
             "labContributors": {
