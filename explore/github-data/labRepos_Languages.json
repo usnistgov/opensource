@@ -9332,16 +9332,22 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "JavaScript"
-                    },
-                    {
                         "name": "C++"
                     },
                     {
+                        "name": "TypeScript"
+                    },
+                    {
                         "name": "Makefile"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "Python"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 5
             }
         },
         "usnistgov/had-monitor": {
