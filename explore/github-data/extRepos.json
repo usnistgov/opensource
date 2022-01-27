@@ -1650,8 +1650,7 @@
         "hhatch/feasst": {
             "labContributors": {
                 "nodes": [
-                    "dwsideriusNIST",
-                    "mahynski"
+                    "dwsideriusNIST"
                 ]
             },
             "nameWithOwner": "hhatch/feasst"
@@ -1779,6 +1778,14 @@
                 ]
             },
             "nameWithOwner": "immregistries/mqe-validator"
+        },
+        "influxdata/chronograf": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "influxdata/chronograf"
         },
         "is-a-dev/maintainer-docs": {
             "labContributors": {
