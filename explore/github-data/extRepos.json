@@ -96,6 +96,14 @@
             },
             "nameWithOwner": "Boulder-Cryogenic-Quantum-Testbed/data"
         },
+        "Boulder-Cryogenic-Quantum-Testbed/materials": {
+            "labContributors": {
+                "nodes": [
+                    "crmcrae"
+                ]
+            },
+            "nameWithOwner": "Boulder-Cryogenic-Quantum-Testbed/materials"
+        },
         "Boulder-Cryogenic-Quantum-Testbed/measurement": {
             "labContributors": {
                 "nodes": [
@@ -402,14 +410,6 @@
                 ]
             },
             "nameWithOwner": "MrCarroll/runescape-snap"
-        },
-        "NDN-Routing/infoedit": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "NDN-Routing/infoedit"
         },
         "NIEM/NIEM.github.io": {
             "labContributors": {
@@ -741,14 +741,6 @@
                 ]
             },
             "nameWithOwner": "UMD-ENMA165/contributing-exercise-2021-fall"
-        },
-        "USF-HII/DiscoverAD": {
-            "labContributors": {
-                "nodes": [
-                    "parikhhm"
-                ]
-            },
-            "nameWithOwner": "USF-HII/DiscoverAD"
         },
         "Versent/saml2aws": {
             "labContributors": {
@@ -2526,6 +2518,14 @@
             },
             "nameWithOwner": "pytorch/ignite"
         },
+        "qudt/qudt-public-repo": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "qudt/qudt-public-repo"
+        },
         "rafael-radkowski/TrackingExpertPlus": {
             "labContributors": {
                 "nodes": [
@@ -2769,6 +2769,14 @@
                 ]
             },
             "nameWithOwner": "sleuthkit/sleuthkit"
+        },
+        "snakemake/snakedeploy": {
+            "labContributors": {
+                "nodes": [
+                    "nate-d-olson"
+                ]
+            },
+            "nameWithOwner": "snakemake/snakedeploy"
         },
         "snakemake/snakemake": {
             "labContributors": {
