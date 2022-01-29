@@ -2794,14 +2794,6 @@
             },
             "nameWithOwner": "snakemake/snakemake-wrappers"
         },
-        "swarm-lab/ROpenCVLite": {
-            "labContributors": {
-                "nodes": [
-                    "apintar"
-                ]
-            },
-            "nameWithOwner": "swarm-lab/ROpenCVLite"
-        },
         "swcarpentry/python-novice-gapminder": {
             "labContributors": {
                 "nodes": [
@@ -2873,6 +2865,14 @@
                 ]
             },
             "nameWithOwner": "trimblenano/trimble_cu_capstone"
+        },
+        "trimstray/test-your-sysadmin-skills": {
+            "labContributors": {
+                "nodes": [
+                    "MheniMerz"
+                ]
+            },
+            "nameWithOwner": "trimstray/test-your-sysadmin-skills"
         },
         "trojai/trojai": {
             "labContributors": {
