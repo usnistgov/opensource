@@ -1,13 +1,5 @@
 {
     "data": {
-        "0x10001/des": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "0x10001/des"
-        },
         "11th-ndn-hackathon/ndn-fch": {
             "labContributors": {
                 "nodes": [
@@ -757,6 +749,14 @@
                 ]
             },
             "nameWithOwner": "acmesh-official/acme.sh"
+        },
+        "adafruit/Adafruit_nRF52_Arduino": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "adafruit/Adafruit_nRF52_Arduino"
         },
         "aertslab/webhdf5": {
             "labContributors": {
