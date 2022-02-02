@@ -10625,9 +10625,15 @@
                     },
                     {
                         "name": "JavaScript"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 6
+                "totalCount": 8
             }
         },
         "usnistgov/jWSBD": {

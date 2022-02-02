@@ -104,6 +104,14 @@
             },
             "nameWithOwner": "Boulder-Cryogenic-Quantum-Testbed/measurement"
         },
+        "CMSgov/ato-blueprint": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "CMSgov/ato-blueprint"
+        },
         "CU-CommunityApps/CD-finder": {
             "labContributors": {
                 "nodes": [
@@ -709,14 +717,6 @@
                 ]
             },
             "nameWithOwner": "UCLA-IRL/NAC-ABE"
-        },
-        "UCLA-IRL/ndn-hydra": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "UCLA-IRL/ndn-hydra"
         },
         "UCLA-IRL/ndn-python-repo": {
             "labContributors": {
@@ -1859,6 +1859,14 @@
             },
             "nameWithOwner": "jupyterlab/jupyterlab-desktop"
         },
+        "justincpresley/ndn-hydra": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "justincpresley/ndn-hydra"
+        },
         "justincpresley/nr-archway": {
             "labContributors": {
                 "nodes": [
@@ -2177,7 +2185,8 @@
         "named-data/NLSR": {
             "labContributors": {
                 "nodes": [
-                    "Pesa"
+                    "Pesa",
+                    "yoursunny"
                 ]
             },
             "nameWithOwner": "named-data/NLSR"
@@ -2616,6 +2625,14 @@
             },
             "nameWithOwner": "richsalz/draft-ietf-uta-rfc6125bis"
         },
+        "risk-redux/control_freak": {
+            "labContributors": {
+                "nodes": [
+                    "iMichaela"
+                ]
+            },
+            "nameWithOwner": "risk-redux/control_freak"
+        },
         "rms-open-letter/rms-open-letter.github.io": {
             "labContributors": {
                 "nodes": [
@@ -2932,6 +2949,14 @@
                 ]
             },
             "nameWithOwner": "uswds/uswds"
+        },
+        "valheimPlus/ValheimPlus": {
+            "labContributors": {
+                "nodes": [
+                    "pdickey"
+                ]
+            },
+            "nameWithOwner": "valheimPlus/ValheimPlus"
         },
         "w3c/dxwg": {
             "labContributors": {
