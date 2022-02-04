@@ -1055,7 +1055,7 @@
             },
             "date": {
                 "created": "2015-02-17",
-                "lastModified": "2022-02-01"
+                "lastModified": "2022-02-04"
             },
             "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SP800-90B_EntropyAssessment/downloads",
@@ -17174,7 +17174,7 @@
             },
             "date": {
                 "created": "2018-07-18",
-                "lastModified": "2021-08-27"
+                "lastModified": "2022-02-03"
             },
             "description": "C++11 Evolutionary Global Optimization",
             "downloadURL": "https://api.github.com/repos/usnistgov/CEGO/downloads",
@@ -26546,7 +26546,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2022-02-01"
+                "lastModified": "2022-02-03"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -27282,7 +27282,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2022-01-31"
+                "lastModified": "2022-02-03"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -32756,6 +32756,41 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/FormalModelsOfOnboardingProtocols.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-02-03",
+                "lastModified": "2022-02-03"
+            },
+            "description": "Yay, a base database! An abstraction layer allowing for common interactions with Mongo, CDCS and local directory databases and records.",
+            "downloadURL": "https://api.github.com/repos/usnistgov/yabadaba/downloads",
+            "homepageURL": "https://github.com/usnistgov/yabadaba",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "XSLT"
+            ],
+            "name": "yabadaba",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/yabadaba.git",
             "status": "Development",
             "tags": [
                 "github"
