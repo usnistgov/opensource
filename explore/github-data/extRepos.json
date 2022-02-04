@@ -177,14 +177,6 @@
             },
             "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
         },
-        "EFForg/crocodilehunter": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "EFForg/crocodilehunter"
-        },
         "GSA/code-gov-front-end": {
             "labContributors": {
                 "nodes": [
@@ -562,6 +554,14 @@
                 ]
             },
             "nameWithOwner": "PhdLoLi/NDNtube"
+        },
+        "Qiskit/qiskit": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "Qiskit/qiskit"
         },
         "QualityInformationFramework/qif-community": {
             "labContributors": {
@@ -1286,7 +1286,8 @@
         "conda-forge/staged-recipes": {
             "labContributors": {
                 "nodes": [
-                    "knc6"
+                    "knc6",
+                    "lmhale99"
                 ]
             },
             "nameWithOwner": "conda-forge/staged-recipes"
@@ -1663,6 +1664,14 @@
             },
             "nameWithOwner": "hhatch/feasst"
         },
+        "hoichunchiu/pyLLE": {
+            "labContributors": {
+                "nodes": [
+                    "gregmoille"
+                ]
+            },
+            "nameWithOwner": "hoichunchiu/pyLLE"
+        },
         "hpc-carpentry/HackMD": {
             "labContributors": {
                 "nodes": [
@@ -1802,14 +1811,6 @@
                 ]
             },
             "nameWithOwner": "is-a-dev/maintainer-docs"
-        },
-        "jasonhcc/pyLLE": {
-            "labContributors": {
-                "nodes": [
-                    "gregmoille"
-                ]
-            },
-            "nameWithOwner": "jasonhcc/pyLLE"
         },
         "jekyll/jekyll": {
             "labContributors": {
@@ -2526,14 +2527,6 @@
                 ]
             },
             "nameWithOwner": "pyodide/pyodide"
-        },
-        "pypa/packaging.python.org": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "pypa/packaging.python.org"
         },
         "python/typeshed": {
             "labContributors": {
