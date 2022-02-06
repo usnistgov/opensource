@@ -136,14 +136,6 @@
             },
             "nameWithOwner": "CVEProject/cve-services"
         },
-        "Chris-Turner-NIST/vulntology": {
-            "labContributors": {
-                "nodes": [
-                    "david-waltermire-nist"
-                ]
-            },
-            "nameWithOwner": "Chris-Turner-NIST/vulntology"
-        },
         "CloudCompare/CloudCompare": {
             "labContributors": {
                 "nodes": [
@@ -1868,6 +1860,14 @@
             },
             "nameWithOwner": "jupyterlab/jupyterlab-desktop"
         },
+        "justincpresley/ndn-archway": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "justincpresley/ndn-archway"
+        },
         "justincpresley/ndn-hydra": {
             "labContributors": {
                 "nodes": [
@@ -1875,14 +1875,6 @@
                 ]
             },
             "nameWithOwner": "justincpresley/ndn-hydra"
-        },
-        "justincpresley/nr-archway": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "justincpresley/nr-archway"
         },
         "k-donn/plasmoid-wunderground": {
             "labContributors": {
