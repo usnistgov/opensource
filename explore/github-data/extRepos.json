@@ -2351,6 +2351,14 @@
             },
             "nameWithOwner": "nix-community/nix-user-chroot"
         },
+        "ocaisa/hpc-intro": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "ocaisa/hpc-intro"
+        },
         "open-vsx/publish-extensions": {
             "labContributors": {
                 "nodes": [
@@ -2366,6 +2374,14 @@
                 ]
             },
             "nameWithOwner": "openanalytics/shinyproxy"
+        },
+        "opencv/opencv": {
+            "labContributors": {
+                "nodes": [
+                    "gfiumara"
+                ]
+            },
+            "nameWithOwner": "opencv/opencv"
         },
         "openmm/openmm": {
             "labContributors": {
