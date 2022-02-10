@@ -4392,8 +4392,20 @@
     "usnistgov/metaschema-java": {
         "description": "Java tools and libraries providing a Metaschema toolchain",
         "name": "usnistgov/metaschema-java",
-        "topics": null,
-        "website": null
+        "topics": [
+            "java",
+            "metaschema",
+            "data-binding",
+            "modeling",
+            "xml",
+            "json",
+            "yaml",
+            "parser-library",
+            "maven",
+            "maven-plugin",
+            "code-generation"
+        ],
+        "website": "https://pages.nist.gov/metaschema-java/"
     },
     "usnistgov/mfgkb": {
         "description": "Manufacturing Knowledge Base",
