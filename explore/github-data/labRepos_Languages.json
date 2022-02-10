@@ -5463,10 +5463,13 @@
                         "name": "Python"
                     },
                     {
+                        "name": "Makefile"
+                    },
+                    {
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "usnistgov/VectorsOfTrust": {
@@ -6005,16 +6008,13 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "MATLAB"
+                        "name": "Python"
                     },
                     {
                         "name": "R"
-                    },
-                    {
-                        "name": "Python"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 2
             }
         },
         "usnistgov/ace-ui": {
