@@ -10846,9 +10846,12 @@
                 "nodes": [
                     {
                         "name": "Java"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 1
+                "totalCount": 2
             }
         },
         "usnistgov/libtrevisan": {
@@ -11950,9 +11953,12 @@
                 "nodes": [
                     {
                         "name": "Shell"
+                    },
+                    {
+                        "name": "Dockerfile"
                     }
                 ],
-                "totalCount": 1
+                "totalCount": 2
             }
         },
         "usnistgov/oar-developer": {
@@ -11983,6 +11989,28 @@
                 "totalCount": 5
             }
         },
+        "usnistgov/oar-lib-angular": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "CSS"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/oar-metadata": {
             "languages": {
                 "nodes": [
@@ -12006,6 +12034,28 @@
                     }
                 ],
                 "totalCount": 6
+            }
+        },
+        "usnistgov/oar-midas-portal": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "CSS"
+                    }
+                ],
+                "totalCount": 5
             }
         },
         "usnistgov/oar-pdr": {
@@ -12043,6 +12093,28 @@
                     }
                 ],
                 "totalCount": 10
+            }
+        },
+        "usnistgov/oar-pdr-angular": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "CSS"
+                    }
+                ],
+                "totalCount": 5
             }
         },
         "usnistgov/oar-pdr-py": {

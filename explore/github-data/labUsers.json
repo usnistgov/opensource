@@ -239,7 +239,9 @@
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
                     "usnistgov/opensource",
@@ -827,8 +829,11 @@
                     "usnistgov/oar-build",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
@@ -1763,8 +1768,11 @@
                     "usnistgov/oar-build",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
@@ -1940,6 +1948,7 @@
                     "usnistgov/OSCAL",
                     "usnistgov/blossom-dashboard",
                     "usnistgov/blossom-sam",
+                    "usnistgov/metaschema",
                     "usnistgov/metaschema-java",
                     "usnistgov/oscal-tools"
                 ]
@@ -2554,7 +2563,9 @@
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp"
                 ]
@@ -3359,8 +3370,11 @@
                     "usnistgov/oar-build",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
@@ -3697,7 +3711,9 @@
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp"
                 ]
@@ -3744,8 +3760,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/65728924?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/IoTData_EmergencyScenarios",
-                    "usnistgov/SDNist"
+                    "usnistgov/IoTData_EmergencyScenarios"
                 ]
             },
             "login": "dharriss1",
@@ -5001,8 +5016,11 @@
                     "usnistgov/oar-build",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
@@ -5252,6 +5270,7 @@
                     "usnistgov/OSCAL",
                     "usnistgov/blossom-dashboard",
                     "usnistgov/blossom-sam",
+                    "usnistgov/metaschema",
                     "usnistgov/metaschema-java",
                     "usnistgov/mobyforensics",
                     "usnistgov/oscal-content",
@@ -5443,26 +5462,6 @@
             },
             "login": "jeremy-marvel",
             "name": "Jeremy Marvel"
-        },
-        "jesse-frey": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/28546752?u=78e326e8262be382ad280ed69bf464f18c39555f&v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "usnistgov/MCV-QOE-TVO",
-                    "usnistgov/MCV-QoE-firmware",
-                    "usnistgov/MRT",
-                    "usnistgov/abcmrt16",
-                    "usnistgov/accessTime",
-                    "usnistgov/intelligibility",
-                    "usnistgov/mcvqoe",
-                    "usnistgov/mcvqoe-base",
-                    "usnistgov/mouth2ear",
-                    "usnistgov/pscr-lmr2lte",
-                    "usnistgov/psud"
-                ]
-            },
-            "login": "jesse-frey",
-            "name": "Jesse"
         },
         "jfiscus": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/10245217?u=e513d462ad65a2b7f892f53443f000aaee9dcf92&v=4",
@@ -6550,8 +6549,11 @@
                     "usnistgov/oar-build",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
@@ -7753,8 +7755,11 @@
                     "usnistgov/oar-build",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
@@ -8806,8 +8811,11 @@
                     "usnistgov/oar-build",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
@@ -9844,8 +9852,11 @@
                     "usnistgov/oar-build",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
@@ -10164,6 +10175,12 @@
         },
         "nikblonder": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/87379183?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/oar-midas-portal",
+                    "usnistgov/oar-pdr-angular"
+                ]
+            },
             "login": "nikblonder",
             "name": "Niksa Blonder"
         },
@@ -11479,8 +11496,11 @@
                     "usnistgov/oar-build",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
+                    "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
+                    "usnistgov/oar-pdr-angular",
                     "usnistgov/oar-pdr-py",
                     "usnistgov/oar-rmm",
                     "usnistgov/oar-sdp",
