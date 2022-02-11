@@ -4754,6 +4754,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/oar-lib-angular": {
+        "description": "Angular library modules sharable across multiple Angular applications that support the NIST Open Access to Research (OAR) program",
+        "name": "usnistgov/oar-lib-angular",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/oar-metadata": {
         "description": "Metadata support for the OAR open data platform",
         "name": "usnistgov/oar-metadata",
@@ -4763,6 +4769,12 @@
             "pod-dataset"
         ],
         "website": ""
+    },
+    "usnistgov/oar-midas-portal": {
+        "description": "The Angular-based implementation of the MIDAS (V2) tools portal",
+        "name": "usnistgov/oar-midas-portal",
+        "topics": null,
+        "website": null
     },
     "usnistgov/oar-pdr": {
         "description": "The NIST Open Access to Research (OAR) Public Data Repository (PDR) system software",
@@ -4777,6 +4789,12 @@
             "data-publisher"
         ],
         "website": ""
+    },
+    "usnistgov/oar-pdr-angular": {
+        "description": null,
+        "name": "usnistgov/oar-pdr-angular",
+        "topics": null,
+        "website": null
     },
     "usnistgov/oar-pdr-py": {
         "description": "Python Components for the The NIST Open Access to Research (OAR) Public Data Repository (PDR) system",
