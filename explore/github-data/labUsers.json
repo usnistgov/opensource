@@ -488,7 +488,14 @@
                 "nodes": [
                     "usnistgov/CloudSecurityArchitectureTool-CSAT-v0.1",
                     "usnistgov/OSCAL",
-                    "usnistgov/blossom-dashboard"
+                    "usnistgov/blossom-dashboard",
+                    "usnistgov/liboscal-java",
+                    "usnistgov/metaschema",
+                    "usnistgov/metaschema-java",
+                    "usnistgov/oscal-cli",
+                    "usnistgov/oscal-content",
+                    "usnistgov/oscal-deep-diff",
+                    "usnistgov/oscal-tools"
                 ]
             },
             "login": "JustKuzya",
@@ -1948,8 +1955,12 @@
                     "usnistgov/OSCAL",
                     "usnistgov/blossom-dashboard",
                     "usnistgov/blossom-sam",
+                    "usnistgov/liboscal-java",
                     "usnistgov/metaschema",
                     "usnistgov/metaschema-java",
+                    "usnistgov/oscal-cli",
+                    "usnistgov/oscal-content",
+                    "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools"
                 ]
             },
@@ -5270,10 +5281,13 @@
                     "usnistgov/OSCAL",
                     "usnistgov/blossom-dashboard",
                     "usnistgov/blossom-sam",
+                    "usnistgov/liboscal-java",
                     "usnistgov/metaschema",
                     "usnistgov/metaschema-java",
                     "usnistgov/mobyforensics",
+                    "usnistgov/oscal-cli",
                     "usnistgov/oscal-content",
+                    "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools"
                 ]
             },
@@ -10192,7 +10206,13 @@
                     "usnistgov/OSCAL",
                     "usnistgov/blossom-dashboard",
                     "usnistgov/blossom-sam",
-                    "usnistgov/oscal-deep-diff"
+                    "usnistgov/liboscal-java",
+                    "usnistgov/metaschema",
+                    "usnistgov/metaschema-java",
+                    "usnistgov/oscal-cli",
+                    "usnistgov/oscal-content",
+                    "usnistgov/oscal-deep-diff",
+                    "usnistgov/oscal-tools"
                 ]
             },
             "login": "nikitawootten-nist",
@@ -11988,6 +12008,13 @@
                 "nodes": [
                     "usnistgov/OSCAL",
                     "usnistgov/decima",
+                    "usnistgov/liboscal-java",
+                    "usnistgov/metaschema",
+                    "usnistgov/metaschema-java",
+                    "usnistgov/oscal-cli",
+                    "usnistgov/oscal-content",
+                    "usnistgov/oscal-deep-diff",
+                    "usnistgov/oscal-tools",
                     "usnistgov/oss-maven",
                     "usnistgov/scapval",
                     "usnistgov/sctools",
@@ -12414,9 +12441,12 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/OSCAL",
+                    "usnistgov/liboscal-java",
                     "usnistgov/metaschema",
                     "usnistgov/metaschema-java",
+                    "usnistgov/oscal-cli",
                     "usnistgov/oscal-content",
+                    "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools"
                 ]
             },
