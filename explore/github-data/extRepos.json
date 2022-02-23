@@ -614,7 +614,6 @@
         "ShawnGeller/QIJC-1": {
             "labContributors": {
                 "nodes": [
-                    "knill",
                     "scott-glancy"
                 ]
             },
@@ -927,54 +926,6 @@
             },
             "nameWithOwner": "caddyserver/certmagic"
         },
-        "carpentries-incubator/SDC-BIDS-IntroMRI": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/SDC-BIDS-IntroMRI"
-        },
-        "carpentries-incubator/SDC-BIDS-dMRI": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/SDC-BIDS-dMRI"
-        },
-        "carpentries-incubator/SDC-BIDS-fMRI": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/SDC-BIDS-fMRI"
-        },
-        "carpentries-incubator/bioc-intro": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/bioc-intro"
-        },
-        "carpentries-incubator/blogging-with-hugo-and-github-pages": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/blogging-with-hugo-and-github-pages"
-        },
-        "carpentries-incubator/camera-traps": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/camera-traps"
-        },
         "carpentries-incubator/foundational-computer-skills": {
             "labContributors": {
                 "nodes": [
@@ -982,14 +933,6 @@
                 ]
             },
             "nameWithOwner": "carpentries-incubator/foundational-computer-skills"
-        },
-        "carpentries-incubator/git-novice-branch-pr": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/git-novice-branch-pr"
         },
         "carpentries-incubator/hpc-intro": {
             "labContributors": {
@@ -1000,14 +943,6 @@
             },
             "nameWithOwner": "carpentries-incubator/hpc-intro"
         },
-        "carpentries-incubator/jekyll-pages-novice": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/jekyll-pages-novice"
-        },
         "carpentries-incubator/julia-novice": {
             "labContributors": {
                 "nodes": [
@@ -1015,46 +950,6 @@
                 ]
             },
             "nameWithOwner": "carpentries-incubator/julia-novice"
-        },
-        "carpentries-incubator/machine-learning-novice-python": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/machine-learning-novice-python"
-        },
-        "carpentries-incubator/markdown-intro": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/markdown-intro"
-        },
-        "carpentries-incubator/python-interactive-data-visualizations": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/python-interactive-data-visualizations"
-        },
-        "carpentries-incubator/python-intermediate-development": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/python-intermediate-development"
-        },
-        "carpentries-incubator/template": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/template"
         },
         "carpentries/lesson-example": {
             "labContributors": {
@@ -1067,7 +962,6 @@
         "carpentries/styles": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
                     "tkphd"
                 ]
             },
@@ -1371,6 +1265,14 @@
                 ]
             },
             "nameWithOwner": "deepmaterials/dlmatreview"
+        },
+        "demianriccardi/p5-HackaMol": {
+            "labContributors": {
+                "nodes": [
+                    "dmr3"
+                ]
+            },
+            "nameWithOwner": "demianriccardi/p5-HackaMol"
         },
         "deoyani/oar-metadata": {
             "labContributors": {
@@ -2820,14 +2722,6 @@
                 ]
             },
             "nameWithOwner": "swcarpentry/python-novice-gapminder"
-        },
-        "swcarpentry/shell-novice": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "swcarpentry/shell-novice"
         },
         "systemd/systemd": {
             "labContributors": {
