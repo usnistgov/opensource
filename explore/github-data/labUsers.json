@@ -1433,6 +1433,7 @@
                     "usnistgov/ansible-role-archiva",
                     "usnistgov/applesec",
                     "usnistgov/ariac-docker",
+                    "usnistgov/artitq_scan_framework",
                     "usnistgov/asbestos",
                     "usnistgov/asbestos-adapter",
                     "usnistgov/asbestos-fproxy",
@@ -1727,6 +1728,7 @@
                     "usnistgov/leaveNotice",
                     "usnistgov/libbiomeval",
                     "usnistgov/libest",
+                    "usnistgov/libhdf5-wasm",
                     "usnistgov/liboscal-java",
                     "usnistgov/libtrevisan",
                     "usnistgov/literature-survey-tools",
@@ -2371,6 +2373,7 @@
                     "usnistgov/d3-science",
                     "usnistgov/h5wasm",
                     "usnistgov/jsfive",
+                    "usnistgov/libhdf5-wasm",
                     "usnistgov/reductus",
                     "usnistgov/refl1d",
                     "usnistgov/reflectometry-calculators",
@@ -3058,6 +3061,7 @@
                     "usnistgov/ansible-role-archiva",
                     "usnistgov/applesec",
                     "usnistgov/ariac-docker",
+                    "usnistgov/artitq_scan_framework",
                     "usnistgov/asbestos",
                     "usnistgov/asbestos-adapter",
                     "usnistgov/asbestos-fproxy",
@@ -3352,6 +3356,7 @@
                     "usnistgov/leaveNotice",
                     "usnistgov/libbiomeval",
                     "usnistgov/libest",
+                    "usnistgov/libhdf5-wasm",
                     "usnistgov/liboscal-java",
                     "usnistgov/libtrevisan",
                     "usnistgov/literature-survey-tools",
@@ -4707,6 +4712,7 @@
                     "usnistgov/ansible-role-archiva",
                     "usnistgov/applesec",
                     "usnistgov/ariac-docker",
+                    "usnistgov/artitq_scan_framework",
                     "usnistgov/asbestos",
                     "usnistgov/asbestos-adapter",
                     "usnistgov/asbestos-fproxy",
@@ -5001,6 +5007,7 @@
                     "usnistgov/leaveNotice",
                     "usnistgov/libbiomeval",
                     "usnistgov/libest",
+                    "usnistgov/libhdf5-wasm",
                     "usnistgov/liboscal-java",
                     "usnistgov/libtrevisan",
                     "usnistgov/literature-survey-tools",
@@ -5775,6 +5782,11 @@
         },
         "jordanbe-nist": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/96204966?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/labbench"
+                ]
+            },
             "login": "jordanbe-nist",
             "name": null
         },
@@ -6258,6 +6270,7 @@
                     "usnistgov/ansible-role-archiva",
                     "usnistgov/applesec",
                     "usnistgov/ariac-docker",
+                    "usnistgov/artitq_scan_framework",
                     "usnistgov/asbestos",
                     "usnistgov/asbestos-adapter",
                     "usnistgov/asbestos-fproxy",
@@ -6552,6 +6565,7 @@
                     "usnistgov/leaveNotice",
                     "usnistgov/libbiomeval",
                     "usnistgov/libest",
+                    "usnistgov/libhdf5-wasm",
                     "usnistgov/liboscal-java",
                     "usnistgov/libtrevisan",
                     "usnistgov/literature-survey-tools",
@@ -7467,6 +7481,7 @@
                     "usnistgov/ansible-role-archiva",
                     "usnistgov/applesec",
                     "usnistgov/ariac-docker",
+                    "usnistgov/artitq_scan_framework",
                     "usnistgov/asbestos",
                     "usnistgov/asbestos-adapter",
                     "usnistgov/asbestos-fproxy",
@@ -7761,6 +7776,7 @@
                     "usnistgov/leaveNotice",
                     "usnistgov/libbiomeval",
                     "usnistgov/libest",
+                    "usnistgov/libhdf5-wasm",
                     "usnistgov/liboscal-java",
                     "usnistgov/libtrevisan",
                     "usnistgov/literature-survey-tools",
@@ -8526,6 +8542,7 @@
                     "usnistgov/ansible-role-archiva",
                     "usnistgov/applesec",
                     "usnistgov/ariac-docker",
+                    "usnistgov/artitq_scan_framework",
                     "usnistgov/asbestos",
                     "usnistgov/asbestos-adapter",
                     "usnistgov/asbestos-fproxy",
@@ -8820,6 +8837,7 @@
                     "usnistgov/leaveNotice",
                     "usnistgov/libbiomeval",
                     "usnistgov/libest",
+                    "usnistgov/libhdf5-wasm",
                     "usnistgov/liboscal-java",
                     "usnistgov/libtrevisan",
                     "usnistgov/literature-survey-tools",
@@ -9120,6 +9138,11 @@
         },
         "mkforsyth-nist": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/93352056?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/labbench"
+                ]
+            },
             "login": "mkforsyth-nist",
             "name": null
         },
@@ -9570,6 +9593,7 @@
                     "usnistgov/ansible-role-archiva",
                     "usnistgov/applesec",
                     "usnistgov/ariac-docker",
+                    "usnistgov/artitq_scan_framework",
                     "usnistgov/asbestos",
                     "usnistgov/asbestos-adapter",
                     "usnistgov/asbestos-fproxy",
@@ -9864,6 +9888,7 @@
                     "usnistgov/leaveNotice",
                     "usnistgov/libbiomeval",
                     "usnistgov/libest",
+                    "usnistgov/libhdf5-wasm",
                     "usnistgov/liboscal-java",
                     "usnistgov/libtrevisan",
                     "usnistgov/literature-survey-tools",
@@ -10526,6 +10551,25 @@
             "login": "petervallone",
             "name": "Peter Vallone"
         },
+        "pfinknist": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/99507275?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/MCV-QOE-TVO",
+                    "usnistgov/MCV-QoE-firmware",
+                    "usnistgov/abcmrt16",
+                    "usnistgov/accessTime",
+                    "usnistgov/intelligibility",
+                    "usnistgov/mcvqoe",
+                    "usnistgov/mcvqoe-base",
+                    "usnistgov/mouth2ear",
+                    "usnistgov/pscr-lmr2lte",
+                    "usnistgov/psud"
+                ]
+            },
+            "login": "pfinknist",
+            "name": "Peter Fink"
+        },
         "pfontana3w2": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8461706?v=4",
             "contributedLabRepositories": {
@@ -10562,6 +10606,11 @@
         },
         "philipkent": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/115763?u=4183660f19690eb1d36002bc2cf78681ded5c5e2&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/artitq_scan_framework"
+                ]
+            },
             "login": "philipkent",
             "name": "Philip Kent"
         },
@@ -11239,6 +11288,7 @@
                     "usnistgov/ansible-role-archiva",
                     "usnistgov/applesec",
                     "usnistgov/ariac-docker",
+                    "usnistgov/artitq_scan_framework",
                     "usnistgov/asbestos",
                     "usnistgov/asbestos-adapter",
                     "usnistgov/asbestos-fproxy",
@@ -11533,6 +11583,7 @@
                     "usnistgov/leaveNotice",
                     "usnistgov/libbiomeval",
                     "usnistgov/libest",
+                    "usnistgov/libhdf5-wasm",
                     "usnistgov/liboscal-java",
                     "usnistgov/libtrevisan",
                     "usnistgov/literature-survey-tools",
