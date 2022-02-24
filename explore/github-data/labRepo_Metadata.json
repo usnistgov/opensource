@@ -2416,6 +2416,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/artitq_scan_framework": {
+        "description": "The NIST Scan Framework for ARTIQ",
+        "name": "usnistgov/artitq_scan_framework",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/asbestos": {
         "description": null,
         "name": "usnistgov/asbestos",
@@ -4292,6 +4298,12 @@
     "usnistgov/libest": {
         "description": null,
         "name": "usnistgov/libest",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/libhdf5-wasm": {
+        "description": "Build HDF5 in WebAssembly",
+        "name": "usnistgov/libhdf5-wasm",
         "topics": null,
         "website": null
     },
