@@ -242,6 +242,22 @@
             },
             "nameWithOwner": "Illumina/hap.py"
         },
+        "ImportantFederalAgencyTest/catalog": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "ImportantFederalAgencyTest/catalog"
+        },
+        "ImportantFederalAgencyTest/catalog-template": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "ImportantFederalAgencyTest/catalog-template"
+        },
         "JARVIS-Materials-Design/dbdocs": {
             "labContributors": {
                 "nodes": [
@@ -257,6 +273,14 @@
                 ]
             },
             "nameWithOwner": "JARVIS-Materials-Design/jarvis-tools-notebooks"
+        },
+        "JabRef/JabRef-Browser-Extension": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "JabRef/JabRef-Browser-Extension"
         },
         "JimKing100/PrivacyHistos": {
             "labContributors": {
@@ -1311,7 +1335,6 @@
         "digitalcorpora/app": {
             "labContributors": {
                 "nodes": [
-                    "ajnelson-nist",
                     "simsong"
                 ]
             },
@@ -2569,14 +2592,6 @@
             },
             "nameWithOwner": "samuelcolvin/pydantic"
         },
-        "scapcommunity/endpoint-collection": {
-            "labContributors": {
-                "nodes": [
-                    "stephenbanghart"
-                ]
-            },
-            "nameWithOwner": "scapcommunity/endpoint-collection"
-        },
         "scattering-alliance/scattering-alliance.github.io": {
             "labContributors": {
                 "nodes": [
@@ -2721,14 +2736,6 @@
                 ]
             },
             "nameWithOwner": "systemd/systemd"
-        },
-        "tequilahub/tequila": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "tequilahub/tequila"
         },
         "the-tcpdump-group/libpcap": {
             "labContributors": {
