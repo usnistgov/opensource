@@ -211,6 +211,12 @@
         "topics": null,
         "website": "https://pages.nist.gov/2022-02-04-ctcms-online/"
     },
+    "usnistgov/2022-04-05-nist-online": {
+        "description": "Library Carpentry/Open Refine Workshop at NIST",
+        "name": "usnistgov/2022-04-05-nist-online",
+        "topics": null,
+        "website": "https://pages.nist.gov/2022-04-05-nist-online/"
+    },
     "usnistgov/3DScanningProject": {
         "description": null,
         "name": "usnistgov/3DScanningProject",
@@ -565,6 +571,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/CordraClient.jl": {
+        "description": "A client library for interacting with a cordra.org digital object database.",
+        "name": "usnistgov/CordraClient.jl",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/CordraPy": {
         "description": "This is a simple Python library for interacting with the REST interface of an instance of Cordra",
         "name": "usnistgov/CordraPy",
@@ -713,7 +725,7 @@
         "description": "Election process model development",
         "name": "usnistgov/ElectionModeling",
         "topics": null,
-        "website": null
+        "website": "https://pages.nist.gov/ElectionModeling/"
     },
     "usnistgov/ElectionResultsReporting": {
         "description": "Common data format specification for election results reporting data",
@@ -1539,7 +1551,10 @@
             "schema",
             "nist",
             "automation",
-            "authorization"
+            "authorization",
+            "security",
+            "compliance",
+            "yaml"
         ],
         "website": "https://pages.nist.gov/OSCAL/"
     },
@@ -1886,7 +1901,7 @@
             "synthetic-data-generator",
             "privacy"
         ],
-        "website": "https://doi.org/10.18434/mds2-250"
+        "website": "https://doi.org/10.18434/mds2-2515"
     },
     "usnistgov/SEDcorr": {
         "description": "Systematic Energy Deficit correction for APT data",
@@ -2386,9 +2401,9 @@
         "topics": null,
         "website": "https://doi.org/10.1038/s41524-021-00650-1"
     },
-    "usnistgov/ambench": {
+    "usnistgov/ambench-cdcs": {
         "description": null,
-        "name": "usnistgov/ambench",
+        "name": "usnistgov/ambench-cdcs",
         "topics": null,
         "website": null
     },
@@ -3351,6 +3366,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/embedded3DPvids": {
+        "description": "Analysis of images and videos from embedded 3D printing",
+        "name": "usnistgov/embedded3DPvids",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/engineering-design-models": {
         "description": "The NIST Engineering Design Model Repository provides a public-domain collection of industry-relevant CAD models.",
         "name": "usnistgov/engineering-design-models",
@@ -3485,7 +3506,16 @@
     "usnistgov/fipy": {
         "description": "FiPy is a Finite Volume PDE solver written in Python",
         "name": "usnistgov/fipy",
-        "topics": null,
+        "topics": [
+            "scientific-computing",
+            "scientific-computing-with-python",
+            "phase-field",
+            "materials-science",
+            "partial-differential-equations",
+            "shared-memory-parallel",
+            "simulation",
+            "modeling"
+        ],
         "website": "http://www.ctcms.nist.gov/fipy"
     },
     "usnistgov/fits-client": {
@@ -3563,6 +3593,12 @@
     "usnistgov/giab-cmrg-benchmarkset": {
         "description": "Code used to generate Genome In A Bottle CMRG benchmark sets",
         "name": "usnistgov/giab-cmrg-benchmarkset",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/giab-defrabb": {
+        "description": "Genome In A Bottle Development Framework for Assembly Based Benchmarks",
+        "name": "usnistgov/giab-defrabb",
         "topics": null,
         "website": null
     },
@@ -3960,6 +3996,12 @@
         "name": "usnistgov/hl7-schemas",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/hl7-v2-validation-bundled": {
+        "description": null,
+        "name": "usnistgov/hl7-v2-validation-bundled",
+        "topics": null,
+        "website": null
     },
     "usnistgov/hl7-vocabulary-service": {
         "description": "HL7 Vocabulary Service",
@@ -4680,6 +4722,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/nextcloud-api": {
+        "description": "Generic nextcloud APIs",
+        "name": "usnistgov/nextcloud-api",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/nist-code-portal": {
         "description": "NIST Code Portal",
         "name": "usnistgov/nist-code-portal",
@@ -4754,6 +4802,12 @@
     "usnistgov/nmrr": {
         "description": null,
         "name": "usnistgov/nmrr",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/nmrr-optimade-demo": {
+        "description": null,
+        "name": "usnistgov/nmrr-optimade-demo",
         "topics": null,
         "website": null
     },
@@ -4985,6 +5039,12 @@
     "usnistgov/peprr": {
         "description": "Pipeline for Evaluating Prokaryotic References R - R package for analyzing pepr output.",
         "name": "usnistgov/peprr",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/perm_hmm": {
+        "description": null,
+        "name": "usnistgov/perm_hmm",
         "topics": null,
         "website": null
     },
@@ -5463,8 +5523,14 @@
     "usnistgov/steppyngstounes": {
         "description": "Python package for getting from here to there",
         "name": "usnistgov/steppyngstounes",
-        "topics": null,
-        "website": null
+        "topics": [
+            "simulation",
+            "modeling",
+            "partial-differential-equations",
+            "scientific-computing",
+            "scientific-computing-with-python"
+        ],
+        "website": ""
     },
     "usnistgov/stopped-flow-sans": {
         "description": "Jupyter notebooks and python routines for processing time-resolved SANS measurements at NCNR for stopped-flow experiments",

@@ -218,6 +218,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/2022-04-05-nist-online": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/3DScanningProject": {
             "repositoryTopics": {
                 "nodes": [],
@@ -687,6 +693,12 @@
             }
         },
         "usnistgov/Conducere": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/CordraClient.jl": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2109,9 +2121,30 @@
                             "name": "authorization"
                         },
                         "url": "https://github.com/topics/authorization"
+                    },
+                    {
+                        "resourcePath": "/topics/security",
+                        "topic": {
+                            "name": "security"
+                        },
+                        "url": "https://github.com/topics/security"
+                    },
+                    {
+                        "resourcePath": "/topics/compliance",
+                        "topic": {
+                            "name": "compliance"
+                        },
+                        "url": "https://github.com/topics/compliance"
+                    },
+                    {
+                        "resourcePath": "/topics/yaml",
+                        "topic": {
+                            "name": "yaml"
+                        },
+                        "url": "https://github.com/topics/yaml"
                     }
                 ],
-                "totalCount": 7
+                "totalCount": 10
             }
         },
         "usnistgov/OpenFSGIM": {
@@ -3299,7 +3332,7 @@
                 "totalCount": 0
             }
         },
-        "usnistgov/ambench": {
+        "usnistgov/ambench-cdcs": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -4516,6 +4549,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/embedded3DPvids": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/engineering-design-models": {
             "repositoryTopics": {
                 "nodes": [],
@@ -4673,8 +4712,65 @@
         },
         "usnistgov/fipy": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/scientific-computing",
+                        "topic": {
+                            "name": "scientific-computing"
+                        },
+                        "url": "https://github.com/topics/scientific-computing"
+                    },
+                    {
+                        "resourcePath": "/topics/scientific-computing-with-python",
+                        "topic": {
+                            "name": "scientific-computing-with-python"
+                        },
+                        "url": "https://github.com/topics/scientific-computing-with-python"
+                    },
+                    {
+                        "resourcePath": "/topics/phase-field",
+                        "topic": {
+                            "name": "phase-field"
+                        },
+                        "url": "https://github.com/topics/phase-field"
+                    },
+                    {
+                        "resourcePath": "/topics/materials-science",
+                        "topic": {
+                            "name": "materials-science"
+                        },
+                        "url": "https://github.com/topics/materials-science"
+                    },
+                    {
+                        "resourcePath": "/topics/partial-differential-equations",
+                        "topic": {
+                            "name": "partial-differential-equations"
+                        },
+                        "url": "https://github.com/topics/partial-differential-equations"
+                    },
+                    {
+                        "resourcePath": "/topics/shared-memory-parallel",
+                        "topic": {
+                            "name": "shared-memory-parallel"
+                        },
+                        "url": "https://github.com/topics/shared-memory-parallel"
+                    },
+                    {
+                        "resourcePath": "/topics/simulation",
+                        "topic": {
+                            "name": "simulation"
+                        },
+                        "url": "https://github.com/topics/simulation"
+                    },
+                    {
+                        "resourcePath": "/topics/modeling",
+                        "topic": {
+                            "name": "modeling"
+                        },
+                        "url": "https://github.com/topics/modeling"
+                    }
+                ],
+                "totalCount": 8
             }
         },
         "usnistgov/fits-client": {
@@ -4750,6 +4846,12 @@
             }
         },
         "usnistgov/giab-cmrg-benchmarkset": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/giab-defrabb": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -5271,6 +5373,12 @@
             }
         },
         "usnistgov/hl7-schemas": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/hl7-v2-validation-bundled": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -6475,6 +6583,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/nextcloud-api": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/nist-code-portal": {
             "repositoryTopics": {
                 "nodes": [],
@@ -6571,6 +6685,12 @@
             }
         },
         "usnistgov/nmrr": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/nmrr-optimade-demo": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -6940,6 +7060,12 @@
             }
         },
         "usnistgov/peprr": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/perm_hmm": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -7689,8 +7815,44 @@
         },
         "usnistgov/steppyngstounes": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/simulation",
+                        "topic": {
+                            "name": "simulation"
+                        },
+                        "url": "https://github.com/topics/simulation"
+                    },
+                    {
+                        "resourcePath": "/topics/modeling",
+                        "topic": {
+                            "name": "modeling"
+                        },
+                        "url": "https://github.com/topics/modeling"
+                    },
+                    {
+                        "resourcePath": "/topics/partial-differential-equations",
+                        "topic": {
+                            "name": "partial-differential-equations"
+                        },
+                        "url": "https://github.com/topics/partial-differential-equations"
+                    },
+                    {
+                        "resourcePath": "/topics/scientific-computing",
+                        "topic": {
+                            "name": "scientific-computing"
+                        },
+                        "url": "https://github.com/topics/scientific-computing"
+                    },
+                    {
+                        "resourcePath": "/topics/scientific-computing-with-python",
+                        "topic": {
+                            "name": "scientific-computing-with-python"
+                        },
+                        "url": "https://github.com/topics/scientific-computing-with-python"
+                    }
+                ],
+                "totalCount": 5
             }
         },
         "usnistgov/stopped-flow-sans": {
