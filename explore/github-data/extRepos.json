@@ -40,14 +40,6 @@
             },
             "nameWithOwner": "AIF-development-team/adsorptioninformationformat"
         },
-        "AlgebraicJulia/Catlab.jl": {
-            "labContributors": {
-                "nodes": [
-                    "sjbreiner"
-                ]
-            },
-            "nameWithOwner": "AlgebraicJulia/Catlab.jl"
-        },
         "AlgebraicJulia/Semagrams.jl": {
             "labContributors": {
                 "nodes": [
@@ -789,14 +781,6 @@
             },
             "nameWithOwner": "bbatsov/prelude"
         },
-        "bioconda/bioconda-recipes": {
-            "labContributors": {
-                "nodes": [
-                    "nate-d-olson"
-                ]
-            },
-            "nameWithOwner": "bioconda/bioconda-recipes"
-        },
         "biometricITC/Administration": {
             "labContributors": {
                 "nodes": [
@@ -974,6 +958,14 @@
                 ]
             },
             "nameWithOwner": "casework/CASE-Examples"
+        },
+        "casework/CASE-Implementation-AXIOM": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Implementation-AXIOM"
         },
         "casework/CASE-Implementation-ExifTool": {
             "labContributors": {
@@ -2244,6 +2236,14 @@
             },
             "nameWithOwner": "nginx-proxy/nginx-proxy"
         },
+        "ni/nidaqmx-python": {
+            "labContributors": {
+                "nodes": [
+                    "ggggggggg"
+                ]
+            },
+            "nameWithOwner": "ni/nidaqmx-python"
+        },
         "nix-community/nix-user-chroot": {
             "labContributors": {
                 "nodes": [
@@ -2721,14 +2721,6 @@
             },
             "nameWithOwner": "snakemake/snakemake"
         },
-        "snakemake/snakemake-wrappers": {
-            "labContributors": {
-                "nodes": [
-                    "nate-d-olson"
-                ]
-            },
-            "nameWithOwner": "snakemake/snakemake-wrappers"
-        },
         "swcarpentry/python-novice-gapminder": {
             "labContributors": {
                 "nodes": [
@@ -2826,6 +2818,14 @@
                 ]
             },
             "nameWithOwner": "ucoProject/UCO-Utility-Pre-0.7.0-Validator"
+        },
+        "ucoProject/ontology.unifiedcyberontology.org": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "ucoProject/ontology.unifiedcyberontology.org"
         },
         "ucoProject/ucoproject.github.io": {
             "labContributors": {
