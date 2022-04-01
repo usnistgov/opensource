@@ -1023,6 +1023,14 @@
             },
             "nameWithOwner": "casework/ontology.caseontology.org"
         },
+        "cash/Parsivar": {
+            "labContributors": {
+                "nodes": [
+                    "isoboroff"
+                ]
+            },
+            "nameWithOwner": "cash/Parsivar"
+        },
         "castorini/pyserini": {
             "labContributors": {
                 "nodes": [
@@ -2276,14 +2284,6 @@
             },
             "nameWithOwner": "open-vsx/publish-extensions"
         },
-        "openanalytics/shinyproxy": {
-            "labContributors": {
-                "nodes": [
-                    "jat255"
-                ]
-            },
-            "nameWithOwner": "openanalytics/shinyproxy"
-        },
         "opencv/opencv": {
             "labContributors": {
                 "nodes": [
@@ -2357,14 +2357,6 @@
                 ]
             },
             "nameWithOwner": "pollere/DCT"
-        },
-        "prism-em/prismatic": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "prism-em/prismatic"
         },
         "pybind/cmake_example": {
             "labContributors": {
