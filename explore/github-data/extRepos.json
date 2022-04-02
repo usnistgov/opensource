@@ -951,6 +951,14 @@
             },
             "nameWithOwner": "casework/CASE"
         },
+        "casework/CASE-Archive": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Archive"
+        },
         "casework/CASE-Examples": {
             "labContributors": {
                 "nodes": [
@@ -1169,6 +1177,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/staged-recipes"
+        },
+        "conda-forge/yabadaba-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "lmhale99"
+                ]
+            },
+            "nameWithOwner": "conda-forge/yabadaba-feedstock"
         },
         "criosx/molgroups": {
             "labContributors": {
@@ -1444,6 +1460,14 @@
                 ]
             },
             "nameWithOwner": "evhub/coconut"
+        },
+        "flang-compiler/flang": {
+            "labContributors": {
+                "nodes": [
+                    "ianhbell"
+                ]
+            },
+            "nameWithOwner": "flang-compiler/flang"
         },
         "gcovr/gcovr": {
             "labContributors": {
@@ -2212,14 +2236,6 @@
             },
             "nameWithOwner": "named-data/repo-ng"
         },
-        "nengo/nengo": {
-            "labContributors": {
-                "nodes": [
-                    "atait"
-                ]
-            },
-            "nameWithOwner": "nengo/nengo"
-        },
         "networktocode/ntc-templates": {
             "labContributors": {
                 "nodes": [
@@ -2802,6 +2818,14 @@
                 ]
             },
             "nameWithOwner": "ucoProject/UCO"
+        },
+        "ucoProject/UCO-Archive": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "ucoProject/UCO-Archive"
         },
         "ucoProject/UCO-Utility-Pre-0.7.0-Validator": {
             "labContributors": {
