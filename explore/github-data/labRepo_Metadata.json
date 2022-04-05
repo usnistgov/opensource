@@ -920,6 +920,17 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/Hilbert": {
+        "description": "Hilbert is a project that will contain numerous implementations (and approximations) of the discrete Hilbert transform.",
+        "name": "usnistgov/Hilbert",
+        "topics": [
+            "hilbert-transform",
+            "machine-learning",
+            "spectroscopy",
+            "linear-regression"
+        ],
+        "website": ""
+    },
     "usnistgov/Honeyguide": {
         "description": null,
         "name": "usnistgov/Honeyguide",

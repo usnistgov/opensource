@@ -2662,6 +2662,16 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/Hilbert": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
         "usnistgov/Honeyguide": {
             "languages": {
                 "nodes": [
@@ -3904,12 +3914,9 @@
                 "nodes": [
                     {
                         "name": "Julia"
-                    },
-                    {
-                        "name": "Jupyter Notebook"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 1
             }
         },
         "usnistgov/NeXLSpectrum.jl": {
