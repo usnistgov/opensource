@@ -1131,6 +1131,41 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/Hilbert": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/hilbert-transform",
+                        "topic": {
+                            "name": "hilbert-transform"
+                        },
+                        "url": "https://github.com/topics/hilbert-transform"
+                    },
+                    {
+                        "resourcePath": "/topics/machine-learning",
+                        "topic": {
+                            "name": "machine-learning"
+                        },
+                        "url": "https://github.com/topics/machine-learning"
+                    },
+                    {
+                        "resourcePath": "/topics/spectroscopy",
+                        "topic": {
+                            "name": "spectroscopy"
+                        },
+                        "url": "https://github.com/topics/spectroscopy"
+                    },
+                    {
+                        "resourcePath": "/topics/linear-regression",
+                        "topic": {
+                            "name": "linear-regression"
+                        },
+                        "url": "https://github.com/topics/linear-regression"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
         "usnistgov/Honeyguide": {
             "repositoryTopics": {
                 "nodes": [],
