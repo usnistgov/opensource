@@ -413,7 +413,7 @@
             },
             "date": {
                 "created": "2014-08-25",
-                "lastModified": "2022-04-02"
+                "lastModified": "2022-04-05"
             },
             "description": "FiPy is a Finite Volume PDE solver written in Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/fipy/downloads",
@@ -1967,7 +1967,7 @@
             },
             "date": {
                 "created": "2015-06-19",
-                "lastModified": "2022-03-27"
+                "lastModified": "2022-04-04"
             },
             "description": "Wrappers around NIST REFPROP for languages such as Python, MATLAB, etc.",
             "downloadURL": "https://api.github.com/repos/usnistgov/REFPROP-wrappers/downloads",
@@ -3711,7 +3711,7 @@
             },
             "date": {
                 "created": "2016-01-11",
-                "lastModified": "2022-03-23"
+                "lastModified": "2022-04-04"
             },
             "description": "Evaluation software used in the Text Retrieval Conference",
             "downloadURL": "https://api.github.com/repos/usnistgov/trec_eval/downloads",
@@ -5042,7 +5042,7 @@
             },
             "date": {
                 "created": "2016-04-28",
-                "lastModified": "2022-03-13"
+                "lastModified": "2022-04-04"
             },
             "description": "Home to public development of NIST Special Publication 800-63-3: Digital Authentication Guidelines",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-3/downloads",
@@ -8303,7 +8303,7 @@
             },
             "date": {
                 "created": "2016-12-05",
-                "lastModified": "2022-03-25"
+                "lastModified": "2022-04-04"
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "downloadURL": "https://api.github.com/repos/usnistgov/frvt/downloads",
@@ -19546,7 +19546,7 @@
             },
             "date": {
                 "created": "2019-03-15",
-                "lastModified": "2022-03-31"
+                "lastModified": "2022-04-04"
             },
             "description": "A pure javascript HDF5 reader",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsfive/downloads",
@@ -22739,7 +22739,7 @@
             },
             "date": {
                 "created": "2019-10-03",
-                "lastModified": "2022-03-23"
+                "lastModified": "2022-04-04"
             },
             "description": "Implementation of the The United States Web Design System (USWDS) 2.0 using the Hugo open-source static site generator",
             "downloadURL": "https://api.github.com/repos/usnistgov/hugo-uswds/downloads",
@@ -23391,8 +23391,7 @@
             "homepageURL": "https://github.com/usnistgov/NeXLParticle.jl",
             "laborHours": 0,
             "languages": [
-                "Julia",
-                "Jupyter Notebook"
+                "Julia"
             ],
             "name": "NeXLParticle.jl",
             "organization": "National Institute of Standards and Technology",
@@ -26274,7 +26273,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2022-04-03"
+                "lastModified": "2022-04-04"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -27305,7 +27304,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2022-04-01"
+                "lastModified": "2022-04-04"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -28266,7 +28265,7 @@
             },
             "date": {
                 "created": "2020-10-19",
-                "lastModified": "2021-10-28"
+                "lastModified": "2022-04-04"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACE/downloads",
@@ -29873,7 +29872,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2021-11-10"
+                "lastModified": "2022-04-04"
             },
             "description": "MATLAB toolkit for spectral analysis",
             "downloadURL": "https://api.github.com/repos/usnistgov/SpectralToolkit/downloads",
@@ -29908,7 +29907,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2022-04-03"
+                "lastModified": "2022-04-05"
             },
             "description": "Atomistic Line Graph Neural Network",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -31476,7 +31475,7 @@
             },
             "date": {
                 "created": "2021-09-01",
-                "lastModified": "2022-03-31"
+                "lastModified": "2022-04-04"
             },
             "description": "A WebAssembly HDF5 reader/writer library ",
             "downloadURL": "https://api.github.com/repos/usnistgov/h5wasm/downloads",
@@ -33220,6 +33219,44 @@
             "status": "Development",
             "tags": [
                 "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-03-08",
+                "lastModified": "2022-04-05"
+            },
+            "description": "Hilbert is a project that will contain numerous implementations (and approximations) of the discrete Hilbert transform.",
+            "downloadURL": "https://api.github.com/repos/usnistgov/Hilbert/downloads",
+            "homepageURL": "https://github.com/usnistgov/Hilbert",
+            "laborHours": 0,
+            "languages": [
+                "Python"
+            ],
+            "name": "Hilbert",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/Hilbert.git",
+            "status": "Development",
+            "tags": [
+                "github",
+                "hilbert-transform",
+                "machine-learning",
+                "spectroscopy",
+                "linear-regression"
             ],
             "vcs": "git"
         },
