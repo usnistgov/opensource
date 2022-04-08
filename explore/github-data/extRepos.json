@@ -178,14 +178,6 @@
             },
             "nameWithOwner": "GSA/fedramp-automation"
         },
-        "GenieFramework/Stipple.jl": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "GenieFramework/Stipple.jl"
-        },
         "GoogleChrome/web.dev": {
             "labContributors": {
                 "nodes": [
@@ -474,6 +466,14 @@
                 ]
             },
             "nameWithOwner": "NowanIlfideme/pydantic-yaml"
+        },
+        "PM-Master/PMAdminTool": {
+            "labContributors": {
+                "nodes": [
+                    "olivier-m-mr"
+                ]
+            },
+            "nameWithOwner": "PM-Master/PMAdminTool"
         },
         "PM-Master/blockmatrix-go": {
             "labContributors": {
@@ -2714,6 +2714,14 @@
             },
             "nameWithOwner": "snakemake/snakemake"
         },
+        "sqlalchemy/sqlalchemy": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "sqlalchemy/sqlalchemy"
+        },
         "swcarpentry/python-novice-gapminder": {
             "labContributors": {
                 "nodes": [
@@ -2898,6 +2906,7 @@
         "wendellpiez/metaschema": {
             "labContributors": {
                 "nodes": [
+                    "aj-stein-nist",
                     "david-waltermire-nist"
                 ]
             },
