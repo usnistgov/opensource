@@ -2104,6 +2104,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/TaML": {
+        "description": "Theory aware Machine Learning",
+        "name": "usnistgov/TaML",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/Texture-Sampling-PhaseMeasurement-BiasErrors": {
         "description": "Data Set: Assessment of Bias Errors Caused by Texture and Sampling Methods in Diffraction-Based Steel Phase Measurements",
         "name": "usnistgov/Texture-Sampling-PhaseMeasurement-BiasErrors",
@@ -2535,6 +2541,12 @@
     "usnistgov/bbdio": {
         "description": "Creating DIO functionality for BeagleBone Black single board computers.",
         "name": "usnistgov/bbdio",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/bcars_microscope": {
+        "description": "Python software to run BCARS microscope at NIST.",
+        "name": "usnistgov/bcars_microscope",
         "topics": null,
         "website": null
     },
