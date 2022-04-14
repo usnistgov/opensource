@@ -2532,6 +2532,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/autoSDC-ZnNi-corr": {
+        "description": null,
+        "name": "usnistgov/autoSDC-ZnNi-corr",
+        "topics": null,
+        "website": "https://dx.doi.org/10.2139/ssrn.4075907"
+    },
     "usnistgov/awesome-nist": {
         "description": "List of open-source software from NIST",
         "name": "usnistgov/awesome-nist",
@@ -3011,6 +3017,12 @@
     "usnistgov/core_visualization_app": {
         "description": null,
         "name": "usnistgov/core_visualization_app",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/core_visualization_insitu_app": {
+        "description": null,
+        "name": "usnistgov/core_visualization_insitu_app",
         "topics": null,
         "website": null
     },
@@ -5590,6 +5602,12 @@
         "name": "usnistgov/swp-mds-client",
         "topics": null,
         "website": null
+    },
+    "usnistgov/tafel-fitter": {
+        "description": "fork of https://github.com/MEG-LBNL/Tafel_Fitter, which is the reference implementation for https://dx.doi.org/10.1021/acs.jpcc.9b06820",
+        "name": "usnistgov/tafel-fitter",
+        "topics": null,
+        "website": ""
     },
     "usnistgov/tattoo": {
         "description": "Tattoo Recognition Technology Program",
