@@ -3844,7 +3844,9 @@
                     "usnistgov/ammd-2.0",
                     "usnistgov/core_cache_manager_app",
                     "usnistgov/core_explore_tree_app",
-                    "usnistgov/core_visualization_app"
+                    "usnistgov/core_schema_viewer_app",
+                    "usnistgov/core_visualization_app",
+                    "usnistgov/core_visualization_insitu_app"
                 ]
             },
             "login": "YandeNdiaye",
@@ -3857,7 +3859,9 @@
                     "usnistgov/ammd-2.0",
                     "usnistgov/core_cache_manager_app",
                     "usnistgov/core_explore_tree_app",
-                    "usnistgov/core_visualization_app"
+                    "usnistgov/core_schema_viewer_app",
+                    "usnistgov/core_visualization_app",
+                    "usnistgov/core_visualization_insitu_app"
                 ]
             },
             "login": "YandeNdy",
@@ -12568,6 +12572,16 @@
                 ]
             },
             "login": "hjin200",
+            "name": null
+        },
+        "hjoress": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/85363793?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/autoSDC-ZnNi-corr"
+                ]
+            },
+            "login": "hjoress",
             "name": null
         },
         "hkallweit": {

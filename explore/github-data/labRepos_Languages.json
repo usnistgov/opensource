@@ -5411,8 +5411,15 @@
         },
         "usnistgov/TaML": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/Texture-Sampling-PhaseMeasurement-BiasErrors": {
@@ -6448,6 +6455,19 @@
                     }
                 ],
                 "totalCount": 1
+            }
+        },
+        "usnistgov/autoSDC-ZnNi-corr": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/awesome-nist": {
@@ -7653,6 +7673,25 @@
                     }
                 ],
                 "totalCount": 3
+            }
+        },
+        "usnistgov/core_visualization_insitu_app": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "CSS"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "usnistgov/core_website_app": {
@@ -14065,6 +14104,16 @@
                 "nodes": [
                     {
                         "name": "Java"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
+        "usnistgov/tafel-fitter": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
                     }
                 ],
                 "totalCount": 1
