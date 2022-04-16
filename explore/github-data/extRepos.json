@@ -153,13 +153,13 @@
             },
             "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
         },
-        "Dmitriy-Shulha/obsidian-plotly": {
+        "Dmytro-Shulha/obsidian-plotly": {
             "labContributors": {
                 "nodes": [
                     "gregmoille"
                 ]
             },
-            "nameWithOwner": "Dmitriy-Shulha/obsidian-plotly"
+            "nameWithOwner": "Dmytro-Shulha/obsidian-plotly"
         },
         "GSA/code-gov": {
             "labContributors": {
@@ -1152,6 +1152,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/fipy-feedstock"
+        },
+        "conda-forge/iprpy-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "lmhale99"
+                ]
+            },
+            "nameWithOwner": "conda-forge/iprpy-feedstock"
         },
         "conda-forge/jarvis-tools-feedstock": {
             "labContributors": {
@@ -2360,7 +2368,6 @@
         "pkienzle/periodictable": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville",
                     "hoogerheide"
                 ]
             },
