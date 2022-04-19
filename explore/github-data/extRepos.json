@@ -266,6 +266,14 @@
             },
             "nameWithOwner": "ImportantFederalAgencyTest/catalog-template"
         },
+        "ImportantFederalAgencyTest/create-project-card-test": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "ImportantFederalAgencyTest/create-project-card-test"
+        },
         "JARVIS-Materials-Design/dbdocs": {
             "labContributors": {
                 "nodes": [
@@ -478,6 +486,7 @@
         "PM-Master/PMAdminTool": {
             "labContributors": {
                 "nodes": [
+                    "dyiop",
                     "olivier-m-mr"
                 ]
             },
@@ -502,6 +511,7 @@
         "PM-Master/policy-machine-core": {
             "labContributors": {
                 "nodes": [
+                    "dyiop",
                     "joshua-roberts"
                 ]
             },
@@ -1314,6 +1324,14 @@
             },
             "nameWithOwner": "devyanijivani/pygraspi"
         },
+        "dfrws/dfrws2006-challenge": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "dfrws/dfrws2006-challenge"
+        },
         "dfrws/dfrws2017-challenge": {
             "labContributors": {
                 "nodes": [
@@ -1641,14 +1659,6 @@
                 ]
             },
             "nameWithOwner": "hpc-carpentry/hpc-parallel-novice"
-        },
-        "hpc-carpentry/hpc-shell": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "hpc-carpentry/hpc-shell"
         },
         "hpc-workshops/ctcms-hpc-intro": {
             "labContributors": {
