@@ -1676,14 +1676,6 @@
             },
             "nameWithOwner": "huggingface/datasets"
         },
-        "huggingface/transformers": {
-            "labContributors": {
-                "nodes": [
-                    "tblattner"
-                ]
-            },
-            "nameWithOwner": "huggingface/transformers"
-        },
         "human-pangenomics/hpgp-data": {
             "labContributors": {
                 "nodes": [
@@ -1699,6 +1691,14 @@
                 ]
             },
             "nameWithOwner": "hyperspy/hyperspy"
+        },
+        "iMichaela/CRAFT": {
+            "labContributors": {
+                "nodes": [
+                    "JustKuzya"
+                ]
+            },
+            "nameWithOwner": "iMichaela/CRAFT"
         },
         "ietf-tools/datatracker": {
             "labContributors": {
