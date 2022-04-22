@@ -443,14 +443,6 @@
             },
             "nameWithOwner": "NIST-ISODB/isodbtools"
         },
-        "NIST-ISODB/isotherm-digitizer-panel": {
-            "labContributors": {
-                "nodes": [
-                    "dwsideriusNIST"
-                ]
-            },
-            "nameWithOwner": "NIST-ISODB/isotherm-digitizer-panel"
-        },
         "NSLS-II-BMM/bmm-nist-ml": {
             "labContributors": {
                 "nodes": [
@@ -702,6 +694,14 @@
                 ]
             },
             "nameWithOwner": "UCLA-IRL/NAC-ABE"
+        },
+        "UMD-ENMA165/4-21-22-Class": {
+            "labContributors": {
+                "nodes": [
+                    "guyer"
+                ]
+            },
+            "nameWithOwner": "UMD-ENMA165/4-21-22-Class"
         },
         "UMD-ENMA165/contributing-exercise-2021-fall": {
             "labContributors": {
@@ -2253,14 +2253,6 @@
             },
             "nameWithOwner": "named-data/repo-ng"
         },
-        "networktocode/ntc-templates": {
-            "labContributors": {
-                "nodes": [
-                    "MheniMerz"
-                ]
-            },
-            "nameWithOwner": "networktocode/ntc-templates"
-        },
         "nexusformat/definitions": {
             "labContributors": {
                 "nodes": [
@@ -3015,6 +3007,14 @@
                 ]
             },
             "nameWithOwner": "yoursunny/NDNts"
+        },
+        "yoursunny/ndn-cxx-breaks": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "yoursunny/ndn-cxx-breaks"
         },
         "ypaul21/Clapeyron.jl": {
             "labContributors": {
