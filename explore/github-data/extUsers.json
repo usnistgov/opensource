@@ -101,7 +101,7 @@
             "name": "Arsen Klyuev"
         },
         "AKuederle": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/10776763?v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10776763?u=92e04a073054c92de71215d7cf7110b3e2c728a5&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/git-novice-MSE"
@@ -350,6 +350,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9256418?u=4cb93d32e4a7486c762d77d48e40d9b1aa9c0788&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "usnistgov/DigitalNIST-cert-repo",
                     "usnistgov/MDCS",
                     "usnistgov/WIPP-Registry",
                     "usnistgov/ambench-cdcs",
@@ -2887,6 +2888,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/17032111?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "usnistgov/DigitalNIST-cert-repo",
                     "usnistgov/MDCS",
                     "usnistgov/MaterialsResourceRegistry",
                     "usnistgov/WIPP-Registry",
@@ -3163,6 +3165,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/22366531?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "usnistgov/DigitalNIST-cert-repo",
                     "usnistgov/UsabilityConsole",
                     "usnistgov/WIPP",
                     "usnistgov/WIPP-Digits-data-plugin",
@@ -6912,6 +6915,16 @@
             },
             "login": "bluewavenet",
             "name": "Rob White"
+        },
+        "bmlane": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15157980?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/AMB2022-template"
+                ]
+            },
+            "login": "bmlane",
+            "name": null
         },
         "bmork": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/953872?v=4",
@@ -12756,7 +12769,7 @@
             "name": "HQ Ong"
         },
         "hsjoberg": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/3824379?u=0b43cfd731915bb1ce6cb3d6352dc33533c6d25d&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3824379?u=2aa46253e86fe3b217e24e00ee7a0702d4f600bc&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/managed-cryptocurrencies-bitcoin"
@@ -26371,6 +26384,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/16674319?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "usnistgov/DigitalNIST-cert-repo",
                     "usnistgov/MDCS",
                     "usnistgov/WIPP-Registry",
                     "usnistgov/ambench-cdcs",

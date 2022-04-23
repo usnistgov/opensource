@@ -1374,14 +1374,6 @@
             },
             "nameWithOwner": "digitalcorpora/app"
         },
-        "digitalcorpora/digitalcorpora-stats": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "digitalcorpora/digitalcorpora-stats"
-        },
         "dlech/KeeAgent": {
             "labContributors": {
                 "nodes": [
@@ -2592,14 +2584,6 @@
             },
             "nameWithOwner": "sacmwg/draft-ietf-sacm-coswid"
         },
-        "samuelcolvin/pydantic": {
-            "labContributors": {
-                "nodes": [
-                    "tbsexton"
-                ]
-            },
-            "nameWithOwner": "samuelcolvin/pydantic"
-        },
         "scattering-alliance/scattering-alliance.github.io": {
             "labContributors": {
                 "nodes": [
@@ -2813,8 +2797,7 @@
         "trojai/trojai": {
             "labContributors": {
                 "nodes": [
-                    "mmajurski",
-                    "tblattner"
+                    "mmajurski"
                 ]
             },
             "nameWithOwner": "trojai/trojai"
