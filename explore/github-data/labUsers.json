@@ -262,6 +262,7 @@
                     "usnistgov/nmrr-optimade-demo",
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
                     "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
@@ -714,6 +715,7 @@
                     "usnistgov/WIPP-unet-train-plugin",
                     "usnistgov/WebDeepZoomToolkit",
                     "usnistgov/cell-scaffold-contact",
+                    "usnistgov/core_file_preview_app",
                     "usnistgov/pyramidio"
                 ]
             },
@@ -1114,6 +1116,7 @@
                     "usnistgov/2022-01-27-nist-branching-online",
                     "usnistgov/2022-02-04-ctcms-online",
                     "usnistgov/2022-04-05-nist-online",
+                    "usnistgov/2022-05-26-nist",
                     "usnistgov/3DScanningProject",
                     "usnistgov/3eti_imesh_config",
                     "usnistgov/800-63-3",
@@ -1471,7 +1474,6 @@
                     "usnistgov/atomman",
                     "usnistgov/atomqc",
                     "usnistgov/atomvision",
-                    "usnistgov/author-2022-05-16-online",
                     "usnistgov/autoSDC-ZnNi-corr",
                     "usnistgov/awesome-nist",
                     "usnistgov/bbdio",
@@ -2654,6 +2656,7 @@
                 "nodes": [
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
                     "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
@@ -2765,6 +2768,7 @@
                     "usnistgov/2022-01-27-nist-branching-online",
                     "usnistgov/2022-02-04-ctcms-online",
                     "usnistgov/2022-04-05-nist-online",
+                    "usnistgov/2022-05-26-nist",
                     "usnistgov/3DScanningProject",
                     "usnistgov/3eti_imesh_config",
                     "usnistgov/800-63-3",
@@ -3122,7 +3126,6 @@
                     "usnistgov/atomman",
                     "usnistgov/atomqc",
                     "usnistgov/atomvision",
-                    "usnistgov/author-2022-05-16-online",
                     "usnistgov/autoSDC-ZnNi-corr",
                     "usnistgov/awesome-nist",
                     "usnistgov/bbdio",
@@ -3826,6 +3829,7 @@
                 "nodes": [
                     "usnistgov/oar-developer",
                     "usnistgov/oar-dist-service",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-metadata",
                     "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr",
@@ -4458,6 +4462,7 @@
                     "usnistgov/2022-01-27-nist-branching-online",
                     "usnistgov/2022-02-04-ctcms-online",
                     "usnistgov/2022-04-05-nist-online",
+                    "usnistgov/2022-05-26-nist",
                     "usnistgov/3DScanningProject",
                     "usnistgov/3eti_imesh_config",
                     "usnistgov/800-63-3",
@@ -4815,7 +4820,6 @@
                     "usnistgov/atomman",
                     "usnistgov/atomqc",
                     "usnistgov/atomvision",
-                    "usnistgov/author-2022-05-16-online",
                     "usnistgov/autoSDC-ZnNi-corr",
                     "usnistgov/awesome-nist",
                     "usnistgov/bbdio",
@@ -5862,6 +5866,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/nextcloud-api",
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr-angular"
                 ]
@@ -6041,6 +6046,7 @@
                     "usnistgov/2022-01-27-nist-branching-online",
                     "usnistgov/2022-02-04-ctcms-online",
                     "usnistgov/2022-04-05-nist-online",
+                    "usnistgov/2022-05-26-nist",
                     "usnistgov/3DScanningProject",
                     "usnistgov/3eti_imesh_config",
                     "usnistgov/800-63-3",
@@ -6398,7 +6404,6 @@
                     "usnistgov/atomman",
                     "usnistgov/atomqc",
                     "usnistgov/atomvision",
-                    "usnistgov/author-2022-05-16-online",
                     "usnistgov/autoSDC-ZnNi-corr",
                     "usnistgov/awesome-nist",
                     "usnistgov/bbdio",
@@ -7163,8 +7168,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/2022-04-05-nist-online",
-                    "usnistgov/NIST-Tech-Pubs",
-                    "usnistgov/author-2022-05-16-online"
+                    "usnistgov/NIST-Tech-Pubs"
                 ]
             },
             "login": "kmiller621",
@@ -7278,6 +7282,7 @@
                     "usnistgov/2022-01-27-nist-branching-online",
                     "usnistgov/2022-02-04-ctcms-online",
                     "usnistgov/2022-04-05-nist-online",
+                    "usnistgov/2022-05-26-nist",
                     "usnistgov/3DScanningProject",
                     "usnistgov/3eti_imesh_config",
                     "usnistgov/800-63-3",
@@ -7635,7 +7640,6 @@
                     "usnistgov/atomman",
                     "usnistgov/atomqc",
                     "usnistgov/atomvision",
-                    "usnistgov/author-2022-05-16-online",
                     "usnistgov/autoSDC-ZnNi-corr",
                     "usnistgov/awesome-nist",
                     "usnistgov/bbdio",
@@ -8358,6 +8362,7 @@
                     "usnistgov/2022-01-27-nist-branching-online",
                     "usnistgov/2022-02-04-ctcms-online",
                     "usnistgov/2022-04-05-nist-online",
+                    "usnistgov/2022-05-26-nist",
                     "usnistgov/3DScanningProject",
                     "usnistgov/3eti_imesh_config",
                     "usnistgov/800-63-3",
@@ -8715,7 +8720,6 @@
                     "usnistgov/atomman",
                     "usnistgov/atomqc",
                     "usnistgov/atomvision",
-                    "usnistgov/author-2022-05-16-online",
                     "usnistgov/autoSDC-ZnNi-corr",
                     "usnistgov/awesome-nist",
                     "usnistgov/bbdio",
@@ -9432,6 +9436,7 @@
                     "usnistgov/2022-01-27-nist-branching-online",
                     "usnistgov/2022-02-04-ctcms-online",
                     "usnistgov/2022-04-05-nist-online",
+                    "usnistgov/2022-05-26-nist",
                     "usnistgov/3DScanningProject",
                     "usnistgov/3eti_imesh_config",
                     "usnistgov/800-63-3",
@@ -9789,7 +9794,6 @@
                     "usnistgov/atomman",
                     "usnistgov/atomqc",
                     "usnistgov/atomvision",
-                    "usnistgov/author-2022-05-16-online",
                     "usnistgov/autoSDC-ZnNi-corr",
                     "usnistgov/awesome-nist",
                     "usnistgov/bbdio",
@@ -10478,6 +10482,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/87379183?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr-angular"
                 ]
@@ -11097,6 +11102,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19670963?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "usnistgov/oar-lib-angular",
                     "usnistgov/oar-midas-portal",
                     "usnistgov/oar-pdr-angular"
                 ]
@@ -11158,6 +11164,7 @@
                     "usnistgov/2022-01-27-nist-branching-online",
                     "usnistgov/2022-02-04-ctcms-online",
                     "usnistgov/2022-04-05-nist-online",
+                    "usnistgov/2022-05-26-nist",
                     "usnistgov/3DScanningProject",
                     "usnistgov/3eti_imesh_config",
                     "usnistgov/800-63-3",
@@ -11515,7 +11522,6 @@
                     "usnistgov/atomman",
                     "usnistgov/atomqc",
                     "usnistgov/atomvision",
-                    "usnistgov/author-2022-05-16-online",
                     "usnistgov/autoSDC-ZnNi-corr",
                     "usnistgov/awesome-nist",
                     "usnistgov/bbdio",
@@ -12764,6 +12770,7 @@
                     "usnistgov/2021-05-26-nist",
                     "usnistgov/2021-06-10-nist",
                     "usnistgov/2021-11-09-nist",
+                    "usnistgov/2022-05-26-nist",
                     "usnistgov/PhaseFieldHackathon-FiPy",
                     "usnistgov/carpentries-development",
                     "usnistgov/chimad-phase-field",
