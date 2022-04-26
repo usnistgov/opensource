@@ -727,6 +727,14 @@
             },
             "nameWithOwner": "Versent/saml2aws"
         },
+        "abusch/sinuous": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "abusch/sinuous"
+        },
         "acmesh-official/acme.sh": {
             "labContributors": {
                 "nodes": [
@@ -1723,6 +1731,14 @@
                 ]
             },
             "nameWithOwner": "influxdata/chronograf"
+        },
+        "iovisor/ubpf": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "iovisor/ubpf"
         },
         "is-a-dev/maintainer-docs": {
             "labContributors": {
