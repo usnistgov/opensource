@@ -1927,6 +1927,7 @@
         "macports/macports-ports": {
             "labContributors": {
                 "nodes": [
+                    "brucemiller",
                     "joefowler",
                     "snarkhunter"
                 ]
@@ -2244,6 +2245,14 @@
                 ]
             },
             "nameWithOwner": "named-data/ndns"
+        },
+        "named-data/ppa-packaging": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "named-data/ppa-packaging"
         },
         "named-data/python-ndn": {
             "labContributors": {
