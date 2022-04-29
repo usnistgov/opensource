@@ -1238,6 +1238,16 @@
             "login": "Empact",
             "name": "Ben Woosley"
         },
+        "Epikastema": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/103605612?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/mcvqoe-base"
+                ]
+            },
+            "login": "Epikastema",
+            "name": null
+        },
         "EricJ2190": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/171419?v=4",
             "contributedLabRepositories": {
@@ -1934,6 +1944,16 @@
                 ]
             },
             "login": "KibbledJiveElkZoo",
+            "name": null
+        },
+        "Kneckter": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16466177?u=11b324e69c0dbf8380721db15e3ffac070e1ef90&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/ACVP"
+                ]
+            },
+            "login": "Kneckter",
             "name": null
         },
         "Krellan": {
@@ -19889,6 +19909,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/OSCAL",
+                    "usnistgov/metaschema",
                     "usnistgov/metaschema-java",
                     "usnistgov/oscal-content"
                 ]
