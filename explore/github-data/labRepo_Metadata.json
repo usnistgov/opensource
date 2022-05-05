@@ -1670,7 +1670,12 @@
         "name": "usnistgov/PION",
         "topics": [
             "ndn",
-            "arduino-library"
+            "arduino-library",
+            "authentication",
+            "iot",
+            "onboarding",
+            "pake",
+            "spake2"
         ],
         "website": ""
     },
@@ -5409,6 +5414,12 @@
         "name": "usnistgov/riffa",
         "topics": null,
         "website": "https://riffa.ucsd.edu"
+    },
+    "usnistgov/robotpeginhole": {
+        "description": "Using Gazebo and ROS 1 Noetic on windows to run Peg-in-hole Robot Wrist F/T Experiments  using NIST pegboard/",
+        "name": "usnistgov/robotpeginhole",
+        "topics": null,
+        "website": null
     },
     "usnistgov/rstool": {
         "description": "A tool for manipulating Biometric Evaluation RecordStores.",

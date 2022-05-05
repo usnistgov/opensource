@@ -2294,9 +2294,44 @@
                             "name": "arduino-library"
                         },
                         "url": "https://github.com/topics/arduino-library"
+                    },
+                    {
+                        "resourcePath": "/topics/authentication",
+                        "topic": {
+                            "name": "authentication"
+                        },
+                        "url": "https://github.com/topics/authentication"
+                    },
+                    {
+                        "resourcePath": "/topics/iot",
+                        "topic": {
+                            "name": "iot"
+                        },
+                        "url": "https://github.com/topics/iot"
+                    },
+                    {
+                        "resourcePath": "/topics/onboarding",
+                        "topic": {
+                            "name": "onboarding"
+                        },
+                        "url": "https://github.com/topics/onboarding"
+                    },
+                    {
+                        "resourcePath": "/topics/pake",
+                        "topic": {
+                            "name": "pake"
+                        },
+                        "url": "https://github.com/topics/pake"
+                    },
+                    {
+                        "resourcePath": "/topics/spake2",
+                        "topic": {
+                            "name": "spake2"
+                        },
+                        "url": "https://github.com/topics/spake2"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 7
             }
         },
         "usnistgov/PMUCal": {
@@ -7686,6 +7721,12 @@
             }
         },
         "usnistgov/riffa": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/robotpeginhole": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
