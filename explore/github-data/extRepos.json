@@ -735,14 +735,6 @@
             },
             "nameWithOwner": "abusch/sinuous"
         },
-        "acmesh-official/acme.sh": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "acmesh-official/acme.sh"
-        },
         "adafruit/Adafruit_nRF52_Arduino": {
             "labContributors": {
                 "nodes": [
@@ -927,6 +919,14 @@
                 ]
             },
             "nameWithOwner": "bumps/bumps"
+        },
+        "caddyserver/caddy": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "caddyserver/caddy"
         },
         "caddyserver/certmagic": {
             "labContributors": {
