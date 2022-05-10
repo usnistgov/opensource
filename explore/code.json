@@ -413,7 +413,7 @@
             },
             "date": {
                 "created": "2014-08-25",
-                "lastModified": "2022-05-07"
+                "lastModified": "2022-05-10"
             },
             "description": "FiPy is a Finite Volume PDE solver written in Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/fipy/downloads",
@@ -4382,7 +4382,7 @@
             },
             "date": {
                 "created": "2016-03-23",
-                "lastModified": "2022-04-19"
+                "lastModified": "2022-05-09"
             },
             "description": "OpenSeadragon filtering plugin",
             "downloadURL": "https://api.github.com/repos/usnistgov/OpenSeadragonFiltering/downloads",
@@ -4523,7 +4523,7 @@
             },
             "date": {
                 "created": "2016-03-23",
-                "lastModified": "2022-05-06"
+                "lastModified": "2022-05-09"
             },
             "description": "Microscopy Image Stitching Tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/MIST/downloads",
@@ -5006,7 +5006,7 @@
             },
             "date": {
                 "created": "2016-04-27",
-                "lastModified": "2022-04-28"
+                "lastModified": "2022-05-10"
             },
             "description": "JSIP: Java SIP specification Reference Implementation (moved from java.net)",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsip/downloads",
@@ -5490,7 +5490,7 @@
             },
             "date": {
                 "created": "2016-05-24",
-                "lastModified": "2022-05-06"
+                "lastModified": "2022-05-09"
             },
             "description": "The Free Energy and Advanced Sampling Simulation Toolkit (FEASST) is a free, open-source, modular program to conduct molecular and particle-based simulations with flat-histogram Monte Carlo methods.",
             "downloadURL": "https://api.github.com/repos/usnistgov/feasst/downloads",
@@ -10804,7 +10804,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2022-05-05"
+                "lastModified": "2022-05-09"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -11902,7 +11902,7 @@
             },
             "date": {
                 "created": "2017-07-14",
-                "lastModified": "2022-05-07"
+                "lastModified": "2022-05-09"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/MDCS/downloads",
@@ -14691,7 +14691,7 @@
             },
             "date": {
                 "created": "2018-02-02",
-                "lastModified": "2022-03-24"
+                "lastModified": "2022-05-09"
             },
             "description": "Openflow SDN Manufacturer Usage Description (MUD) Server implementation on OpenDaylight Nitrogen Release",
             "downloadURL": "https://api.github.com/repos/usnistgov/nist-mud/downloads",
@@ -26073,9 +26073,9 @@
             },
             "date": {
                 "created": "2020-05-22",
-                "lastModified": "2022-05-05"
+                "lastModified": "2022-05-09"
             },
-            "description": "[WIP] Open Security Controls Assessment Language (OSCAL) Deep Differencing Tool",
+            "description": "Open Security Controls Assessment Language (OSCAL) Deep Differencing Tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-deep-diff/downloads",
             "homepageURL": "https://github.com/usnistgov/oscal-deep-diff",
             "laborHours": 0,
@@ -26097,7 +26097,13 @@
             "repositoryURL": "git://github.com/usnistgov/oscal-deep-diff.git",
             "status": "Development",
             "tags": [
-                "github"
+                "github",
+                "diff",
+                "compliance",
+                "json",
+                "nist",
+                "security",
+                "yaml"
             ],
             "vcs": "git"
         },
@@ -27076,7 +27082,7 @@
             },
             "date": {
                 "created": "2020-07-14",
-                "lastModified": "2022-05-02"
+                "lastModified": "2022-05-09"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/cdcs-docker/downloads",
@@ -27112,7 +27118,7 @@
             },
             "date": {
                 "created": "2020-07-16",
-                "lastModified": "2021-07-29"
+                "lastModified": "2022-05-09"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/phasedata/downloads",
@@ -27343,7 +27349,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2022-05-05"
+                "lastModified": "2022-05-09"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -33595,6 +33601,43 @@
             },
             "date": {
                 "created": "2022-04-13",
+                "lastModified": "2022-05-09"
+            },
+            "description": "autonomous scanning droplet cell codebase",
+            "downloadURL": "https://api.github.com/repos/usnistgov/autoSDC/downloads",
+            "homepageURL": "https://github.com/usnistgov/autoSDC",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "Batchfile",
+                "Makefile",
+                "Shell"
+            ],
+            "name": "autoSDC",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/autoSDC.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-04-13",
                 "lastModified": "2022-04-13"
             },
             "description": "fork of https://github.com/MEG-LBNL/Tafel_Fitter, which is the reference implementation for https://dx.doi.org/10.1021/acs.jpcc.9b06820",
@@ -33856,7 +33899,10 @@
             "laborHours": 0,
             "languages": [
                 "R",
-                "Dockerfile"
+                "HTML",
+                "CSS",
+                "Dockerfile",
+                "JavaScript"
             ],
             "name": "abacus",
             "organization": "National Institute of Standards and Technology",
