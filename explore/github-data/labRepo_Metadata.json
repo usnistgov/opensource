@@ -2585,6 +2585,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/autoSDC": {
+        "description": "autonomous scanning droplet cell codebase",
+        "name": "usnistgov/autoSDC",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/autoSDC-ZnNi-corr": {
         "description": null,
         "name": "usnistgov/autoSDC-ZnNi-corr",
@@ -5077,10 +5083,17 @@
         "website": null
     },
     "usnistgov/oscal-deep-diff": {
-        "description": "[WIP] Open Security Controls Assessment Language (OSCAL) Deep Differencing Tool",
+        "description": "Open Security Controls Assessment Language (OSCAL) Deep Differencing Tool",
         "name": "usnistgov/oscal-deep-diff",
-        "topics": null,
-        "website": null
+        "topics": [
+            "diff",
+            "compliance",
+            "json",
+            "nist",
+            "security",
+            "yaml"
+        ],
+        "website": ""
     },
     "usnistgov/oscal-tools": {
         "description": "Tools for the OSCAL project",
