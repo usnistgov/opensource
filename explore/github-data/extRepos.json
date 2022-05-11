@@ -323,6 +323,14 @@
             },
             "nameWithOwner": "JuliaDatabases/SQLite.jl"
         },
+        "JuliaIO/HDF5.jl": {
+            "labContributors": {
+                "nodes": [
+                    "NicholasWMRitchie"
+                ]
+            },
+            "nameWithOwner": "JuliaIO/HDF5.jl"
+        },
         "JuliaLang/julia": {
             "labContributors": {
                 "nodes": [
@@ -370,14 +378,6 @@
                 ]
             },
             "nameWithOwner": "JuliaSymbolics/Symbolics.jl"
-        },
-        "K-FOSS/TS-ESNode": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "K-FOSS/TS-ESNode"
         },
         "LabShare/WIPP-frontend": {
             "labContributors": {
@@ -1931,6 +1931,22 @@
                 ]
             },
             "nameWithOwner": "ltalirz/livecoms-atomistic-software"
+        },
+        "lycheeverse/lychee": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "lycheeverse/lychee"
+        },
+        "lycheeverse/lychee-action": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "lycheeverse/lychee-action"
         },
         "m-labs/artiq": {
             "labContributors": {
