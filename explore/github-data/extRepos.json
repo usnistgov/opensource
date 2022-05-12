@@ -194,14 +194,6 @@
             },
             "nameWithOwner": "GSA/piv-conformance"
         },
-        "GoogleChrome/web.dev": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "GoogleChrome/web.dev"
-        },
         "HL7/UTG": {
             "labContributors": {
                 "nodes": [
@@ -726,6 +718,14 @@
                 ]
             },
             "nameWithOwner": "Versent/saml2aws"
+        },
+        "VisionSystemsInc/pix2face": {
+            "labContributors": {
+                "nodes": [
+                    "mlngan"
+                ]
+            },
+            "nameWithOwner": "VisionSystemsInc/pix2face"
         },
         "abusch/sinuous": {
             "labContributors": {
