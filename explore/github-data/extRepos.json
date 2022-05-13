@@ -1195,6 +1195,14 @@
             },
             "nameWithOwner": "conda-forge/pymks-feedstock"
         },
+        "conda-forge/pyqt-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "guyer"
+                ]
+            },
+            "nameWithOwner": "conda-forge/pyqt-feedstock"
+        },
         "conda-forge/pytorch-ignite-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -1691,14 +1699,6 @@
                 ]
             },
             "nameWithOwner": "huggingface/datasets"
-        },
-        "human-pangenomics/hpgp-data": {
-            "labContributors": {
-                "nodes": [
-                    "jzook"
-                ]
-            },
-            "nameWithOwner": "human-pangenomics/hpgp-data"
         },
         "hyperspy/hyperspy": {
             "labContributors": {
