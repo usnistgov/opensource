@@ -4310,7 +4310,7 @@
             },
             "date": {
                 "created": "2016-03-17",
-                "lastModified": "2022-04-13"
+                "lastModified": "2022-05-17"
             },
             "description": "Small repo with CMake build system for building REFPROP shared library",
             "downloadURL": "https://api.github.com/repos/usnistgov/REFPROP-cmake/downloads",
@@ -8916,7 +8916,7 @@
             },
             "date": {
                 "created": "2017-02-02",
-                "lastModified": "2022-03-29"
+                "lastModified": "2022-05-17"
             },
             "description": "Phase field model for precipitate aging in ternary analogues to Ni-based superalloys",
             "downloadURL": "https://api.github.com/repos/usnistgov/phasefield-precipitate-aging/downloads",
@@ -33551,6 +33551,41 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/TaML.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-04-11",
+                "lastModified": "2022-05-17"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/SolDet/downloads",
+            "homepageURL": "https://github.com/usnistgov/SolDet",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "Jupyter Notebook"
+            ],
+            "name": "SolDet",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/SolDet.git",
             "status": "Development",
             "tags": [
                 "github"
