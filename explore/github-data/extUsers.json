@@ -3363,7 +3363,7 @@
             "name": null
         },
         "Spaxe": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/708395?u=b8e738128293a161f3b012c7f8688e715fa1acf6&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/708395?u=91b83319dfcc338047dfa9b7546c19f83aea2118&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/2016-05-23-nist",
@@ -13258,6 +13258,16 @@
             "login": "isle2983",
             "name": null
         },
+        "ispielma": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/54444522?u=bc943870d62e51ea99f0843f08e7404f934a3690&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/SolDet"
+                ]
+            },
+            "login": "ispielma",
+            "name": "Ian B. Spielman"
+        },
         "itcarroll": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3383837?u=e96fee7391706b51eefd3b9053e1a7304fa2569a&v=4",
             "contributedLabRepositories": {
@@ -16027,7 +16037,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/850893?u=24046c1f4c07d95ead34d284f426d66801023f73&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/OSCAL"
+                    "usnistgov/OSCAL",
+                    "usnistgov/oscal-content"
                 ]
             },
             "login": "kylelaker",
