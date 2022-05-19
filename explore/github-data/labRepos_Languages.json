@@ -12713,9 +12713,12 @@
                     },
                     {
                         "name": "XSLT"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "usnistgov/oscal-content": {
@@ -15169,8 +15172,21 @@
         },
         "usnistgov/xslt-blender": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "XSLT"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "CSS"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "usnistgov/yabadaba": {
