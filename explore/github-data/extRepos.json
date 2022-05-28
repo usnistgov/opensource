@@ -201,6 +201,14 @@
             },
             "nameWithOwner": "HL7/UTG"
         },
+        "HL7/v2plus": {
+            "labContributors": {
+                "nodes": [
+                    "mfaughn"
+                ]
+            },
+            "nameWithOwner": "HL7/v2plus"
+        },
         "HamishGBrown/MuSTEM": {
             "labContributors": {
                 "nodes": [
@@ -2136,7 +2144,8 @@
         "named-data/NDN-packet-spec": {
             "labContributors": {
                 "nodes": [
-                    "Pesa"
+                    "Pesa",
+                    "yoursunny"
                 ]
             },
             "nameWithOwner": "named-data/NDN-packet-spec"
@@ -2672,6 +2681,14 @@
                 ]
             },
             "nameWithOwner": "sckott/habanero"
+        },
+        "sheldoug/euler_1_solution": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "sheldoug/euler_1_solution"
         },
         "shullgroup/rheology-data-toolkit": {
             "labContributors": {
