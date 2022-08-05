@@ -229,6 +229,12 @@
         "topics": null,
         "website": "https://pages.nist.gov/2022-05-26-nist/"
     },
+    "usnistgov/2022-06-24-nist": {
+        "description": "HPC Carpentry workshop",
+        "name": "usnistgov/2022-06-24-nist",
+        "topics": null,
+        "website": "https://pages.nist.gov/2022-06-24-nist"
+    },
     "usnistgov/3DScanningProject": {
         "description": null,
         "name": "usnistgov/3DScanningProject",
@@ -283,11 +289,10 @@
         "topics": [
             "cryptography",
             "protocol",
-            "cryptographic-algorithm-validations",
             "nist",
-            "nist-approved-algorithms"
+            "cryptographic-algorithms"
         ],
-        "website": "https://pages.nist.gov/ACVP/"
+        "website": "https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program"
     },
     "usnistgov/ACVP-Server": {
         "description": "A repository tracking releases of NIST's ACVP server. See www.github.com/usnistgov/ACVP for the protocol.",
@@ -301,6 +306,12 @@
             "nist-approved-algorithms",
             "cryptographic-algorithm-validations"
         ],
+        "website": ""
+    },
+    "usnistgov/AFL-hardware": {
+        "description": "Hardware designs and #openscience widgets for use with the NIST Autonomous Formulation Laboratory",
+        "name": "usnistgov/AFL-hardware",
+        "topics": null,
         "website": ""
     },
     "usnistgov/AGA8": {
@@ -338,12 +349,6 @@
         "name": "usnistgov/AMRS",
         "topics": null,
         "website": ""
-    },
-    "usnistgov/AMVP": {
-        "description": "Industry/NIST Collaboration on the development of an Automated Cryptographic Module Validation Protocol",
-        "name": "usnistgov/AMVP",
-        "topics": null,
-        "website": null
     },
     "usnistgov/ANDiE-v1_0": {
         "description": "ANDiE: Autonomous Neutron Diffraction Explorer ",
@@ -452,6 +457,12 @@
     "usnistgov/CAD-PMI-Testing": {
         "description": null,
         "name": "usnistgov/CAD-PMI-Testing",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/CASE-Corpora": {
+        "description": null,
+        "name": "usnistgov/CASE-Corpora",
         "topics": null,
         "website": null
     },
@@ -792,6 +803,12 @@
     "usnistgov/FSMR": {
         "description": "Full Statistical Mode Reconstruction of a light field",
         "name": "usnistgov/FSMR",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/FadScorer": {
+        "description": "OpenFAD 2022 Scorer",
+        "name": "usnistgov/FadScorer",
         "topics": null,
         "website": null
     },
@@ -1217,6 +1234,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/ML5G-PS-004": {
+        "description": "Depth Map Estimation in 6G mmWave systems",
+        "name": "usnistgov/ML5G-PS-004",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/MMW-NIQE": {
         "description": "Python code for calculating the MMW-NIQE score for millimeter wave images",
         "name": "usnistgov/MMW-NIQE",
@@ -1564,11 +1587,29 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/NexusLIMS-CDCS": {
+        "description": null,
+        "name": "usnistgov/NexusLIMS-CDCS",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/NexusLIMS-CDCS-Docker": {
+        "description": "Files to deploy an instance of the NexusLIMS frontend via Docker",
+        "name": "usnistgov/NexusLIMS-CDCS-Docker",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/NistPluggableModules": {
         "description": "Hardware and software abstracted, IVI compliant, instrumentation and test modules written (mostly) in LabVIEW(tm)",
         "name": "usnistgov/NistPluggableModules",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/NoiseGAN": {
+        "description": null,
+        "name": "usnistgov/NoiseGAN",
+        "topics": null,
+        "website": null
     },
     "usnistgov/OFDM-GAN": {
         "description": null,
@@ -1803,11 +1844,17 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/PyHyperScattering": {
-        "description": "Python utilities for loading, reducing, slicing, and plotting hyperspectral scattering datasets",
-        "name": "usnistgov/PyHyperScattering",
+    "usnistgov/Public_Safety_Analytics_Resources": {
+        "description": "Links to Public Safety Analytics Resources",
+        "name": "usnistgov/Public_Safety_Analytics_Resources",
         "topics": null,
         "website": null
+    },
+    "usnistgov/PyHyperScattering": {
+        "description": "Tools for hyperspectral x-ray and neutron scattering data loading, reduction, slicing, and visualization.",
+        "name": "usnistgov/PyHyperScattering",
+        "topics": null,
+        "website": ""
     },
     "usnistgov/PySTLTweak": {
         "description": "Use numpy-stl to modify STL file to recenter, scale, rotate, translate. Useful for ROS STL model tweaking.",
@@ -1897,6 +1944,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/RMF": {
+        "description": null,
+        "name": "usnistgov/RMF",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/Randomness-Beacons": {
         "description": "Repository for open-source code supporting beacon implementations as well as usage of public randomness.",
         "name": "usnistgov/Randomness-Beacons",
@@ -1914,6 +1967,12 @@
         "name": "usnistgov/Roentgen",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/SAFTsuperanc": {
+        "description": "Code and scripts for generating superancillary equations for PC-SAFT",
+        "name": "usnistgov/SAFTsuperanc",
+        "topics": null,
+        "website": null
     },
     "usnistgov/SAMURAI": {
         "description": "Synthetic Aperture Measurements with UnceRtainties and Angle of Arrival",
@@ -2175,6 +2234,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/TestbedModels": {
+        "description": "Simulink models for the Smart Grid Testbed",
+        "name": "usnistgov/TestbedModels",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/Texture-Sampling-PhaseMeasurement-BiasErrors": {
         "description": "Data Set: Assessment of Bias Errors Caused by Texture and Sampling Methods in Diffraction-Based Steel Phase Measurements",
         "name": "usnistgov/Texture-Sampling-PhaseMeasurement-BiasErrors",
@@ -2242,6 +2307,12 @@
     "usnistgov/VectorsOfTrust": {
         "description": null,
         "name": "usnistgov/VectorsOfTrust",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/VisionSysCalib": {
+        "description": "A tool with improved accuracy and automatic data processing for vision system calibration",
+        "name": "usnistgov/VisionSysCalib",
         "topics": null,
         "website": null
     },
@@ -2471,6 +2542,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/ace-nano": {
+        "description": null,
+        "name": "usnistgov/ace-nano",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ace-ui": {
         "description": null,
         "name": "usnistgov/ace-ui",
@@ -2591,6 +2668,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/atombench": {
+        "description": null,
+        "name": "usnistgov/atombench",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/atomman": {
         "description": "Atomistic Manipulation Toolkit",
         "name": "usnistgov/atomman",
@@ -2615,11 +2698,17 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/autoSDC-JOM": {
+        "description": "paper repository for autoSDC JOM article",
+        "name": "usnistgov/autoSDC-JOM",
+        "topics": null,
+        "website": "https://arxiv.org/abs/2203.17049"
+    },
     "usnistgov/autoSDC-ZnNi-corr": {
         "description": null,
         "name": "usnistgov/autoSDC-ZnNi-corr",
         "topics": null,
-        "website": "https://dx.doi.org/10.2139/ssrn.4075907"
+        "website": "https://doi.org/10.1016/j.electacta.2022.140866"
     },
     "usnistgov/awesome-nist": {
         "description": "List of open-source software from NIST",
@@ -3286,6 +3375,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/ctRSD-simulator-2.0": {
+        "description": null,
+        "name": "usnistgov/ctRSD-simulator-2.0",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/cubemap-stitch": {
         "description": "Cube map image stitching",
         "name": "usnistgov/cubemap-stitch",
@@ -3301,6 +3396,12 @@
     "usnistgov/d3-science": {
         "description": "reusable scientific plotting routines (scatterplot and heatmap) based on d3",
         "name": "usnistgov/d3-science",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/d3js-tree-editor": {
+        "description": "d3js-tree-editor",
+        "name": "usnistgov/d3js-tree-editor",
         "topics": null,
         "website": null
     },
@@ -4431,7 +4532,8 @@
             "bioinformatics",
             "machine-learning",
             "computational-biology",
-            "synthetic-biology"
+            "synthetic-biology",
+            "protein-engineering"
         ],
         "website": ""
     },
@@ -4488,6 +4590,12 @@
     "usnistgov/lpwan-iot": {
         "description": "Low Power Wide Area IoT",
         "name": "usnistgov/lpwan-iot",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/mCDF": {
+        "description": "Compact serialization for voting common data formats",
+        "name": "usnistgov/mCDF",
         "topics": null,
         "website": null
     },
@@ -4769,6 +4877,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/nccoe-sca": {
+        "description": "The National Cybersecurity Center of Excellence's Validating the Integrity of Computing Devices project.",
+        "name": "usnistgov/nccoe-sca",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ndn-dpdk": {
         "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
         "name": "usnistgov/ndn-dpdk",
@@ -4846,9 +4960,9 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/ngx-pdr": {
+    "usnistgov/ngx-globus-sdk": {
         "description": null,
-        "name": "usnistgov/ngx-pdr",
+        "name": "usnistgov/ngx-globus-sdk",
         "topics": null,
         "website": null
     },
@@ -4962,6 +5076,12 @@
     "usnistgov/oar-dist-service": {
         "description": "OAR Distribution Service Repo",
         "name": "usnistgov/oar-dist-service",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/oar-filemanager-api": {
+        "description": "Filemanager Service API",
+        "name": "usnistgov/oar-filemanager-api",
         "topics": null,
         "website": null
     },
@@ -5575,6 +5695,12 @@
     "usnistgov/simantha": {
         "description": "Simulation of manufacturing systems",
         "name": "usnistgov/simantha",
+        "topics": null,
+        "website": ""
+    },
+    "usnistgov/simprocesd": {
+        "description": "Simulated-Production Resource for Operations & Conditions Evaluations to Support Decision-making",
+        "name": "usnistgov/simprocesd",
         "topics": null,
         "website": ""
     },

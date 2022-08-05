@@ -236,6 +236,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/2022-06-24-nist": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/3DScanningProject": {
             "repositoryTopics": {
                 "nodes": [],
@@ -302,13 +308,6 @@
                         "url": "https://github.com/topics/protocol"
                     },
                     {
-                        "resourcePath": "/topics/cryptographic-algorithm-validations",
-                        "topic": {
-                            "name": "cryptographic-algorithm-validations"
-                        },
-                        "url": "https://github.com/topics/cryptographic-algorithm-validations"
-                    },
-                    {
                         "resourcePath": "/topics/nist",
                         "topic": {
                             "name": "nist"
@@ -316,14 +315,14 @@
                         "url": "https://github.com/topics/nist"
                     },
                     {
-                        "resourcePath": "/topics/nist-approved-algorithms",
+                        "resourcePath": "/topics/cryptographic-algorithms",
                         "topic": {
-                            "name": "nist-approved-algorithms"
+                            "name": "cryptographic-algorithms"
                         },
-                        "url": "https://github.com/topics/nist-approved-algorithms"
+                        "url": "https://github.com/topics/cryptographic-algorithms"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 4
             }
         },
         "usnistgov/ACVP-Server": {
@@ -382,6 +381,12 @@
                 "totalCount": 7
             }
         },
+        "usnistgov/AFL-hardware": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/AGA8": {
             "repositoryTopics": {
                 "nodes": [],
@@ -413,12 +418,6 @@
             }
         },
         "usnistgov/AMRS": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
-        "usnistgov/AMVP": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -571,6 +570,12 @@
             }
         },
         "usnistgov/CAD-PMI-Testing": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/CASE-Corpora": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -947,6 +952,12 @@
             }
         },
         "usnistgov/FSMR": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/FadScorer": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -1495,6 +1506,12 @@
             }
         },
         "usnistgov/MJPdes": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/ML5G-PS-004": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2117,7 +2134,25 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/NexusLIMS-CDCS": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/NexusLIMS-CDCS-Docker": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/NistPluggableModules": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/NoiseGAN": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2476,6 +2511,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/Public_Safety_Analytics_Resources": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/PyHyperScattering": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2588,6 +2629,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/RMF": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/Randomness-Beacons": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2601,6 +2648,12 @@
             }
         },
         "usnistgov/Roentgen": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/SAFTsuperanc": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -3130,6 +3183,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/TestbedModels": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/Texture-Sampling-PhaseMeasurement-BiasErrors": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3213,6 +3272,12 @@
             }
         },
         "usnistgov/VectorsOfTrust": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/VisionSysCalib": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -3456,6 +3521,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/ace-nano": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/ace-ui": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3576,6 +3647,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/atombench": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/atomman": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3595,6 +3672,12 @@
             }
         },
         "usnistgov/autoSDC": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/autoSDC-JOM": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -4433,6 +4516,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/ctRSD-simulator-2.0": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/cubemap-stitch": {
             "repositoryTopics": {
                 "nodes": [],
@@ -4446,6 +4535,12 @@
             }
         },
         "usnistgov/d3-science": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/d3js-tree-editor": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -6027,9 +6122,16 @@
                             "name": "synthetic-biology"
                         },
                         "url": "https://github.com/topics/synthetic-biology"
+                    },
+                    {
+                        "resourcePath": "/topics/protein-engineering",
+                        "topic": {
+                            "name": "protein-engineering"
+                        },
+                        "url": "https://github.com/topics/protein-engineering"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 5
             }
         },
         "usnistgov/leaveNotice": {
@@ -6125,6 +6227,12 @@
             }
         },
         "usnistgov/lpwan-iot": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/mCDF": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -6636,6 +6744,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/nccoe-sca": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/ndn-dpdk": {
             "repositoryTopics": {
                 "nodes": [
@@ -6761,7 +6875,7 @@
                 "totalCount": 0
             }
         },
-        "usnistgov/ngx-pdr": {
+        "usnistgov/ngx-globus-sdk": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -6899,6 +7013,12 @@
             }
         },
         "usnistgov/oar-dist-service": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/oar-filemanager-api": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -7920,6 +8040,12 @@
             }
         },
         "usnistgov/simantha": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/simprocesd": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
