@@ -2837,6 +2837,14 @@
             },
             "nameWithOwner": "sinara-hw/EEM_FMC_Carrier"
         },
+        "sleuthkit/sleuthkit": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "sleuthkit/sleuthkit"
+        },
         "snakemake/snakedeploy": {
             "labContributors": {
                 "nodes": [
@@ -3074,6 +3082,14 @@
                 ]
             },
             "nameWithOwner": "wigig-tools/qd-realization"
+        },
+        "williballenthin/INDXParse": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "williballenthin/INDXParse"
         },
         "wpk-nist-gov/MATSgp": {
             "labContributors": {
