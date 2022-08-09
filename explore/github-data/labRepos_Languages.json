@@ -5090,13 +5090,10 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "HTML"
-                    },
-                    {
                         "name": "SCSS"
                     },
                     {
-                        "name": "CSS"
+                        "name": "HTML"
                     },
                     {
                         "name": "JavaScript"
@@ -5105,7 +5102,7 @@
                         "name": "Ruby"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 4
             }
         },
         "usnistgov/Randomness-Beacons": {

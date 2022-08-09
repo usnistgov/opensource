@@ -1406,30 +1406,6 @@
             },
             "nameWithOwner": "dbstratta/environment"
         },
-        "deepmaterials/deepmaterials": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "deepmaterials/deepmaterials"
-        },
-        "deepmaterials/deepmaterials.github.io": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "deepmaterials/deepmaterials.github.io"
-        },
-        "deepmaterials/deepmaterials.io": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "deepmaterials/deepmaterials.io"
-        },
         "deepmaterials/dlmatreview": {
             "labContributors": {
                 "nodes": [
@@ -1728,6 +1704,14 @@
                 ]
             },
             "nameWithOwner": "hltcoe/patapsco"
+        },
+        "hpc-carpentry/amdahl": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "hpc-carpentry/amdahl"
         },
         "hpc-carpentry/coordination": {
             "labContributors": {
@@ -2425,14 +2409,6 @@
                 ]
             },
             "nameWithOwner": "nix-community/nix-user-chroot"
-        },
-        "ocaisa/amdahl": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "ocaisa/amdahl"
         },
         "ocaisa/hpc-intro": {
             "labContributors": {
