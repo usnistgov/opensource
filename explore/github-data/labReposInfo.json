@@ -4883,7 +4883,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 16
+                "totalCount": 17
             },
             "url": "https://github.com/usnistgov/Circuits"
         },
@@ -5246,7 +5246,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "url": "https://github.com/usnistgov/DMG_SphereFitting"
         },
@@ -5354,7 +5354,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 24
+                "totalCount": 25
             },
             "url": "https://github.com/usnistgov/DT4SM"
         },
@@ -13178,10 +13178,10 @@
                 "totalCount": 106
             },
             "pullRequests_Merged": {
-                "totalCount": 404
+                "totalCount": 405
             },
             "pullRequests_Open": {
-                "totalCount": 16
+                "totalCount": 15
             },
             "repositoryTopics": {
                 "totalCount": 10
@@ -16069,7 +16069,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 123
+                "totalCount": 124
             },
             "url": "https://github.com/usnistgov/SCTK"
         },
@@ -20342,6 +20342,60 @@
             },
             "url": "https://github.com/usnistgov/agreement-platform"
         },
+        "usnistgov/ai-model-reuse": {
+            "createdAt": "2022-07-12T13:13:42Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "AI model reuse based on metrics derived from optimization curves",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 11
+            },
+            "name": "ai-model-reuse",
+            "nameWithOwner": "usnistgov/ai-model-reuse",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/ai-model-reuse"
+        },
         "usnistgov/alignn": {
             "createdAt": "2021-04-19T20:08:09Z",
             "defaultBranchRef": {
@@ -22479,6 +22533,60 @@
                 "totalCount": 1
             },
             "url": "https://github.com/usnistgov/chef-cookbook-httpd"
+        },
+        "usnistgov/chemnlp": {
+            "createdAt": "2022-08-10T11:43:44Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "ChemNLP is a software-package to process chemical information from the scientific literature.",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 10
+            },
+            "name": "chemnlp",
+            "nameWithOwner": "usnistgov/chemnlp",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/chemnlp"
         },
         "usnistgov/chimad-phase-field": {
             "createdAt": "2018-01-23T19:14:19Z",
@@ -36139,7 +36247,7 @@
                 "totalCount": 5
             },
             "stargazers": {
-                "totalCount": 13
+                "totalCount": 15
             },
             "url": "https://github.com/usnistgov/lantern"
         },
@@ -36616,7 +36724,7 @@
                 "totalCount": 76
             },
             "issues_Open": {
-                "totalCount": 22
+                "totalCount": 23
             },
             "languages": {
                 "totalCount": 8
@@ -36652,7 +36760,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 871
+                "totalCount": 873
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -37331,7 +37439,7 @@
                 "totalCount": 71
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "repositoryTopics": {
                 "totalCount": 11
@@ -42912,10 +43020,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 39
+                "totalCount": 40
             },
             "issues_Open": {
-                "totalCount": 7
+                "totalCount": 8
             },
             "languages": {
                 "totalCount": 6
@@ -44988,7 +45096,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "url": "https://github.com/usnistgov/simprocesd"
         },
@@ -46934,7 +47042,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 174
+                "totalCount": 175
             },
             "url": "https://github.com/usnistgov/trec_eval"
         },
@@ -47084,7 +47192,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 12
+                "totalCount": 13
             },
             "url": "https://github.com/usnistgov/trojai-example"
         },
