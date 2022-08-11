@@ -2404,7 +2404,7 @@
             },
             "date": {
                 "created": "2015-08-05",
-                "lastModified": "2022-06-13"
+                "lastModified": "2022-08-10"
             },
             "description": "Digital Thread for Smart Manufacturing",
             "downloadURL": "https://api.github.com/repos/usnistgov/DT4SM/downloads",
@@ -3711,7 +3711,7 @@
             },
             "date": {
                 "created": "2016-01-11",
-                "lastModified": "2022-07-11"
+                "lastModified": "2022-08-10"
             },
             "description": "Evaluation software used in the Text Retrieval Conference",
             "downloadURL": "https://api.github.com/repos/usnistgov/trec_eval/downloads",
@@ -5224,7 +5224,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2022-07-24"
+                "lastModified": "2022-08-11"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -5805,7 +5805,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2022-07-14"
+                "lastModified": "2022-08-10"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -13784,7 +13784,7 @@
             },
             "date": {
                 "created": "2017-10-26",
-                "lastModified": "2022-05-06"
+                "lastModified": "2022-08-11"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/DMG_SphereFitting/downloads",
@@ -23892,7 +23892,7 @@
             },
             "date": {
                 "created": "2020-01-17",
-                "lastModified": "2022-07-23"
+                "lastModified": "2022-08-11"
             },
             "description": "Example TrojAI Submission",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-example/downloads",
@@ -26294,7 +26294,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2022-08-09"
+                "lastModified": "2022-08-11"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -30528,7 +30528,7 @@
             },
             "date": {
                 "created": "2021-06-02",
-                "lastModified": "2022-07-21"
+                "lastModified": "2022-08-10"
             },
             "description": "Interpretable genotype-phenotype landscape modeling",
             "downloadURL": "https://api.github.com/repos/usnistgov/lantern/downloads",
@@ -32106,7 +32106,7 @@
             },
             "date": {
                 "created": "2021-09-30",
-                "lastModified": "2022-04-26"
+                "lastModified": "2022-08-11"
             },
             "description": "R Shiny application that recommends and executes interlaboratory comparison statistical procedures",
             "downloadURL": "https://api.github.com/repos/usnistgov/NIST-Decision-Tree/downloads",
@@ -34728,6 +34728,41 @@
                 "email": "devops@nist.gov"
             },
             "date": {
+                "created": "2022-07-12",
+                "lastModified": "2022-08-11"
+            },
+            "description": "AI model reuse based on metrics derived from optimization curves",
+            "downloadURL": "https://api.github.com/repos/usnistgov/ai-model-reuse/downloads",
+            "homepageURL": "https://github.com/usnistgov/ai-model-reuse",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "Shell"
+            ],
+            "name": "ai-model-reuse",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/ai-model-reuse.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
                 "created": "2022-07-14",
                 "lastModified": "2022-07-15"
             },
@@ -34903,7 +34938,7 @@
             },
             "date": {
                 "created": "2022-07-27",
-                "lastModified": "2022-08-01"
+                "lastModified": "2022-08-10"
             },
             "description": "Simulated-Production Resource for Operations & Conditions Evaluations to Support Decision-making",
             "downloadURL": "https://api.github.com/repos/usnistgov/simprocesd/downloads",
@@ -34991,6 +35026,40 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/Public_Safety_Analytics_Resources.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-08-10",
+                "lastModified": "2022-08-10"
+            },
+            "description": "ChemNLP is a software-package to process chemical information from the scientific literature.",
+            "downloadURL": "https://api.github.com/repos/usnistgov/chemnlp/downloads",
+            "homepageURL": "https://github.com/usnistgov/chemnlp",
+            "laborHours": 0,
+            "languages": [
+                "Python"
+            ],
+            "name": "chemnlp",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/chemnlp.git",
             "status": "Development",
             "tags": [
                 "github"
