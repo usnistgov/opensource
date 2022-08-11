@@ -460,14 +460,6 @@
             },
             "nameWithOwner": "NIST-ISODB/isodbtools"
         },
-        "NSLS-II-BMM/profile_collection": {
-            "labContributors": {
-                "nodes": [
-                    "bdecost"
-                ]
-            },
-            "nameWithOwner": "NSLS-II-BMM/profile_collection"
-        },
         "NSLS-II/constrained-matrix-factorization": {
             "labContributors": {
                 "nodes": [
@@ -1910,6 +1902,14 @@
             },
             "nameWithOwner": "jsongraph/json-graph-specification"
         },
+        "julia-vscode/julia-vscode": {
+            "labContributors": {
+                "nodes": [
+                    "sjbreiner"
+                ]
+            },
+            "nameWithOwner": "julia-vscode/julia-vscode"
+        },
         "jupyterlab/jupyterlab-desktop": {
             "labContributors": {
                 "nodes": [
@@ -2159,14 +2159,6 @@
                 ]
             },
             "nameWithOwner": "mkleehammer/pyodbc"
-        },
-        "mmozeiko/aes-finder": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "mmozeiko/aes-finder"
         },
         "mpi4py/mpi4py": {
             "labContributors": {

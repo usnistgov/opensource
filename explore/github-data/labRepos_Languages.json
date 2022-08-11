@@ -6543,6 +6543,19 @@
                 "totalCount": 4
             }
         },
+        "usnistgov/ai-model-reuse": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 2
+            }
+        },
         "usnistgov/alignn": {
             "languages": {
                 "nodes": [
@@ -7119,6 +7132,16 @@
                 "nodes": [
                     {
                         "name": "Ruby"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
+        "usnistgov/chemnlp": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
                     }
                 ],
                 "totalCount": 1

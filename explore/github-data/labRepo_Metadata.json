@@ -2566,6 +2566,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/ai-model-reuse": {
+        "description": "AI model reuse based on metrics derived from optimization curves",
+        "name": "usnistgov/ai-model-reuse",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/alignn": {
         "description": "Atomistic Line Graph Neural Network",
         "name": "usnistgov/alignn",
@@ -2825,6 +2831,12 @@
         "name": "usnistgov/chef-cookbook-httpd",
         "topics": null,
         "website": null
+    },
+    "usnistgov/chemnlp": {
+        "description": "ChemNLP is a software-package to process chemical information from the scientific literature.",
+        "name": "usnistgov/chemnlp",
+        "topics": null,
+        "website": ""
     },
     "usnistgov/chimad-phase-field": {
         "description": "Dummy repository to redirect to https://pages.nist.gov/pfhub",
