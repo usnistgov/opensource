@@ -5805,7 +5805,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2022-08-10"
+                "lastModified": "2022-08-12"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -7028,7 +7028,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2022-08-08"
+                "lastModified": "2022-08-11"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -12085,7 +12085,7 @@
             },
             "date": {
                 "created": "2017-07-17",
-                "lastModified": "2021-12-07"
+                "lastModified": "2022-08-11"
             },
             "description": "Shiny app for monitoring the evolution of optical properties of nanoparticles throughout synthesis reactions.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NanoUV-VIS/downloads",
@@ -25172,7 +25172,7 @@
             },
             "date": {
                 "created": "2020-04-08",
-                "lastModified": "2022-07-03"
+                "lastModified": "2022-08-11"
             },
             "description": "XML metadata for NIST Technical Series Publications",
             "downloadURL": "https://api.github.com/repos/usnistgov/NIST-Tech-Pubs/downloads",
@@ -29288,7 +29288,7 @@
             },
             "date": {
                 "created": "2021-02-22",
-                "lastModified": "2022-08-04"
+                "lastModified": "2022-08-12"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/teqp/downloads",
@@ -29317,7 +29317,9 @@
             "repositoryURL": "git://github.com/usnistgov/teqp.git",
             "status": "Development",
             "tags": [
-                "github"
+                "github",
+                "cpp",
+                "python"
             ],
             "vcs": "git"
         },
@@ -30592,7 +30594,7 @@
             },
             "date": {
                 "created": "2021-06-02",
-                "lastModified": "2022-08-10"
+                "lastModified": "2022-08-11"
             },
             "description": "Interpretable genotype-phenotype landscape modeling",
             "downloadURL": "https://api.github.com/repos/usnistgov/lantern/downloads",
@@ -32705,7 +32707,7 @@
             },
             "date": {
                 "created": "2021-11-12",
-                "lastModified": "2022-05-23"
+                "lastModified": "2022-08-11"
             },
             "description": "SDNist: Benchmark data and evaluation tools for data synthesizers.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SDNist/downloads",
