@@ -5888,8 +5888,11 @@
     "usnistgov/teqp": {
         "description": null,
         "name": "usnistgov/teqp",
-        "topics": null,
-        "website": null
+        "topics": [
+            "cpp",
+            "python"
+        ],
+        "website": "https://teqp.readthedocs.io/en/latest/"
     },
     "usnistgov/tesim": {
         "description": "Tennessee Eastman simulation using Gilbert channel modeling PLC scan failure due to network uncertainties.",

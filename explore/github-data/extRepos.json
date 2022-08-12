@@ -944,6 +944,14 @@
             },
             "nameWithOwner": "bionic-cloud/actions-test"
         },
+        "bkmgit/hpc-workflows": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "bkmgit/hpc-workflows"
+        },
         "boostorg/filesystem": {
             "labContributors": {
                 "nodes": [
@@ -1885,14 +1893,6 @@
                 ]
             },
             "nameWithOwner": "jjhelmus/pyfive"
-        },
-        "jonaswinkler/paperless-ng": {
-            "labContributors": {
-                "nodes": [
-                    "jat255"
-                ]
-            },
-            "nameWithOwner": "jonaswinkler/paperless-ng"
         },
         "jsongraph/json-graph-specification": {
             "labContributors": {

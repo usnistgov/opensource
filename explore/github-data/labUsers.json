@@ -151,7 +151,14 @@
                 "nodes": [
                     "usnistgov/OSCAL",
                     "usnistgov/blossom-dashboard",
-                    "usnistgov/blossom-sam"
+                    "usnistgov/blossom-sam",
+                    "usnistgov/liboscal-java",
+                    "usnistgov/metaschema",
+                    "usnistgov/metaschema-java",
+                    "usnistgov/oscal-cli",
+                    "usnistgov/oscal-content",
+                    "usnistgov/oscal-deep-diff",
+                    "usnistgov/oscal-tools"
                 ]
             },
             "login": "Compton-NIST",
@@ -886,6 +893,11 @@
         },
         "RachelTrello": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/109368791?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/RMF"
+                ]
+            },
             "login": "RachelTrello",
             "name": null
         },
@@ -11480,6 +11492,11 @@
         },
         "revaschwartz": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/102039105?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/RMF"
+                ]
+            },
             "login": "revaschwartz",
             "name": null
         },
