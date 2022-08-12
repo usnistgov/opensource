@@ -2786,6 +2786,16 @@
             "login": "Nurdok",
             "name": "Amir Rachum"
         },
+        "ORSiri": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/109549654?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/RMF"
+                ]
+            },
+            "login": "ORSiri",
+            "name": null
+        },
         "Ododo": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/597457?u=44cfe5a138af9ea58155b116600378ec61a9a7ce&v=4",
             "contributedLabRepositories": {
@@ -3488,16 +3498,6 @@
             },
             "login": "StellingMeno",
             "name": null
-        },
-        "StevenHessing": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/23638777?v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "usnistgov/pscr-openwrt-packages-fork"
-                ]
-            },
-            "login": "StevenHessing",
-            "name": "Steven Hessing"
         },
         "Strykar": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/2946372?u=580b0dbd1289ddaa1776581a4693f402faa913c7&v=4",
@@ -6061,7 +6061,8 @@
                     "usnistgov/Freq_Cal",
                     "usnistgov/ICDAS",
                     "usnistgov/NistPluggableModules",
-                    "usnistgov/SpectralToolkit"
+                    "usnistgov/SpectralToolkit",
+                    "usnistgov/TestbedModels"
                 ]
             },
             "login": "argold57",
@@ -7521,6 +7522,16 @@
             },
             "login": "burger2",
             "name": "Birger Hedman"
+        },
+        "byoda": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/23638777?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/pscr-openwrt-packages-fork"
+                ]
+            },
+            "login": "byoda",
+            "name": "Steven Hessing"
         },
         "bytemaster": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/347290?v=4",
