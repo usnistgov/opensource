@@ -195,14 +195,6 @@
             },
             "nameWithOwner": "GSA/code-gov"
         },
-        "GSA/code-gov-front-end": {
-            "labContributors": {
-                "nodes": [
-                    "GRG2"
-                ]
-            },
-            "nameWithOwner": "GSA/code-gov-front-end"
-        },
         "GSA/fedramp-automation": {
             "labContributors": {
                 "nodes": [
@@ -411,6 +403,14 @@
                 ]
             },
             "nameWithOwner": "JunoLab/Weave.jl"
+        },
+        "LibraryOfCongress/bagit-python": {
+            "labContributors": {
+                "nodes": [
+                    "dwhitenist"
+                ]
+            },
+            "nameWithOwner": "LibraryOfCongress/bagit-python"
         },
         "MDAnalysis/mdanalysis": {
             "labContributors": {
@@ -2926,6 +2926,14 @@
                 ]
             },
             "nameWithOwner": "ucoProject/UCO-Archive"
+        },
+        "ucoProject/UCO-Taxonomy-MIME": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "ucoProject/UCO-Taxonomy-MIME"
         },
         "ucoProject/UCO-Utility-Pre-0.7.0-Validator": {
             "labContributors": {
