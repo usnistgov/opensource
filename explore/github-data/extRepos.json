@@ -1503,6 +1503,14 @@
             },
             "nameWithOwner": "dmzuckerman/Sampling-Uncertainty"
         },
+        "dokester/BayesicFitting": {
+            "labContributors": {
+                "nodes": [
+                    "evangroopman"
+                ]
+            },
+            "nameWithOwner": "dokester/BayesicFitting"
+        },
         "dominikh/go-tools": {
             "labContributors": {
                 "nodes": [
@@ -1700,6 +1708,7 @@
         "hpc-carpentry/amdahl": {
             "labContributors": {
                 "nodes": [
+                    "reid-a",
                     "tkphd"
                 ]
             },
@@ -1949,14 +1958,6 @@
                 ]
             },
             "nameWithOwner": "kchason/case-validation-action"
-        },
-        "keeeto/SLMETools": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "keeeto/SLMETools"
         },
         "kiteco/issue-tracker": {
             "labContributors": {
@@ -2983,6 +2984,14 @@
                 ]
             },
             "nameWithOwner": "valheimPlus/ValheimPlus"
+        },
+        "veusz/veusz": {
+            "labContributors": {
+                "nodes": [
+                    "evangroopman"
+                ]
+            },
+            "nameWithOwner": "veusz/veusz"
         },
         "w3c/dxwg": {
             "labContributors": {
