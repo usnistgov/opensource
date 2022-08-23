@@ -2205,6 +2205,15 @@
             "languages": {
                 "nodes": [
                     {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "SCSS"
+                    },
+                    {
+                        "name": "CSS"
+                    },
+                    {
                         "name": "Python"
                     },
                     {
@@ -2220,7 +2229,7 @@
                         "name": "Dockerfile"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 8
             }
         },
         "usnistgov/EGT": {
