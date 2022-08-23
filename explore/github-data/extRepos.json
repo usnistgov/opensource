@@ -146,6 +146,14 @@
             },
             "nameWithOwner": "CVEProject/cve-services"
         },
+        "Compton-NIST/oscal-workflow": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "Compton-NIST/oscal-workflow"
+        },
         "CoolProp/CoolProp": {
             "labContributors": {
                 "nodes": [
