@@ -372,14 +372,6 @@
             },
             "nameWithOwner": "JuliaLang/juliaup"
         },
-        "JuliaPlots/Makie.jl": {
-            "labContributors": {
-                "nodes": [
-                    "ggggggggg"
-                ]
-            },
-            "nameWithOwner": "JuliaPlots/Makie.jl"
-        },
         "JuliaRegistries/General": {
             "labContributors": {
                 "nodes": [
@@ -1721,6 +1713,14 @@
             },
             "nameWithOwner": "hltcoe/patapsco"
         },
+        "horacepan/SnFFT": {
+            "labContributors": {
+                "nodes": [
+                    "ShawnGeller"
+                ]
+            },
+            "nameWithOwner": "horacepan/SnFFT"
+        },
         "hpc-carpentry/amdahl": {
             "labContributors": {
                 "nodes": [
@@ -1998,14 +1998,6 @@
                 ]
             },
             "nameWithOwner": "libyal/libewf-legacy"
-        },
-        "litex-hub/linux-on-litex-vexriscv": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "litex-hub/linux-on-litex-vexriscv"
         },
         "livecomsjournal/article_templates": {
             "labContributors": {
@@ -2614,6 +2606,14 @@
             },
             "nameWithOwner": "reid-a/hpc-intro"
         },
+        "risi-kondor/Snob2": {
+            "labContributors": {
+                "nodes": [
+                    "ShawnGeller"
+                ]
+            },
+            "nameWithOwner": "risi-kondor/Snob2"
+        },
         "risk-redux/control_freak": {
             "labContributors": {
                 "nodes": [
@@ -3059,14 +3059,6 @@
                 ]
             },
             "nameWithOwner": "williballenthin/INDXParse"
-        },
-        "x-stream/xstream": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "x-stream/xstream"
         },
         "xspec/docker": {
             "labContributors": {
