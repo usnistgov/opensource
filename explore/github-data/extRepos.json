@@ -2484,14 +2484,6 @@
             },
             "nameWithOwner": "pybind/pybind11"
         },
-        "pycalphad/pycalphad": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "pycalphad/pycalphad"
-        },
         "pymeasure/pymeasure": {
             "labContributors": {
                 "nodes": [
@@ -2895,6 +2887,14 @@
                 ]
             },
             "nameWithOwner": "trimstray/test-your-sysadmin-skills"
+        },
+        "tristanstraub/thecreeps-godotclj": {
+            "labContributors": {
+                "nodes": [
+                    "ptonner"
+                ]
+            },
+            "nameWithOwner": "tristanstraub/thecreeps-godotclj"
         },
         "uataq/stilt": {
             "labContributors": {
