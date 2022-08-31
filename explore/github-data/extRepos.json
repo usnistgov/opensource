@@ -318,7 +318,8 @@
         "JARVIS-Materials-Design/jarvis-tools-notebooks": {
             "labContributors": {
                 "nodes": [
-                    "knc6"
+                    "knc6",
+                    "wd15"
                 ]
             },
             "nameWithOwner": "JARVIS-Materials-Design/jarvis-tools-notebooks"
@@ -379,6 +380,14 @@
                 ]
             },
             "nameWithOwner": "JuliaRegistries/General"
+        },
+        "JuliaStaging/GeneralizedGenerated.jl": {
+            "labContributors": {
+                "nodes": [
+                    "sjbreiner"
+                ]
+            },
+            "nameWithOwner": "JuliaStaging/GeneralizedGenerated.jl"
         },
         "JuliaStats/MixedModels.jl": {
             "labContributors": {
@@ -2176,14 +2185,6 @@
                 ]
             },
             "nameWithOwner": "named-data-iot/ndn-iot-package-over-posix"
-        },
-        "named-data/.github": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "named-data/.github"
         },
         "named-data/NDN-packet-spec": {
             "labContributors": {
