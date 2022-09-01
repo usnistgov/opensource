@@ -13119,6 +13119,28 @@
                 "totalCount": 1
             }
         },
+        "usnistgov/oscal-cat": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "SCSS"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "Go"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/oscal-cli": {
             "languages": {
                 "nodes": [
