@@ -730,7 +730,6 @@
         "TLP-COI/awesome-tlp": {
             "labContributors": {
                 "nodes": [
-                    "MichaelPBrundage",
                     "tbsexton"
                 ]
             },
@@ -2428,14 +2427,6 @@
             },
             "nameWithOwner": "opengeospatial/ogc-geosparql"
         },
-        "openstack/monasca-api": {
-            "labContributors": {
-                "nodes": [
-                    "MheniMerz"
-                ]
-            },
-            "nameWithOwner": "openstack/monasca-api"
-        },
         "opto/nostalgy-xpi": {
             "labContributors": {
                 "nodes": [
@@ -2581,14 +2572,6 @@
                 ]
             },
             "nameWithOwner": "reflectivity/orsopy"
-        },
-        "reflectivity/reflectivity.github.io": {
-            "labContributors": {
-                "nodes": [
-                    "bmaranville"
-                ]
-            },
-            "nameWithOwner": "reflectivity/reflectivity.github.io"
         },
         "reflectometry/refl1d": {
             "labContributors": {
@@ -2865,6 +2848,14 @@
             },
             "nameWithOwner": "tkphd/hpc-intro"
         },
+        "tlafarge/NICOB_app_public": {
+            "labContributors": {
+                "nodes": [
+                    "dnewton600"
+                ]
+            },
+            "nameWithOwner": "tlafarge/NICOB_app_public"
+        },
         "tntech-ngin-lab/nr-archway": {
             "labContributors": {
                 "nodes": [
@@ -2904,6 +2895,14 @@
                 ]
             },
             "nameWithOwner": "tristanstraub/thecreeps-godotclj"
+        },
+        "txie-93/cdvae": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "txie-93/cdvae"
         },
         "uataq/stilt": {
             "labContributors": {
