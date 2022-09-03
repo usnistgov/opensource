@@ -711,14 +711,6 @@
             },
             "nameWithOwner": "SynBioHub/synbiohub-docker"
         },
-        "Systems-Modeling/SysML-v2-Pilot-Implementation": {
-            "labContributors": {
-                "nodes": [
-                    "rbarbau"
-                ]
-            },
-            "nameWithOwner": "Systems-Modeling/SysML-v2-Pilot-Implementation"
-        },
         "TACC/pylauncher": {
             "labContributors": {
                 "nodes": [
@@ -734,6 +726,14 @@
                 ]
             },
             "nameWithOwner": "TLP-COI/awesome-tlp"
+        },
+        "TLP-COI/tenor-annotation": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "TLP-COI/tenor-annotation"
         },
         "TLP-COI/text-data-course": {
             "labContributors": {
