@@ -429,14 +429,6 @@
             },
             "nameWithOwner": "MDAnalysis/mdanalysis"
         },
-        "Materials-Consortia/providers": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "Materials-Consortia/providers"
-        },
         "NIST-ISODB/AJBrownThesisIsotherms": {
             "labContributors": {
                 "nodes": [
@@ -1266,6 +1258,14 @@
                 ]
             },
             "nameWithOwner": "coderefinery/git-intro"
+        },
+        "common-workflow-language/cwljava": {
+            "labContributors": {
+                "nodes": [
+                    "MyleneSimon"
+                ]
+            },
+            "nameWithOwner": "common-workflow-language/cwljava"
         },
         "community/community": {
             "labContributors": {
