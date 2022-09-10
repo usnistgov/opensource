@@ -2572,6 +2572,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/ai-bugfinder-testbed": {
+        "description": "A static analyzer powered by AI",
+        "name": "usnistgov/ai-bugfinder-testbed",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ai-model-reuse": {
         "description": "AI model reuse based on metrics derived from optimization curves",
         "name": "usnistgov/ai-model-reuse",
@@ -5280,6 +5286,12 @@
         "name": "usnistgov/oscal-tools",
         "topics": null,
         "website": "https://pages.nist.gov/oscal-tools/"
+    },
+    "usnistgov/oscal-xslt": {
+        "description": "Open source XSLT for OSCAL display and processing",
+        "name": "usnistgov/oscal-xslt",
+        "topics": null,
+        "website": null
     },
     "usnistgov/oss-maven": {
         "description": null,
