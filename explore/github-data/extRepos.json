@@ -975,6 +975,14 @@
             },
             "nameWithOwner": "boostorg/multiprecision"
         },
+        "bspk/nistpages-docker": {
+            "labContributors": {
+                "nodes": [
+                    "regenscheid"
+                ]
+            },
+            "nameWithOwner": "bspk/nistpages-docker"
+        },
         "bsxfan/PYLLR": {
             "labContributors": {
                 "nodes": [
@@ -1886,6 +1894,14 @@
             },
             "nameWithOwner": "iovisor/ubpf"
         },
+        "jazzband/django-auditlog": {
+            "labContributors": {
+                "nodes": [
+                    "rptmat57"
+                ]
+            },
+            "nameWithOwner": "jazzband/django-auditlog"
+        },
         "jekyll/jekyll": {
             "labContributors": {
                 "nodes": [
@@ -2263,7 +2279,8 @@
         "named-data/name-based-access-control": {
             "labContributors": {
                 "nodes": [
-                    "Pesa"
+                    "Pesa",
+                    "yoursunny"
                 ]
             },
             "nameWithOwner": "named-data/name-based-access-control"
