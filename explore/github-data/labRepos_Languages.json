@@ -3716,8 +3716,15 @@
         },
         "usnistgov/NFRL": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "C++"
+                    },
+                    {
+                        "name": "CMake"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/NICE-Public": {
@@ -7239,8 +7246,18 @@
         },
         "usnistgov/cmomy": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/cmrg-benchmarkset-manuscript": {
@@ -14943,6 +14960,16 @@
                 "totalCount": 10
             }
         },
+        "usnistgov/temo": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
         "usnistgov/teqp": {
             "languages": {
                 "nodes": [
@@ -15068,6 +15095,19 @@
             "languages": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "usnistgov/tmmc-lnpy": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/toesc": {
