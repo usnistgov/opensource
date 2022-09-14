@@ -591,14 +591,6 @@
             },
             "nameWithOwner": "RDFLib/rdflib"
         },
-        "RDFLib/rdflib-jsonld": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "RDFLib/rdflib-jsonld"
-        },
         "RaspberryPiFoundation/python-build-hat": {
             "labContributors": {
                 "nodes": [
@@ -1655,6 +1647,14 @@
             },
             "nameWithOwner": "gettalong/kramdown"
         },
+        "ginger-anderson/CISControls_OSCAL": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "ginger-anderson/CISControls_OSCAL"
+        },
         "github/docs": {
             "labContributors": {
                 "nodes": [
@@ -2175,14 +2175,6 @@
                 ]
             },
             "nameWithOwner": "mpi4py/mpi4py"
-        },
-        "ms-iot/ROSOnWindows": {
-            "labContributors": {
-                "nodes": [
-                    "johnmichaloski"
-                ]
-            },
-            "nameWithOwner": "ms-iot/ROSOnWindows"
         },
         "mtex-toolbox/mtex": {
             "labContributors": {
