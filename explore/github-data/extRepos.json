@@ -211,6 +211,14 @@
             },
             "nameWithOwner": "GSA/piv-conformance"
         },
+        "GovReady/oscal-content": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "GovReady/oscal-content"
+        },
         "HL7/UTG": {
             "labContributors": {
                 "nodes": [
@@ -735,14 +743,6 @@
             },
             "nameWithOwner": "UMD-ENMA165/4-21-22-Class"
         },
-        "UMD-ENMA165/contributing-exercise-2021-fall": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "UMD-ENMA165/contributing-exercise-2021-fall"
-        },
         "USF-HII/pub-teddy-human-wgs-telomere": {
             "labContributors": {
                 "nodes": [
@@ -1266,14 +1266,6 @@
                 ]
             },
             "nameWithOwner": "community/community"
-        },
-        "conda-forge/atomman-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "lmhale99"
-                ]
-            },
-            "nameWithOwner": "conda-forge/atomman-feedstock"
         },
         "conda-forge/cdcs-feedstock": {
             "labContributors": {
