@@ -1520,6 +1520,12 @@
         "topics": null,
         "website": "https://pages.nist.gov/NLPER"
     },
+    "usnistgov/NRSS": {
+        "description": "NIST RSoXS Simulation Suite",
+        "name": "usnistgov/NRSS",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/NamedIoT": {
         "description": "Composition of IoT devices into CPS in one of the challenges on modern architecture. ANTD is working on a novel approach to express the composition using NDN naming power. This approach bypasses the need of a composition engine by providing in-network composition capabilities.",
         "name": "usnistgov/NamedIoT",
@@ -3416,6 +3422,12 @@
         "name": "usnistgov/cv-py",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/cyrsoxs": {
+        "description": "Cy-RSoXS Forward Simulator for Resonant Soft X-Ray Scattering",
+        "name": "usnistgov/cyrsoxs",
+        "topics": null,
+        "website": null
     },
     "usnistgov/d3-science": {
         "description": "reusable scientific plotting routines (scatterplot and heatmap) based on d3",
