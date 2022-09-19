@@ -35531,6 +35531,38 @@
                 "github"
             ],
             "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-09-18",
+                "lastModified": "2022-09-18"
+            },
+            "description": "Uses the PVLib-Python to create a Typical Meteorological Year clock and determine IV curves from incident energy and temperature.",
+            "downloadURL": "https://api.github.com/repos/usnistgov/NIST_PY-PV/downloads",
+            "homepageURL": "https://github.com/usnistgov/NIST_PY-PV",
+            "laborHours": 0,
+            "languages": [],
+            "name": "NIST_PY-PV",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/NIST_PY-PV.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
         }
     ],
     "version": "2.0.0"
