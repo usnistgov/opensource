@@ -1496,6 +1496,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/NIST_PY-PV": {
+        "description": "Uses the PVLib-Python to create a Typical Meteorological Year clock and determine IV curves from incident energy and temperature.",
+        "name": "usnistgov/NIST_PY-PV",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/NIST_SRSW_Software": {
         "description": "Repository for software and scripts associated with the NIST Standard Reference Simulation Website",
         "name": "usnistgov/NIST_SRSW_Software",
