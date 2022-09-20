@@ -1061,7 +1061,7 @@
             },
             "date": {
                 "created": "2015-02-17",
-                "lastModified": "2022-09-14"
+                "lastModified": "2022-09-20"
             },
             "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SP800-90B_EntropyAssessment/downloads",
@@ -2748,7 +2748,7 @@
             },
             "date": {
                 "created": "2015-09-15",
-                "lastModified": "2021-08-12"
+                "lastModified": "2022-09-19"
             },
             "description": "Unified Report Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/unified-report/downloads",
@@ -4634,7 +4634,7 @@
             },
             "date": {
                 "created": "2016-03-25",
-                "lastModified": "2022-07-26"
+                "lastModified": "2022-09-20"
             },
             "description": "Atomistic Manipulation Toolkit",
             "downloadURL": "https://api.github.com/repos/usnistgov/atomman/downloads",
@@ -10775,7 +10775,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2022-09-13"
+                "lastModified": "2022-09-19"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -16927,7 +16927,7 @@
             },
             "date": {
                 "created": "2018-06-25",
-                "lastModified": "2022-09-04"
+                "lastModified": "2022-09-20"
             },
             "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
             "downloadURL": "https://api.github.com/repos/usnistgov/ndn-dpdk/downloads",
@@ -20825,7 +20825,7 @@
             },
             "date": {
                 "created": "2019-06-04",
-                "lastModified": "2022-08-18"
+                "lastModified": "2022-09-19"
             },
             "description": "A software tool that generates simulated radar signals and creates RF datasets for developing and testing machine/deep learning detection algorithms. ",
             "downloadURL": "https://api.github.com/repos/usnistgov/SimulatedRadarWaveformGenerator/downloads",
@@ -29204,7 +29204,7 @@
             },
             "date": {
                 "created": "2021-02-11",
-                "lastModified": "2022-09-09"
+                "lastModified": "2022-09-19"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-4/downloads",
@@ -35167,9 +35167,9 @@
             },
             "date": {
                 "created": "2022-08-10",
-                "lastModified": "2022-08-10"
+                "lastModified": "2022-09-20"
             },
-            "description": "ChemNLP is a software-package to process chemical information from the scientific literature.",
+            "description": "ChemNLP: A Natural Language Processing based Library for Materials Chemistry Text Data",
             "downloadURL": "https://api.github.com/repos/usnistgov/chemnlp/downloads",
             "homepageURL": "https://github.com/usnistgov/chemnlp",
             "laborHours": 0,
@@ -35441,14 +35441,16 @@
             },
             "date": {
                 "created": "2022-09-18",
-                "lastModified": "2022-09-18"
+                "lastModified": "2022-09-19"
             },
             "description": "Uses the PVLib-Python to create a Typical Meteorological Year clock and determine IV curves from incident energy and temperature.",
-            "downloadURL": "https://api.github.com/repos/usnistgov/NIST_PY-PV/downloads",
-            "homepageURL": "https://github.com/usnistgov/NIST_PY-PV",
+            "downloadURL": "https://api.github.com/repos/usnistgov/NIST_SG_SolarSim/downloads",
+            "homepageURL": "https://github.com/usnistgov/NIST_SG_SolarSim",
             "laborHours": 0,
-            "languages": [],
-            "name": "NIST_PY-PV",
+            "languages": [
+                "Python"
+            ],
+            "name": "NIST_SG_SolarSim",
             "organization": "National Institute of Standards and Technology",
             "permissions": {
                 "licenses": [
@@ -35459,7 +35461,7 @@
                 ],
                 "usageType": "openSource"
             },
-            "repositoryURL": "git://github.com/usnistgov/NIST_PY-PV.git",
+            "repositoryURL": "git://github.com/usnistgov/NIST_SG_SolarSim.git",
             "status": "Development",
             "tags": [
                 "github"
