@@ -1496,9 +1496,9 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/NIST_PY-PV": {
+    "usnistgov/NIST_SG_SolarSim": {
         "description": "Uses the PVLib-Python to create a Typical Meteorological Year clock and determine IV curves from incident energy and temperature.",
-        "name": "usnistgov/NIST_PY-PV",
+        "name": "usnistgov/NIST_SG_SolarSim",
         "topics": null,
         "website": null
     },
@@ -2857,10 +2857,10 @@
         "website": null
     },
     "usnistgov/chemnlp": {
-        "description": "ChemNLP is a software-package to process chemical information from the scientific literature.",
+        "description": "ChemNLP: A Natural Language Processing based Library for Materials Chemistry Text Data",
         "name": "usnistgov/chemnlp",
         "topics": null,
-        "website": ""
+        "website": "https://jarvis.nist.gov/jarvischemnlp/"
     },
     "usnistgov/chimad-phase-field": {
         "description": "Dummy repository to redirect to https://pages.nist.gov/pfhub",

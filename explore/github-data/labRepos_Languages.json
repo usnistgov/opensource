@@ -3986,10 +3986,14 @@
                 "totalCount": 1
             }
         },
-        "usnistgov/NIST_PY-PV": {
+        "usnistgov/NIST_SG_SolarSim": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/NIST_SRSW_Software": {
