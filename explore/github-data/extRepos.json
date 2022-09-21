@@ -719,6 +719,14 @@
             },
             "nameWithOwner": "TLP-COI/awesome-tlp"
         },
+        "TLP-COI/grabble": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "TLP-COI/grabble"
+        },
         "TLP-COI/tenor-annotation": {
             "labContributors": {
                 "nodes": [
@@ -1678,6 +1686,14 @@
                 ]
             },
             "nameWithOwner": "gnuradio/SigMF"
+        },
+        "google/identity-credential": {
+            "labContributors": {
+                "nodes": [
+                    "dyiop"
+                ]
+            },
+            "nameWithOwner": "google/identity-credential"
         },
         "grill-lab/trec-cast-tools": {
             "labContributors": {
@@ -2729,6 +2745,7 @@
         "signetlabdei/qd-realization": {
             "labContributors": {
                 "nodes": [
+                    "neerajvarshney",
                     "steveblandino"
                 ]
             },
