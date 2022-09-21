@@ -1061,7 +1061,7 @@
             },
             "date": {
                 "created": "2015-02-17",
-                "lastModified": "2022-09-20"
+                "lastModified": "2022-09-21"
             },
             "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SP800-90B_EntropyAssessment/downloads",
@@ -10775,7 +10775,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2022-09-19"
+                "lastModified": "2022-09-20"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -12147,6 +12147,41 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/LV_Ini.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2017-07-24",
+                "lastModified": "2022-09-20"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/LV_TestAutomation/downloads",
+            "homepageURL": "https://github.com/usnistgov/LV_TestAutomation",
+            "laborHours": 0,
+            "languages": [
+                "LabVIEW",
+                "Python"
+            ],
+            "name": "LV_TestAutomation",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/LV_TestAutomation.git",
             "status": "Development",
             "tags": [
                 "github"
@@ -26331,7 +26366,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2022-09-16"
+                "lastModified": "2022-09-21"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -27906,8 +27941,7 @@
                 "C#",
                 "PLpgSQL",
                 "PLSQL",
-                "TSQL",
-                "Smalltalk"
+                "TSQL"
             ],
             "name": "ACVP-Server",
             "organization": "National Institute of Standards and Technology",
@@ -29342,7 +29376,7 @@
             },
             "date": {
                 "created": "2021-02-26",
-                "lastModified": "2021-11-24"
+                "lastModified": "2022-09-20"
             },
             "description": "Supply Chain Traceability for Agri-Food Manufacturing",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCT4AFM/downloads",
@@ -31972,7 +32006,7 @@
             },
             "date": {
                 "created": "2021-09-16",
-                "lastModified": "2022-07-01"
+                "lastModified": "2022-09-21"
             },
             "description": "Deep learning framework for atomistic image data",
             "downloadURL": "https://api.github.com/repos/usnistgov/atomvision/downloads",
@@ -32407,7 +32441,7 @@
             },
             "date": {
                 "created": "2021-10-12",
-                "lastModified": "2022-01-19"
+                "lastModified": "2022-09-20"
             },
             "description": "Atomistic Calculations on Quantum Computers",
             "downloadURL": "https://api.github.com/repos/usnistgov/atomqc/downloads",
@@ -33242,7 +33276,7 @@
             },
             "date": {
                 "created": "2022-02-11",
-                "lastModified": "2022-08-18"
+                "lastModified": "2022-09-20"
             },
             "description": "PION: Password-based IoT Onboarding Over Named Data Networking",
             "downloadURL": "https://api.github.com/repos/usnistgov/PION/downloads",
@@ -35462,6 +35496,70 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/NIST_SG_SolarSim.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-09-20",
+                "lastModified": "2022-09-20"
+            },
+            "description": "Tasks and HSI Proposals for Labeled Property Graph and Taxonomy Creation",
+            "downloadURL": "https://api.github.com/repos/usnistgov/paper-lpg-tasks/downloads",
+            "homepageURL": "https://github.com/usnistgov/paper-lpg-tasks",
+            "laborHours": 0,
+            "languages": [],
+            "name": "paper-lpg-tasks",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/paper-lpg-tasks.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-09-21",
+                "lastModified": "2022-09-21"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/grabble/downloads",
+            "homepageURL": "https://github.com/usnistgov/grabble",
+            "laborHours": 0,
+            "languages": [],
+            "name": "grabble",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/grabble.git",
             "status": "Development",
             "tags": [
                 "github"
