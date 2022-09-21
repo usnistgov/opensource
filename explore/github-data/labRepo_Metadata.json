@@ -1162,6 +1162,12 @@
         ],
         "website": null
     },
+    "usnistgov/LV_TestAutomation": {
+        "description": null,
+        "name": "usnistgov/LV_TestAutomation",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/Lightweight-Cryptography-Benchmarking": {
         "description": null,
         "name": "usnistgov/Lightweight-Cryptography-Benchmarking",
@@ -1742,7 +1748,7 @@
             "pake",
             "spake2"
         ],
-        "website": ""
+        "website": "https://www.nist.gov/publications/pion-password-based-iot-onboarding-over-named-data-networking"
     },
     "usnistgov/PMUCal": {
         "description": "PMU and PMU Calibrator Calibration System",
@@ -3911,6 +3917,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/grabble": {
+        "description": null,
+        "name": "usnistgov/grabble",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/guilogger": {
         "description": "  This project aims to provide tools for constructing graphical user interfaces (GUIs) that are easily testable. A testable GUI is one in which a user session can be recorded in a log file, after which the log file can be instrumented and replayed to ensure that the GUI is performing correctly.",
         "name": "usnistgov/guilogger",
@@ -5326,6 +5338,12 @@
     "usnistgov/pagetest": {
         "description": "Repo for testing pages functionality.  It does not contain anything useful.",
         "name": "usnistgov/pagetest",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/paper-lpg-tasks": {
+        "description": "Tasks and HSI Proposals for Labeled Property Graph and Taxonomy Creation",
+        "name": "usnistgov/paper-lpg-tasks",
         "topics": null,
         "website": null
     },

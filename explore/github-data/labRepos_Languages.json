@@ -1260,12 +1260,9 @@
                     },
                     {
                         "name": "TSQL"
-                    },
-                    {
-                        "name": "Smalltalk"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 4
             }
         },
         "usnistgov/AFL-hardware": {
@@ -3239,6 +3236,19 @@
                     }
                 ],
                 "totalCount": 1
+            }
+        },
+        "usnistgov/LV_TestAutomation": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "LabVIEW"
+                    },
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/Lightweight-Cryptography-Benchmarking": {
@@ -10024,6 +10034,12 @@
                 "totalCount": 5
             }
         },
+        "usnistgov/grabble": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/guilogger": {
             "languages": {
                 "nodes": [
@@ -13347,6 +13363,12 @@
                     }
                 ],
                 "totalCount": 2
+            }
+        },
+        "usnistgov/paper-lpg-tasks": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "usnistgov/pdso": {
