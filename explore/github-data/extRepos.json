@@ -1122,6 +1122,14 @@
             },
             "nameWithOwner": "casework/CASE-Implementation-PROV-O"
         },
+        "casework/CASE-Implementation-UFED-XML": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Implementation-UFED-XML"
+        },
         "casework/CASE-Implementation-XRY": {
             "labContributors": {
                 "nodes": [
@@ -1379,14 +1387,6 @@
                 ]
             },
             "nameWithOwner": "danieleongari/CURATED-COFs"
-        },
-        "danieljprice/phantom": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "danieljprice/phantom"
         },
         "danmunn/redmine_dmsf": {
             "labContributors": {
@@ -2791,6 +2791,14 @@
                 ]
             },
             "nameWithOwner": "snakemake/snakemake"
+        },
+        "sphinx-contrib/doxylink": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "sphinx-contrib/doxylink"
         },
         "sqlalchemy/sqlalchemy": {
             "labContributors": {
