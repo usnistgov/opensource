@@ -5007,7 +5007,7 @@
             },
             "date": {
                 "created": "2016-04-27",
-                "lastModified": "2022-09-08"
+                "lastModified": "2022-09-22"
             },
             "description": "JSIP: Java SIP specification Reference Implementation (moved from java.net)",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsip/downloads",
@@ -5224,7 +5224,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2022-09-16"
+                "lastModified": "2022-09-22"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -7028,7 +7028,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2022-09-16"
+                "lastModified": "2022-09-22"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -7680,7 +7680,7 @@
             },
             "date": {
                 "created": "2016-10-19",
-                "lastModified": "2022-09-07"
+                "lastModified": "2022-09-22"
             },
             "description": "Optical live-scan and ink fingerprint image quality assessment tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/NFIQ2/downloads",
@@ -22922,7 +22922,7 @@
             },
             "date": {
                 "created": "2019-10-11",
-                "lastModified": "2022-08-24"
+                "lastModified": "2022-09-22"
             },
             "description": "The NIST IFC File Analyzer (IFA) generates a spreadsheet from an IFC file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/IFA/downloads",
@@ -26186,7 +26186,7 @@
             },
             "date": {
                 "created": "2020-05-22",
-                "lastModified": "2022-09-07"
+                "lastModified": "2022-09-21"
             },
             "description": "Open Security Controls Assessment Language (OSCAL) Deep Differencing Tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-deep-diff/downloads",
@@ -26295,7 +26295,7 @@
             },
             "date": {
                 "created": "2020-05-27",
-                "lastModified": "2022-09-14"
+                "lastModified": "2022-09-21"
             },
             "description": "Tools for hyperspectral x-ray and neutron scattering data loading, reduction, slicing, and visualization.",
             "downloadURL": "https://api.github.com/repos/usnistgov/PyHyperScattering/downloads",
@@ -27454,7 +27454,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2022-09-13"
+                "lastModified": "2022-09-21"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -29148,7 +29148,7 @@
             },
             "date": {
                 "created": "2021-01-28",
-                "lastModified": "2022-02-16"
+                "lastModified": "2022-09-21"
             },
             "description": "Baseline models for the paper \"A Tutorial on Generating RF Datasets for Training and Testing Baseline Deep Learning Detectors: Radar Detection in the 3.5 GHz CBRS Band\"",
             "downloadURL": "https://api.github.com/repos/usnistgov/BaselineDeepLearningRadarDetectors/downloads",
@@ -34494,16 +34494,16 @@
             },
             "date": {
                 "created": "2022-05-16",
-                "lastModified": "2022-05-23"
+                "lastModified": "2022-09-21"
             },
             "description": "Typescript library supporting XML/XSLT in the browser",
             "downloadURL": "https://api.github.com/repos/usnistgov/xslt-blender/downloads",
             "homepageURL": "https://github.com/usnistgov/xslt-blender",
             "laborHours": 0,
             "languages": [
-                "TypeScript",
                 "XSLT",
                 "HTML",
+                "TypeScript",
                 "CSS"
             ],
             "name": "xslt-blender",
@@ -35299,7 +35299,7 @@
             },
             "date": {
                 "created": "2022-08-10",
-                "lastModified": "2022-09-20"
+                "lastModified": "2022-09-21"
             },
             "description": "ChemNLP: A Natural Language Processing based Library for Materials Chemistry Text Data",
             "downloadURL": "https://api.github.com/repos/usnistgov/chemnlp/downloads",
@@ -35658,6 +35658,40 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/grabble.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-09-21",
+                "lastModified": "2022-09-21"
+            },
+            "description": "WCTP validaiton for NIST validation tool",
+            "downloadURL": "https://api.github.com/repos/usnistgov/hit-wctp-validation/downloads",
+            "homepageURL": "https://github.com/usnistgov/hit-wctp-validation",
+            "laborHours": 0,
+            "languages": [
+                "Java"
+            ],
+            "name": "hit-wctp-validation",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/hit-wctp-validation.git",
             "status": "Development",
             "tags": [
                 "github"
