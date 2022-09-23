@@ -1566,6 +1566,14 @@
             },
             "nameWithOwner": "dwsideri/bibtex"
         },
+        "dwsideri/latex-cv": {
+            "labContributors": {
+                "nodes": [
+                    "dwsideriusNIST"
+                ]
+            },
+            "nameWithOwner": "dwsideri/latex-cv"
+        },
         "dylandreimerink/gobpfld": {
             "labContributors": {
                 "nodes": [
@@ -2470,7 +2478,6 @@
         "pollere/DCT": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
                     "yoursunny"
                 ]
             },
