@@ -308,6 +308,12 @@
         ],
         "website": ""
     },
+    "usnistgov/AFL-automation": {
+        "description": "The automation software that powers the NIST Autonomous Formulation Lab!  A flexible, web-based backend for device integration, drivers for some devices we've found useful, and glue that makes the AFL run.",
+        "name": "usnistgov/AFL-automation",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/AFL-hardware": {
         "description": "Hardware designs and #openscience widgets for use with the NIST Autonomous Formulation Laboratory",
         "name": "usnistgov/AFL-hardware",

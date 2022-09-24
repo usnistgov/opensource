@@ -650,7 +650,8 @@
         "SasView/sasview": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville"
+                    "bmaranville",
+                    "pbeaucage"
                 ]
             },
             "nameWithOwner": "SasView/sasview"
@@ -662,14 +663,6 @@
                 ]
             },
             "nameWithOwner": "Schematron/schematron-enhancement-proposals"
-        },
-        "ShawnGeller/QIJC-1": {
-            "labContributors": {
-                "nodes": [
-                    "scott-glancy"
-                ]
-            },
-            "nameWithOwner": "ShawnGeller/QIJC-1"
         },
         "Sheekaboom/WeissTools": {
             "labContributors": {
@@ -1982,14 +1975,6 @@
             },
             "nameWithOwner": "julia-vscode/julia-vscode"
         },
-        "jupyterlab/jupyterlab-desktop": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "jupyterlab/jupyterlab-desktop"
-        },
         "jupyterlab/jupyterlab-git": {
             "labContributors": {
                 "nodes": [
@@ -2215,14 +2200,6 @@
                 ]
             },
             "nameWithOwner": "mtex-toolbox/mtex"
-        },
-        "named-data-iot/ndn-iot-package-over-posix": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "named-data-iot/ndn-iot-package-over-posix"
         },
         "named-data/NDN-packet-spec": {
             "labContributors": {
@@ -2652,14 +2629,6 @@
                 ]
             },
             "nameWithOwner": "rsinger86/drf-flex-fields"
-        },
-        "rstudio/gt": {
-            "labContributors": {
-                "nodes": [
-                    "jat255"
-                ]
-            },
-            "nameWithOwner": "rstudio/gt"
         },
         "ryan112358/nist-synthetic-data-2021": {
             "labContributors": {

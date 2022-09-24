@@ -1265,6 +1265,34 @@
                 "totalCount": 4
             }
         },
+        "usnistgov/AFL-automation": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "Less"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 7
+            }
+        },
         "usnistgov/AFL-hardware": {
             "languages": {
                 "nodes": [
