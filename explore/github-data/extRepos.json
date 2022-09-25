@@ -1503,6 +1503,14 @@
             },
             "nameWithOwner": "digitalcorpora/app"
         },
+        "digitalcorpora/digitalcorpora-stats": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "digitalcorpora/digitalcorpora-stats"
+        },
         "dlech/KeeAgent": {
             "labContributors": {
                 "nodes": [
@@ -2427,14 +2435,6 @@
                 ]
             },
             "nameWithOwner": "opto/nostalgy-xpi"
-        },
-        "oxinabox/DataDeps.jl": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "oxinabox/DataDeps.jl"
         },
         "pkienzle/periodictable": {
             "labContributors": {
