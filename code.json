@@ -7079,7 +7079,7 @@
             },
             "date": {
                 "created": "2016-09-19",
-                "lastModified": "2022-09-06"
+                "lastModified": "2022-09-26"
             },
             "description": "NIST/NCCoE Mobile Threat Catalogue",
             "downloadURL": "https://api.github.com/repos/usnistgov/mobile-threat-catalogue/downloads",
@@ -25180,7 +25180,7 @@
             },
             "date": {
                 "created": "2020-03-31",
-                "lastModified": "2022-09-09"
+                "lastModified": "2022-09-26"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-cli/downloads",
@@ -26226,7 +26226,7 @@
             },
             "date": {
                 "created": "2020-05-22",
-                "lastModified": "2022-09-21"
+                "lastModified": "2022-09-26"
             },
             "description": "Open Security Controls Assessment Language (OSCAL) Deep Differencing Tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-deep-diff/downloads",
@@ -26470,7 +26470,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2022-09-23"
+                "lastModified": "2022-09-26"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -31647,7 +31647,7 @@
             },
             "date": {
                 "created": "2021-08-11",
-                "lastModified": "2022-09-17"
+                "lastModified": "2022-09-26"
             },
             "description": "Cy-RSoXS Forward Simulator for Resonant Soft X-Ray Scattering",
             "downloadURL": "https://api.github.com/repos/usnistgov/cyrsoxs/downloads",
@@ -35579,7 +35579,7 @@
             },
             "date": {
                 "created": "2022-09-16",
-                "lastModified": "2022-09-17"
+                "lastModified": "2022-09-26"
             },
             "description": "NIST RSoXS Simulation Suite",
             "downloadURL": "https://api.github.com/repos/usnistgov/NRSS/downloads",
@@ -35733,6 +35733,41 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/hit-wctp-validation.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-09-26",
+                "lastModified": "2022-09-26"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/analphipy/downloads",
+            "homepageURL": "https://github.com/usnistgov/analphipy",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "Makefile"
+            ],
+            "name": "analphipy",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/analphipy.git",
             "status": "Development",
             "tags": [
                 "github"
