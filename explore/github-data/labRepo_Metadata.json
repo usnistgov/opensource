@@ -1542,7 +1542,7 @@
         "description": "NIST RSoXS Simulation Suite",
         "name": "usnistgov/NRSS",
         "topics": null,
-        "website": null
+        "website": "https://nrss.readthedocs.io"
     },
     "usnistgov/NamedIoT": {
         "description": "Composition of IoT devices into CPS in one of the challenges on modern architecture. ANTD is working on a novel approach to express the composition using NDN naming power. This approach bypasses the need of a composition engine by providing in-network composition capabilities.",
@@ -2623,6 +2623,12 @@
     "usnistgov/ammd-2.0": {
         "description": null,
         "name": "usnistgov/ammd-2.0",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/analphipy": {
+        "description": null,
+        "name": "usnistgov/analphipy",
         "topics": null,
         "website": null
     },
