@@ -8801,13 +8801,16 @@
                         "name": "Python"
                     },
                     {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
                         "name": "Batchfile"
                     },
                     {
                         "name": "Makefile"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 4
             }
         },
         "usnistgov/ctRSD-simulator-2.0": {
