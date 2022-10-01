@@ -1121,6 +1121,18 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/KAIROS": {
+        "description": "Scoring and analysis software for the evaluation of Knowledge Directed Artificial Intelligence Reasoning Over Schemas (KAIROS)",
+        "name": "usnistgov/KAIROS",
+        "topics": [
+            "ai",
+            "nlp",
+            "information-retrieval",
+            "machine-translation",
+            "metrics"
+        ],
+        "website": ""
+    },
     "usnistgov/LEMASdistPub": {
         "description": "Public distribution of the Laboratory Environment Monitoring and Alert System (LEMAS). ",
         "name": "usnistgov/LEMASdistPub",
@@ -2395,6 +2407,12 @@
     "usnistgov/WIPP-EGT-plugin": {
         "description": null,
         "name": "usnistgov/WIPP-EGT-plugin",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/WIPP-Plugin-Manifest-generator": {
+        "description": "Web tool for generating WIPP-compliant plugin manifests",
+        "name": "usnistgov/WIPP-Plugin-Manifest-generator",
         "topics": null,
         "website": null
     },
