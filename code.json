@@ -19588,7 +19588,7 @@
             },
             "date": {
                 "created": "2019-03-15",
-                "lastModified": "2022-08-16"
+                "lastModified": "2022-10-01"
             },
             "description": "A pure javascript HDF5 reader",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsfive/downloads",
@@ -26470,7 +26470,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2022-09-29"
+                "lastModified": "2022-09-30"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -31648,6 +31648,45 @@
             },
             "date": {
                 "created": "2021-08-11",
+                "lastModified": "2022-09-30"
+            },
+            "description": "Scoring and analysis software for the evaluation of Knowledge Directed Artificial Intelligence Reasoning Over Schemas (KAIROS)",
+            "downloadURL": "https://api.github.com/repos/usnistgov/KAIROS/downloads",
+            "homepageURL": "https://github.com/usnistgov/KAIROS",
+            "laborHours": 0,
+            "languages": [
+                "Python"
+            ],
+            "name": "KAIROS",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/KAIROS.git",
+            "status": "Development",
+            "tags": [
+                "github",
+                "ai",
+                "nlp",
+                "information-retrieval",
+                "machine-translation",
+                "metrics"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2021-08-11",
                 "lastModified": "2022-09-28"
             },
             "description": "Cy-RSoXS Forward Simulator for Resonant Soft X-Ray Scattering",
@@ -33053,13 +33092,14 @@
             },
             "date": {
                 "created": "2021-12-30",
-                "lastModified": "2021-12-30"
+                "lastModified": "2022-09-30"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/VTSG/downloads",
             "homepageURL": "https://github.com/usnistgov/VTSG",
             "laborHours": 0,
             "languages": [
+                "C#",
                 "Python",
                 "Makefile",
                 "Shell"
@@ -35769,6 +35809,43 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/analphipy.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-09-30",
+                "lastModified": "2022-09-30"
+            },
+            "description": "Web tool for generating WIPP-compliant plugin manifests",
+            "downloadURL": "https://api.github.com/repos/usnistgov/WIPP-Plugin-Manifest-generator/downloads",
+            "homepageURL": "https://github.com/usnistgov/WIPP-Plugin-Manifest-generator",
+            "laborHours": 0,
+            "languages": [
+                "TypeScript",
+                "HTML",
+                "JavaScript",
+                "CSS"
+            ],
+            "name": "WIPP-Plugin-Manifest-generator",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/WIPP-Plugin-Manifest-generator.git",
             "status": "Development",
             "tags": [
                 "github"
