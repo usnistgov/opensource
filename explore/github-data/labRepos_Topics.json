@@ -1374,6 +1374,48 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/KAIROS": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/ai",
+                        "topic": {
+                            "name": "ai"
+                        },
+                        "url": "https://github.com/topics/ai"
+                    },
+                    {
+                        "resourcePath": "/topics/nlp",
+                        "topic": {
+                            "name": "nlp"
+                        },
+                        "url": "https://github.com/topics/nlp"
+                    },
+                    {
+                        "resourcePath": "/topics/information-retrieval",
+                        "topic": {
+                            "name": "information-retrieval"
+                        },
+                        "url": "https://github.com/topics/information-retrieval"
+                    },
+                    {
+                        "resourcePath": "/topics/machine-translation",
+                        "topic": {
+                            "name": "machine-translation"
+                        },
+                        "url": "https://github.com/topics/machine-translation"
+                    },
+                    {
+                        "resourcePath": "/topics/metrics",
+                        "topic": {
+                            "name": "metrics"
+                        },
+                        "url": "https://github.com/topics/metrics"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/LEMASdistPub": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3372,6 +3414,12 @@
             }
         },
         "usnistgov/WIPP-EGT-plugin": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/WIPP-Plugin-Manifest-generator": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0

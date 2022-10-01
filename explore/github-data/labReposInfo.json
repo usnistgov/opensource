@@ -2582,7 +2582,7 @@
                 "totalCount": 193
             },
             "issues_Open": {
-                "totalCount": 19
+                "totalCount": 18
             },
             "languages": {
                 "totalCount": 4
@@ -9269,6 +9269,60 @@
             },
             "url": "https://github.com/usnistgov/JobRunner"
         },
+        "usnistgov/KAIROS": {
+            "createdAt": "2021-08-11T07:43:19Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Scoring and analysis software for the evaluation of Knowledge Directed Artificial Intelligence Reasoning Over Schemas (KAIROS)",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 11
+            },
+            "name": "KAIROS",
+            "nameWithOwner": "usnistgov/KAIROS",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 5
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/usnistgov/KAIROS"
+        },
         "usnistgov/LEMASdistPub": {
             "createdAt": "2018-05-04T13:42:54Z",
             "defaultBranchRef": {
@@ -13415,7 +13469,7 @@
                 "totalCount": 630
             },
             "issues_Open": {
-                "totalCount": 176
+                "totalCount": 177
             },
             "languages": {
                 "totalCount": 8
@@ -13439,13 +13493,13 @@
                 "name": "XSLT"
             },
             "pullRequests_Closed": {
-                "totalCount": 117
+                "totalCount": 118
             },
             "pullRequests_Merged": {
                 "totalCount": 437
             },
             "pullRequests_Open": {
-                "totalCount": 20
+                "totalCount": 21
             },
             "repositoryTopics": {
                 "totalCount": 10
@@ -18308,7 +18362,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "licenseInfo": {
                 "name": "MIT License",
@@ -18326,7 +18380,7 @@
                 "login": "usnistgov"
             },
             "primaryLanguage": {
-                "name": "Python"
+                "name": "C#"
             },
             "pullRequests_Closed": {
                 "totalCount": 1
@@ -18890,6 +18944,55 @@
                 "totalCount": 1
             },
             "url": "https://github.com/usnistgov/WIPP-EGT-plugin"
+        },
+        "usnistgov/WIPP-Plugin-Manifest-generator": {
+            "createdAt": "2022-09-30T20:34:23Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Web tool for generating WIPP-compliant plugin manifests",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 11
+            },
+            "name": "WIPP-Plugin-Manifest-generator",
+            "nameWithOwner": "usnistgov/WIPP-Plugin-Manifest-generator",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "TypeScript"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 5
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/WIPP-Plugin-Manifest-generator"
         },
         "usnistgov/WIPP-Plugins-base-templates": {
             "createdAt": "2019-12-11T17:58:29Z",
@@ -20486,7 +20589,7 @@
                 "totalCount": 22
             },
             "pullRequests_Open": {
-                "totalCount": 10
+                "totalCount": 11
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -27963,10 +28066,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 152
+                "totalCount": 153
             },
             "issues_Open": {
-                "totalCount": 15
+                "totalCount": 14
             },
             "languages": {
                 "totalCount": 3
@@ -27993,7 +28096,7 @@
                 "totalCount": 2
             },
             "pullRequests_Merged": {
-                "totalCount": 121
+                "totalCount": 122
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -28017,10 +28120,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 69
+                "totalCount": 70
             },
             "issues_Open": {
-                "totalCount": 2
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 3
@@ -28042,7 +28145,7 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 49
+                "totalCount": 50
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -28549,7 +28652,7 @@
                 "name": "Python"
             },
             "pullRequests_Closed": {
-                "totalCount": 17
+                "totalCount": 18
             },
             "pullRequests_Merged": {
                 "totalCount": 42
@@ -34235,7 +34338,7 @@
                 "totalCount": 57
             },
             "pullRequests_Merged": {
-                "totalCount": 424
+                "totalCount": 425
             },
             "pullRequests_Open": {
                 "totalCount": 3
@@ -36360,7 +36463,7 @@
                 "totalCount": 147
             },
             "pullRequests_Open": {
-                "totalCount": 5
+                "totalCount": 7
             },
             "repositoryTopics": {
                 "totalCount": 12
@@ -37076,7 +37179,7 @@
                 "name": "Java"
             },
             "pullRequests_Closed": {
-                "totalCount": 13
+                "totalCount": 14
             },
             "pullRequests_Merged": {
                 "totalCount": 40
@@ -37336,7 +37439,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 932
+                "totalCount": 933
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -41958,7 +42061,7 @@
                 "totalCount": 24
             },
             "pullRequests_Open": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -42006,7 +42109,7 @@
                 "name": "Java"
             },
             "pullRequests_Closed": {
-                "totalCount": 20
+                "totalCount": 21
             },
             "pullRequests_Merged": {
                 "totalCount": 25
@@ -42029,7 +42132,7 @@
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "forks": {
-                "totalCount": 81
+                "totalCount": 82
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -48016,7 +48119,7 @@
                 "totalCount": 0
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -50226,14 +50329,14 @@
             },
             "description": "Typescript library supporting XML/XSLT in the browser",
             "forks": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "homepageUrl": null,
             "issues_Closed": {
                 "totalCount": 0
             },
             "issues_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 4
@@ -50260,7 +50363,7 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 2
+                "totalCount": 4
             },
             "pullRequests_Open": {
                 "totalCount": 0

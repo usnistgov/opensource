@@ -3184,6 +3184,16 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/KAIROS": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
         "usnistgov/LEMASdistPub": {
             "languages": {
                 "nodes": [
@@ -5937,6 +5947,9 @@
             "languages": {
                 "nodes": [
                     {
+                        "name": "C#"
+                    },
+                    {
                         "name": "Python"
                     },
                     {
@@ -5946,7 +5959,7 @@
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 4
             }
         },
         "usnistgov/VectorsOfTrust": {
@@ -6053,6 +6066,25 @@
                     },
                     {
                         "name": "Shell"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
+        "usnistgov/WIPP-Plugin-Manifest-generator": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "CSS"
                     }
                 ],
                 "totalCount": 4

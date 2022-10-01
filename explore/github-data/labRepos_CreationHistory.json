@@ -890,6 +890,11 @@
             "firstCommitAt": "2010-07-09T21:45:45Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/KAIROS": {
+            "createdAt": "2021-08-11T07:43:19Z",
+            "firstCommitAt": "2021-08-11T07:43:21Z",
+            "initBeforeGitHubRepo": false
+        },
         "usnistgov/LEMASdistPub": {
             "createdAt": "2018-05-04T13:42:54Z",
             "firstCommitAt": "2018-05-04T13:39:49Z",
@@ -1833,6 +1838,11 @@
         "usnistgov/WIPP-EGT-plugin": {
             "createdAt": "2019-09-03T14:07:14Z",
             "firstCommitAt": "2019-07-09T20:37:57Z",
+            "initBeforeGitHubRepo": true
+        },
+        "usnistgov/WIPP-Plugin-Manifest-generator": {
+            "createdAt": "2022-09-30T20:34:23Z",
+            "firstCommitAt": "2020-12-08T17:43:40Z",
             "initBeforeGitHubRepo": true
         },
         "usnistgov/WIPP-Plugins-base-templates": {
