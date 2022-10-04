@@ -6968,10 +6968,13 @@
                         "name": "Python"
                     },
                     {
+                        "name": "XSLT"
+                    },
+                    {
                         "name": "Cython"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "usnistgov/atomqc": {
@@ -11468,10 +11471,13 @@
                         "name": "Python"
                     },
                     {
+                        "name": "XSLT"
+                    },
+                    {
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 4
             }
         },
         "usnistgov/iso15926": {
