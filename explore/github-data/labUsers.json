@@ -2870,6 +2870,11 @@
             "login": "cns7",
             "name": null
         },
+        "conteam": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/43764027?u=2430d9c10bb8dabbd437f411c9359f1c3806e046&v=4",
+            "login": "conteam",
+            "name": null
+        },
         "cosselk": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/11542062?v=4",
             "login": "cosselk",
@@ -13466,7 +13471,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/98972197?u=c4d09421dae92d09b65c0a0b792452946514da36&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/VTSG"
+                    "usnistgov/VTSG",
+                    "usnistgov/ai-bugfinder-testbed"
                 ]
             },
             "login": "vadim-okun",
