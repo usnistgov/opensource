@@ -271,6 +271,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/A-tool-with-improved-accuracy-in-checker-board-corner-detection-and-automatic-data-processing-": {
+        "description": "A method and tool for automatic camera calibration were developed.  This method has advantages: 1) it doesn\u2019t involve user clickings to define the region of interest, which eliminates the error and accuracy problems from human operation; 2) Images are processed automatically in batch, eliminating the time-consuming manual data processes; 3) improved the accuracy by developing advanced algorithms in the checker-board corner detection, thus improved the vision-based system\u2019s accuracy; 4) Enabled the creation of user-defined markers for auto data processing. The key to the automatic method is to enable auto-counting and auto-alignment. ",
+        "name": "usnistgov/A-tool-with-improved-accuracy-in-checker-board-corner-detection-and-automatic-data-processing-",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ABDNavigator": {
         "description": "Scanning probe control and sample navigation for atom-based devices",
         "name": "usnistgov/ABDNavigator",
@@ -2635,6 +2641,12 @@
     "usnistgov/ambench-cdcs": {
         "description": null,
         "name": "usnistgov/ambench-cdcs",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ambench-sciserver-outreach": {
+        "description": null,
+        "name": "usnistgov/ambench-sciserver-outreach",
         "topics": null,
         "website": null
     },

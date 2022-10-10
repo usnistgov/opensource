@@ -1195,6 +1195,16 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/A-tool-with-improved-accuracy-in-checker-board-corner-detection-and-automatic-data-processing-": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
         "usnistgov/ABDNavigator": {
             "languages": {
                 "nodes": [
@@ -6725,6 +6735,16 @@
                 "totalCount": 4
             }
         },
+        "usnistgov/ambench-sciserver-outreach": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
         "usnistgov/ammd-2.0": {
             "languages": {
                 "nodes": [
@@ -7150,19 +7170,10 @@
                         "name": "TypeScript"
                     },
                     {
-                        "name": "JavaScript"
-                    },
-                    {
-                        "name": "CSS"
-                    },
-                    {
                         "name": "HTML"
-                    },
-                    {
-                        "name": "Dockerfile"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 2
             }
         },
         "usnistgov/blossom-sam": {
@@ -13462,8 +13473,15 @@
         },
         "usnistgov/paper-lpg-tasks": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/pdso": {
