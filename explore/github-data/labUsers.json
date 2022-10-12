@@ -571,6 +571,7 @@
                     "usnistgov/CloudSecurityArchitectureTool-CSAT-v0.1",
                     "usnistgov/OSCAL",
                     "usnistgov/blossom-dashboard",
+                    "usnistgov/blossom-sam",
                     "usnistgov/liboscal-java",
                     "usnistgov/metaschema",
                     "usnistgov/metaschema-java",
@@ -6307,6 +6308,12 @@
         },
         "joshua-roberts": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/22030840?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/blossom-dashboard",
+                    "usnistgov/blossom-sam"
+                ]
+            },
             "login": "joshua-roberts",
             "name": null
         },
@@ -11195,7 +11202,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/79150618?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/blossom-dashboard"
+                    "usnistgov/blossom-dashboard",
+                    "usnistgov/blossom-sam"
                 ]
             },
             "login": "nist-maxchiu",
