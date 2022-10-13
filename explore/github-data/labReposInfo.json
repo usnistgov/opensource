@@ -4492,7 +4492,7 @@
                 "totalCount": 7
             },
             "issues_Open": {
-                "totalCount": 9
+                "totalCount": 10
             },
             "languages": {
                 "totalCount": 7
@@ -7057,7 +7057,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "url": "https://github.com/usnistgov/FastLoader"
         },
@@ -11323,7 +11323,12 @@
             "languages": {
                 "totalCount": 2
             },
-            "licenseInfo": null,
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
             "mentionableUsers": {
                 "totalCount": 9
             },
@@ -13520,10 +13525,10 @@
             },
             "homepageUrl": "https://pages.nist.gov/OSCAL/",
             "issues_Closed": {
-                "totalCount": 634
+                "totalCount": 637
             },
             "issues_Open": {
-                "totalCount": 179
+                "totalCount": 177
             },
             "languages": {
                 "totalCount": 8
@@ -13550,7 +13555,7 @@
                 "totalCount": 124
             },
             "pullRequests_Merged": {
-                "totalCount": 451
+                "totalCount": 455
             },
             "pullRequests_Open": {
                 "totalCount": 13
@@ -15152,7 +15157,7 @@
                 "totalCount": 16
             },
             "issues_Open": {
-                "totalCount": 19
+                "totalCount": 20
             },
             "languages": {
                 "totalCount": 1
@@ -15549,10 +15554,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 399
+                "totalCount": 401
             },
             "issues_Open": {
-                "totalCount": 38
+                "totalCount": 36
             },
             "languages": {
                 "totalCount": 0
@@ -16756,7 +16761,7 @@
             },
             "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
             "forks": {
-                "totalCount": 65
+                "totalCount": 66
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -16794,7 +16799,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 139
+                "totalCount": 140
             },
             "url": "https://github.com/usnistgov/SP800-90B_EntropyAssessment"
         },
@@ -20183,7 +20188,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "url": "https://github.com/usnistgov/WebDeepZoomToolkit"
         },
@@ -34449,7 +34454,7 @@
                 "totalCount": 425
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -35768,7 +35773,7 @@
                 "totalCount": 291
             },
             "issues_Open": {
-                "totalCount": 248
+                "totalCount": 249
             },
             "languages": {
                 "totalCount": 12
@@ -36631,7 +36636,7 @@
                 "totalCount": 2
             },
             "stargazers": {
-                "totalCount": 68
+                "totalCount": 69
             },
             "url": "https://github.com/usnistgov/jsfive"
         },
@@ -37523,7 +37528,7 @@
                 "url": "http://choosealicense.com/licenses/other/"
             },
             "mentionableUsers": {
-                "totalCount": 25
+                "totalCount": 26
             },
             "name": "macos_security",
             "nameWithOwner": "usnistgov/macos_security",
@@ -37538,7 +37543,7 @@
                 "totalCount": 19
             },
             "pullRequests_Merged": {
-                "totalCount": 18
+                "totalCount": 20
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -37547,7 +37552,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 943
+                "totalCount": 945
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -50040,7 +50045,7 @@
             },
             "description": "Development of the NIST vulnerability data ontology (Vulntology).",
             "forks": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -50075,7 +50080,7 @@
                 "totalCount": 24
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -50483,7 +50488,7 @@
                 "totalCount": 16
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
