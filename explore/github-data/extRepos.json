@@ -132,8 +132,7 @@
         "CVEProject/cve-services": {
             "labContributors": {
                 "nodes": [
-                    "aj-stein-nist",
-                    "david-waltermire-nist"
+                    "aj-stein-nist"
                 ]
             },
             "nameWithOwner": "CVEProject/cve-services"
@@ -967,14 +966,6 @@
                 ]
             },
             "nameWithOwner": "bokeh/bokeh"
-        },
-        "boostorg/multiprecision": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "boostorg/multiprecision"
         },
         "bspk/nistpages-docker": {
             "labContributors": {
@@ -2980,7 +2971,6 @@
         "usdhs/dcat-tool": {
             "labContributors": {
                 "nodes": [
-                    "ajnelson-nist",
                     "simsong"
                 ]
             },
