@@ -1867,7 +1867,7 @@
             },
             "date": {
                 "created": "2015-06-04",
-                "lastModified": "2022-09-13"
+                "lastModified": "2022-10-15"
             },
             "description": "Convert a corpus of PDF to clean text files on a distributed architecture",
             "downloadURL": "https://api.github.com/repos/usnistgov/ocr-pipeline/downloads",
@@ -5807,7 +5807,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2022-10-05"
+                "lastModified": "2022-10-14"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -7030,7 +7030,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2022-10-14"
+                "lastModified": "2022-10-15"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -27973,7 +27973,7 @@
             },
             "date": {
                 "created": "2020-09-09",
-                "lastModified": "2022-10-07"
+                "lastModified": "2022-10-14"
             },
             "description": "A repository tracking releases of NIST's ACVP server. See www.github.com/usnistgov/ACVP for the protocol.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP-Server/downloads",
@@ -35818,6 +35818,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/A-tool-with-improved-accuracy-in-checker-board-corner-detection-and-automatic-data-processing-.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-10-14",
+                "lastModified": "2022-10-14"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/giab-data-reg-phase1/downloads",
+            "homepageURL": "https://github.com/usnistgov/giab-data-reg-phase1",
+            "laborHours": 0,
+            "languages": [],
+            "name": "giab-data-reg-phase1",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/giab-data-reg-phase1.git",
             "status": "Development",
             "tags": [
                 "github"
