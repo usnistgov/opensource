@@ -646,6 +646,14 @@
             },
             "nameWithOwner": "SINTEF/thermopack"
         },
+        "SasView/documents": {
+            "labContributors": {
+                "nodes": [
+                    "pbeaucage"
+                ]
+            },
+            "nameWithOwner": "SasView/documents"
+        },
         "SasView/sasmodels": {
             "labContributors": {
                 "nodes": [
@@ -2014,14 +2022,6 @@
             },
             "nameWithOwner": "kchason/case-validation-action"
         },
-        "kiteco/issue-tracker": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "kiteco/issue-tracker"
-        },
         "lambdamusic/Ontospy": {
             "labContributors": {
                 "nodes": [
@@ -2061,14 +2061,6 @@
                 ]
             },
             "nameWithOwner": "livecomsjournal/livecomsjournal.github.io"
-        },
-        "ltalirz/livecoms-atomistic-software": {
-            "labContributors": {
-                "nodes": [
-                    "dwsideriusNIST"
-                ]
-            },
-            "nameWithOwner": "ltalirz/livecoms-atomistic-software"
         },
         "lukascivil/json-difference": {
             "labContributors": {
@@ -3073,6 +3065,14 @@
                 ]
             },
             "nameWithOwner": "williballenthin/INDXParse"
+        },
+        "wjakob/nanobind": {
+            "labContributors": {
+                "nodes": [
+                    "ianhbell"
+                ]
+            },
+            "nameWithOwner": "wjakob/nanobind"
         },
         "xspec/docker": {
             "labContributors": {
