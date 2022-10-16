@@ -574,14 +574,6 @@
             },
             "nameWithOwner": "Qiskit/qiskit-nature"
         },
-        "QualityInformationFramework/qif-community": {
-            "labContributors": {
-                "nodes": [
-                    "TomRKramer"
-                ]
-            },
-            "nameWithOwner": "QualityInformationFramework/qif-community"
-        },
         "RDFLib/OWL-RL": {
             "labContributors": {
                 "nodes": [
@@ -1489,8 +1481,7 @@
         "dfxml-working-group/dfxml_python": {
             "labContributors": {
                 "nodes": [
-                    "ajnelson-nist",
-                    "simsong"
+                    "ajnelson-nist"
                 ]
             },
             "nameWithOwner": "dfxml-working-group/dfxml_python"
