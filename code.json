@@ -5807,7 +5807,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2022-10-17"
+                "lastModified": "2022-10-18"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -7030,7 +7030,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2022-10-16"
+                "lastModified": "2022-10-19"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -21712,7 +21712,7 @@
             },
             "date": {
                 "created": "2019-07-26",
-                "lastModified": "2021-12-01"
+                "lastModified": "2022-10-18"
             },
             "description": "NIST evaluation of iris recognition technology",
             "downloadURL": "https://api.github.com/repos/usnistgov/IREX10/downloads",
@@ -26733,7 +26733,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2022-09-23"
+                "lastModified": "2022-10-18"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -28563,7 +28563,7 @@
             },
             "date": {
                 "created": "2020-11-10",
-                "lastModified": "2022-04-02"
+                "lastModified": "2022-10-18"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/IoT-Device-Cybersecurity-Requirement-Catalogs/downloads",
@@ -29408,7 +29408,7 @@
             },
             "date": {
                 "created": "2021-02-22",
-                "lastModified": "2022-09-15"
+                "lastModified": "2022-10-18"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/teqp/downloads",
@@ -30147,7 +30147,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2022-10-03"
+                "lastModified": "2022-10-18"
             },
             "description": "Atomistic Line Graph Neural Network",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -30562,7 +30562,7 @@
             },
             "date": {
                 "created": "2021-05-26",
-                "lastModified": "2021-12-09"
+                "lastModified": "2022-10-19"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/AR-PMI/downloads",
@@ -31139,7 +31139,7 @@
             },
             "date": {
                 "created": "2021-07-01",
-                "lastModified": "2022-09-28"
+                "lastModified": "2022-10-18"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/blossom-dashboard/downloads",
@@ -35709,6 +35709,77 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/NIST_SG_SolarSim.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-09-20",
+                "lastModified": "2022-10-18"
+            },
+            "description": "The source code used to analyze COVID-19 spectrum monitoring data for NIST Technical Note XXXX",
+            "downloadURL": "https://api.github.com/repos/usnistgov/covid19-spectrum-monitoring-analysis/downloads",
+            "homepageURL": "https://github.com/usnistgov/covid19-spectrum-monitoring-analysis",
+            "laborHours": 0,
+            "languages": [
+                "Jupyter Notebook",
+                "Python"
+            ],
+            "name": "covid19-spectrum-monitoring-analysis",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/covid19-spectrum-monitoring-analysis.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-09-20",
+                "lastModified": "2022-10-18"
+            },
+            "description": "Source code used to acquire spectrum monitoring data from sensors for NIST Tech Note XXXX",
+            "downloadURL": "https://api.github.com/repos/usnistgov/covid19-spectrum-monitoring-acquisition/downloads",
+            "homepageURL": "https://github.com/usnistgov/covid19-spectrum-monitoring-acquisition",
+            "laborHours": 0,
+            "languages": [
+                "Jupyter Notebook",
+                "Python",
+                "Batchfile"
+            ],
+            "name": "covid19-spectrum-monitoring-acquisition",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/covid19-spectrum-monitoring-acquisition.git",
             "status": "Development",
             "tags": [
                 "github"
