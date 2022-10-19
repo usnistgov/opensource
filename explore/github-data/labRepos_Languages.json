@@ -8678,6 +8678,35 @@
                 "totalCount": 7
             }
         },
+        "usnistgov/covid19-spectrum-monitoring-acquisition": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
+        "usnistgov/covid19-spectrum-monitoring-analysis": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2
+            }
+        },
         "usnistgov/cpe-reference-implementation": {
             "languages": {
                 "nodes": [
