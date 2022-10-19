@@ -2842,7 +2842,7 @@
         "description": null,
         "name": "usnistgov/blossom-dashboard",
         "topics": null,
-        "website": null
+        "website": ""
     },
     "usnistgov/blossom-sam": {
         "description": "Software Assets Management for BloSS@M",
@@ -3416,6 +3416,18 @@
         "name": "usnistgov/corr-sumatra",
         "topics": null,
         "website": "http://neuralensemble.org/sumatra/"
+    },
+    "usnistgov/covid19-spectrum-monitoring-acquisition": {
+        "description": "Source code used to acquire spectrum monitoring data from sensors for NIST Tech Note XXXX",
+        "name": "usnistgov/covid19-spectrum-monitoring-acquisition",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/covid19-spectrum-monitoring-analysis": {
+        "description": "The source code used to analyze COVID-19 spectrum monitoring data for NIST Technical Note XXXX",
+        "name": "usnistgov/covid19-spectrum-monitoring-analysis",
+        "topics": null,
+        "website": null
     },
     "usnistgov/cpe-reference-implementation": {
         "description": "A reference implementation of the Common Platform Enumeration 2.3",
