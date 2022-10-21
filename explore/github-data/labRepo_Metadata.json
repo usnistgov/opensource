@@ -5353,10 +5353,18 @@
         "website": null
     },
     "usnistgov/oscal-cli": {
-        "description": null,
+        "description": "A simple open source command line tool to support common operations over OSCAL content.",
         "name": "usnistgov/oscal-cli",
-        "topics": null,
-        "website": null
+        "topics": [
+            "cli",
+            "cli-app",
+            "conversion",
+            "json",
+            "validation",
+            "xml",
+            "yaml"
+        ],
+        "website": ""
     },
     "usnistgov/oscal-content": {
         "description": "NIST SP 800-53 content and other OSCAL content examples",

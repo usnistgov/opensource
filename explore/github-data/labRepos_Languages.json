@@ -11871,25 +11871,19 @@
                         "name": "Python"
                     },
                     {
-                        "name": "XSLT"
-                    },
-                    {
                         "name": "CSS"
-                    },
-                    {
-                        "name": "Shell"
                     },
                     {
                         "name": "AsciiDoc"
                     },
                     {
-                        "name": "Makefile"
+                        "name": "Shell"
                     },
                     {
                         "name": "Ruby"
                     }
                 ],
-                "totalCount": 8
+                "totalCount": 6
             }
         },
         "usnistgov/maintenance": {
@@ -13606,6 +13600,9 @@
                         "name": "Jinja"
                     },
                     {
+                        "name": "Mustache"
+                    },
+                    {
                         "name": "Dockerfile"
                     },
                     {
@@ -13618,7 +13615,7 @@
                         "name": "Ruby"
                     }
                 ],
-                "totalCount": 13
+                "totalCount": 14
             }
         },
         "usnistgov/pft": {
