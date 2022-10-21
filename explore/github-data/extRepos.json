@@ -855,14 +855,6 @@
             },
             "nameWithOwner": "autodiff/autodiff"
         },
-        "bbatsov/prelude": {
-            "labContributors": {
-                "nodes": [
-                    "isoboroff"
-                ]
-            },
-            "nameWithOwner": "bbatsov/prelude"
-        },
         "benedekfazekas/morpheus": {
             "labContributors": {
                 "nodes": [
@@ -1502,6 +1494,14 @@
             },
             "nameWithOwner": "dfxml-working-group/dfxml_python"
         },
+        "dgo-berlin/bitcoin_usage_detection_autopsy_plugin": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "dgo-berlin/bitcoin_usage_detection_autopsy_plugin"
+        },
         "digitalcorpora/app": {
             "labContributors": {
                 "nodes": [
@@ -1630,6 +1630,14 @@
             },
             "nameWithOwner": "flang-compiler/flang"
         },
+        "forensicswiki/wiki": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "forensicswiki/wiki"
+        },
         "gcovr/gcovr": {
             "labContributors": {
                 "nodes": [
@@ -1742,14 +1750,6 @@
                 ]
             },
             "nameWithOwner": "halprin/retrospective"
-        },
-        "headmyshoulder/odeint-v2": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "headmyshoulder/odeint-v2"
         },
         "hhatch/feasst": {
             "labContributors": {
