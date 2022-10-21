@@ -1229,6 +1229,7 @@
                 "TeX",
                 "CSS",
                 "Jinja",
+                "Mustache",
                 "Dockerfile",
                 "Makefile",
                 "Shell",
@@ -7030,7 +7031,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2022-10-19"
+                "lastModified": "2022-10-20"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -11908,7 +11909,7 @@
             },
             "date": {
                 "created": "2017-07-14",
-                "lastModified": "2022-07-12"
+                "lastModified": "2022-10-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/MDCS/downloads",
@@ -21219,7 +21220,7 @@
             },
             "date": {
                 "created": "2019-06-20",
-                "lastModified": "2022-07-21"
+                "lastModified": "2022-10-20"
             },
             "description": "Optimal Bayesian Experiment Design ",
             "downloadURL": "https://api.github.com/repos/usnistgov/optbayesexpt/downloads",
@@ -22045,7 +22046,7 @@
             },
             "date": {
                 "created": "2019-08-16",
-                "lastModified": "2022-09-12"
+                "lastModified": "2022-10-20"
             },
             "description": "A Benchmark Implementation of COSMO-SAC",
             "downloadURL": "https://api.github.com/repos/usnistgov/COSMOSAC/downloads",
@@ -25182,9 +25183,9 @@
             },
             "date": {
                 "created": "2020-03-31",
-                "lastModified": "2022-09-26"
+                "lastModified": "2022-10-20"
             },
-            "description": "No description available...",
+            "description": "A simple open source command line tool to support common operations over OSCAL content.",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-cli/downloads",
             "homepageURL": "https://github.com/usnistgov/oscal-cli",
             "laborHours": 0,
@@ -25206,7 +25207,14 @@
             "repositoryURL": "git://github.com/usnistgov/oscal-cli.git",
             "status": "Development",
             "tags": [
-                "github"
+                "github",
+                "cli",
+                "cli-app",
+                "conversion",
+                "json",
+                "validation",
+                "xml",
+                "yaml"
             ],
             "vcs": "git"
         },
@@ -25751,7 +25759,7 @@
             },
             "date": {
                 "created": "2020-04-21",
-                "lastModified": "2022-09-09"
+                "lastModified": "2022-10-21"
             },
             "description": "A static analyzer powered by AI",
             "downloadURL": "https://api.github.com/repos/usnistgov/ai-bugfinder-testbed/downloads",
@@ -26472,7 +26480,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2022-10-19"
+                "lastModified": "2022-10-21"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -26481,11 +26489,9 @@
             "languages": [
                 "YAML",
                 "Python",
-                "XSLT",
                 "CSS",
-                "Shell",
                 "AsciiDoc",
-                "Makefile",
+                "Shell",
                 "Ruby"
             ],
             "name": "macos_security",
