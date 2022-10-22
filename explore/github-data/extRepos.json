@@ -695,14 +695,6 @@
             },
             "nameWithOwner": "SoftSimu/SymPhas"
         },
-        "Strilanc/Quirk": {
-            "labContributors": {
-                "nodes": [
-                    "ShawnGeller"
-                ]
-            },
-            "nameWithOwner": "Strilanc/Quirk"
-        },
         "TACC/pylauncher": {
             "labContributors": {
                 "nodes": [
@@ -1245,7 +1237,6 @@
         "cmscaltech/sandie-ndn": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
                     "yoursunny"
                 ]
             },
@@ -1502,14 +1493,6 @@
             },
             "nameWithOwner": "dgo-berlin/bitcoin_usage_detection_autopsy_plugin"
         },
-        "digitalcorpora/app": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "digitalcorpora/app"
-        },
         "digitalcorpora/digitalcorpora-stats": {
             "labContributors": {
                 "nodes": [
@@ -1517,6 +1500,14 @@
                 ]
             },
             "nameWithOwner": "digitalcorpora/digitalcorpora-stats"
+        },
+        "digitalcorpora/downloads_digitalcorpora_org_app": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "digitalcorpora/downloads_digitalcorpora_org_app"
         },
         "dlech/KeeAgent": {
             "labContributors": {
