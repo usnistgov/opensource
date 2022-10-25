@@ -413,7 +413,7 @@
             },
             "date": {
                 "created": "2014-08-25",
-                "lastModified": "2022-10-09"
+                "lastModified": "2022-10-25"
             },
             "description": "FiPy is a Finite Volume PDE solver written in Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/fipy/downloads",
@@ -1061,7 +1061,7 @@
             },
             "date": {
                 "created": "2015-02-17",
-                "lastModified": "2022-10-12"
+                "lastModified": "2022-10-25"
             },
             "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SP800-90B_EntropyAssessment/downloads",
@@ -5046,7 +5046,7 @@
             },
             "date": {
                 "created": "2016-04-28",
-                "lastModified": "2022-10-21"
+                "lastModified": "2022-10-25"
             },
             "description": "Home to public development of NIST Special Publication 800-63-3: Digital Authentication Guidelines",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-3/downloads",
@@ -5646,7 +5646,7 @@
             },
             "date": {
                 "created": "2016-06-07",
-                "lastModified": "2022-08-27"
+                "lastModified": "2022-10-24"
             },
             "description": "Draft SP 800-179r1 macOS 10.12 Security project files: draft publication, security settings spreadsheet and Bash script implementation of settings.",
             "downloadURL": "https://api.github.com/repos/usnistgov/applesec/downloads",
@@ -7031,7 +7031,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2022-10-23"
+                "lastModified": "2022-10-24"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -7082,7 +7082,7 @@
             },
             "date": {
                 "created": "2016-09-19",
-                "lastModified": "2022-09-26"
+                "lastModified": "2022-10-24"
             },
             "description": "NIST/NCCoE Mobile Threat Catalogue",
             "downloadURL": "https://api.github.com/repos/usnistgov/mobile-threat-catalogue/downloads",
@@ -14172,7 +14172,7 @@
             },
             "date": {
                 "created": "2017-12-13",
-                "lastModified": "2022-10-10"
+                "lastModified": "2022-10-24"
             },
             "description": "pyMCR: Multivariate Curve Resolution for Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/pyMCR/downloads",
@@ -16997,7 +16997,7 @@
             },
             "date": {
                 "created": "2018-06-25",
-                "lastModified": "2022-09-27"
+                "lastModified": "2022-10-24"
             },
             "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
             "downloadURL": "https://api.github.com/repos/usnistgov/ndn-dpdk/downloads",
@@ -27502,7 +27502,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2022-10-11"
+                "lastModified": "2022-10-24"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -35993,6 +35993,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/A-tool-with-improved-accuracy-in-checker-board-corner-detection-and-automatic-data-processing-.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-10-11",
+                "lastModified": "2022-10-24"
+            },
+            "description": "OSCAL content that supports the BloSS@M project.",
+            "downloadURL": "https://api.github.com/repos/usnistgov/blossom-oscal/downloads",
+            "homepageURL": "https://github.com/usnistgov/blossom-oscal",
+            "laborHours": 0,
+            "languages": [],
+            "name": "blossom-oscal",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/blossom-oscal.git",
             "status": "Development",
             "tags": [
                 "github"
