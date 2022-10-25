@@ -2247,7 +2247,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 687
+                "totalCount": 688
             },
             "url": "https://github.com/usnistgov/800-63-3"
         },
@@ -2580,7 +2580,7 @@
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "forks": {
-                "totalCount": 53
+                "totalCount": 54
             },
             "homepageUrl": "https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program",
             "issues_Closed": {
@@ -2609,7 +2609,7 @@
                 "totalCount": 23
             },
             "pullRequests_Merged": {
-                "totalCount": 395
+                "totalCount": 397
             },
             "pullRequests_Open": {
                 "totalCount": 1
@@ -12323,7 +12323,7 @@
                 "totalCount": 1
             },
             "issues_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 4
@@ -13528,7 +13528,7 @@
                 "totalCount": 640
             },
             "issues_Open": {
-                "totalCount": 176
+                "totalCount": 177
             },
             "languages": {
                 "totalCount": 8
@@ -13564,7 +13564,7 @@
                 "totalCount": 10
             },
             "stargazers": {
-                "totalCount": 475
+                "totalCount": 476
             },
             "url": "https://github.com/usnistgov/OSCAL"
         },
@@ -14909,7 +14909,7 @@
             },
             "description": "Privacy Engineering Collaboration Space",
             "forks": {
-                "totalCount": 90
+                "totalCount": 91
             },
             "homepageUrl": "https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space",
             "issues_Closed": {
@@ -16799,7 +16799,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 140
+                "totalCount": 141
             },
             "url": "https://github.com/usnistgov/SP800-90B_EntropyAssessment"
         },
@@ -20910,7 +20910,7 @@
                 "totalCount": 5
             },
             "pullRequests_Merged": {
-                "totalCount": 41
+                "totalCount": 43
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -21243,7 +21243,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 115
+                "totalCount": 116
             },
             "url": "https://github.com/usnistgov/applesec"
         },
@@ -22618,6 +22618,53 @@
                 "totalCount": 3
             },
             "url": "https://github.com/usnistgov/blossom-dashboard"
+        },
+        "usnistgov/blossom-oscal": {
+            "createdAt": "2022-10-11T20:03:43Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "OSCAL content that supports the BloSS@M project.",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 1
+            },
+            "issues_Open": {
+                "totalCount": 51
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 17
+            },
+            "name": "blossom-oscal",
+            "nameWithOwner": "usnistgov/blossom-oscal",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/usnistgov/blossom-oscal"
         },
         "usnistgov/blossom-sam": {
             "createdAt": "2021-06-11T19:41:42Z",
@@ -30821,7 +30868,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 364
+                "totalCount": 365
             },
             "url": "https://github.com/usnistgov/fipy"
         },
@@ -31229,7 +31276,7 @@
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "forks": {
-                "totalCount": 96
+                "totalCount": 95
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -37707,7 +37754,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 961
+                "totalCount": 962
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -38959,7 +39006,7 @@
                 "totalCount": 4
             },
             "stargazers": {
-                "totalCount": 139
+                "totalCount": 140
             },
             "url": "https://github.com/usnistgov/mobile-threat-catalogue"
         },
@@ -39746,7 +39793,7 @@
             },
             "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
             "forks": {
-                "totalCount": 22
+                "totalCount": 23
             },
             "homepageUrl": "https://www.nist.gov/publications/ndn-dpdk-ndn-forwarding-100-gbps-commodity-hardware",
             "issues_Closed": {
@@ -39789,7 +39836,7 @@
                 "totalCount": 3
             },
             "stargazers": {
-                "totalCount": 77
+                "totalCount": 78
             },
             "url": "https://github.com/usnistgov/ndn-dpdk"
         },
@@ -42323,7 +42370,7 @@
                 "name": "TypeScript"
             },
             "pullRequests_Closed": {
-                "totalCount": 7
+                "totalCount": 8
             },
             "pullRequests_Merged": {
                 "totalCount": 24
@@ -42383,7 +42430,7 @@
                 "totalCount": 25
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 7
@@ -42443,7 +42490,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 180
+                "totalCount": 181
             },
             "url": "https://github.com/usnistgov/oscal-content"
         },
@@ -42540,7 +42587,7 @@
                 "totalCount": 19
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -44280,7 +44327,7 @@
             },
             "description": "pyMCR: Multivariate Curve Resolution for Python",
             "forks": {
-                "totalCount": 18
+                "totalCount": 19
             },
             "homepageUrl": "https://pages.nist.gov/pyMCR",
             "issues_Closed": {
@@ -44323,7 +44370,7 @@
                 "totalCount": 10
             },
             "stargazers": {
-                "totalCount": 56
+                "totalCount": 57
             },
             "url": "https://github.com/usnistgov/pyMCR"
         },

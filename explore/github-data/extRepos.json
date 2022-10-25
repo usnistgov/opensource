@@ -646,6 +646,14 @@
             },
             "nameWithOwner": "SINTEF/thermopack"
         },
+        "SamR1/FitTrackee": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "SamR1/FitTrackee"
+        },
         "SasView/documents": {
             "labContributors": {
                 "nodes": [
@@ -1843,6 +1851,14 @@
                 ]
             },
             "nameWithOwner": "huggingface/datasets"
+        },
+        "hydra-repo/hydra-repo.io": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "hydra-repo/hydra-repo.io"
         },
         "hyperspy/hyperspy": {
             "labContributors": {
