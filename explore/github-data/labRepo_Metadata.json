@@ -5712,6 +5712,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/rad_calculator": {
+        "description": "Calculator for converting between surface temperature, radiance temperature, and emissivity, using a radiometer spectral response.",
+        "name": "usnistgov/rad_calculator",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/rcslib": {
         "description": "NIST Real-Time Control Systems Library including Posemath, NML communications & Java Plotter",
         "name": "usnistgov/rcslib",
