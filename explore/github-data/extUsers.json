@@ -1320,6 +1320,16 @@
             "login": "EricLuehrsen",
             "name": "Eric Luehrsen"
         },
+        "EricWhitenton": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/116822060?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/rad_calculator"
+                ]
+            },
+            "login": "EricWhitenton",
+            "name": null
+        },
         "ErinBecker": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/19176319?u=d3f40ba5eee6ee6e4e3afb3c3a090e8467d796cc&v=4",
             "contributedLabRepositories": {
@@ -2060,7 +2070,7 @@
             "name": null
         },
         "KristofferC": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1282691?u=b74ab50e1bc0da95489228ffd5d650d8c9decc19&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1282691?u=267c68627f28d82d1980cbbbd375af38b13d3fc1&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/NeXLCore.jl"
@@ -7202,7 +7212,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/15157980?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/AMB2022-template"
+                    "usnistgov/AMB2022-template",
+                    "usnistgov/rad_calculator"
                 ]
             },
             "login": "bmlane",
