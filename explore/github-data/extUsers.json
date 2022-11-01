@@ -2329,7 +2329,7 @@
                 ]
             },
             "login": "MarcoFalke",
-            "name": "MacroFake"
+            "name": null
         },
         "MarkWheelhouse": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1918573?u=e0ecd41c3c29b3c843c1b231471864d2cbc75f65&v=4",
@@ -6484,7 +6484,7 @@
             "name": "Antoine Vandecreme"
         },
         "avarga": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/57529?u=7dc7799689bbf07b73e846833002bdc26acfe180&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/57529?u=45fcfae1fff02ca046b69e7807a5b49ef1982633&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/psc-ns3"
@@ -15342,7 +15342,8 @@
                     "usnistgov/FederalProfile-8259A",
                     "usnistgov/IoT-Device-Cybersecurity-Requirement-Catalogs",
                     "usnistgov/TIG-Stage",
-                    "usnistgov/VectorsOfTrust"
+                    "usnistgov/VectorsOfTrust",
+                    "usnistgov/csd773-nistpages-docker"
                 ]
             },
             "login": "jricher",
@@ -17845,6 +17846,16 @@
             },
             "login": "markonweb",
             "name": "Mark Potter"
+        },
+        "marksherman": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2035149?u=3a9b4bc15d5d89342a2773117a55364865e52808&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/csd773-nistpages-docker"
+                ]
+            },
+            "login": "marksherman",
+            "name": "Mark Sherman"
         },
         "martinus": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/14386?u=da89313ed4793f9594c09c23513f49aa4dc1c141&v=4",

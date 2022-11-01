@@ -1331,6 +1331,14 @@
             },
             "nameWithOwner": "conda-forge/pytorch-ignite-feedstock"
         },
+        "conda-forge/sasview-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "pbeaucage"
+                ]
+            },
+            "nameWithOwner": "conda-forge/sasview-feedstock"
+        },
         "conda-forge/staged-recipes": {
             "labContributors": {
                 "nodes": [
@@ -2457,6 +2465,14 @@
                 ]
             },
             "nameWithOwner": "opto/nostalgy-xpi"
+        },
+        "pennersr/django-allauth": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "pennersr/django-allauth"
         },
         "pkienzle/periodictable": {
             "labContributors": {
