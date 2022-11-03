@@ -5046,7 +5046,7 @@
             },
             "date": {
                 "created": "2016-04-28",
-                "lastModified": "2022-10-25"
+                "lastModified": "2022-11-03"
             },
             "description": "Home to public development of NIST Special Publication 800-63-3: Digital Authentication Guidelines",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-3/downloads",
@@ -5227,7 +5227,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2022-10-26"
+                "lastModified": "2022-11-02"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -7031,7 +7031,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2022-10-28"
+                "lastModified": "2022-11-03"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -7230,7 +7230,7 @@
             },
             "date": {
                 "created": "2016-10-03",
-                "lastModified": "2022-10-26"
+                "lastModified": "2022-11-02"
             },
             "description": "NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NEMO/downloads",
@@ -7990,7 +7990,7 @@
             },
             "date": {
                 "created": "2016-10-25",
-                "lastModified": "2022-07-26"
+                "lastModified": "2022-11-03"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/swid-tools/downloads",
@@ -19559,7 +19559,7 @@
             },
             "date": {
                 "created": "2019-03-15",
-                "lastModified": "2022-10-12"
+                "lastModified": "2022-11-02"
             },
             "description": "A pure javascript HDF5 reader",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsfive/downloads",
@@ -27438,7 +27438,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2022-11-02"
+                "lastModified": "2022-11-03"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -31736,7 +31736,7 @@
             },
             "date": {
                 "created": "2021-09-01",
-                "lastModified": "2022-11-01"
+                "lastModified": "2022-11-02"
             },
             "description": "A WebAssembly HDF5 reader/writer library ",
             "downloadURL": "https://api.github.com/repos/usnistgov/h5wasm/downloads",
@@ -36061,6 +36061,40 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/sitexpress.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-11-02",
+                "lastModified": "2022-11-02"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/paper-hcii-2023/downloads",
+            "homepageURL": "https://github.com/usnistgov/paper-hcii-2023",
+            "laborHours": 0,
+            "languages": [
+                "TeX"
+            ],
+            "name": "paper-hcii-2023",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/paper-hcii-2023.git",
             "status": "Development",
             "tags": [
                 "github"
