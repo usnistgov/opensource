@@ -682,7 +682,6 @@
         "SasView/sasview": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville",
                     "pbeaucage"
                 ]
             },
@@ -2175,14 +2174,6 @@
             },
             "nameWithOwner": "materialsproject/matbench"
         },
-        "mathml-refresh/discussion-papers": {
-            "labContributors": {
-                "nodes": [
-                    "brucemiller"
-                ]
-            },
-            "nameWithOwner": "mathml-refresh/discussion-papers"
-        },
         "meronmetaferia/Bias-Debias-Extra-Credit": {
             "labContributors": {
                 "nodes": [
@@ -2482,14 +2473,6 @@
             },
             "nameWithOwner": "pennersr/django-allauth"
         },
-        "pkienzle/periodictable": {
-            "labContributors": {
-                "nodes": [
-                    "hoogerheide"
-                ]
-            },
-            "nameWithOwner": "pkienzle/periodictable"
-        },
         "plbt5/voc-dt": {
             "labContributors": {
                 "nodes": [
@@ -2732,14 +2715,6 @@
             },
             "nameWithOwner": "scattering/activation"
         },
-        "scikit-learn/scikit-learn": {
-            "labContributors": {
-                "nodes": [
-                    "martintb"
-                ]
-            },
-            "nameWithOwner": "scikit-learn/scikit-learn"
-        },
         "scipy-conference/scipy_proceedings": {
             "labContributors": {
                 "nodes": [
@@ -2869,6 +2844,14 @@
                 ]
             },
             "nameWithOwner": "stnoonan/spnego-http-auth-nginx-module"
+        },
+        "tbsexton/paper-hcii-2023": {
+            "labContributors": {
+                "nodes": [
+                    "conteam"
+                ]
+            },
+            "nameWithOwner": "tbsexton/paper-hcii-2023"
         },
         "theareaorg/AREA-Research-Agenda": {
             "labContributors": {
