@@ -388,14 +388,6 @@
             },
             "nameWithOwner": "JuliaLang/juliaup"
         },
-        "JuliaRegistries/General": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "JuliaRegistries/General"
-        },
         "JuliaStaging/GeneralizedGenerated.jl": {
             "labContributors": {
                 "nodes": [
@@ -1313,6 +1305,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/jarvis-tools-feedstock"
+        },
+        "conda-forge/potentials-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "lmhale99"
+                ]
+            },
+            "nameWithOwner": "conda-forge/potentials-feedstock"
         },
         "conda-forge/pymks-feedstock": {
             "labContributors": {

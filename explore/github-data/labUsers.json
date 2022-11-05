@@ -163,7 +163,8 @@
                     "usnistgov/oscal-cli",
                     "usnistgov/oscal-content",
                     "usnistgov/oscal-deep-diff",
-                    "usnistgov/oscal-tools"
+                    "usnistgov/oscal-tools",
+                    "usnistgov/oscal-xslt"
                 ]
             },
             "login": "Compton-NIST",
@@ -582,7 +583,8 @@
                     "usnistgov/oscal-cli",
                     "usnistgov/oscal-content",
                     "usnistgov/oscal-deep-diff",
-                    "usnistgov/oscal-tools"
+                    "usnistgov/oscal-tools",
+                    "usnistgov/oscal-xslt"
                 ]
             },
             "login": "JustKuzya",
@@ -1723,6 +1725,7 @@
                     "usnistgov/el-robotics-core",
                     "usnistgov/elft",
                     "usnistgov/elr-aphl-validation-plugins",
+                    "usnistgov/elr_quest_plugins",
                     "usnistgov/embedded3DPvids",
                     "usnistgov/engineering-design-models",
                     "usnistgov/envy",
@@ -2667,6 +2670,7 @@
                 "nodes": [
                     "usnistgov/data-quality-analysis",
                     "usnistgov/elr-aphl-validation-plugins",
+                    "usnistgov/elr_quest_plugins",
                     "usnistgov/hit-core-edi",
                     "usnistgov/hit-core-erx",
                     "usnistgov/hit-core-xml",
@@ -3500,6 +3504,7 @@
                     "usnistgov/el-robotics-core",
                     "usnistgov/elft",
                     "usnistgov/elr-aphl-validation-plugins",
+                    "usnistgov/elr_quest_plugins",
                     "usnistgov/embedded3DPvids",
                     "usnistgov/engineering-design-models",
                     "usnistgov/envy",
@@ -5298,6 +5303,7 @@
                     "usnistgov/el-robotics-core",
                     "usnistgov/elft",
                     "usnistgov/elr-aphl-validation-plugins",
+                    "usnistgov/elr_quest_plugins",
                     "usnistgov/embedded3DPvids",
                     "usnistgov/engineering-design-models",
                     "usnistgov/envy",
@@ -5810,6 +5816,7 @@
                     "usnistgov/oscal-content",
                     "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools",
+                    "usnistgov/oscal-xslt",
                     "usnistgov/xslt-blender"
                 ]
             },
@@ -7021,6 +7028,7 @@
                     "usnistgov/el-robotics-core",
                     "usnistgov/elft",
                     "usnistgov/elr-aphl-validation-plugins",
+                    "usnistgov/elr_quest_plugins",
                     "usnistgov/embedded3DPvids",
                     "usnistgov/engineering-design-models",
                     "usnistgov/envy",
@@ -8327,6 +8335,7 @@
                     "usnistgov/el-robotics-core",
                     "usnistgov/elft",
                     "usnistgov/elr-aphl-validation-plugins",
+                    "usnistgov/elr_quest_plugins",
                     "usnistgov/embedded3DPvids",
                     "usnistgov/engineering-design-models",
                     "usnistgov/envy",
@@ -9488,6 +9497,7 @@
                     "usnistgov/el-robotics-core",
                     "usnistgov/elft",
                     "usnistgov/elr-aphl-validation-plugins",
+                    "usnistgov/elr_quest_plugins",
                     "usnistgov/embedded3DPvids",
                     "usnistgov/engineering-design-models",
                     "usnistgov/envy",
@@ -10641,6 +10651,7 @@
                     "usnistgov/el-robotics-core",
                     "usnistgov/elft",
                     "usnistgov/elr-aphl-validation-plugins",
+                    "usnistgov/elr_quest_plugins",
                     "usnistgov/embedded3DPvids",
                     "usnistgov/engineering-design-models",
                     "usnistgov/envy",
@@ -11261,6 +11272,7 @@
                     "usnistgov/oscal-content",
                     "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools",
+                    "usnistgov/oscal-xslt",
                     "usnistgov/xslt-blender"
                 ]
             },
@@ -12528,6 +12540,7 @@
                     "usnistgov/el-robotics-core",
                     "usnistgov/elft",
                     "usnistgov/elr-aphl-validation-plugins",
+                    "usnistgov/elr_quest_plugins",
                     "usnistgov/embedded3DPvids",
                     "usnistgov/engineering-design-models",
                     "usnistgov/envy",
