@@ -9564,10 +9564,14 @@
                 "totalCount": 1
             }
         },
-        "usnistgov/elr_quest_plugins": {
+        "usnistgov/elr-r1-quest-validation-plugins": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "Java"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/embedded3DPvids": {
