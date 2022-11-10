@@ -356,6 +356,14 @@
             },
             "nameWithOwner": "JuliaDatabases/SQLite.jl"
         },
+        "JuliaDynamics/DrWatson.jl": {
+            "labContributors": {
+                "nodes": [
+                    "NicholasWMRitchie"
+                ]
+            },
+            "nameWithOwner": "JuliaDynamics/DrWatson.jl"
+        },
         "JuliaIO/HDF5.jl": {
             "labContributors": {
                 "nodes": [
@@ -483,6 +491,14 @@
                 ]
             },
             "nameWithOwner": "NSLS-II/scientific-python-cookiecutter"
+        },
+        "NSLS-II/scipy-binder": {
+            "labContributors": {
+                "nodes": [
+                    "pbeaucage"
+                ]
+            },
+            "nameWithOwner": "NSLS-II/scipy-binder"
         },
         "NVIDIA/AMGX": {
             "labContributors": {
@@ -1480,7 +1496,8 @@
         "dfxml-working-group/dfxml_python": {
             "labContributors": {
                 "nodes": [
-                    "ajnelson-nist"
+                    "ajnelson-nist",
+                    "simsong"
                 ]
             },
             "nameWithOwner": "dfxml-working-group/dfxml_python"
@@ -2198,14 +2215,6 @@
             },
             "nameWithOwner": "miked63017/dinolite_uvc_led_control"
         },
-        "mininet/mininet": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "mininet/mininet"
-        },
         "mkleehammer/pyodbc": {
             "labContributors": {
                 "nodes": [
@@ -2771,6 +2780,14 @@
                 ]
             },
             "nameWithOwner": "simojenki/bonob"
+        },
+        "sinara-hw/Phaser": {
+            "labContributors": {
+                "nodes": [
+                    "dhslichter"
+                ]
+            },
+            "nameWithOwner": "sinara-hw/Phaser"
         },
         "singularitti/Spglib.jl": {
             "labContributors": {
