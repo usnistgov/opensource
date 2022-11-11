@@ -339,18 +339,9 @@
             },
             "nameWithOwner": "JezerM/web-greeter"
         },
-        "JimKing100/PrivacyHistos": {
-            "labContributors": {
-                "nodes": [
-                    "garyhowarth"
-                ]
-            },
-            "nameWithOwner": "JimKing100/PrivacyHistos"
-        },
         "JuliaDatabases/SQLite.jl": {
             "labContributors": {
                 "nodes": [
-                    "NicholasWMRitchie",
                     "bks-nist"
                 ]
             },
@@ -839,14 +830,6 @@
             },
             "nameWithOwner": "adriankumpf/teslamate"
         },
-        "agl-c/deid2_dpsyn": {
-            "labContributors": {
-                "nodes": [
-                    "garyhowarth"
-                ]
-            },
-            "nameWithOwner": "agl-c/deid2_dpsyn"
-        },
         "aldayuan/centralized-exercise-breakout-2": {
             "labContributors": {
                 "nodes": [
@@ -1241,14 +1224,6 @@
                 ]
             },
             "nameWithOwner": "cmscaltech/sandie-ndn"
-        },
-        "coderefinery/git-intro": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "coderefinery/git-intro"
         },
         "common-workflow-language/cwljava": {
             "labContributors": {
@@ -2538,14 +2513,6 @@
             },
             "nameWithOwner": "pypa/pypi-support"
         },
-        "pytorch/ignite": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "pytorch/ignite"
-        },
         "qiskit-community/qiskit-community-tutorials": {
             "labContributors": {
                 "nodes": [
@@ -2675,14 +2642,6 @@
                 ]
             },
             "nameWithOwner": "ry-schneider/Iterative_Volterra_Propagator"
-        },
-        "ryan112358/nist-synthetic-data-2021": {
-            "labContributors": {
-                "nodes": [
-                    "garyhowarth"
-                ]
-            },
-            "nameWithOwner": "ryan112358/nist-synthetic-data-2021"
         },
         "sacmwg/draft-ietf-sacm-coswid": {
             "labContributors": {
@@ -3120,6 +3079,14 @@
                 ]
             },
             "nameWithOwner": "xspec/docker"
+        },
+        "xspec/xspec": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "xspec/xspec"
         },
         "yoursunny/NDNts": {
             "labContributors": {
