@@ -16682,7 +16682,7 @@
             },
             "date": {
                 "created": "2018-06-12",
-                "lastModified": "2022-11-07"
+                "lastModified": "2022-11-12"
             },
             "description": "This project is developing code to implement features and extensions to the NIST Cybersecurity Whitepaper, \"A Data Structure for Integrity Protection with Erasure Capability\". The block matrix data structure may have utility for incorporation into applications requiring integrity protection that currently use permissioned blockchains. This capability could for example be useful in meeting privacy requirements such as the European Union General Data Protection Regulation (GDPR), which requires that organizations make it possible to delete all information related to a particular individual, at that person's request. ",
             "downloadURL": "https://api.github.com/repos/usnistgov/blockmatrix/downloads",
@@ -16965,7 +16965,7 @@
             },
             "date": {
                 "created": "2018-06-25",
-                "lastModified": "2022-11-09"
+                "lastModified": "2022-11-12"
             },
             "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
             "downloadURL": "https://api.github.com/repos/usnistgov/ndn-dpdk/downloads",
