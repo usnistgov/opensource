@@ -1508,14 +1508,6 @@
             },
             "nameWithOwner": "dlech/KeeAgent"
         },
-        "dmlc/dgl": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "dmlc/dgl"
-        },
         "dokester/BayesicFitting": {
             "labContributors": {
                 "nodes": [
@@ -1732,6 +1724,14 @@
                 ]
             },
             "nameWithOwner": "guyer/mpilogging"
+        },
+        "hachyderm/community": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "hachyderm/community"
         },
         "halprin/retrospective": {
             "labContributors": {
