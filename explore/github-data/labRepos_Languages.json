@@ -15900,6 +15900,9 @@
             "languages": {
                 "nodes": [
                     {
+                        "name": "HTML"
+                    },
+                    {
                         "name": "Vue"
                     },
                     {
@@ -15907,9 +15910,6 @@
                     },
                     {
                         "name": "Dockerfile"
-                    },
-                    {
-                        "name": "HTML"
                     },
                     {
                         "name": "JavaScript"

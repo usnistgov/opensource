@@ -838,6 +838,14 @@
             },
             "nameWithOwner": "aldayuan/centralized-exercise-breakout-2"
         },
+        "amlabdr/proxy_service": {
+            "labContributors": {
+                "nodes": [
+                    "MheniMerz"
+                ]
+            },
+            "nameWithOwner": "amlabdr/proxy_service"
+        },
         "astropy/astroplan": {
             "labContributors": {
                 "nodes": [
@@ -861,6 +869,14 @@
                 ]
             },
             "nameWithOwner": "autodiff/autodiff"
+        },
+        "beartype/beartype": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "beartype/beartype"
         },
         "benedekfazekas/morpheus": {
             "labContributors": {
@@ -1470,6 +1486,7 @@
         "dfxml-working-group/dfxml_cpp": {
             "labContributors": {
                 "nodes": [
+                    "ajnelson-nist",
                     "simsong"
                 ]
             },
@@ -2587,6 +2604,14 @@
             },
             "nameWithOwner": "reflectometry/refl1d"
         },
+        "regolith-linux/regolith-desktop": {
+            "labContributors": {
+                "nodes": [
+                    "ShawnGeller"
+                ]
+            },
+            "nameWithOwner": "regolith-linux/regolith-desktop"
+        },
         "reid-a/hpc-intro": {
             "labContributors": {
                 "nodes": [
@@ -3005,6 +3030,14 @@
                 ]
             },
             "nameWithOwner": "w3c/mathml"
+        },
+        "w3c/mathml-core": {
+            "labContributors": {
+                "nodes": [
+                    "brucemiller"
+                ]
+            },
+            "nameWithOwner": "w3c/mathml-core"
         },
         "wendellpiez/metaschema": {
             "labContributors": {
