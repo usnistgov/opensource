@@ -819,8 +819,30 @@
         },
         "usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/challenge",
+                        "topic": {
+                            "name": "challenge"
+                        },
+                        "url": "https://github.com/topics/challenge"
+                    },
+                    {
+                        "resourcePath": "/topics/differential-privacy",
+                        "topic": {
+                            "name": "differential-privacy"
+                        },
+                        "url": "https://github.com/topics/differential-privacy"
+                    },
+                    {
+                        "resourcePath": "/topics/synthetic-data",
+                        "topic": {
+                            "name": "synthetic-data"
+                        },
+                        "url": "https://github.com/topics/synthetic-data"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/DigitalNIST-cert-repo": {
@@ -2874,9 +2896,30 @@
                             "name": "privacy"
                         },
                         "url": "https://github.com/topics/privacy"
+                    },
+                    {
+                        "resourcePath": "/topics/dataset",
+                        "topic": {
+                            "name": "dataset"
+                        },
+                        "url": "https://github.com/topics/dataset"
+                    },
+                    {
+                        "resourcePath": "/topics/differential-privacy",
+                        "topic": {
+                            "name": "differential-privacy"
+                        },
+                        "url": "https://github.com/topics/differential-privacy"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 7
             }
         },
         "usnistgov/SEDcorr": {
