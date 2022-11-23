@@ -2196,19 +2196,10 @@
                         "name": "Python"
                     },
                     {
-                        "name": "Makefile"
-                    },
-                    {
-                        "name": "Dockerfile"
-                    },
-                    {
-                        "name": "Shell"
-                    },
-                    {
-                        "name": "R"
+                        "name": "Jinja"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 2
             }
         },
         "usnistgov/DigitalNIST-cert-repo": {

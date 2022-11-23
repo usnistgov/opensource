@@ -697,10 +697,14 @@
         "website": null
     },
     "usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets": {
-        "description": null,
+        "description": "This repo contains the NIST Differential Privacy Temporal Map Challenge environment for Sprints 2 and 3 (master branch), and all data assets form the challenge (raw assets branch). ",
         "name": "usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets",
-        "topics": null,
-        "website": null
+        "topics": [
+            "challenge",
+            "differential-privacy",
+            "synthetic-data"
+        ],
+        "website": "https://doi.org/10.18434/mds2-2515"
     },
     "usnistgov/DigitalNIST-cert-repo": {
         "description": null,
@@ -2076,9 +2080,12 @@
             "python3",
             "synthetic-data",
             "synthetic-data-generator",
-            "privacy"
+            "privacy",
+            "dataset",
+            "differential-privacy",
+            "python"
         ],
-        "website": "https://doi.org/10.18434/mds2-2515"
+        "website": ""
     },
     "usnistgov/SEDcorr": {
         "description": "Systematic Energy Deficit correction for APT data",
