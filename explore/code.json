@@ -24463,7 +24463,7 @@
             },
             "date": {
                 "created": "2020-02-27",
-                "lastModified": "2022-06-17"
+                "lastModified": "2022-11-27"
             },
             "description": "Java tools and libraries providing a Metaschema toolchain",
             "downloadURL": "https://api.github.com/repos/usnistgov/metaschema-java/downloads",
@@ -26451,7 +26451,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2022-11-24"
+                "lastModified": "2022-11-27"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -36199,6 +36199,84 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/silvir.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-11-26",
+                "lastModified": "2022-11-26"
+            },
+            "description": "APIs and apps for mass spectrometry",
+            "downloadURL": "https://api.github.com/repos/usnistgov/masskit/downloads",
+            "homepageURL": "https://github.com/usnistgov/masskit",
+            "laborHours": 0,
+            "languages": [
+                "Jupyter Notebook",
+                "Python",
+                "C++",
+                "Shell",
+                "Cython",
+                "CMake",
+                "Batchfile"
+            ],
+            "name": "masskit",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/masskit.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-11-26",
+                "lastModified": "2022-11-26"
+            },
+            "description": "Machine Learning APIs and apps based upon masskit",
+            "downloadURL": "https://api.github.com/repos/usnistgov/masskit_ai/downloads",
+            "homepageURL": "https://github.com/usnistgov/masskit_ai",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "Jupyter Notebook",
+                "CMake",
+                "C++",
+                "Shell"
+            ],
+            "name": "masskit_ai",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/masskit_ai.git",
             "status": "Development",
             "tags": [
                 "github"
