@@ -435,14 +435,6 @@
             },
             "nameWithOwner": "MDAnalysis/mdanalysis"
         },
-        "NIST-ISODB/AJBrownThesisIsotherms": {
-            "labContributors": {
-                "nodes": [
-                    "dwsideriusNIST"
-                ]
-            },
-            "nameWithOwner": "NIST-ISODB/AJBrownThesisIsotherms"
-        },
         "NIST-ISODB/aif_tutorial": {
             "labContributors": {
                 "nodes": [
@@ -765,6 +757,14 @@
                 ]
             },
             "nameWithOwner": "TUHH-TVT/openCOSMO-RS_cpp"
+        },
+        "TrellixVulnTeam/NexusLIMS_05C4": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "TrellixVulnTeam/NexusLIMS_05C4"
         },
         "UCLA-IRL/NAC-ABE": {
             "labContributors": {
@@ -2530,14 +2530,6 @@
             },
             "nameWithOwner": "pybind/pybind11"
         },
-        "pymeasure/pymeasure": {
-            "labContributors": {
-                "nodes": [
-                    "ggggggggg"
-                ]
-            },
-            "nameWithOwner": "pymeasure/pymeasure"
-        },
         "pymupdf/PyMuPDF": {
             "labContributors": {
                 "nodes": [
@@ -2630,8 +2622,7 @@
         "reflectometry/refl1d": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville",
-                    "hoogerheide"
+                    "bmaranville"
                 ]
             },
             "nameWithOwner": "reflectometry/refl1d"
