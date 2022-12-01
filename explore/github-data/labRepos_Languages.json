@@ -2993,6 +2993,22 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/IREX10_Verification": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "C++"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
         "usnistgov/InGene": {
             "languages": {
                 "nodes": [
@@ -8877,28 +8893,6 @@
                     }
                 ],
                 "totalCount": 1
-            }
-        },
-        "usnistgov/csd773-nistpages-docker": {
-            "languages": {
-                "nodes": [
-                    {
-                        "name": "TeX"
-                    },
-                    {
-                        "name": "Ruby"
-                    },
-                    {
-                        "name": "Python"
-                    },
-                    {
-                        "name": "Shell"
-                    },
-                    {
-                        "name": "Dockerfile"
-                    }
-                ],
-                "totalCount": 5
             }
         },
         "usnistgov/ctRSD-simulator": {

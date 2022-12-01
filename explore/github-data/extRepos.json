@@ -1838,8 +1838,7 @@
         "hpc-carpentry/hpc-parallel-novice": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
-                    "tkphd"
+                    "reid-a"
                 ]
             },
             "nameWithOwner": "hpc-carpentry/hpc-parallel-novice"
@@ -2075,6 +2074,14 @@
                 ]
             },
             "nameWithOwner": "lambdamusic/Ontospy"
+        },
+        "langjidong/NanoSTR": {
+            "labContributors": {
+                "nodes": [
+                    "nate-d-olson"
+                ]
+            },
+            "nameWithOwner": "langjidong/NanoSTR"
         },
         "lh3/dipcall": {
             "labContributors": {
