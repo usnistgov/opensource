@@ -339,14 +339,6 @@
             },
             "nameWithOwner": "JezerM/web-greeter"
         },
-        "JuliaDatabases/SQLite.jl": {
-            "labContributors": {
-                "nodes": [
-                    "bks-nist"
-                ]
-            },
-            "nameWithOwner": "JuliaDatabases/SQLite.jl"
-        },
         "JuliaDynamics/DrWatson.jl": {
             "labContributors": {
                 "nodes": [
@@ -458,14 +450,6 @@
                 ]
             },
             "nameWithOwner": "NIST-ISODB/isodbtools"
-        },
-        "NSLS-II/constrained-matrix-factorization": {
-            "labContributors": {
-                "nodes": [
-                    "ktoth17"
-                ]
-            },
-            "nameWithOwner": "NSLS-II/constrained-matrix-factorization"
         },
         "NSLS-II/scientific-python-cookiecutter": {
             "labContributors": {
@@ -693,14 +677,6 @@
                 ]
             },
             "nameWithOwner": "Sentieon/hap-eval"
-        },
-        "Sheekaboom/WeissTools": {
-            "labContributors": {
-                "nodes": [
-                    "AweissNIST"
-                ]
-            },
-            "nameWithOwner": "Sheekaboom/WeissTools"
         },
         "SoftSimu/SymPhas": {
             "labContributors": {
@@ -1208,14 +1184,6 @@
                 ]
             },
             "nameWithOwner": "castorini/pyserini"
-        },
-        "catchorg/Catch2": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "catchorg/Catch2"
         },
         "cell-line-engineering/cell-line-engineering": {
             "labContributors": {
@@ -2818,6 +2786,14 @@
                 ]
             },
             "nameWithOwner": "singularitti/Spglib.jl"
+        },
+        "sintaxi/surge": {
+            "labContributors": {
+                "nodes": [
+                    "wd15"
+                ]
+            },
+            "nameWithOwner": "sintaxi/surge"
         },
         "sleuthkit/sleuthkit": {
             "labContributors": {
