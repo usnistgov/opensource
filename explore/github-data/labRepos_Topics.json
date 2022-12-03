@@ -973,6 +973,48 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/FCpy": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/bayesian",
+                        "topic": {
+                            "name": "bayesian"
+                        },
+                        "url": "https://github.com/topics/bayesian"
+                    },
+                    {
+                        "resourcePath": "/topics/confidence-intervals",
+                        "topic": {
+                            "name": "confidence-intervals"
+                        },
+                        "url": "https://github.com/topics/confidence-intervals"
+                    },
+                    {
+                        "resourcePath": "/topics/numpy",
+                        "topic": {
+                            "name": "numpy"
+                        },
+                        "url": "https://github.com/topics/numpy"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/statistics",
+                        "topic": {
+                            "name": "statistics"
+                        },
+                        "url": "https://github.com/topics/statistics"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/FFAST.jl": {
             "repositoryTopics": {
                 "nodes": [],

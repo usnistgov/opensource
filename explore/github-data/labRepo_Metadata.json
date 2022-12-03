@@ -804,6 +804,18 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/FCpy": {
+        "description": "Feldman-Cousins Confidence Interval Calculation",
+        "name": "usnistgov/FCpy",
+        "topics": [
+            "bayesian",
+            "confidence-intervals",
+            "numpy",
+            "python",
+            "statistics"
+        ],
+        "website": ""
+    },
     "usnistgov/FFAST.jl": {
         "description": "Chantler's FFAST mass absorption coefficients",
         "name": "usnistgov/FFAST.jl",
