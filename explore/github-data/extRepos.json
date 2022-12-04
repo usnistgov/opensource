@@ -16,6 +16,14 @@
             },
             "nameWithOwner": "11th-ndn-hackathon/ndn-fch-health"
         },
+        "11th-ndn-hackathon/ndn-fch-worker": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "11th-ndn-hackathon/ndn-fch-worker"
+        },
         "4dn-dcic/tibanna": {
             "labContributors": {
                 "nodes": [
@@ -1041,14 +1049,6 @@
             },
             "nameWithOwner": "carpentries-incubator/python-intermediate-development"
         },
-        "carpentries/styles": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "carpentries/styles"
-        },
         "casework/CASE": {
             "labContributors": {
                 "nodes": [
@@ -1954,6 +1954,14 @@
                 ]
             },
             "nameWithOwner": "iovisor/ubpf"
+        },
+        "jaybrecht/ariac_ros2": {
+            "labContributors": {
+                "nodes": [
+                    "Pavel-P"
+                ]
+            },
+            "nameWithOwner": "jaybrecht/ariac_ros2"
         },
         "jazzband/django-auditlog": {
             "labContributors": {
