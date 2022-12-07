@@ -12198,9 +12198,12 @@
                     },
                     {
                         "name": "SCSS"
+                    },
+                    {
+                        "name": "Go"
                     }
                 ],
-                "totalCount": 6
+                "totalCount": 7
             }
         },
         "usnistgov/metaschema-java": {
@@ -13552,13 +13555,10 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "Shell"
-                    },
-                    {
                         "name": "CSS"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 1
             }
         },
         "usnistgov/pages-root": {

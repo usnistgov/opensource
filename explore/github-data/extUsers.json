@@ -7380,7 +7380,8 @@
                     "usnistgov/OSCAL",
                     "usnistgov/liboscal-java",
                     "usnistgov/metaschema-java",
-                    "usnistgov/oscal-content"
+                    "usnistgov/oscal-content",
+                    "usnistgov/oss-maven"
                 ]
             },
             "login": "bradh",
@@ -15197,6 +15198,16 @@
             },
             "login": "jordanlewis",
             "name": "Jordan Lewis"
+        },
+        "joseam2": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/75700024?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/pfhub"
+                ]
+            },
+            "login": "joseam2",
+            "name": "Jos\u00e9 Mancias"
         },
         "josemortiznist": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/45955276?v=4",
