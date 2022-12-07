@@ -1252,6 +1252,7 @@
         "community/community": {
             "labContributors": {
                 "nodes": [
+                    "HowardCohl",
                     "yoursunny"
                 ]
             },
@@ -2681,6 +2682,14 @@
                 ]
             },
             "nameWithOwner": "ronjones43/ndp"
+        },
+        "ros2-java/ros2_java_examples": {
+            "labContributors": {
+                "nodes": [
+                    "wshackle"
+                ]
+            },
+            "nameWithOwner": "ros2-java/ros2_java_examples"
         },
         "rsinger86/drf-flex-fields": {
             "labContributors": {
