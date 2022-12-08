@@ -459,14 +459,6 @@
             },
             "nameWithOwner": "NIST-ISODB/isodbtools"
         },
-        "NSLS-II/scientific-python-cookiecutter": {
-            "labContributors": {
-                "nodes": [
-                    "ktoth17"
-                ]
-            },
-            "nameWithOwner": "NSLS-II/scientific-python-cookiecutter"
-        },
         "NSLS-II/scipy-binder": {
             "labContributors": {
                 "nodes": [
@@ -1040,14 +1032,6 @@
                 ]
             },
             "nameWithOwner": "carpentries-incubator/hpc-workflows"
-        },
-        "carpentries-incubator/julia-novice": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/julia-novice"
         },
         "carpentries-incubator/python-intermediate-development": {
             "labContributors": {
@@ -1852,6 +1836,14 @@
             },
             "nameWithOwner": "hpc-workshops/ctcms-hpc-intro"
         },
+        "hri-methods-metrics/hri-methods-metrics.github.io": {
+            "labContributors": {
+                "nodes": [
+                    "jeremy-marvel"
+                ]
+            },
+            "nameWithOwner": "hri-methods-metrics/hri-methods-metrics.github.io"
+        },
         "huggingface/datasets": {
             "labContributors": {
                 "nodes": [
@@ -2150,14 +2142,6 @@
             },
             "nameWithOwner": "madscatt/zazzie"
         },
-        "marda-alliance/MDI-Provider-Integration-Interoperability": {
-            "labContributors": {
-                "nodes": [
-                    "ztrautt"
-                ]
-            },
-            "nameWithOwner": "marda-alliance/MDI-Provider-Integration-Interoperability"
-        },
         "martinmoene/span-lite": {
             "labContributors": {
                 "nodes": [
@@ -2197,14 +2181,6 @@
                 ]
             },
             "nameWithOwner": "mesonbuild/meson"
-        },
-        "metanorma/ACVP-standalone": {
-            "labContributors": {
-                "nodes": [
-                    "celic"
-                ]
-            },
-            "nameWithOwner": "metanorma/ACVP-standalone"
         },
         "miked63017/dinolite_uvc_led_control": {
             "labContributors": {

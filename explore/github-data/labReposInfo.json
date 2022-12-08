@@ -3645,7 +3645,7 @@
             },
             "description": "Baseline models for the paper \"A Tutorial on Generating RF Datasets for Training and Testing Baseline Deep Learning Detectors: Radar Detection in the 3.5 GHz CBRS Band\"",
             "forks": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -5516,7 +5516,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 27
+                "totalCount": 28
             },
             "url": "https://github.com/usnistgov/DT4SM"
         },
@@ -8544,7 +8544,7 @@
                 "totalCount": 0
             },
             "pullRequests_Open": {
-                "totalCount": 14
+                "totalCount": 16
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -13658,10 +13658,10 @@
                 "totalCount": 130
             },
             "pullRequests_Merged": {
-                "totalCount": 489
+                "totalCount": 495
             },
             "pullRequests_Open": {
-                "totalCount": 15
+                "totalCount": 10
             },
             "repositoryTopics": {
                 "totalCount": 10
@@ -16853,7 +16853,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 11
+                "totalCount": 12
             },
             "url": "https://github.com/usnistgov/SOEN-PDK"
         },
@@ -17016,7 +17016,7 @@
             },
             "description": "Translator from STEP format to X3D format",
             "forks": {
-                "totalCount": 17
+                "totalCount": 18
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -19620,7 +19620,7 @@
                 "totalCount": 125
             },
             "pullRequests_Open": {
-                "totalCount": 18
+                "totalCount": 19
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -20800,7 +20800,7 @@
                 "totalCount": 22
             },
             "pullRequests_Open": {
-                "totalCount": 13
+                "totalCount": 14
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -22161,7 +22161,7 @@
             },
             "description": "Deep learning framework for atomistic image data",
             "forks": {
-                "totalCount": 11
+                "totalCount": 13
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -22204,7 +22204,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 14
+                "totalCount": 16
             },
             "url": "https://github.com/usnistgov/atomvision"
         },
@@ -22716,6 +22716,60 @@
                 "totalCount": 20
             },
             "url": "https://github.com/usnistgov/blockmatrix"
+        },
+        "usnistgov/blossom-case-study": {
+            "createdAt": "2022-11-01T17:16:00Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "A case study for ACSAC 2022",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 12
+            },
+            "issues_Open": {
+                "totalCount": 5
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 15
+            },
+            "name": "blossom-case-study",
+            "nameWithOwner": "usnistgov/blossom-case-study",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 2
+            },
+            "pullRequests_Merged": {
+                "totalCount": 7
+            },
+            "pullRequests_Open": {
+                "totalCount": 5
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/usnistgov/blossom-case-study"
         },
         "usnistgov/blossom-dashboard": {
             "createdAt": "2021-07-01T01:18:28Z",
@@ -28362,7 +28416,7 @@
                 "totalCount": 0
             },
             "pullRequests_Open": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -29686,7 +29740,7 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 9
+                "totalCount": 10
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -34763,7 +34817,7 @@
                 "totalCount": 0
             },
             "pullRequests_Open": {
-                "totalCount": 13
+                "totalCount": 14
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -34857,7 +34911,7 @@
                 "totalCount": 427
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 6
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -35143,7 +35197,7 @@
                 "name": "C#"
             },
             "pullRequests_Closed": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "pullRequests_Merged": {
                 "totalCount": 0
@@ -36985,7 +37039,7 @@
                 "totalCount": 12
             },
             "stargazers": {
-                "totalCount": 189
+                "totalCount": 190
             },
             "url": "https://github.com/usnistgov/jarvis"
         },
@@ -37695,7 +37749,7 @@
                 "name": "Java"
             },
             "pullRequests_Closed": {
-                "totalCount": 23
+                "totalCount": 24
             },
             "pullRequests_Merged": {
                 "totalCount": 47
@@ -37919,7 +37973,7 @@
                 "totalCount": 116
             },
             "issues_Open": {
-                "totalCount": 13
+                "totalCount": 14
             },
             "languages": {
                 "totalCount": 6
@@ -37955,7 +38009,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1006
+                "totalCount": 1007
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -38204,7 +38258,7 @@
                 "totalCount": 0
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -38729,10 +38783,10 @@
                 "totalCount": 32
             },
             "pullRequests_Merged": {
-                "totalCount": 95
+                "totalCount": 96
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 11
@@ -40099,7 +40153,7 @@
                 "totalCount": 51
             },
             "issues_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "languages": {
                 "totalCount": 8
@@ -40502,7 +40556,7 @@
                 "totalCount": 1
             },
             "pullRequests_Open": {
-                "totalCount": 8
+                "totalCount": 9
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -42858,10 +42912,10 @@
             },
             "homepageUrl": "https://pages.nist.gov/oscal-tools/",
             "issues_Closed": {
-                "totalCount": 14
+                "totalCount": 15
             },
             "issues_Open": {
-                "totalCount": 22
+                "totalCount": 21
             },
             "languages": {
                 "totalCount": 5
@@ -45134,7 +45188,7 @@
                 "totalCount": 0
             },
             "pullRequests_Open": {
-                "totalCount": 10
+                "totalCount": 11
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -51156,7 +51210,7 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "issues_Open": {
                 "totalCount": 6
