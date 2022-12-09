@@ -2799,7 +2799,7 @@
         "description": "Deep learning framework for atomistic image data",
         "name": "usnistgov/atomvision",
         "topics": null,
-        "website": ""
+        "website": "https://arxiv.org/abs/2212.02586"
     },
     "usnistgov/autoSDC": {
         "description": "autonomous scanning droplet cell codebase",
@@ -2870,10 +2870,17 @@
         "website": null
     },
     "usnistgov/blossom-case-study": {
-        "description": "A case study for ACSAC 2022",
+        "description": "A case study for ACSAC 2022 utilizing OSCAL with a custom GitHub action to automate assessments.",
         "name": "usnistgov/blossom-case-study",
-        "topics": null,
-        "website": null
+        "topics": [
+            "compliance-as-code",
+            "compliance-automation",
+            "oscal",
+            "policy-as-code",
+            "compliance",
+            "conference"
+        ],
+        "website": "https://www.openconf.org/acsac2022/modules/request.php?module=oc_program&action=page.php&id=34"
     },
     "usnistgov/blossom-dashboard": {
         "description": null,
@@ -5782,6 +5789,18 @@
     "usnistgov/rcslib": {
         "description": "NIST Real-Time Control Systems Library including Posemath, NML communications & Java Plotter",
         "name": "usnistgov/rcslib",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/redledger-fabric": {
+        "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+        "name": "usnistgov/redledger-fabric",
+        "topics": null,
+        "website": "https://wiki.hyperledger.org/display/fabric"
+    },
+    "usnistgov/redledger-samples": {
+        "description": "Repository for REDLedger samples",
+        "name": "usnistgov/redledger-samples",
         "topics": null,
         "website": null
     },

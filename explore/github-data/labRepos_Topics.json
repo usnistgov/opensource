@@ -3988,8 +3988,51 @@
         },
         "usnistgov/blossom-case-study": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/compliance-as-code",
+                        "topic": {
+                            "name": "compliance-as-code"
+                        },
+                        "url": "https://github.com/topics/compliance-as-code"
+                    },
+                    {
+                        "resourcePath": "/topics/compliance-automation",
+                        "topic": {
+                            "name": "compliance-automation"
+                        },
+                        "url": "https://github.com/topics/compliance-automation"
+                    },
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
+                    },
+                    {
+                        "resourcePath": "/topics/policy-as-code",
+                        "topic": {
+                            "name": "policy-as-code"
+                        },
+                        "url": "https://github.com/topics/policy-as-code"
+                    },
+                    {
+                        "resourcePath": "/topics/compliance",
+                        "topic": {
+                            "name": "compliance"
+                        },
+                        "url": "https://github.com/topics/compliance"
+                    },
+                    {
+                        "resourcePath": "/topics/conference",
+                        "topic": {
+                            "name": "conference"
+                        },
+                        "url": "https://github.com/topics/conference"
+                    }
+                ],
+                "totalCount": 6
             }
         },
         "usnistgov/blossom-dashboard": {
@@ -8265,6 +8308,18 @@
             }
         },
         "usnistgov/rcslib": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/redledger-fabric": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/redledger-samples": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
