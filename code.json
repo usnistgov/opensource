@@ -7031,7 +7031,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2022-11-27"
+                "lastModified": "2022-12-08"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -10809,7 +10809,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2022-12-07"
+                "lastModified": "2022-12-08"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -17031,7 +17031,7 @@
             },
             "date": {
                 "created": "2018-06-25",
-                "lastModified": "2022-11-23"
+                "lastModified": "2022-12-08"
             },
             "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
             "downloadURL": "https://api.github.com/repos/usnistgov/ndn-dpdk/downloads",
@@ -18840,7 +18840,7 @@
             },
             "date": {
                 "created": "2019-01-29",
-                "lastModified": "2022-05-31"
+                "lastModified": "2022-12-08"
             },
             "description": "Web Image Processing Pipeline (WIPP) - backend",
             "downloadURL": "https://api.github.com/repos/usnistgov/WIPP-backend/downloads",
@@ -26515,7 +26515,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2022-12-07"
+                "lastModified": "2022-12-08"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -30188,7 +30188,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2022-12-07"
+                "lastModified": "2022-12-09"
             },
             "description": "Atomistic Line Graph Neural Network",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -30667,6 +30667,43 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/PySTLTweak.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2021-05-26",
+                "lastModified": "2022-12-08"
+            },
+            "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+            "downloadURL": "https://api.github.com/repos/usnistgov/redledger-fabric/downloads",
+            "homepageURL": "https://github.com/usnistgov/redledger-fabric",
+            "laborHours": 0,
+            "languages": [
+                "Go",
+                "Shell",
+                "Makefile",
+                "Dockerfile"
+            ],
+            "name": "redledger-fabric",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/redledger-fabric.git",
             "status": "Development",
             "tags": [
                 "github"
@@ -32086,7 +32123,7 @@
             },
             "date": {
                 "created": "2021-09-08",
-                "lastModified": "2022-02-24"
+                "lastModified": "2022-12-08"
             },
             "description": "This repository contains all public data, python scripts, and documentation relating to NIST Public Safety Communications Research Division's Differential Privacy program including past prize challenges and bechmark problem sets. ",
             "downloadURL": "https://api.github.com/repos/usnistgov/Differential-Privacy-Synthetic-Data-Challenge-assets/downloads",
@@ -32224,7 +32261,7 @@
             },
             "date": {
                 "created": "2021-09-16",
-                "lastModified": "2022-12-07"
+                "lastModified": "2022-12-09"
             },
             "description": "Deep learning framework for atomistic image data",
             "downloadURL": "https://api.github.com/repos/usnistgov/atomvision/downloads",
@@ -36181,7 +36218,7 @@
                 "created": "2022-11-01",
                 "lastModified": "2022-12-08"
             },
-            "description": "A case study for ACSAC 2022",
+            "description": "A case study for ACSAC 2022 utilizing OSCAL with a custom GitHub action to automate assessments.",
             "downloadURL": "https://api.github.com/repos/usnistgov/blossom-case-study/downloads",
             "homepageURL": "https://github.com/usnistgov/blossom-case-study",
             "laborHours": 0,
@@ -36205,7 +36242,13 @@
             "repositoryURL": "git://github.com/usnistgov/blossom-case-study.git",
             "status": "Development",
             "tags": [
-                "github"
+                "github",
+                "compliance-as-code",
+                "compliance-automation",
+                "oscal",
+                "policy-as-code",
+                "compliance",
+                "conference"
             ],
             "vcs": "git"
         },
@@ -36449,6 +36492,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/IREX10_Verification.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2022-12-08",
+                "lastModified": "2022-12-08"
+            },
+            "description": "Repository for REDLedger samples",
+            "downloadURL": "https://api.github.com/repos/usnistgov/redledger-samples/downloads",
+            "homepageURL": "https://github.com/usnistgov/redledger-samples",
+            "laborHours": 0,
+            "languages": [],
+            "name": "redledger-samples",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/redledger-samples.git",
             "status": "Development",
             "tags": [
                 "github"
