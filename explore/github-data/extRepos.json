@@ -507,14 +507,6 @@
             },
             "nameWithOwner": "PM-Master/PMAdminTool"
         },
-        "PM-Master/fabric": {
-            "labContributors": {
-                "nodes": [
-                    "joshua-roberts"
-                ]
-            },
-            "nameWithOwner": "PM-Master/fabric"
-        },
         "PM-Master/policy-machine-core": {
             "labContributors": {
                 "nodes": [
@@ -1789,7 +1781,6 @@
         "hpc-carpentry/hpc-chapel": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
                     "tkphd"
                 ]
             },
