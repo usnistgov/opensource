@@ -254,6 +254,24 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/5G-NR-LTE-Sidelink-Capacity-Estimator": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/800-157r1": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/800-217": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/800-63-3": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3552,6 +3570,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/WIPP-StarDist-inference-plugin": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/WIPP-annotations2masks-plugin": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3571,6 +3595,12 @@
             }
         },
         "usnistgov/WIPP-frontend": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/WIPP-hist-equalize": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -3738,6 +3768,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/aida": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/alignn": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3852,12 +3888,6 @@
                 "totalCount": 0
             }
         },
-        "usnistgov/atombench": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
         "usnistgov/atomman": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3913,6 +3943,61 @@
             }
         },
         "usnistgov/be_doccommon": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/bias-uq-pcr": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/fluorescence",
+                        "topic": {
+                            "name": "fluorescence"
+                        },
+                        "url": "https://github.com/topics/fluorescence"
+                    },
+                    {
+                        "resourcePath": "/topics/mathematical-modeling",
+                        "topic": {
+                            "name": "mathematical-modeling"
+                        },
+                        "url": "https://github.com/topics/mathematical-modeling"
+                    },
+                    {
+                        "resourcePath": "/topics/polymerase-chain-reaction",
+                        "topic": {
+                            "name": "polymerase-chain-reaction"
+                        },
+                        "url": "https://github.com/topics/polymerase-chain-reaction"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/uncertainty-quantification",
+                        "topic": {
+                            "name": "uncertainty-quantification"
+                        },
+                        "url": "https://github.com/topics/uncertainty-quantification"
+                    },
+                    {
+                        "resourcePath": "/topics/stochastic-branching-process",
+                        "topic": {
+                            "name": "stochastic-branching-process"
+                        },
+                        "url": "https://github.com/topics/stochastic-branching-process"
+                    }
+                ],
+                "totalCount": 6
+            }
+        },
+        "usnistgov/bigdatawg": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -4054,6 +4139,12 @@
             }
         },
         "usnistgov/carpentries-development": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/ccu_validation_scoring": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -5029,8 +5120,44 @@
         },
         "usnistgov/dye_dna_plates": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/fluorescence",
+                        "topic": {
+                            "name": "fluorescence"
+                        },
+                        "url": "https://github.com/topics/fluorescence"
+                    },
+                    {
+                        "resourcePath": "/topics/fluorescence-data",
+                        "topic": {
+                            "name": "fluorescence-data"
+                        },
+                        "url": "https://github.com/topics/fluorescence-data"
+                    },
+                    {
+                        "resourcePath": "/topics/mathematical-modeling",
+                        "topic": {
+                            "name": "mathematical-modeling"
+                        },
+                        "url": "https://github.com/topics/mathematical-modeling"
+                    },
+                    {
+                        "resourcePath": "/topics/numerical-optimization",
+                        "topic": {
+                            "name": "numerical-optimization"
+                        },
+                        "url": "https://github.com/topics/numerical-optimization"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    }
+                ],
+                "totalCount": 5
             }
         },
         "usnistgov/eerc": {
@@ -6343,6 +6470,12 @@
                 "totalCount": 12
             }
         },
+        "usnistgov/jarvis_leaderboard": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/jsfive": {
             "repositoryTopics": {
                 "nodes": [
@@ -7302,6 +7435,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/nistpages-doc-template": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/nmrr": {
             "repositoryTopics": {
                 "nodes": [],
@@ -8053,6 +8192,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/pull_request_test": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/pv2": {
             "repositoryTopics": {
                 "nodes": [],
@@ -8374,6 +8519,12 @@
             }
         },
         "usnistgov/rtmms": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/rufes": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0

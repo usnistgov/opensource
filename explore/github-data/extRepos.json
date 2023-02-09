@@ -32,6 +32,14 @@
             },
             "nameWithOwner": "4dn-dcic/tibanna"
         },
+        "ADLINK-IST/opensplice": {
+            "labContributors": {
+                "nodes": [
+                    "wshackle"
+                ]
+            },
+            "nameWithOwner": "ADLINK-IST/opensplice"
+        },
         "AGLDWG/ontpub-profile": {
             "labContributors": {
                 "nodes": [
@@ -47,6 +55,14 @@
                 ]
             },
             "nameWithOwner": "AIF-development-team/adsorptioninformationformat"
+        },
+        "AlexandreDecan/portion": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "AlexandreDecan/portion"
         },
         "Alexhuszagh/rust-lexical": {
             "labContributors": {
@@ -64,6 +80,14 @@
             },
             "nameWithOwner": "AlgebraicJulia/Catlab.jl"
         },
+        "AlgebraicJulia/Semagrams.jl": {
+            "labContributors": {
+                "nodes": [
+                    "sjbreiner"
+                ]
+            },
+            "nameWithOwner": "AlgebraicJulia/Semagrams.jl"
+        },
         "Aptacode/BlazorCanvas": {
             "labContributors": {
                 "nodes": [
@@ -71,6 +95,14 @@
                 ]
             },
             "nameWithOwner": "Aptacode/BlazorCanvas"
+        },
+        "BFO-ontology/BFO": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "BFO-ontology/BFO"
         },
         "Boulder-Cryogenic-Quantum-Testbed/materials": {
             "labContributors": {
@@ -112,6 +144,14 @@
             },
             "nameWithOwner": "Boulder-Cryogenic-Quantum-Testbed/simple-resonator-mask"
         },
+        "BugsFramework/BF": {
+            "labContributors": {
+                "nodes": [
+                    "ibojanova"
+                ]
+            },
+            "nameWithOwner": "BugsFramework/BF"
+        },
         "CISecurity/CISControls_OSCAL": {
             "labContributors": {
                 "nodes": [
@@ -120,14 +160,6 @@
                 ]
             },
             "nameWithOwner": "CISecurity/CISControls_OSCAL"
-        },
-        "CMSgov/ato-blueprint": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "CMSgov/ato-blueprint"
         },
         "CT4SE/act-blog": {
             "labContributors": {
@@ -152,6 +184,14 @@
                 ]
             },
             "nameWithOwner": "CVEProject/cve-services"
+        },
+        "ClapeyronThermo/Clapeyron.jl": {
+            "labContributors": {
+                "nodes": [
+                    "ianhbell"
+                ]
+            },
+            "nameWithOwner": "ClapeyronThermo/Clapeyron.jl"
         },
         "Compton-NIST/oscal-workflow": {
             "labContributors": {
@@ -188,7 +228,6 @@
         "DefinitelyTyped/DefinitelyTyped": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville",
                     "yoursunny"
                 ]
             },
@@ -331,6 +370,22 @@
             },
             "nameWithOwner": "JARVIS-Materials-Design/jarvis-tools-notebooks"
         },
+        "JARVIS-Materials-Design/jarvis_leaderboard": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "JARVIS-Materials-Design/jarvis_leaderboard"
+        },
+        "JARVIS-Materials-Design/jarvis_leaderboard_1": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "JARVIS-Materials-Design/jarvis_leaderboard_1"
+        },
         "JabRef/JabRef-Browser-Extension": {
             "labContributors": {
                 "nodes": [
@@ -387,14 +442,6 @@
             },
             "nameWithOwner": "JuliaStaging/GeneralizedGenerated.jl"
         },
-        "JuliaStats/MixedModels.jl": {
-            "labContributors": {
-                "nodes": [
-                    "apintar"
-                ]
-            },
-            "nameWithOwner": "JuliaStats/MixedModels.jl"
-        },
         "JunoLab/Weave.jl": {
             "labContributors": {
                 "nodes": [
@@ -402,6 +449,14 @@
                 ]
             },
             "nameWithOwner": "JunoLab/Weave.jl"
+        },
+        "Lambda-Emacs/lambda-line": {
+            "labContributors": {
+                "nodes": [
+                    "ptonner"
+                ]
+            },
+            "nameWithOwner": "Lambda-Emacs/lambda-line"
         },
         "LibraryOfCongress/bagit-python": {
             "labContributors": {
@@ -419,21 +474,13 @@
             },
             "nameWithOwner": "LydiaNosali/multi_tier_cache_simulator"
         },
-        "MDAnalysis/mdanalysis": {
+        "NDN-Routing/infoedit": {
             "labContributors": {
                 "nodes": [
-                    "JIMonroe"
+                    "yoursunny"
                 ]
             },
-            "nameWithOwner": "MDAnalysis/mdanalysis"
-        },
-        "NIST-ISODB/aif_tutorial": {
-            "labContributors": {
-                "nodes": [
-                    "dwsideriusNIST"
-                ]
-            },
-            "nameWithOwner": "NIST-ISODB/aif_tutorial"
+            "nameWithOwner": "NDN-Routing/infoedit"
         },
         "NIST-ISODB/isodb-library": {
             "labContributors": {
@@ -450,6 +497,14 @@
                 ]
             },
             "nameWithOwner": "NIST-ISODB/isodbtools"
+        },
+        "NSLS-II-SST/rsoxs_scans": {
+            "labContributors": {
+                "nodes": [
+                    "BijalBPatel"
+                ]
+            },
+            "nameWithOwner": "NSLS-II-SST/rsoxs_scans"
         },
         "NSLS-II/scipy-binder": {
             "labContributors": {
@@ -474,14 +529,6 @@
                 ]
             },
             "nameWithOwner": "NixOS/nixpkgs"
-        },
-        "NowanIlfideme/pydantic-yaml": {
-            "labContributors": {
-                "nodes": [
-                    "tbsexton"
-                ]
-            },
-            "nameWithOwner": "NowanIlfideme/pydantic-yaml"
         },
         "Opentrons/opentrons": {
             "labContributors": {
@@ -533,14 +580,6 @@
             },
             "nameWithOwner": "PolusAI/polus-plugins"
         },
-        "Qiskit/qiskit": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "Qiskit/qiskit"
-        },
         "Qiskit/qiskit-nature": {
             "labContributors": {
                 "nodes": [
@@ -548,14 +587,6 @@
                 ]
             },
             "nameWithOwner": "Qiskit/qiskit-nature"
-        },
-        "RDFLib/OWL-RL": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "RDFLib/OWL-RL"
         },
         "RDFLib/pySHACL": {
             "labContributors": {
@@ -573,13 +604,21 @@
             },
             "nameWithOwner": "RDFLib/rdflib"
         },
-        "REDLedger/redledger-samples": {
+        "Ramaze/innate": {
             "labContributors": {
                 "nodes": [
-                    "joshua-roberts"
+                    "mfaughn"
                 ]
             },
-            "nameWithOwner": "REDLedger/redledger-samples"
+            "nameWithOwner": "Ramaze/innate"
+        },
+        "Ramaze/ramaze": {
+            "labContributors": {
+                "nodes": [
+                    "mfaughn"
+                ]
+            },
+            "nameWithOwner": "Ramaze/ramaze"
         },
         "RaspberryPiFoundation/python-build-hat": {
             "labContributors": {
@@ -588,6 +627,14 @@
                 ]
             },
             "nameWithOwner": "RaspberryPiFoundation/python-build-hat"
+        },
+        "RedHatProductSecurity/cvss-v4-calculator": {
+            "labContributors": {
+                "nodes": [
+                    "petermell"
+                ]
+            },
+            "nameWithOwner": "RedHatProductSecurity/cvss-v4-calculator"
         },
         "Rene2mt/OSCAL": {
             "labContributors": {
@@ -612,14 +659,6 @@
                 ]
             },
             "nameWithOwner": "SBuercklin/UnitfulChainRules.jl"
-        },
-        "SINTEF/thermopack": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "SINTEF/thermopack"
         },
         "SamR1/FitTrackee": {
             "labContributors": {
@@ -670,14 +709,6 @@
             },
             "nameWithOwner": "Sentieon/hap-eval"
         },
-        "SoftSimu/SymPhas": {
-            "labContributors": {
-                "nodes": [
-                    "wd15"
-                ]
-            },
-            "nameWithOwner": "SoftSimu/SymPhas"
-        },
         "StanJulia/StanSample.jl": {
             "labContributors": {
                 "nodes": [
@@ -685,6 +716,14 @@
                 ]
             },
             "nameWithOwner": "StanJulia/StanSample.jl"
+        },
+        "Systems-Modeling/SysML-v2-Pilot-Implementation": {
+            "labContributors": {
+                "nodes": [
+                    "rbarbau"
+                ]
+            },
+            "nameWithOwner": "Systems-Modeling/SysML-v2-Pilot-Implementation"
         },
         "TACC/pylauncher": {
             "labContributors": {
@@ -766,14 +805,6 @@
             },
             "nameWithOwner": "USF-HII/pub-teddy-human-wgs-telomere"
         },
-        "Versent/saml2aws": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "Versent/saml2aws"
-        },
         "VisionSystemsInc/pix2face": {
             "labContributors": {
                 "nodes": [
@@ -789,14 +820,6 @@
                 ]
             },
             "nameWithOwner": "abusch/sinuous"
-        },
-        "adafruit/Adafruit_nRF52_Arduino": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "adafruit/Adafruit_nRF52_Arduino"
         },
         "adriancable/webtransport-go": {
             "labContributors": {
@@ -814,6 +837,14 @@
             },
             "nameWithOwner": "adriankumpf/teslamate"
         },
+        "ahyatt/ekg": {
+            "labContributors": {
+                "nodes": [
+                    "ptonner"
+                ]
+            },
+            "nameWithOwner": "ahyatt/ekg"
+        },
         "aldayuan/centralized-exercise-breakout-2": {
             "labContributors": {
                 "nodes": [
@@ -821,6 +852,22 @@
                 ]
             },
             "nameWithOwner": "aldayuan/centralized-exercise-breakout-2"
+        },
+        "alexch/rerun": {
+            "labContributors": {
+                "nodes": [
+                    "mfaughn"
+                ]
+            },
+            "nameWithOwner": "alexch/rerun"
+        },
+        "alexcorvi/heic2any": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "alexcorvi/heic2any"
         },
         "amlabdr/proxy_service": {
             "labContributors": {
@@ -853,6 +900,14 @@
                 ]
             },
             "nameWithOwner": "autodiff/autodiff"
+        },
+        "bartfeenstra/betty": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "bartfeenstra/betty"
         },
         "beartype/beartype": {
             "labContributors": {
@@ -985,8 +1040,7 @@
         "bumps/bumps": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville",
-                    "hoogerheide"
+                    "bmaranville"
                 ]
             },
             "nameWithOwner": "bumps/bumps"
@@ -1041,6 +1095,14 @@
             },
             "nameWithOwner": "casework/CASE-Archive"
         },
+        "casework/CASE-Bindings-CSharp-Monitor": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Bindings-CSharp-Monitor"
+        },
         "casework/CASE-Corpora": {
             "labContributors": {
                 "nodes": [
@@ -1065,6 +1127,14 @@
             },
             "nameWithOwner": "casework/CASE-Implementation-AXIOM"
         },
+        "casework/CASE-Implementation-ExifTool": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Implementation-ExifTool"
+        },
         "casework/CASE-Implementation-GNU-Time": {
             "labContributors": {
                 "nodes": [
@@ -1080,6 +1150,22 @@
                 ]
             },
             "nameWithOwner": "casework/CASE-Implementation-PROV-O"
+        },
+        "casework/CASE-Implementation-PyPI-Exifread": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Implementation-PyPI-Exifread"
+        },
+        "casework/CASE-Implementation-PyPI-Pillow": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Implementation-PyPI-Pillow"
         },
         "casework/CASE-Implementation-UFED-XML": {
             "labContributors": {
@@ -1161,21 +1247,13 @@
             },
             "nameWithOwner": "cash/Parsivar"
         },
-        "castorini/pyserini": {
+        "catppuccin/home-assistant": {
             "labContributors": {
                 "nodes": [
-                    "isoboroff"
+                    "jat255"
                 ]
             },
-            "nameWithOwner": "castorini/pyserini"
-        },
-        "cell-line-engineering/cell-line-engineering": {
-            "labContributors": {
-                "nodes": [
-                    "GRG2"
-                ]
-            },
-            "nameWithOwner": "cell-line-engineering/cell-line-engineering"
+            "nameWithOwner": "catppuccin/home-assistant"
         },
         "chendaniely/pyprojroot": {
             "labContributors": {
@@ -1185,13 +1263,13 @@
             },
             "nameWithOwner": "chendaniely/pyprojroot"
         },
-        "citation-style-language/styles": {
+        "cisco/libacvp": {
             "labContributors": {
                 "nodes": [
-                    "kmiller621"
+                    "celic"
                 ]
             },
-            "nameWithOwner": "citation-style-language/styles"
+            "nameWithOwner": "cisco/libacvp"
         },
         "cloudsecurityalliance/continuous-audit-metrics": {
             "labContributors": {
@@ -1200,14 +1278,6 @@
                 ]
             },
             "nameWithOwner": "cloudsecurityalliance/continuous-audit-metrics"
-        },
-        "cmscaltech/sandie-ndn": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "cmscaltech/sandie-ndn"
         },
         "common-workflow-language/cwljava": {
             "labContributors": {
@@ -1220,8 +1290,7 @@
         "community/community": {
             "labContributors": {
                 "nodes": [
-                    "HowardCohl",
-                    "yoursunny"
+                    "HowardCohl"
                 ]
             },
             "nameWithOwner": "community/community"
@@ -1298,14 +1367,6 @@
             },
             "nameWithOwner": "conda-forge/pyqt-feedstock"
         },
-        "conda-forge/pytorch-ignite-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "conda-forge/pytorch-ignite-feedstock"
-        },
         "conda-forge/sasview-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -1317,7 +1378,6 @@
         "conda-forge/staged-recipes": {
             "labContributors": {
                 "nodes": [
-                    "lmhale99",
                     "pbeaucage"
                 ]
             },
@@ -1388,6 +1448,14 @@
             },
             "nameWithOwner": "dbstratta/environment"
         },
+        "deep-learning-with-pytorch/dlwpt-code": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "deep-learning-with-pytorch/dlwpt-code"
+        },
         "deepmaterials/dlmatreview": {
             "labContributors": {
                 "nodes": [
@@ -1436,14 +1504,6 @@
             },
             "nameWithOwner": "dfrws/dfrws2006-challenge"
         },
-        "dfrws/dfrws2017-challenge": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "dfrws/dfrws2017-challenge"
-        },
         "dfxml-working-group/dfxml_cpp": {
             "labContributors": {
                 "nodes": [
@@ -1486,13 +1546,13 @@
             },
             "nameWithOwner": "digitalcorpora/downloads_digitalcorpora_org_app"
         },
-        "dlech/KeeAgent": {
+        "divamgupta/diffusionbee-stable-diffusion-ui": {
             "labContributors": {
                 "nodes": [
-                    "aj-stein-nist"
+                    "isoboroff"
                 ]
             },
-            "nameWithOwner": "dlech/KeeAgent"
+            "nameWithOwner": "divamgupta/diffusionbee-stable-diffusion-ui"
         },
         "dokester/BayesicFitting": {
             "labContributors": {
@@ -1550,14 +1610,6 @@
             },
             "nameWithOwner": "elabftw/elabftw"
         },
-        "emscripten-core/emscripten": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "emscripten-core/emscripten"
-        },
         "evhub/coconut": {
             "labContributors": {
                 "nodes": [
@@ -1589,6 +1641,14 @@
                 ]
             },
             "nameWithOwner": "feos-org/feos"
+        },
+        "fishtree-attempt/r-socialsci": {
+            "labContributors": {
+                "nodes": [
+                    "juanfung"
+                ]
+            },
+            "nameWithOwner": "fishtree-attempt/r-socialsci"
         },
         "flang-compiler/flang": {
             "labContributors": {
@@ -1735,6 +1795,14 @@
             },
             "nameWithOwner": "hltcoe/patapsco"
         },
+        "home-assistant/core": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "home-assistant/core"
+        },
         "horacepan/SnFFT": {
             "labContributors": {
                 "nodes": [
@@ -1787,13 +1855,13 @@
             },
             "nameWithOwner": "hpc-carpentry/hpc-novice"
         },
-        "hpc-carpentry/hpc-parallel-novice": {
+        "hpc-carpentry/hpc-python": {
             "labContributors": {
                 "nodes": [
-                    "reid-a"
+                    "tkphd"
                 ]
             },
-            "nameWithOwner": "hpc-carpentry/hpc-parallel-novice"
+            "nameWithOwner": "hpc-carpentry/hpc-python"
         },
         "hpc-workshops/carpentrycon-lightning-talk": {
             "labContributors": {
@@ -1827,14 +1895,6 @@
             },
             "nameWithOwner": "hri-methods-metrics/hri-methods-metrics.github.io"
         },
-        "huggingface/datasets": {
-            "labContributors": {
-                "nodes": [
-                    "mmajurski"
-                ]
-            },
-            "nameWithOwner": "huggingface/datasets"
-        },
         "hydra-repo/hydra-repo.io": {
             "labContributors": {
                 "nodes": [
@@ -1858,6 +1918,14 @@
                 ]
             },
             "nameWithOwner": "hyperspy/rosettasciio"
+        },
+        "i-pi/i-pi": {
+            "labContributors": {
+                "nodes": [
+                    "ianhbell"
+                ]
+            },
+            "nameWithOwner": "i-pi/i-pi"
         },
         "iMichaela/CRAFT": {
             "labContributors": {
@@ -1907,13 +1975,13 @@
             },
             "nameWithOwner": "immregistries/mqe-validator"
         },
-        "influxdata/chronograf": {
+        "influxdata/flux": {
             "labContributors": {
                 "nodes": [
                     "jat255"
                 ]
             },
-            "nameWithOwner": "influxdata/chronograf"
+            "nameWithOwner": "influxdata/flux"
         },
         "invenia/LibPQ.jl": {
             "labContributors": {
@@ -1942,7 +2010,9 @@
         "jaybrecht/ariac_ros2": {
             "labContributors": {
                 "nodes": [
-                    "Pavel-P"
+                    "Pavel-P",
+                    "anthonydowns",
+                    "zeidk"
                 ]
             },
             "nameWithOwner": "jaybrecht/ariac_ros2"
@@ -1963,6 +2033,14 @@
             },
             "nameWithOwner": "jenkinsci/code-coverage-api-plugin"
         },
+        "jeremyevans/roda": {
+            "labContributors": {
+                "nodes": [
+                    "mfaughn"
+                ]
+            },
+            "nameWithOwner": "jeremyevans/roda"
+        },
         "jgm/pandoc": {
             "labContributors": {
                 "nodes": [
@@ -1970,14 +2048,6 @@
                 ]
             },
             "nameWithOwner": "jgm/pandoc"
-        },
-        "jimeh/build-emacs-for-macos": {
-            "labContributors": {
-                "nodes": [
-                    "isoboroff"
-                ]
-            },
-            "nameWithOwner": "jimeh/build-emacs-for-macos"
         },
         "jjhelmus/pyfive": {
             "labContributors": {
@@ -1987,6 +2057,14 @@
             },
             "nameWithOwner": "jjhelmus/pyfive"
         },
+        "joefowler/golang-zmq-comparison": {
+            "labContributors": {
+                "nodes": [
+                    "ggggggggg"
+                ]
+            },
+            "nameWithOwner": "joefowler/golang-zmq-comparison"
+        },
         "johnlumley/jwiXML": {
             "labContributors": {
                 "nodes": [
@@ -1995,13 +2073,13 @@
             },
             "nameWithOwner": "johnlumley/jwiXML"
         },
-        "jsongraph/json-graph-specification": {
+        "johnnoone/json-spec": {
             "labContributors": {
                 "nodes": [
-                    "tbsexton"
+                    "RayPlante"
                 ]
             },
-            "nameWithOwner": "jsongraph/json-graph-specification"
+            "nameWithOwner": "johnnoone/json-spec"
         },
         "julia-vscode/julia-vscode": {
             "labContributors": {
@@ -2018,6 +2096,14 @@
                 ]
             },
             "nameWithOwner": "jupyterlab/jupyterlab-git"
+        },
+        "justincpresley/ndn-sync": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "justincpresley/ndn-sync"
         },
         "kaggour/AM-CDM": {
             "labContributors": {
@@ -2111,8 +2197,7 @@
             "labContributors": {
                 "nodes": [
                     "brucemiller",
-                    "joefowler",
-                    "snarkhunter"
+                    "joefowler"
                 ]
             },
             "nameWithOwner": "macports/macports-ports"
@@ -2125,21 +2210,21 @@
             },
             "nameWithOwner": "madscatt/zazzie"
         },
-        "martinmoene/span-lite": {
+        "manveru/ramaze": {
             "labContributors": {
                 "nodes": [
-                    "Pesa"
+                    "mfaughn"
                 ]
             },
-            "nameWithOwner": "martinmoene/span-lite"
+            "nameWithOwner": "manveru/ramaze"
         },
-        "materials-data-facility/MaterialsIO": {
+        "materials-data-facility/scythe": {
             "labContributors": {
                 "nodes": [
                     "jat255"
                 ]
             },
-            "nameWithOwner": "materials-data-facility/MaterialsIO"
+            "nameWithOwner": "materials-data-facility/scythe"
         },
         "materialsinnovation/pymks": {
             "labContributors": {
@@ -2149,21 +2234,21 @@
             },
             "nameWithOwner": "materialsinnovation/pymks"
         },
-        "materialsproject/matbench": {
+        "materialsvirtuallab/maml": {
             "labContributors": {
                 "nodes": [
                     "knc6"
                 ]
             },
-            "nameWithOwner": "materialsproject/matbench"
+            "nameWithOwner": "materialsvirtuallab/maml"
         },
-        "mesonbuild/meson": {
+        "mermaid-js/mermaid": {
             "labContributors": {
                 "nodes": [
-                    "yoursunny"
+                    "aj-stein-nist"
                 ]
             },
-            "nameWithOwner": "mesonbuild/meson"
+            "nameWithOwner": "mermaid-js/mermaid"
         },
         "miked63017/dinolite_uvc_led_control": {
             "labContributors": {
@@ -2172,14 +2257,6 @@
                 ]
             },
             "nameWithOwner": "miked63017/dinolite_uvc_led_control"
-        },
-        "mkleehammer/pyodbc": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "mkleehammer/pyodbc"
         },
         "mpi4py/mpi4py": {
             "labContributors": {
@@ -2245,10 +2322,19 @@
         "named-data/YaNFD": {
             "labContributors": {
                 "nodes": [
+                    "Pesa",
                     "yoursunny"
                 ]
             },
             "nameWithOwner": "named-data/YaNFD"
+        },
+        "named-data/actions": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "named-data/actions"
         },
         "named-data/jndn": {
             "labContributors": {
@@ -2287,8 +2373,7 @@
         "named-data/ndn-svs": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/ndn-svs"
@@ -2296,8 +2381,7 @@
         "named-data/ndn-tools": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/ndn-tools"
@@ -2322,8 +2406,7 @@
         "named-data/ndns": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/ndns"
@@ -2361,6 +2444,22 @@
             },
             "nameWithOwner": "named-data/vagrant-jenkins"
         },
+        "natesales/pathvector": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "natesales/pathvector"
+        },
+        "networktocode/ntc-templates": {
+            "labContributors": {
+                "nodes": [
+                    "MheniMerz"
+                ]
+            },
+            "nameWithOwner": "networktocode/ntc-templates"
+        },
         "nexusformat/definitions": {
             "labContributors": {
                 "nodes": [
@@ -2377,29 +2476,13 @@
             },
             "nameWithOwner": "ni/nidaqmx-python"
         },
-        "ocaisa/hpc-intro": {
+        "oborel/obo-relations": {
             "labContributors": {
                 "nodes": [
-                    "tkphd"
+                    "ajnelson-nist"
                 ]
             },
-            "nameWithOwner": "ocaisa/hpc-intro"
-        },
-        "open-vsx/publish-extensions": {
-            "labContributors": {
-                "nodes": [
-                    "tbsexton"
-                ]
-            },
-            "nameWithOwner": "open-vsx/publish-extensions"
-        },
-        "opencv/opencv": {
-            "labContributors": {
-                "nodes": [
-                    "gfiumara"
-                ]
-            },
-            "nameWithOwner": "opencv/opencv"
+            "nameWithOwner": "oborel/obo-relations"
         },
         "opengeospatial/ogc-geosparql": {
             "labContributors": {
@@ -2441,10 +2524,19 @@
             },
             "nameWithOwner": "pal-robotics/gazebo_ros_link_attacher"
         },
+        "pandas-dev/pandas": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "pandas-dev/pandas"
+        },
         "pennersr/django-allauth": {
             "labContributors": {
                 "nodes": [
-                    "knc6"
+                    "knc6",
+                    "rptmat57"
                 ]
             },
             "nameWithOwner": "pennersr/django-allauth"
@@ -2489,13 +2581,21 @@
             },
             "nameWithOwner": "pybind/pybind11"
         },
-        "pymupdf/PyMuPDF": {
+        "pycalphad/pycalphad": {
             "labContributors": {
                 "nodes": [
-                    "simsong"
+                    "ianhbell"
                 ]
             },
-            "nameWithOwner": "pymupdf/PyMuPDF"
+            "nameWithOwner": "pycalphad/pycalphad"
+        },
+        "pydata/xarray": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "pydata/xarray"
         },
         "pyodide/pyodide": {
             "labContributors": {
@@ -2505,13 +2605,13 @@
             },
             "nameWithOwner": "pyodide/pyodide"
         },
-        "pypa/pypi-support": {
+        "pypi/support": {
             "labContributors": {
                 "nodes": [
                     "jaden-pieper"
                 ]
             },
-            "nameWithOwner": "pypa/pypi-support"
+            "nameWithOwner": "pypi/support"
         },
         "qiskit-community/qiskit-community-tutorials": {
             "labContributors": {
@@ -2537,19 +2637,10 @@
             },
             "nameWithOwner": "rda0/web-greeter-theme-luminosity"
         },
-        "readthedocs/readthedocs.org": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "readthedocs/readthedocs.org"
-        },
         "reductus/reductus": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville",
-                    "hoogerheide"
+                    "bmaranville"
                 ]
             },
             "nameWithOwner": "reductus/reductus"
@@ -2594,14 +2685,6 @@
             },
             "nameWithOwner": "regolith-linux/regolith-desktop"
         },
-        "reid-a/hpc-intro": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "reid-a/hpc-intro"
-        },
         "risi-kondor/Snob2": {
             "labContributors": {
                 "nodes": [
@@ -2609,22 +2692,6 @@
                 ]
             },
             "nameWithOwner": "risi-kondor/Snob2"
-        },
-        "risk-redux/control_freak": {
-            "labContributors": {
-                "nodes": [
-                    "iMichaela"
-                ]
-            },
-            "nameWithOwner": "risk-redux/control_freak"
-        },
-        "risk-redux/typist": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "risk-redux/typist"
         },
         "ritwit/cgenarris": {
             "labContributors": {
@@ -2755,13 +2822,13 @@
             },
             "nameWithOwner": "silx-kit/h5web"
         },
-        "simojenki/bonob": {
+        "sinara-hw/Kasli-SOC": {
             "labContributors": {
                 "nodes": [
-                    "jat255"
+                    "dhslichter"
                 ]
             },
-            "nameWithOwner": "simojenki/bonob"
+            "nameWithOwner": "sinara-hw/Kasli-SOC"
         },
         "sinara-hw/Phaser": {
             "labContributors": {
@@ -2795,18 +2862,9 @@
             },
             "nameWithOwner": "sleuthkit/sleuthkit"
         },
-        "snakemake/snakedeploy": {
-            "labContributors": {
-                "nodes": [
-                    "nate-d-olson"
-                ]
-            },
-            "nameWithOwner": "snakemake/snakedeploy"
-        },
         "snakemake/snakemake": {
             "labContributors": {
                 "nodes": [
-                    "nate-d-olson",
                     "wd15"
                 ]
             },
@@ -2843,6 +2901,14 @@
                 ]
             },
             "nameWithOwner": "stanislav-antonov/kdtree"
+        },
+        "static-frame/static-frame": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "static-frame/static-frame"
         },
         "stnoonan/spnego-http-auth-nginx-module": {
             "labContributors": {
@@ -2917,14 +2983,6 @@
             },
             "nameWithOwner": "tlafarge/NICOB_app_public"
         },
-        "trimblenano/pnp_tractor_camera_simulation": {
-            "labContributors": {
-                "nodes": [
-                    "benerautio"
-                ]
-            },
-            "nameWithOwner": "trimblenano/pnp_tractor_camera_simulation"
-        },
         "trimblenano/trimble_cu_capstone": {
             "labContributors": {
                 "nodes": [
@@ -2932,14 +2990,6 @@
                 ]
             },
             "nameWithOwner": "trimblenano/trimble_cu_capstone"
-        },
-        "trimstray/test-your-sysadmin-skills": {
-            "labContributors": {
-                "nodes": [
-                    "MheniMerz"
-                ]
-            },
-            "nameWithOwner": "trimstray/test-your-sysadmin-skills"
         },
         "tristanstraub/thecreeps-godotclj": {
             "labContributors": {
@@ -3005,22 +3055,6 @@
             },
             "nameWithOwner": "ucoProject/ucoproject.github.io"
         },
-        "usdhs/dcat-tool": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "usdhs/dcat-tool"
-        },
-        "valheimPlus/ValheimPlus": {
-            "labContributors": {
-                "nodes": [
-                    "pdickey"
-                ]
-            },
-            "nameWithOwner": "valheimPlus/ValheimPlus"
-        },
         "veusz/veusz": {
             "labContributors": {
                 "nodes": [
@@ -3044,6 +3078,14 @@
                 ]
             },
             "nameWithOwner": "w3c/mathml-core"
+        },
+        "w3c/sdw": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "w3c/sdw"
         },
         "wendellpiez/metaschema": {
             "labContributors": {
@@ -3072,6 +3114,7 @@
         "wigig-tools/isac-plm": {
             "labContributors": {
                 "nodes": [
+                    "neerajvarshney",
                     "steveblandino"
                 ]
             },
@@ -3110,6 +3153,22 @@
                 ]
             },
             "nameWithOwner": "wjakob/nanobind"
+        },
+        "wpk-nist-gov/thermo-extrap": {
+            "labContributors": {
+                "nodes": [
+                    "JIMonroe"
+                ]
+            },
+            "nameWithOwner": "wpk-nist-gov/thermo-extrap"
+        },
+        "xee5ch/asdf-oscal-cli": {
+            "labContributors": {
+                "nodes": [
+                    "nikitawootten-nist"
+                ]
+            },
+            "nameWithOwner": "xee5ch/asdf-oscal-cli"
         },
         "xspec/docker": {
             "labContributors": {
@@ -3150,14 +3209,6 @@
                 ]
             },
             "nameWithOwner": "yoursunny/ndn6dump"
-        },
-        "ypaul21/Clapeyron.jl": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "ypaul21/Clapeyron.jl"
         },
         "zjkmxy/go-ndn": {
             "labContributors": {

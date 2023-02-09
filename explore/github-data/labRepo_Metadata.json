@@ -247,6 +247,24 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/5G-NR-LTE-Sidelink-Capacity-Estimator": {
+        "description": "This tool computes the expected link capacity in data rate (Mbit/s) for sidelink considering 5G New Radio (NR) and Long Term Evolution (LTE) communication standards, as defined by The 3rd Generation Partnership Project (3GPP). Users can input the respective configuration parameters and evaluate the resulting capacity.",
+        "name": "usnistgov/5G-NR-LTE-Sidelink-Capacity-Estimator",
+        "topics": null,
+        "website": ""
+    },
+    "usnistgov/800-157r1": {
+        "description": "NIST Special Publication 800-157r1, Guidelines for Derived Personal Identity Verification (PIV) Credentials",
+        "name": "usnistgov/800-157r1",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/800-217": {
+        "description": "NIST Special Publication 800-217 Guidelines for the Use of Personal Identity Verification (PIV) Credentials with Federation",
+        "name": "usnistgov/800-217",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/800-63-3": {
         "description": "Home to public development of NIST Special Publication 800-63-3: Digital Authentication Guidelines",
         "name": "usnistgov/800-63-3",
@@ -381,10 +399,10 @@
         "website": null
     },
     "usnistgov/ARIAC": {
-        "description": "Repository for ARIAC 2020/2021, consisting of kit building and assembly in a simulated warehouse with a dual arm robot.",
+        "description": "Repository for ARIAC (Agile Robotics for Industrial Automation Competition), consisting of kit building and assembly in a simulated warehouse",
         "name": "usnistgov/ARIAC",
         "topics": null,
-        "website": ""
+        "website": "https://ariac.readthedocs.io/en/latest/"
     },
     "usnistgov/ATICC": {
         "description": "Assessment of Trusted Internet Connection Compliance  (ATICC) Dashboard",
@@ -697,7 +715,7 @@
         "website": null
     },
     "usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets": {
-        "description": "This repo contains the NIST Differential Privacy Temporal Map Challenge environment for Sprints 2 and 3 (master branch), and all data assets form the challenge (raw assets branch). ",
+        "description": "This repo contains the SDNist v1: NIST Differential Privacy Temporal Map Challenge environment for Sprints 2 and 3 (master branch), and all data assets form the challenge (raw assets branch). ",
         "name": "usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets",
         "topics": [
             "challenge",
@@ -1492,7 +1510,7 @@
         "description": "XML metadata for NIST Technical Series Publications",
         "name": "usnistgov/NIST-Tech-Pubs",
         "topics": null,
-        "website": ""
+        "website": "https://pages.nist.gov/NIST-Tech-Pubs/"
     },
     "usnistgov/NIST-Uncertainty-Machine": {
         "description": "Uncertainty propagation tool using both Gauss formula and monte carlo method.",
@@ -2372,10 +2390,10 @@
         "website": null
     },
     "usnistgov/VTSG": {
-        "description": null,
+        "description": "Program to generate vulnerable and fixed synthetic test cases expressing specific flaws.",
         "name": "usnistgov/VTSG",
         "topics": null,
-        "website": null
+        "website": "https://github.com/usnistgov/VTSG"
     },
     "usnistgov/VectorsOfTrust": {
         "description": null,
@@ -2477,6 +2495,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/WIPP-StarDist-inference-plugin": {
+        "description": "A WIPP Plugin for inferencing using StarDist 2D pretrained models",
+        "name": "usnistgov/WIPP-StarDist-inference-plugin",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/WIPP-annotations2masks-plugin": {
         "description": null,
         "name": "usnistgov/WIPP-annotations2masks-plugin",
@@ -2500,6 +2524,12 @@
         "name": "usnistgov/WIPP-frontend",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/WIPP-hist-equalize": {
+        "description": "Image histogram equalization",
+        "name": "usnistgov/WIPP-hist-equalize",
+        "topics": null,
+        "website": null
     },
     "usnistgov/WIPP-image-assembling-plugin": {
         "description": null,
@@ -2663,6 +2693,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/aida": {
+        "description": "Scripts for supporting AIDA evaluations.",
+        "name": "usnistgov/aida",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/alignn": {
         "description": "Atomistic Line Graph Neural Network",
         "name": "usnistgov/alignn",
@@ -2777,12 +2813,6 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/atombench": {
-        "description": null,
-        "name": "usnistgov/atombench",
-        "topics": null,
-        "website": null
-    },
     "usnistgov/atomman": {
         "description": "Atomistic Manipulation Toolkit",
         "name": "usnistgov/atomman",
@@ -2840,6 +2870,25 @@
     "usnistgov/be_doccommon": {
         "description": "Common documentation elements for biometric evaluation repos: bibliography entries, graphics, etc.",
         "name": "usnistgov/be_doccommon",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/bias-uq-pcr": {
+        "description": "Software and Data associated with \"Reducing Bias and Quantifying Uncertainty in Fluorescence Produced by PCR Under Review 2023,'' ",
+        "name": "usnistgov/bias-uq-pcr",
+        "topics": [
+            "fluorescence",
+            "mathematical-modeling",
+            "polymerase-chain-reaction",
+            "python",
+            "uncertainty-quantification",
+            "stochastic-branching-process"
+        ],
+        "website": ""
+    },
+    "usnistgov/bigdatawg": {
+        "description": "Document repository for NIST Big Data Public Working Group (NBD-PWG)",
+        "name": "usnistgov/bigdatawg",
         "topics": null,
         "website": null
     },
@@ -2903,6 +2952,12 @@
     "usnistgov/carpentries-development": {
         "description": "Repository for development related to NIST's Carpentries efforts",
         "name": "usnistgov/carpentries-development",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ccu_validation_scoring": {
+        "description": null,
+        "name": "usnistgov/ccu_validation_scoring",
         "topics": null,
         "website": null
     },
@@ -3701,10 +3756,16 @@
         "website": null
     },
     "usnistgov/dye_dna_plates": {
-        "description": null,
+        "description": "Software and data associated with the article titled, \"Binding, Brightness, or Noise? Extracting Temperature-dependent Properties of Dye Bound to DNA,\" Under Review.",
         "name": "usnistgov/dye_dna_plates",
-        "topics": null,
-        "website": null
+        "topics": [
+            "fluorescence",
+            "fluorescence-data",
+            "mathematical-modeling",
+            "numerical-optimization",
+            "python"
+        ],
+        "website": ""
     },
     "usnistgov/eerc": {
         "description": "NIST Energy Escalation Rate Calculator",
@@ -4638,7 +4699,7 @@
         "website": "https://bws.nist.gov/"
     },
     "usnistgov/jarvis": {
-        "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design",
+        "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ",
         "name": "usnistgov/jarvis",
         "topics": [
             "dft",
@@ -4655,6 +4716,12 @@
             "quantum-computing"
         ],
         "website": "https://jarvis-tools.readthedocs.io/"
+    },
+    "usnistgov/jarvis_leaderboard": {
+        "description": null,
+        "name": "usnistgov/jarvis_leaderboard",
+        "topics": null,
+        "website": null
     },
     "usnistgov/jsfive": {
         "description": "A pure javascript HDF5 reader",
@@ -5231,6 +5298,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/nistpages-doc-template": {
+        "description": null,
+        "name": "usnistgov/nistpages-doc-template",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/nmrr": {
         "description": null,
         "name": "usnistgov/nmrr",
@@ -5670,6 +5743,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/pull_request_test": {
+        "description": null,
+        "name": "usnistgov/pull_request_test",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/pv2": {
         "description": "Present Value of PhotoVoltaics (PV2) is an app that allows homeowners to determine a complete cost of ownership for residential rooftop solar PV systems.",
         "name": "usnistgov/pv2",
@@ -5857,6 +5936,12 @@
         "name": "usnistgov/rtmms",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/rufes": {
+        "description": "Scripts for supporting TAC KBP Recognizing Ultra Fine-grained EntitieS Task (RUFES)",
+        "name": "usnistgov/rufes",
+        "topics": null,
+        "website": null
     },
     "usnistgov/saismo": {
         "description": "Repository for the SAISMO project",

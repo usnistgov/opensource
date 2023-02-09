@@ -1138,6 +1138,63 @@
                 "totalCount": 1
             }
         },
+        "usnistgov/5G-NR-LTE-Sidelink-Capacity-Estimator": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 2
+            }
+        },
+        "usnistgov/800-157r1": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "TeX"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
+        "usnistgov/800-217": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "TeX"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/800-63-3": {
             "languages": {
                 "nodes": [
@@ -1175,8 +1232,24 @@
         },
         "usnistgov/800-63-4": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "TeX"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 5
             }
         },
         "usnistgov/800-63-FAQ": {
@@ -1355,10 +1428,10 @@
                         "name": "JavaScript"
                     },
                     {
-                        "name": "SCSS"
+                        "name": "HTML"
                     },
                     {
-                        "name": "HTML"
+                        "name": "SCSS"
                     },
                     {
                         "name": "Ruby"
@@ -1474,13 +1547,13 @@
                         "name": "Python"
                     },
                     {
-                        "name": "Shell"
-                    },
-                    {
                         "name": "CMake"
                     },
                     {
-                        "name": "Dockerfile"
+                        "name": "Batchfile"
+                    },
+                    {
+                        "name": "Makefile"
                     }
                 ],
                 "totalCount": 5
@@ -1555,8 +1628,12 @@
         },
         "usnistgov/BallotDefinition": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "XSLT"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/BaselineDeepLearningRadarDetectors": {
@@ -5155,19 +5232,19 @@
                         "name": "C"
                     },
                     {
+                        "name": "C++"
+                    },
+                    {
                         "name": "Python"
                     },
                     {
-                        "name": "C++"
+                        "name": "HTML"
                     },
                     {
                         "name": "C#"
                     },
                     {
                         "name": "Jupyter Notebook"
-                    },
-                    {
-                        "name": "HTML"
                     },
                     {
                         "name": "MATLAB"
@@ -5622,6 +5699,9 @@
                         "name": "Jupyter Notebook"
                     },
                     {
+                        "name": "G-code"
+                    },
+                    {
                         "name": "Python"
                     },
                     {
@@ -5631,7 +5711,7 @@
                         "name": "CSS"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 5
             }
         },
         "usnistgov/SimulatedRadarWaveformGenerator": {
@@ -5987,10 +6067,10 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "C#"
+                        "name": "Python"
                     },
                     {
-                        "name": "Python"
+                        "name": "C#"
                     },
                     {
                         "name": "Makefile"
@@ -6190,6 +6270,19 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/WIPP-StarDist-inference-plugin": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 2
+            }
+        },
         "usnistgov/WIPP-annotations2masks-plugin": {
             "languages": {
                 "nodes": [
@@ -6264,6 +6357,19 @@
                     }
                 ],
                 "totalCount": 6
+            }
+        },
+        "usnistgov/WIPP-hist-equalize": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/WIPP-image-assembling-plugin": {
@@ -6550,10 +6656,10 @@
                         "name": "Python"
                     },
                     {
-                        "name": "CMake"
+                        "name": "HTML"
                     },
                     {
-                        "name": "HTML"
+                        "name": "CMake"
                     },
                     {
                         "name": "TeX"
@@ -6731,6 +6837,25 @@
                     }
                 ],
                 "totalCount": 2
+            }
+        },
+        "usnistgov/aida": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Perl"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "usnistgov/alignn": {
@@ -7001,16 +7126,6 @@
                 "totalCount": 4
             }
         },
-        "usnistgov/atombench": {
-            "languages": {
-                "nodes": [
-                    {
-                        "name": "Python"
-                    }
-                ],
-                "totalCount": 1
-            }
-        },
         "usnistgov/atomman": {
             "languages": {
                 "nodes": [
@@ -7148,6 +7263,22 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/bias-uq-pcr": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
+        "usnistgov/bigdatawg": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/biomdi": {
             "languages": {
                 "nodes": [
@@ -7227,8 +7358,15 @@
         },
         "usnistgov/blossom-oscal": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Roff"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/blossom-sam": {
@@ -7248,6 +7386,22 @@
             "languages": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "usnistgov/ccu_validation_scoring": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/cdaGeneration": {
@@ -9001,10 +9155,10 @@
                         "name": "Python"
                     },
                     {
-                        "name": "MATLAB"
+                        "name": "CMake"
                     },
                     {
-                        "name": "CMake"
+                        "name": "MATLAB"
                     }
                 ],
                 "totalCount": 7
@@ -10229,8 +10383,15 @@
         },
         "usnistgov/grabble": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/guilogger": {
@@ -11682,6 +11843,16 @@
                 "totalCount": 4
             }
         },
+        "usnistgov/jarvis_leaderboard": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
         "usnistgov/jsfive": {
             "languages": {
                 "nodes": [
@@ -11729,12 +11900,9 @@
                 "nodes": [
                     {
                         "name": "Python"
-                    },
-                    {
-                        "name": "Batchfile"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 1
             }
         },
         "usnistgov/labs-suite-config": {
@@ -12033,13 +12201,13 @@
                         "name": "C++"
                     },
                     {
+                        "name": "CMake"
+                    },
+                    {
                         "name": "Shell"
                     },
                     {
                         "name": "Cython"
-                    },
-                    {
-                        "name": "CMake"
                     },
                     {
                         "name": "Batchfile"
@@ -12052,22 +12220,16 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "Python"
-                    },
-                    {
                         "name": "Jupyter Notebook"
                     },
                     {
-                        "name": "CMake"
-                    },
-                    {
-                        "name": "C++"
+                        "name": "Python"
                     },
                     {
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 3
             }
         },
         "usnistgov/material-schema": {
@@ -13035,6 +13197,28 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/nistpages-doc-template": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "TeX"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/nmrr": {
             "languages": {
                 "nodes": [
@@ -13323,10 +13507,10 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "CSS"
+                        "name": "TypeScript"
                     },
                     {
-                        "name": "TypeScript"
+                        "name": "CSS"
                     },
                     {
                         "name": "SCSS"
@@ -13566,8 +13750,21 @@
         },
         "usnistgov/oscal-xslt": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "XSLT"
+                    },
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "XProc"
+                    },
+                    {
+                        "name": "XQuery"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "usnistgov/oss-maven": {
@@ -13728,10 +13925,10 @@
                         "name": "Mustache"
                     },
                     {
-                        "name": "Dockerfile"
+                        "name": "Makefile"
                     },
                     {
-                        "name": "Makefile"
+                        "name": "Dockerfile"
                     },
                     {
                         "name": "Shell"
@@ -14174,6 +14371,12 @@
                     }
                 ],
                 "totalCount": 1
+            }
+        },
+        "usnistgov/pull_request_test": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "usnistgov/pv2": {
@@ -14696,6 +14899,25 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/rufes": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Perl"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
         "usnistgov/saismo": {
             "languages": {
                 "nodes": [],
@@ -14916,8 +15138,18 @@
         },
         "usnistgov/sitexpress": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "HTML"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/slapseg": {
@@ -15562,12 +15794,8 @@
         },
         "usnistgov/trojai-example": {
             "languages": {
-                "nodes": [
-                    {
-                        "name": "Python"
-                    }
-                ],
-                "totalCount": 1
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "usnistgov/trojai-literature": {
