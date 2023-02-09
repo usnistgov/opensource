@@ -205,6 +205,21 @@
             "firstCommitAt": "2016-06-03T19:01:16Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/5G-NR-LTE-Sidelink-Capacity-Estimator": {
+            "createdAt": "2022-09-26T20:53:46Z",
+            "firstCommitAt": "2021-07-06T06:01:22Z",
+            "initBeforeGitHubRepo": true
+        },
+        "usnistgov/800-157r1": {
+            "createdAt": "2023-01-05T18:33:04Z",
+            "firstCommitAt": "2023-01-10T14:37:15Z",
+            "initBeforeGitHubRepo": false
+        },
+        "usnistgov/800-217": {
+            "createdAt": "2023-01-05T18:29:50Z",
+            "firstCommitAt": "2023-01-10T14:49:05Z",
+            "initBeforeGitHubRepo": false
+        },
         "usnistgov/800-63-3": {
             "createdAt": "2016-04-28T00:29:26Z",
             "firstCommitAt": "2016-04-28T18:07:44Z",
@@ -1885,6 +1900,11 @@
             "firstCommitAt": "2021-02-12T20:14:30Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/WIPP-StarDist-inference-plugin": {
+            "createdAt": "2023-02-07T14:56:03Z",
+            "firstCommitAt": "2023-02-07T14:57:39Z",
+            "initBeforeGitHubRepo": false
+        },
         "usnistgov/WIPP-annotations2masks-plugin": {
             "createdAt": "2020-04-15T17:26:14Z",
             "firstCommitAt": "2020-04-15T17:26:16Z",
@@ -1904,6 +1924,11 @@
             "createdAt": "2019-01-29T17:03:17Z",
             "firstCommitAt": "2018-09-17T13:49:25Z",
             "initBeforeGitHubRepo": true
+        },
+        "usnistgov/WIPP-hist-equalize": {
+            "createdAt": "2023-01-17T15:47:50Z",
+            "firstCommitAt": "2023-01-17T15:47:51Z",
+            "initBeforeGitHubRepo": false
         },
         "usnistgov/WIPP-image-assembling-plugin": {
             "createdAt": "2019-06-21T14:53:18Z",
@@ -2040,6 +2065,11 @@
             "firstCommitAt": "2022-07-12T13:13:44Z",
             "initBeforeGitHubRepo": false
         },
+        "usnistgov/aida": {
+            "createdAt": "2022-12-21T21:41:33Z",
+            "firstCommitAt": "2018-05-10T19:43:01Z",
+            "initBeforeGitHubRepo": true
+        },
         "usnistgov/alignn": {
             "createdAt": "2021-04-19T20:08:09Z",
             "firstCommitAt": "2021-02-22T18:09:18Z",
@@ -2135,11 +2165,6 @@
             "firstCommitAt": "2019-03-28T13:51:23Z",
             "initBeforeGitHubRepo": true
         },
-        "usnistgov/atombench": {
-            "createdAt": "2022-07-15T16:48:33Z",
-            "firstCommitAt": "2022-07-15T16:48:34Z",
-            "initBeforeGitHubRepo": false
-        },
         "usnistgov/atomman": {
             "createdAt": "2016-03-25T12:52:52Z",
             "firstCommitAt": "2016-01-11T15:01:03Z",
@@ -2190,6 +2215,16 @@
             "firstCommitAt": "2013-06-21T18:34:09Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/bias-uq-pcr": {
+            "createdAt": "2023-01-12T17:13:23Z",
+            "firstCommitAt": "2023-01-11T20:51:36Z",
+            "initBeforeGitHubRepo": true
+        },
+        "usnistgov/bigdatawg": {
+            "createdAt": "2022-12-13T20:26:49Z",
+            "firstCommitAt": "2022-12-14T13:22:08Z",
+            "initBeforeGitHubRepo": false
+        },
         "usnistgov/biomdi": {
             "createdAt": "2019-05-09T17:46:57Z",
             "firstCommitAt": "2007-04-03T11:34:24Z",
@@ -2229,6 +2264,11 @@
             "createdAt": "2021-12-08T17:58:07Z",
             "firstCommitAt": "2021-12-08T17:58:10Z",
             "initBeforeGitHubRepo": false
+        },
+        "usnistgov/ccu_validation_scoring": {
+            "createdAt": "2022-10-31T17:02:50Z",
+            "firstCommitAt": "2022-07-22T20:54:02Z",
+            "initBeforeGitHubRepo": true
         },
         "usnistgov/cdaGeneration": {
             "createdAt": "2017-06-28T20:40:57Z",
@@ -3605,6 +3645,11 @@
             "firstCommitAt": "2017-06-22T19:34:02Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/jarvis_leaderboard": {
+            "createdAt": "2022-07-15T16:48:33Z",
+            "firstCommitAt": "2022-07-15T16:48:34Z",
+            "initBeforeGitHubRepo": false
+        },
         "usnistgov/jsfive": {
             "createdAt": "2019-03-15T17:11:03Z",
             "firstCommitAt": "2019-03-15T17:12:07Z",
@@ -4020,6 +4065,11 @@
             "firstCommitAt": "2015-06-11T19:41:13Z",
             "initBeforeGitHubRepo": false
         },
+        "usnistgov/nistpages-doc-template": {
+            "createdAt": "2022-12-19T21:45:53Z",
+            "firstCommitAt": "2022-12-09T18:39:52Z",
+            "initBeforeGitHubRepo": true
+        },
         "usnistgov/nmrr": {
             "createdAt": "2018-05-30T14:53:16Z",
             "firstCommitAt": "2016-11-22T14:36:52Z",
@@ -4335,6 +4385,11 @@
             "firstCommitAt": "2020-08-20T20:38:14Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/pull_request_test": {
+            "createdAt": "2023-01-26T20:49:33Z",
+            "firstCommitAt": "2023-01-26T20:00:08Z",
+            "initBeforeGitHubRepo": true
+        },
         "usnistgov/pv2": {
             "createdAt": "2020-12-10T20:39:35Z",
             "firstCommitAt": "2020-12-10T20:39:39Z",
@@ -4468,6 +4523,11 @@
         "usnistgov/rtmms": {
             "createdAt": "2015-02-20T21:16:56Z",
             "firstCommitAt": "2015-02-20T21:12:20Z",
+            "initBeforeGitHubRepo": true
+        },
+        "usnistgov/rufes": {
+            "createdAt": "2022-12-20T20:27:23Z",
+            "firstCommitAt": "2020-12-03T21:08:25Z",
             "initBeforeGitHubRepo": true
         },
         "usnistgov/saismo": {
