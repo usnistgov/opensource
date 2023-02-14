@@ -422,6 +422,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/BF": {
+        "description": "Bugs Framework",
+        "name": "usnistgov/BF",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/BIAS-2.0": {
         "description": "A framework for deploying and invoking biometric operations, such as enrolling, identifying (comparing one to many), and verifying (comparing one to one) biometric information over a service-oriented architecture. It is a high-level abstraction that supports any biometric modality or data format.",
         "name": "usnistgov/BIAS-2.0",
@@ -4847,6 +4853,12 @@
         "name": "usnistgov/mCDF",
         "topics": null,
         "website": null
+    },
+    "usnistgov/mDL-Reader-RI": {
+        "description": "The NIST Reference Implementation for the mDoc Reader described in ISO/IEC 18013-5",
+        "name": "usnistgov/mDL-Reader-RI",
+        "topics": null,
+        "website": ""
     },
     "usnistgov/macos_security": {
         "description": "macOS Security Compliance Project",
