@@ -1870,6 +1870,11 @@
             "firstCommitAt": "2018-08-16T13:05:51Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/WIPP-3d-segmentation-plugin": {
+            "createdAt": "2023-02-15T05:40:47Z",
+            "firstCommitAt": "2019-12-13T21:02:13Z",
+            "initBeforeGitHubRepo": true
+        },
         "usnistgov/WIPP-Digits-data-plugin": {
             "createdAt": "2020-03-25T18:57:04Z",
             "firstCommitAt": "2019-07-22T15:27:42Z",
@@ -2860,6 +2865,11 @@
             "firstCommitAt": "2020-07-10T20:02:57Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/dimspec": {
+            "createdAt": "2023-02-09T15:22:17Z",
+            "firstCommitAt": "2021-05-12T20:27:10Z",
+            "initBeforeGitHubRepo": true
+        },
         "usnistgov/dioptra": {
             "createdAt": "2021-06-07T14:01:28Z",
             "firstCommitAt": "2021-06-10T16:16:36Z",
@@ -3743,11 +3753,6 @@
         "usnistgov/mCDF": {
             "createdAt": "2022-06-17T17:16:53Z",
             "firstCommitAt": "2022-06-17T17:16:54Z",
-            "initBeforeGitHubRepo": false
-        },
-        "usnistgov/mDL-Reader-RI": {
-            "createdAt": "2021-02-23T20:05:58Z",
-            "firstCommitAt": "2021-03-15T16:19:47Z",
             "initBeforeGitHubRepo": false
         },
         "usnistgov/macos_security": {

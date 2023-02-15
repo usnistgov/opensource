@@ -564,14 +564,6 @@
             },
             "nameWithOwner": "PM-Master/policy-machine-core"
         },
-        "PM-Master/policy-machine-go": {
-            "labContributors": {
-                "nodes": [
-                    "joshua-roberts"
-                ]
-            },
-            "nameWithOwner": "PM-Master/policy-machine-go"
-        },
         "PolusAI/nyxus": {
             "labContributors": {
                 "nodes": [
@@ -1020,6 +1012,14 @@
                 ]
             },
             "nameWithOwner": "bkmgit/hpc-workflows"
+        },
+        "bluesky/tiled": {
+            "labContributors": {
+                "nodes": [
+                    "pbeaucage"
+                ]
+            },
+            "nameWithOwner": "bluesky/tiled"
         },
         "bokeh/bokeh": {
             "labContributors": {
@@ -1857,7 +1857,6 @@
         "hpc-carpentry/hpc-novice": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
                     "tkphd"
                 ]
             },
