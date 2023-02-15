@@ -5487,10 +5487,10 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "Python"
+                        "name": "HTML"
                     },
                     {
-                        "name": "HTML"
+                        "name": "Python"
                     },
                     {
                         "name": "Jinja"
@@ -6173,6 +6173,19 @@
                     }
                 ],
                 "totalCount": 1
+            }
+        },
+        "usnistgov/WIPP-3d-segmentation-plugin": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Java"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/WIPP-Digits-data-plugin": {
@@ -9488,6 +9501,22 @@
                 "totalCount": 1
             }
         },
+        "usnistgov/dimspec": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "R"
+                    },
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "HTML"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
         "usnistgov/dioptra": {
             "languages": {
                 "nodes": [
@@ -12114,16 +12143,6 @@
             "languages": {
                 "nodes": [],
                 "totalCount": 0
-            }
-        },
-        "usnistgov/mDL-Reader-RI": {
-            "languages": {
-                "nodes": [
-                    {
-                        "name": "Java"
-                    }
-                ],
-                "totalCount": 1
             }
         },
         "usnistgov/macos_security": {
@@ -15736,9 +15755,12 @@
                     },
                     {
                         "name": "Python"
+                    },
+                    {
+                        "name": "Makefile"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "usnistgov/thermoML": {

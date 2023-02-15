@@ -2459,6 +2459,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/WIPP-3d-segmentation-plugin": {
+        "description": "A WIPP plugin for segmenting 3D images",
+        "name": "usnistgov/WIPP-3d-segmentation-plugin",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/WIPP-Digits-data-plugin": {
         "description": "Digits Data ingestion plugin to support tiled tiffs coming from WIPP",
         "name": "usnistgov/WIPP-Digits-data-plugin",
@@ -3695,6 +3701,12 @@
         "topics": null,
         "website": "https://dx.doi.org/10.1007/s40192-021-00213-8"
     },
+    "usnistgov/dimspec": {
+        "description": "Database Infrastructure for Mass Spectrometry",
+        "name": "usnistgov/dimspec",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/dioptra": {
         "description": "Test Software for the Characterization of AI Technologies ",
         "name": "usnistgov/dioptra",
@@ -4853,12 +4865,6 @@
         "name": "usnistgov/mCDF",
         "topics": null,
         "website": null
-    },
-    "usnistgov/mDL-Reader-RI": {
-        "description": "The NIST Reference Implementation for the mDoc Reader described in ISO/IEC 18013-5",
-        "name": "usnistgov/mDL-Reader-RI",
-        "topics": null,
-        "website": ""
     },
     "usnistgov/macos_security": {
         "description": "macOS Security Compliance Project",
