@@ -5046,7 +5046,7 @@
             },
             "date": {
                 "created": "2016-04-28",
-                "lastModified": "2023-01-19"
+                "lastModified": "2023-02-14"
             },
             "description": "Home to public development of NIST Special Publication 800-63-3: Digital Authentication Guidelines",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-3/downloads",
@@ -7030,7 +7030,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2023-02-12"
+                "lastModified": "2023-02-14"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -25291,7 +25291,7 @@
             },
             "date": {
                 "created": "2020-04-08",
-                "lastModified": "2023-01-06"
+                "lastModified": "2023-02-14"
             },
             "description": "XML metadata for NIST Technical Series Publications",
             "downloadURL": "https://api.github.com/repos/usnistgov/NIST-Tech-Pubs/downloads",
@@ -27053,7 +27053,7 @@
             },
             "date": {
                 "created": "2020-07-01",
-                "lastModified": "2023-01-17"
+                "lastModified": "2023-02-14"
             },
             "description": "Thermodynamic Extrapolation/Interpolation Library",
             "downloadURL": "https://api.github.com/repos/usnistgov/thermo-extrap/downloads",
@@ -27061,7 +27061,8 @@
             "laborHours": 0,
             "languages": [
                 "Jupyter Notebook",
-                "Python"
+                "Python",
+                "Makefile"
             ],
             "name": "thermo-extrap",
             "organization": "National Institute of Standards and Technology",
@@ -29495,40 +29496,6 @@
                 "email": "devops@nist.gov"
             },
             "date": {
-                "created": "2021-02-23",
-                "lastModified": "2023-02-13"
-            },
-            "description": "The NIST Reference Implementation for the mDoc Reader described in ISO/IEC 18013-5",
-            "downloadURL": "https://api.github.com/repos/usnistgov/mDL-Reader-RI/downloads",
-            "homepageURL": "https://github.com/usnistgov/mDL-Reader-RI",
-            "laborHours": 0,
-            "languages": [
-                "Java"
-            ],
-            "name": "mDL-Reader-RI",
-            "organization": "National Institute of Standards and Technology",
-            "permissions": {
-                "licenses": [
-                    {
-                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
-                        "name": "NIST"
-                    }
-                ],
-                "usageType": "openSource"
-            },
-            "repositoryURL": "git://github.com/usnistgov/mDL-Reader-RI.git",
-            "status": "Development",
-            "tags": [
-                "github"
-            ],
-            "vcs": "git"
-        },
-        {
-            "contact": {
-                "URL": "https://github.com/usnistgov",
-                "email": "devops@nist.gov"
-            },
-            "date": {
                 "created": "2021-02-25",
                 "lastModified": "2021-10-18"
             },
@@ -30228,7 +30195,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2023-02-08"
+                "lastModified": "2023-02-15"
             },
             "description": "Atomistic Line Graph Neural Network",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -33065,15 +33032,15 @@
             },
             "date": {
                 "created": "2021-11-12",
-                "lastModified": "2023-02-13"
+                "lastModified": "2023-02-14"
             },
             "description": "SDNist: Benchmark data and evaluation tools for data synthesizers.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SDNist/downloads",
             "homepageURL": "https://github.com/usnistgov/SDNist",
             "laborHours": 0,
             "languages": [
-                "Python",
                 "HTML",
+                "Python",
                 "Jinja"
             ],
             "name": "SDNist",
@@ -35999,7 +35966,7 @@
             },
             "date": {
                 "created": "2022-09-21",
-                "lastModified": "2023-02-06"
+                "lastModified": "2023-02-14"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/grabble/downloads",
@@ -37028,6 +36995,42 @@
                 "email": "devops@nist.gov"
             },
             "date": {
+                "created": "2023-02-09",
+                "lastModified": "2023-02-14"
+            },
+            "description": "Database Infrastructure for Mass Spectrometry",
+            "downloadURL": "https://api.github.com/repos/usnistgov/dimspec/downloads",
+            "homepageURL": "https://github.com/usnistgov/dimspec",
+            "laborHours": 0,
+            "languages": [
+                "R",
+                "CSS",
+                "HTML"
+            ],
+            "name": "dimspec",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/dimspec.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
                 "created": "2023-02-13",
                 "lastModified": "2023-02-13"
             },
@@ -37053,6 +37056,41 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/BF.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-02-15",
+                "lastModified": "2023-02-15"
+            },
+            "description": "A WIPP plugin for segmenting 3D images",
+            "downloadURL": "https://api.github.com/repos/usnistgov/WIPP-3d-segmentation-plugin/downloads",
+            "homepageURL": "https://github.com/usnistgov/WIPP-3d-segmentation-plugin",
+            "laborHours": 0,
+            "languages": [
+                "Java",
+                "Dockerfile"
+            ],
+            "name": "WIPP-3d-segmentation-plugin",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/WIPP-3d-segmentation-plugin.git",
             "status": "Development",
             "tags": [
                 "github"
