@@ -797,6 +797,14 @@
             },
             "nameWithOwner": "UMD-ENMA165/4-21-22-Class"
         },
+        "UMD-ENMA165/file_reading": {
+            "labContributors": {
+                "nodes": [
+                    "guyer"
+                ]
+            },
+            "nameWithOwner": "UMD-ENMA165/file_reading"
+        },
         "USF-HII/pub-teddy-human-wgs-telomere": {
             "labContributors": {
                 "nodes": [
@@ -1973,14 +1981,6 @@
                 ]
             },
             "nameWithOwner": "iluwatar/uml-reverse-mapper"
-        },
-        "immregistries/mqe-validator": {
-            "labContributors": {
-                "nodes": [
-                    "HossamT"
-                ]
-            },
-            "nameWithOwner": "immregistries/mqe-validator"
         },
         "influxdata/flux": {
             "labContributors": {
