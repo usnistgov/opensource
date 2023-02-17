@@ -1554,13 +1554,13 @@
             },
             "nameWithOwner": "digitalcorpora/digitalcorpora-stats"
         },
-        "digitalcorpora/downloads_digitalcorpora_org_app": {
+        "digitalcorpora/digitalcorpora_app": {
             "labContributors": {
                 "nodes": [
                     "simsong"
                 ]
             },
-            "nameWithOwner": "digitalcorpora/downloads_digitalcorpora_org_app"
+            "nameWithOwner": "digitalcorpora/digitalcorpora_app"
         },
         "divamgupta/diffusionbee-stable-diffusion-ui": {
             "labContributors": {
@@ -2884,6 +2884,14 @@
                 ]
             },
             "nameWithOwner": "sqlalchemy/sqlalchemy"
+        },
+        "srsran/srsRAN": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "srsran/srsRAN"
         },
         "stanislav-antonov/kdtree": {
             "labContributors": {
