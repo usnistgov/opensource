@@ -249,6 +249,14 @@
             },
             "nameWithOwner": "FATHOM5/oscal"
         },
+        "FDio/govpp": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "FDio/govpp"
+        },
         "GSA/code-gov": {
             "labContributors": {
                 "nodes": [
@@ -1966,14 +1974,6 @@
             },
             "nameWithOwner": "ietf-wg-uuidrev/rfc4122bis"
         },
-        "ietf/terminology": {
-            "labContributors": {
-                "nodes": [
-                    "jimfenton"
-                ]
-            },
-            "nameWithOwner": "ietf/terminology"
-        },
         "iluwatar/uml-reverse-mapper": {
             "labContributors": {
                 "nodes": [
@@ -2159,6 +2159,22 @@
                 ]
             },
             "nameWithOwner": "libyal/libewf-legacy"
+        },
+        "lightwave-lab/lightlab": {
+            "labContributors": {
+                "nodes": [
+                    "atait"
+                ]
+            },
+            "nameWithOwner": "lightwave-lab/lightlab"
+        },
+        "linux-test-project/lcov": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "linux-test-project/lcov"
         },
         "livecomsjournal/article_templates": {
             "labContributors": {
@@ -2643,6 +2659,14 @@
                 ]
             },
             "nameWithOwner": "reflectivity/analysis"
+        },
+        "reflectivity/file_format": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "reflectivity/file_format"
         },
         "reflectivity/orsopy": {
             "labContributors": {
@@ -3207,14 +3231,6 @@
                 ]
             },
             "nameWithOwner": "yoursunny/ndn-cxx-breaks"
-        },
-        "yoursunny/ndn6dump": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "yoursunny/ndn6dump"
         },
         "zjkmxy/go-ndn": {
             "labContributors": {
