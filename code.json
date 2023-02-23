@@ -1061,7 +1061,7 @@
             },
             "date": {
                 "created": "2015-02-17",
-                "lastModified": "2023-02-21"
+                "lastModified": "2023-02-22"
             },
             "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SP800-90B_EntropyAssessment/downloads",
@@ -5808,7 +5808,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2023-02-13"
+                "lastModified": "2023-02-22"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -6751,7 +6751,7 @@
             },
             "date": {
                 "created": "2016-08-24",
-                "lastModified": "2023-02-18"
+                "lastModified": "2023-02-22"
             },
             "description": "Cube map image stitching",
             "downloadURL": "https://api.github.com/repos/usnistgov/cubemap-stitch/downloads",
@@ -7030,7 +7030,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2023-02-21"
+                "lastModified": "2023-02-22"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -26514,7 +26514,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2023-02-21"
+                "lastModified": "2023-02-22"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -37040,6 +37040,7 @@
             "laborHours": 0,
             "languages": [
                 "R",
+                "TeX",
                 "CSS",
                 "HTML"
             ],
