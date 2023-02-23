@@ -201,14 +201,6 @@
             },
             "nameWithOwner": "Compton-NIST/oscal-workflow"
         },
-        "CoolProp/CoolProp": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "CoolProp/CoolProp"
-        },
         "Cyber-Domain-Ontology/cdo.github.io": {
             "labContributors": {
                 "nodes": [
@@ -1496,14 +1488,6 @@
             },
             "nameWithOwner": "defenseunicorns/lula"
         },
-        "demianriccardi/p5-HackaMol": {
-            "labContributors": {
-                "nodes": [
-                    "dmr3"
-                ]
-            },
-            "nameWithOwner": "demianriccardi/p5-HackaMol"
-        },
         "deoyani/oar-metadata": {
             "labContributors": {
                 "nodes": [
@@ -1786,6 +1770,14 @@
                 ]
             },
             "nameWithOwner": "guyer/mpilogging"
+        },
+        "gvwilson/sdxpy-2023-02": {
+            "labContributors": {
+                "nodes": [
+                    "guyer"
+                ]
+            },
+            "nameWithOwner": "gvwilson/sdxpy-2023-02"
         },
         "hachyderm/community": {
             "labContributors": {
@@ -2909,13 +2901,13 @@
             },
             "nameWithOwner": "sqlalchemy/sqlalchemy"
         },
-        "srsran/srsRAN": {
+        "srsran/srsRAN_4G": {
             "labContributors": {
                 "nodes": [
                     "yoursunny"
                 ]
             },
-            "nameWithOwner": "srsran/srsRAN"
+            "nameWithOwner": "srsran/srsRAN_4G"
         },
         "stanislav-antonov/kdtree": {
             "labContributors": {
@@ -3068,14 +3060,6 @@
                 ]
             },
             "nameWithOwner": "ucoProject/ucoproject.github.io"
-        },
-        "veusz/veusz": {
-            "labContributors": {
-                "nodes": [
-                    "evangroopman"
-                ]
-            },
-            "nameWithOwner": "veusz/veusz"
         },
         "vitg-gsa-automation/chkschema": {
             "labContributors": {
