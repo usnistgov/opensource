@@ -5181,10 +5181,12 @@
         "website": "https://www.nist.gov/publications/ndn-dpdk-ndn-forwarding-100-gbps-commodity-hardware"
     },
     "usnistgov/ndntdump": {
-        "description": null,
+        "description": "NDN Traffic Dumper with anonymization and packet name extraction",
         "name": "usnistgov/ndntdump",
-        "topics": null,
-        "website": null
+        "topics": [
+            "ndn"
+        ],
+        "website": ""
     },
     "usnistgov/ndntrace": {
         "description": "Traceroute-like tool for NDN",

@@ -2748,7 +2748,7 @@
             },
             "homepageUrl": "https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program",
             "issues_Closed": {
-                "totalCount": 934
+                "totalCount": 935
             },
             "issues_Open": {
                 "totalCount": 26
@@ -8976,7 +8976,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "url": "https://github.com/usnistgov/IREX10"
         },
@@ -11543,7 +11543,7 @@
                 "totalCount": 130
             },
             "issues_Open": {
-                "totalCount": 33
+                "totalCount": 34
             },
             "languages": {
                 "totalCount": 10
@@ -13849,7 +13849,7 @@
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "forks": {
-                "totalCount": 143
+                "totalCount": 144
             },
             "homepageUrl": "https://pages.nist.gov/OSCAL/",
             "issues_Closed": {
@@ -13883,16 +13883,16 @@
                 "totalCount": 143
             },
             "pullRequests_Merged": {
-                "totalCount": 531
+                "totalCount": 532
             },
             "pullRequests_Open": {
-                "totalCount": 13
+                "totalCount": 16
             },
             "repositoryTopics": {
                 "totalCount": 10
             },
             "stargazers": {
-                "totalCount": 512
+                "totalCount": 513
             },
             "url": "https://github.com/usnistgov/OSCAL"
         },
@@ -15934,7 +15934,7 @@
                 "totalCount": 424
             },
             "issues_Open": {
-                "totalCount": 45
+                "totalCount": 47
             },
             "languages": {
                 "totalCount": 0
@@ -17694,7 +17694,7 @@
                 "totalCount": 10
             },
             "stargazers": {
-                "totalCount": 36
+                "totalCount": 37
             },
             "url": "https://github.com/usnistgov/SimulatedRadarWaveformGenerator"
         },
@@ -23651,10 +23651,10 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 23
+                "totalCount": 24
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -25292,7 +25292,12 @@
             "languages": {
                 "totalCount": 4
             },
-            "licenseInfo": null,
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
             "mentionableUsers": {
                 "totalCount": 16
             },
@@ -25341,7 +25346,12 @@
             "languages": {
                 "totalCount": 5
             },
-            "licenseInfo": null,
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
             "mentionableUsers": {
                 "totalCount": 16
             },
@@ -29342,7 +29352,7 @@
                 "totalCount": 2
             },
             "issues_Open": {
-                "totalCount": 8
+                "totalCount": 9
             },
             "languages": {
                 "totalCount": 4
@@ -31721,7 +31731,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 385
+                "totalCount": 387
             },
             "url": "https://github.com/usnistgov/fipy"
         },
@@ -37676,7 +37686,7 @@
                 "name": "Python"
             },
             "pullRequests_Closed": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "pullRequests_Merged": {
                 "totalCount": 1
@@ -37796,7 +37806,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 246
+                "totalCount": 247
             },
             "url": "https://github.com/usnistgov/jsip"
         },
@@ -38663,7 +38673,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1083
+                "totalCount": 1085
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -39396,7 +39406,7 @@
                 "totalCount": 159
             },
             "pullRequests_Open": {
-                "totalCount": 7
+                "totalCount": 8
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -39700,10 +39710,10 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 15
+                "totalCount": 16
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -40916,11 +40926,11 @@
             "defaultBranchRef": {
                 "name": "main"
             },
-            "description": null,
+            "description": "NDN Traffic Dumper with anonymization and packet name extraction",
             "forks": {
                 "totalCount": 1
             },
-            "homepageUrl": null,
+            "homepageUrl": "",
             "issues_Closed": {
                 "totalCount": 2
             },
@@ -40937,7 +40947,7 @@
                 "url": "http://choosealicense.com/licenses/other/"
             },
             "mentionableUsers": {
-                "totalCount": 10
+                "totalCount": 11
             },
             "name": "ndntdump",
             "nameWithOwner": "usnistgov/ndntdump",
@@ -40952,13 +40962,13 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 0
-            },
-            "pullRequests_Open": {
                 "totalCount": 1
             },
-            "repositoryTopics": {
+            "pullRequests_Open": {
                 "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 1
             },
             "stargazers": {
                 "totalCount": 1
@@ -42666,7 +42676,7 @@
                 "totalCount": 2
             },
             "pullRequests_Open": {
-                "totalCount": 16
+                "totalCount": 17
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -43525,7 +43535,7 @@
                 "totalCount": 8
             },
             "issues_Open": {
-                "totalCount": 15
+                "totalCount": 16
             },
             "languages": {
                 "totalCount": 2
@@ -44325,7 +44335,7 @@
                 "totalCount": 328
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "repositoryTopics": {
                 "totalCount": 3
