@@ -7271,8 +7271,16 @@
         },
         "usnistgov/ndntdump": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/ndn",
+                        "topic": {
+                            "name": "ndn"
+                        },
+                        "url": "https://github.com/topics/ndn"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/ndntrace": {
