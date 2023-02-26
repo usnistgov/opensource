@@ -281,14 +281,6 @@
             },
             "nameWithOwner": "GovReady/oscal-content"
         },
-        "HL7/UTG": {
-            "labContributors": {
-                "nodes": [
-                    "mfaughn"
-                ]
-            },
-            "nameWithOwner": "HL7/UTG"
-        },
         "HL7/v2plus": {
             "labContributors": {
                 "nodes": [
@@ -2216,6 +2208,14 @@
                 ]
             },
             "nameWithOwner": "manveru/ramaze"
+        },
+        "martintb/typyEnv": {
+            "labContributors": {
+                "nodes": [
+                    "pbeaucage"
+                ]
+            },
+            "nameWithOwner": "martintb/typyEnv"
         },
         "materials-data-facility/scythe": {
             "labContributors": {
