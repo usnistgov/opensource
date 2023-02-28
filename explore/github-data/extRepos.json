@@ -321,14 +321,6 @@
             },
             "nameWithOwner": "ImportantFederalAgency/catalog"
         },
-        "ImportantFederalAgencyTest/catalog": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "ImportantFederalAgencyTest/catalog"
-        },
         "ImportantFederalAgencyTest/create-project-card-test": {
             "labContributors": {
                 "nodes": [
@@ -2724,6 +2716,14 @@
             },
             "nameWithOwner": "sacmwg/draft-ietf-sacm-coswid"
         },
+        "sandromiano/ninatool": {
+            "labContributors": {
+                "nodes": [
+                    "ggggggggg"
+                ]
+            },
+            "nameWithOwner": "sandromiano/ninatool"
+        },
         "sankalpatimilsina12/sankalpatimilsina12.github.io": {
             "labContributors": {
                 "nodes": [
@@ -3175,14 +3175,6 @@
                 ]
             },
             "nameWithOwner": "xspec/xspec"
-        },
-        "yoursunny/NDNts": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "yoursunny/NDNts"
         },
         "yoursunny/ndn-cxx-breaks": {
             "labContributors": {
