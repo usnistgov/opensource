@@ -5227,7 +5227,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2023-02-22"
+                "lastModified": "2023-02-28"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -8308,7 +8308,7 @@
             },
             "date": {
                 "created": "2016-12-05",
-                "lastModified": "2023-02-24"
+                "lastModified": "2023-02-28"
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "downloadURL": "https://api.github.com/repos/usnistgov/frvt/downloads",
@@ -15379,7 +15379,7 @@
             },
             "date": {
                 "created": "2018-02-20",
-                "lastModified": "2022-11-18"
+                "lastModified": "2023-02-28"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/hl7-igamt/downloads",
@@ -23724,7 +23724,7 @@
             },
             "date": {
                 "created": "2020-01-08",
-                "lastModified": "2023-02-21"
+                "lastModified": "2023-02-28"
             },
             "description": "This repository contains resources to support organizations’ use of the Privacy Framework. Resources include crosswalks, Profiles, guidelines, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyFrmwkResources/downloads",
@@ -26450,7 +26450,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2023-02-28"
+                "lastModified": "2023-03-01"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -26709,7 +26709,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2023-01-28"
+                "lastModified": "2023-02-28"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -27473,7 +27473,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2023-02-27"
+                "lastModified": "2023-02-28"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -35486,7 +35486,8 @@
                 "CSS",
                 "SCSS",
                 "Less",
-                "HTML"
+                "HTML",
+                "JavaScript"
             ],
             "name": "privacy_collaborative_research_cycle",
             "organization": "National Institute of Standards and Technology",
@@ -36009,7 +36010,7 @@
             },
             "date": {
                 "created": "2022-09-26",
-                "lastModified": "2023-02-07"
+                "lastModified": "2023-03-01"
             },
             "description": "This tool computes the expected link capacity in data rate (Mbit/s) for sidelink considering 5G New Radio (NR) and Long Term Evolution (LTE) communication standards, as defined by The 3rd Generation Partnership Project (3GPP). Users can input the respective configuration parameters and evaluate the resulting capacity.",
             "downloadURL": "https://api.github.com/repos/usnistgov/5G-NR-LTE-Sidelink-Capacity-Estimator/downloads",
@@ -36250,7 +36251,7 @@
             },
             "date": {
                 "created": "2022-11-01",
-                "lastModified": "2023-02-08"
+                "lastModified": "2023-02-28"
             },
             "description": "A case study for ACSAC 2022 utilizing OSCAL with a custom GitHub action to automate assessments.",
             "downloadURL": "https://api.github.com/repos/usnistgov/blossom-case-study/downloads",
@@ -37031,6 +37032,40 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/WIPP-3d-segmentation-plugin.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-02-28",
+                "lastModified": "2023-02-28"
+            },
+            "description": "Temporary repository to deploy a draft GUI to edit graph data",
+            "downloadURL": "https://api.github.com/repos/usnistgov/graph-editor/downloads",
+            "homepageURL": "https://github.com/usnistgov/graph-editor",
+            "laborHours": 0,
+            "languages": [
+                "Python"
+            ],
+            "name": "graph-editor",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/graph-editor.git",
             "status": "Development",
             "tags": [
                 "github"
