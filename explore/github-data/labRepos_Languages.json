@@ -10448,6 +10448,16 @@
                 "totalCount": 2
             }
         },
+        "usnistgov/graph-editor": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
         "usnistgov/guilogger": {
             "languages": {
                 "nodes": [
@@ -14249,9 +14259,12 @@
                     },
                     {
                         "name": "HTML"
+                    },
+                    {
+                        "name": "JavaScript"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 5
             }
         },
         "usnistgov/protomagic": {
