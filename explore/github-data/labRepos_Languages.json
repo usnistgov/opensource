@@ -1550,13 +1550,22 @@
                         "name": "CMake"
                     },
                     {
+                        "name": "Java"
+                    },
+                    {
+                        "name": "ASL"
+                    },
+                    {
                         "name": "Batchfile"
                     },
                     {
                         "name": "Makefile"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 8
             }
         },
         "usnistgov/ATICC": {
@@ -14255,10 +14264,10 @@
                         "name": "SCSS"
                     },
                     {
-                        "name": "Less"
+                        "name": "HTML"
                     },
                     {
-                        "name": "HTML"
+                        "name": "Less"
                     },
                     {
                         "name": "JavaScript"
