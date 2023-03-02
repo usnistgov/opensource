@@ -313,14 +313,6 @@
             },
             "nameWithOwner": "IHE/ITI.MHD"
         },
-        "ImportantFederalAgency/catalog": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "ImportantFederalAgency/catalog"
-        },
         "ImportantFederalAgencyTest/create-project-card-test": {
             "labContributors": {
                 "nodes": [
@@ -485,7 +477,8 @@
         "NSLS-II-SST/rsoxs_scans": {
             "labContributors": {
                 "nodes": [
-                    "BijalBPatel"
+                    "BijalBPatel",
+                    "pbeaucage"
                 ]
             },
             "nameWithOwner": "NSLS-II-SST/rsoxs_scans"
@@ -1902,6 +1895,14 @@
             },
             "nameWithOwner": "iMichaela/CRAFT"
         },
+        "iamed2/LibPQ.jl": {
+            "labContributors": {
+                "nodes": [
+                    "NicholasWMRitchie"
+                ]
+            },
+            "nameWithOwner": "iamed2/LibPQ.jl"
+        },
         "ietf-tools/datatracker": {
             "labContributors": {
                 "nodes": [
@@ -1933,14 +1934,6 @@
                 ]
             },
             "nameWithOwner": "influxdata/flux"
-        },
-        "invenia/LibPQ.jl": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "invenia/LibPQ.jl"
         },
         "iofoundry/ontology": {
             "labContributors": {
@@ -2184,6 +2177,14 @@
                 ]
             },
             "nameWithOwner": "manveru/ramaze"
+        },
+        "marbl/HG002-issues": {
+            "labContributors": {
+                "nodes": [
+                    "jzook"
+                ]
+            },
+            "nameWithOwner": "marbl/HG002-issues"
         },
         "martintb/typyEnv": {
             "labContributors": {
