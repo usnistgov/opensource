@@ -67,6 +67,25 @@
             "login": "AndrewHerzing",
             "name": null
         },
+        "Arminta-Jenkins-NIST": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/107123291?u=141592315b3de511d36ab79ade796b1e134100b7&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/OSCAL",
+                    "usnistgov/liboscal-java",
+                    "usnistgov/metaschema",
+                    "usnistgov/metaschema-java",
+                    "usnistgov/oscal-cat",
+                    "usnistgov/oscal-cli",
+                    "usnistgov/oscal-content",
+                    "usnistgov/oscal-deep-diff",
+                    "usnistgov/oscal-tools",
+                    "usnistgov/oscal-xslt"
+                ]
+            },
+            "login": "Arminta-Jenkins-NIST",
+            "name": "Arminta Jenkins"
+        },
         "AweissNIST": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/31861555?v=4",
             "contributedLabRepositories": {
@@ -1988,7 +2007,7 @@
                 ]
             },
             "login": "PricelessKay",
-            "name": "Kay"
+            "name": "Karen Price"
         },
         "RCWittmann": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3164715?v=4",
@@ -3277,6 +3296,7 @@
                     "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools",
                     "usnistgov/oscal-xslt",
+                    "usnistgov/oss-maven",
                     "usnistgov/xslt-blender"
                 ]
             },
@@ -5725,7 +5745,6 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/13452815?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/OSCAL",
                     "usnistgov/TEChallenge",
                     "usnistgov/cpsframework",
                     "usnistgov/data-quality-analysis",
@@ -7607,7 +7626,6 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/10621590?u=cf4f29be6f4979bd4f47a6bb17344f9d5eb6d1a3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/OSCAL",
                     "usnistgov/SCT4AFM",
                     "usnistgov/mfgkb",
                     "usnistgov/sctools"
