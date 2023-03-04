@@ -1746,6 +1746,12 @@
         ],
         "website": "https://pages.nist.gov/OSCAL/"
     },
+    "usnistgov/OSCAL-DEFINE": {
+        "description": "Develop Enhancements, Future Implementations and New Education",
+        "name": "usnistgov/OSCAL-DEFINE",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/OpenFSGIM": {
         "description": "A repository of software components for representing ASHRAE 201 Facility Smart Grid Information Model",
         "name": "usnistgov/OpenFSGIM",
@@ -4483,6 +4489,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/hl7-v2-schemas": {
+        "description": null,
+        "name": "usnistgov/hl7-v2-schemas",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/hl7-v2-validation-bundled": {
         "description": null,
         "name": "usnistgov/hl7-v2-validation-bundled",
@@ -6135,6 +6147,12 @@
     "usnistgov/sphere": {
         "description": null,
         "name": "usnistgov/sphere",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/sphinx-action": {
+        "description": "Github action that builds docs using sphinx and places errors inline",
+        "name": "usnistgov/sphinx-action",
         "topics": null,
         "website": null
     },
