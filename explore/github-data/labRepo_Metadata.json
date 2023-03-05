@@ -2718,7 +2718,7 @@
         "website": ""
     },
     "usnistgov/alignn": {
-        "description": "Atomistic Line Graph Neural Network",
+        "description": "Atomistic Line Graph Neural Network; https://pages.nist.gov/jarvis_leaderboard/",
         "name": "usnistgov/alignn",
         "topics": null,
         "website": "https://jarvis.nist.gov/jalignn/"
@@ -2844,10 +2844,10 @@
         "website": ""
     },
     "usnistgov/atomvision": {
-        "description": "Deep learning framework for atomistic image data",
+        "description": "Deep learning framework for atomistic image data; https://pages.nist.gov/jarvis_leaderboard/",
         "name": "usnistgov/atomvision",
         "topics": null,
-        "website": "https://arxiv.org/abs/2212.02586"
+        "website": "https://pubs.acs.org/doi/10.1021/acs.jcim.2c01533"
     },
     "usnistgov/autoSDC": {
         "description": "autonomous scanning droplet cell codebase",
