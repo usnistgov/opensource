@@ -1040,14 +1040,6 @@
             },
             "nameWithOwner": "carpentries-incubator/hpc-workflows"
         },
-        "carpentries-incubator/python-intermediate-development": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "carpentries-incubator/python-intermediate-development"
-        },
         "casework/CASE": {
             "labContributors": {
                 "nodes": [
@@ -3095,6 +3087,14 @@
                 ]
             },
             "nameWithOwner": "wigig-tools/qd-realization"
+        },
+        "williamratcliff/GNN-tutorial-APS-March-2023": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "williamratcliff/GNN-tutorial-APS-March-2023"
         },
         "williballenthin/INDXParse": {
             "labContributors": {
