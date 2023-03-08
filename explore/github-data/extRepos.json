@@ -507,6 +507,14 @@
             },
             "nameWithOwner": "NixOS/nixpkgs"
         },
+        "ORNL/Thermo4PFM": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "ORNL/Thermo4PFM"
+        },
         "Opentrons/opentrons": {
             "labContributors": {
                 "nodes": [
@@ -2073,6 +2081,14 @@
             },
             "nameWithOwner": "lightwave-lab/lightlab"
         },
+        "linkml/linkml-project-cookiecutter": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "linkml/linkml-project-cookiecutter"
+        },
         "linux-test-project/lcov": {
             "labContributors": {
                 "nodes": [
@@ -2491,14 +2507,6 @@
                 ]
             },
             "nameWithOwner": "pennersr/django-allauth"
-        },
-        "plbt5/voc-dt": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "plbt5/voc-dt"
         },
         "pollere/DCT": {
             "labContributors": {
