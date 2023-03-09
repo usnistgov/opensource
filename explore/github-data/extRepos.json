@@ -249,14 +249,6 @@
             },
             "nameWithOwner": "FDio/govpp"
         },
-        "GSA/code-gov": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "GSA/code-gov"
-        },
         "GSA/fedramp-automation": {
             "labContributors": {
                 "nodes": [
@@ -296,14 +288,6 @@
                 ]
             },
             "nameWithOwner": "HossamT/hl7-parser-playground"
-        },
-        "IBM/compliance-trestle": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "IBM/compliance-trestle"
         },
         "IHE/ITI.MHD": {
             "labContributors": {
@@ -473,6 +457,14 @@
                 ]
             },
             "nameWithOwner": "NIST-ISODB/isodbtools"
+        },
+        "NSLS-II-SST/rsoxs": {
+            "labContributors": {
+                "nodes": [
+                    "BijalBPatel"
+                ]
+            },
+            "nameWithOwner": "NSLS-II-SST/rsoxs"
         },
         "NSLS-II-SST/rsoxs_scans": {
             "labContributors": {
@@ -1547,14 +1539,6 @@
             },
             "nameWithOwner": "dwsideri/latex-cv"
         },
-        "dylandreimerink/gobpfld": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "dylandreimerink/gobpfld"
-        },
         "elabftw/elabftw": {
             "labContributors": {
                 "nodes": [
@@ -1858,6 +1842,7 @@
         "hyperspy/rosettasciio": {
             "labContributors": {
                 "nodes": [
+                    "AndrewHerzing",
                     "jat255"
                 ]
             },
@@ -2940,6 +2925,14 @@
                 ]
             },
             "nameWithOwner": "tlafarge/NICOB_app_public"
+        },
+        "tntech-ngin/capture-systemd": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "tntech-ngin/capture-systemd"
         },
         "trimblenano/trimble_cu_capstone": {
             "labContributors": {
