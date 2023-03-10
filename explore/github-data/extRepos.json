@@ -878,6 +878,14 @@
             },
             "nameWithOwner": "beartype/beartype"
         },
+        "beartype/plum": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "beartype/plum"
+        },
         "benedekfazekas/morpheus": {
             "labContributors": {
                 "nodes": [
@@ -3045,14 +3053,6 @@
                 ]
             },
             "nameWithOwner": "wendellpiez/metaschema"
-        },
-        "wesselb/plum": {
-            "labContributors": {
-                "nodes": [
-                    "tbsexton"
-                ]
-            },
-            "nameWithOwner": "wesselb/plum"
         },
         "wigig-tools/isac-plm": {
             "labContributors": {
