@@ -3003,6 +3003,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/cdf-test-method": {
+        "description": "Test method for voting common data format (CDF) specifications.",
+        "name": "usnistgov/cdf-test-method",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/cds-base": {
         "description": null,
         "name": "usnistgov/cds-base",
@@ -3780,7 +3786,7 @@
         "website": null
     },
     "usnistgov/dye_dna_plates": {
-        "description": "Software and data associated with the article titled, \"Binding, Brightness, or Noise? Extracting Temperature-dependent Properties of Dye Bound to DNA,\" Under Review.",
+        "description": "Software and data associated with the article titled, \"Binding, Brightness, or Noise? Extracting Temperature-dependent Properties of Dye Bound to DNA,\" Biophys. J. Accepted, (2023). doi:10.1016/j.bpj.2023.03.002",
         "name": "usnistgov/dye_dna_plates",
         "topics": [
             "fluorescence",
@@ -5651,6 +5657,12 @@
             "materials-science"
         ],
         "website": "https://pages.nist.gov/pfhub"
+    },
+    "usnistgov/pfhub-schema": {
+        "description": "Phase-field simulation and benchmark schema in LinkML",
+        "name": "usnistgov/pfhub-schema",
+        "topics": null,
+        "website": null
     },
     "usnistgov/pft": {
         "description": "Resources for NIST's Proprietary Fingerprint Template evaluations.",
