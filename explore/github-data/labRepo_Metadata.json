@@ -708,6 +708,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/DielectricSpectroscopyTheory": {
+        "description": null,
+        "name": "usnistgov/DielectricSpectroscopyTheory",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/DiffStress": {
         "description": "A tool to obtain tensorial stress states from lattice-strains using fully anisotropic diffraction elastic constants",
         "name": "usnistgov/DiffStress",
@@ -1595,6 +1601,12 @@
         "name": "usnistgov/NISTscan",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/NISTtheDocs2Death": {
+        "description": "ReadTheDocs work-alike for sphinx documentation at the US National Institute of Standards and Technology",
+        "name": "usnistgov/NISTtheDocs2Death",
+        "topics": null,
+        "website": null
     },
     "usnistgov/NLPER": {
         "description": "A virtual escape room game design and implemented by NIST NLP18 class.",
