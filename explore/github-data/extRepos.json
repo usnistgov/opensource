@@ -838,6 +838,14 @@
             },
             "nameWithOwner": "alexcorvi/heic2any"
         },
+        "amlabdr/ip-service": {
+            "labContributors": {
+                "nodes": [
+                    "MheniMerz"
+                ]
+            },
+            "nameWithOwner": "amlabdr/ip-service"
+        },
         "amlabdr/proxy_service": {
             "labContributors": {
                 "nodes": [
@@ -1937,6 +1945,14 @@
                 ]
             },
             "nameWithOwner": "jaybrecht/ariac_ros2"
+        },
+        "jaybrecht/ariac_tutorials": {
+            "labContributors": {
+                "nodes": [
+                    "zeidk"
+                ]
+            },
+            "nameWithOwner": "jaybrecht/ariac_tutorials"
         },
         "jazzband/django-auditlog": {
             "labContributors": {
