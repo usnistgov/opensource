@@ -2026,14 +2026,6 @@
             },
             "nameWithOwner": "julia-vscode/julia-vscode"
         },
-        "jupyterlab/jupyterlab-git": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "jupyterlab/jupyterlab-git"
-        },
         "justincpresley/ndn-sync": {
             "labContributors": {
                 "nodes": [
@@ -2516,6 +2508,14 @@
                 ]
             },
             "nameWithOwner": "pennersr/django-allauth"
+        },
+        "plotly/plotly.py": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "plotly/plotly.py"
         },
         "pollere/DCT": {
             "labContributors": {
