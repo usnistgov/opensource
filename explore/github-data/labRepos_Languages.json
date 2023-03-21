@@ -13533,10 +13533,19 @@
                         "name": "CSS"
                     },
                     {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    },
+                    {
                         "name": "JavaScript"
+                    },
+                    {
+                        "name": "SCSS"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 8
             }
         },
         "usnistgov/oar-pdr": {
