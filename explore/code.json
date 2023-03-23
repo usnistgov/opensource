@@ -4525,7 +4525,7 @@
             },
             "date": {
                 "created": "2016-03-23",
-                "lastModified": "2023-03-19"
+                "lastModified": "2023-03-22"
             },
             "description": "Microscopy Image Stitching Tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/MIST/downloads",
@@ -5227,7 +5227,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2023-03-20"
+                "lastModified": "2023-03-22"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -8308,7 +8308,7 @@
             },
             "date": {
                 "created": "2016-12-05",
-                "lastModified": "2023-03-21"
+                "lastModified": "2023-03-23"
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "downloadURL": "https://api.github.com/repos/usnistgov/frvt/downloads",
@@ -9710,7 +9710,7 @@
             },
             "date": {
                 "created": "2017-04-05",
-                "lastModified": "2023-03-14"
+                "lastModified": "2023-03-22"
             },
             "description": "Public Safety Communication modeling tools based on ns-3",
             "downloadURL": "https://api.github.com/repos/usnistgov/psc-ns3/downloads",
@@ -13961,7 +13961,7 @@
             },
             "date": {
                 "created": "2017-11-21",
-                "lastModified": "2023-01-17"
+                "lastModified": "2023-03-23"
             },
             "description": "Circuits for functions of interest to cryptography",
             "downloadURL": "https://api.github.com/repos/usnistgov/Circuits/downloads",
@@ -26891,7 +26891,7 @@
             },
             "date": {
                 "created": "2020-06-29",
-                "lastModified": "2022-12-14"
+                "lastModified": "2023-03-22"
             },
             "description": "Software test harness for running TrojAI leaderboards.",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-test-harness/downloads",
@@ -35447,7 +35447,7 @@
             },
             "date": {
                 "created": "2022-08-10",
-                "lastModified": "2023-03-09"
+                "lastModified": "2023-03-23"
             },
             "description": "ChemNLP: A Natural Language Processing based Library for Materials Chemistry Text Data",
             "downloadURL": "https://api.github.com/repos/usnistgov/chemnlp/downloads",
@@ -37326,7 +37326,7 @@
             },
             "date": {
                 "created": "2023-03-10",
-                "lastModified": "2023-03-21"
+                "lastModified": "2023-03-22"
             },
             "description": "ReadTheDocs work-alike for sphinx documentation at the US National Institute of Standards and Technology",
             "downloadURL": "https://api.github.com/repos/usnistgov/NISTtheDocs2Death/downloads",
@@ -37347,6 +37347,41 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/NISTtheDocs2Death.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-03-23",
+                "lastModified": "2023-03-23"
+            },
+            "description": "Simulation Software for Automated Vehicle Testbed",
+            "downloadURL": "https://api.github.com/repos/usnistgov/av_testbed_sim/downloads",
+            "homepageURL": "https://github.com/usnistgov/av_testbed_sim",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "Jupyter Notebook"
+            ],
+            "name": "av_testbed_sim",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/av_testbed_sim.git",
             "status": "Development",
             "tags": [
                 "github"
