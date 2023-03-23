@@ -1355,6 +1355,7 @@
         "conda-forge/staged-recipes": {
             "labContributors": {
                 "nodes": [
+                    "knc6",
                     "pbeaucage"
                 ]
             },
@@ -2042,6 +2043,14 @@
                 ]
             },
             "nameWithOwner": "kchason/case-validation-action"
+        },
+        "keredson/boddle": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "keredson/boddle"
         },
         "lambdamusic/Ontospy": {
             "labContributors": {
