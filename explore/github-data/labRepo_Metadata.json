@@ -5465,8 +5465,10 @@
     "usnistgov/oar-pdr-py": {
         "description": "Python Components for the The NIST Open Access to Research (OAR) Public Data Repository (PDR) system",
         "name": "usnistgov/oar-pdr-py",
-        "topics": null,
-        "website": null
+        "topics": [
+            "scientific-software"
+        ],
+        "website": ""
     },
     "usnistgov/oar-rmm": {
         "description": null,
