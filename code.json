@@ -1968,7 +1968,7 @@
             },
             "date": {
                 "created": "2015-06-19",
-                "lastModified": "2023-03-16"
+                "lastModified": "2023-03-23"
             },
             "description": "Wrappers around NIST REFPROP for languages such as Python, MATLAB, etc.",
             "downloadURL": "https://api.github.com/repos/usnistgov/REFPROP-wrappers/downloads",
@@ -10808,7 +10808,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2023-03-14"
+                "lastModified": "2023-03-23"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -11942,7 +11942,7 @@
             },
             "date": {
                 "created": "2017-07-14",
-                "lastModified": "2022-11-07"
+                "lastModified": "2023-03-23"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/MDCS/downloads",
@@ -12373,7 +12373,7 @@
             },
             "date": {
                 "created": "2017-08-07",
-                "lastModified": "2023-03-11"
+                "lastModified": "2023-03-24"
             },
             "description": "SCATMECH: Polarized light scattering C++ class library",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCATMECH/downloads",
@@ -14983,7 +14983,7 @@
             },
             "date": {
                 "created": "2018-02-15",
-                "lastModified": "2023-01-01"
+                "lastModified": "2023-03-23"
             },
             "description": "Scoring software for the TRECVID Activities in Extended Video (ActEV) evaluation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ActEV_Scorer/downloads",
@@ -18310,7 +18310,7 @@
             },
             "date": {
                 "created": "2018-10-12",
-                "lastModified": "2023-03-21"
+                "lastModified": "2023-03-23"
             },
             "description": "Privacy Engineering Collaboration Space",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyEngCollabSpace/downloads",
@@ -22262,7 +22262,7 @@
             },
             "date": {
                 "created": "2019-09-05",
-                "lastModified": "2022-03-20"
+                "lastModified": "2023-03-24"
             },
             "description": "Developer resources for Open Access to Research (OAR) data dissemination and public access software tools and services.",
             "downloadURL": "https://api.github.com/repos/usnistgov/oar-developer/downloads",
@@ -27271,7 +27271,7 @@
             },
             "date": {
                 "created": "2020-07-14",
-                "lastModified": "2023-01-16"
+                "lastModified": "2023-03-23"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/cdcs-docker/downloads",
@@ -28079,7 +28079,7 @@
             },
             "date": {
                 "created": "2020-09-09",
-                "lastModified": "2023-03-13"
+                "lastModified": "2023-03-23"
             },
             "description": "A repository tracking releases of NIST's ACVP server. See www.github.com/usnistgov/ACVP for the protocol.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP-Server/downloads",
@@ -30125,7 +30125,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2023-01-31"
+                "lastModified": "2023-03-23"
             },
             "description": "Python Components for the The NIST Open Access to Research (OAR) Public Data Repository (PDR) system",
             "downloadURL": "https://api.github.com/repos/usnistgov/oar-pdr-py/downloads",
@@ -30150,7 +30150,8 @@
             "repositoryURL": "git://github.com/usnistgov/oar-pdr-py.git",
             "status": "Development",
             "tags": [
-                "github"
+                "github",
+                "scientific-software"
             ],
             "vcs": "git"
         },
@@ -31916,7 +31917,7 @@
             },
             "date": {
                 "created": "2021-09-01",
-                "lastModified": "2023-03-07"
+                "lastModified": "2023-03-23"
             },
             "description": "A WebAssembly HDF5 reader/writer library ",
             "downloadURL": "https://api.github.com/repos/usnistgov/h5wasm/downloads",
