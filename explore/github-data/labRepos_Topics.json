@@ -7667,8 +7667,16 @@
         },
         "usnistgov/oar-pdr-py": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/scientific-software",
+                        "topic": {
+                            "name": "scientific-software"
+                        },
+                        "url": "https://github.com/topics/scientific-software"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/oar-rmm": {
