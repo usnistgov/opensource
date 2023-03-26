@@ -589,14 +589,6 @@
             },
             "nameWithOwner": "Ramaze/ramaze"
         },
-        "RaspberryPiFoundation/python-build-hat": {
-            "labContributors": {
-                "nodes": [
-                    "KusneNIST"
-                ]
-            },
-            "nameWithOwner": "RaspberryPiFoundation/python-build-hat"
-        },
         "RedHatProductSecurity/cvss-v4-calculator": {
             "labContributors": {
                 "nodes": [
@@ -1433,6 +1425,14 @@
                 ]
             },
             "nameWithOwner": "deepmaterials/dlmatreview"
+        },
+        "deepmaterials/scipgpt": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "deepmaterials/scipgpt"
         },
         "defenseunicorns/lula": {
             "labContributors": {
@@ -2461,14 +2461,6 @@
                 ]
             },
             "nameWithOwner": "networktocode/ntc-templates"
-        },
-        "nexusformat/definitions": {
-            "labContributors": {
-                "nodes": [
-                    "bmaranville"
-                ]
-            },
-            "nameWithOwner": "nexusformat/definitions"
         },
         "ni/nidaqmx-python": {
             "labContributors": {
