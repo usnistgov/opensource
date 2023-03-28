@@ -9,6 +9,7 @@
             "description": "All opensource scientific software.",
             "topics": [
                 "software",
+                "scientific-software",
                 "science",
                 "scientific",
                 "application",
@@ -47,7 +48,7 @@
             },
             "description": "All opensource visualisation oriented contributions.",
             "topics": [
-                "visualisation",
+                "vizualisation",
                 "3d",
                 "graph",
                 "gui",
@@ -67,6 +68,9 @@
             "description": "All AI and ML opensource models, frameworks or services.",
             "topics": [
                 "ai",
+                "ai-ml",
+                "ai-machinelearning",
+                "ai-machine-learning",
                 "model",
                 "predict",
                 "train",
@@ -107,6 +111,9 @@
             "description": "All intensive resource leveraging contributions.",
             "topics": [
                 "performance",
+                "workflow",
+                "hpc-workflow",
+                "performance-workflow",
                 "big",
                 "hpc",
                 "data",
