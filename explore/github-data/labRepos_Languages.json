@@ -4230,9 +4230,12 @@
                 "nodes": [
                     {
                         "name": "Python"
+                    },
+                    {
+                        "name": "HTML"
                     }
                 ],
-                "totalCount": 1
+                "totalCount": 2
             }
         },
         "usnistgov/NLPER": {
@@ -15888,16 +15891,13 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "Jupyter Notebook"
-                    },
-                    {
                         "name": "Python"
                     },
                     {
                         "name": "Makefile"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 2
             }
         },
         "usnistgov/thermoML": {

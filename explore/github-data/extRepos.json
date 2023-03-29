@@ -1056,6 +1056,14 @@
             },
             "nameWithOwner": "carpentries-incubator/hpc-workflows"
         },
+        "carpentries/workbench-template-md": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "carpentries/workbench-template-md"
+        },
         "casework/CASE": {
             "labContributors": {
                 "nodes": [
@@ -1979,14 +1987,6 @@
                 ]
             },
             "nameWithOwner": "jeremyevans/roda"
-        },
-        "jgm/pandoc": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "jgm/pandoc"
         },
         "jjhelmus/pyfive": {
             "labContributors": {
