@@ -4395,13 +4395,19 @@
                         "name": "C"
                     },
                     {
+                        "name": "SCSS"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
                         "name": "CMake"
                     },
                     {
                         "name": "GLSL"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 6
             }
         },
         "usnistgov/NetSimulyzer-ns3-module": {
