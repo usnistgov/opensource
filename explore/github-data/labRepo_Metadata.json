@@ -3024,8 +3024,10 @@
     "usnistgov/cdf-test-method": {
         "description": "Test method for voting common data format (CDF) specifications.",
         "name": "usnistgov/cdf-test-method",
-        "topics": null,
-        "website": null
+        "topics": [
+            "common-data-format"
+        ],
+        "website": "https://pages.nist.gov/cdf-test-method/"
     },
     "usnistgov/cds-base": {
         "description": null,
@@ -3054,8 +3056,15 @@
     "usnistgov/chemnlp": {
         "description": "ChemNLP: A Natural Language Processing based Library for Materials Chemistry Text Data",
         "name": "usnistgov/chemnlp",
-        "topics": null,
-        "website": "https://jarvis.nist.gov/jarvischemnlp/"
+        "topics": [
+            "natural-language-processing",
+            "python",
+            "nist-jarvis",
+            "ai",
+            "llm",
+            "transformers"
+        ],
+        "website": "https://arxiv.org/abs/2209.08203"
     },
     "usnistgov/chimad-phase-field": {
         "description": "Dummy repository to redirect to https://pages.nist.gov/pfhub",
