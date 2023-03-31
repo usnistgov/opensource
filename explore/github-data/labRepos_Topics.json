@@ -1462,6 +1462,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/IrradInterPy": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/JARVIS-DFT": {
             "repositoryTopics": {
                 "nodes": [],
@@ -5133,12 +5139,6 @@
                 "totalCount": 0
             }
         },
-        "usnistgov/django-mongoengine": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
         "usnistgov/django-xmltemplate-demo": {
             "repositoryTopics": {
                 "nodes": [],
@@ -7588,6 +7588,27 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "usnistgov/ns3-oran": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/ns-3",
+                        "topic": {
+                            "name": "ns-3"
+                        },
+                        "url": "https://github.com/topics/ns-3"
+                    },
+                    {
+                        "resourcePath": "/topics/o-ran",
+                        "topic": {
+                            "name": "o-ran"
+                        },
+                        "url": "https://github.com/topics/o-ran"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/oar-build": {

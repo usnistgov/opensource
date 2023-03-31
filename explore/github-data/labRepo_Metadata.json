@@ -1161,6 +1161,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/IrradInterPy": {
+        "description": "Irradiance interpolation using gray body model in Python. Includes PyQT5 GUI to load and graphically display interpolation results and functions which can be integrated into other applications",
+        "name": "usnistgov/IrradInterPy",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/JARVIS-DFT": {
         "description": null,
         "name": "usnistgov/JARVIS-DFT",
@@ -3758,12 +3764,6 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/django-mongoengine": {
-        "description": "django mongoengine integration",
-        "name": "usnistgov/django-mongoengine",
-        "topics": null,
-        "website": ""
-    },
     "usnistgov/django-xmltemplate-demo": {
         "description": "This is a prototype module demonstrating a new model for XML Templates in MDCS",
         "name": "usnistgov/django-xmltemplate-demo",
@@ -5404,6 +5404,15 @@
         "name": "usnistgov/npTDMS",
         "topics": null,
         "website": "http://nptdms.readthedocs.io"
+    },
+    "usnistgov/ns3-oran": {
+        "description": "A module that can be used to model and simulate O-RAN-like behavior in ns-3.",
+        "name": "usnistgov/ns3-oran",
+        "topics": [
+            "ns-3",
+            "o-ran"
+        ],
+        "website": ""
     },
     "usnistgov/oar-build": {
         "description": "Helper tools for building OAR components (see README_OARBUILD.md for summary)",
