@@ -515,6 +515,14 @@
             },
             "nameWithOwner": "ORNL/Thermo4PFM"
         },
+        "Open-Catalyst-Project/ocp": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "Open-Catalyst-Project/ocp"
+        },
         "Opentrons/opentrons": {
             "labContributors": {
                 "nodes": [
@@ -1223,14 +1231,6 @@
                 ]
             },
             "nameWithOwner": "casework/rdf-toolkit-action"
-        },
-        "cash/Parsivar": {
-            "labContributors": {
-                "nodes": [
-                    "isoboroff"
-                ]
-            },
-            "nameWithOwner": "cash/Parsivar"
         },
         "catppuccin/home-assistant": {
             "labContributors": {
