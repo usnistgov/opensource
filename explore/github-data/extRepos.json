@@ -678,13 +678,13 @@
             },
             "nameWithOwner": "Schematron/schematron-enhancement-proposals"
         },
-        "SciVedanta/panchamveda_ishatmananda": {
+        "SciVedanta/SciVedanta.github.io": {
             "labContributors": {
                 "nodes": [
                     "knc6"
                 ]
             },
-            "nameWithOwner": "SciVedanta/panchamveda_ishatmananda"
+            "nameWithOwner": "SciVedanta/SciVedanta.github.io"
         },
         "Sentieon/hap-eval": {
             "labContributors": {
@@ -877,6 +877,14 @@
                 ]
             },
             "nameWithOwner": "amlabdr/proxy_service"
+        },
+        "annotorious/annotorious-v2-plugins": {
+            "labContributors": {
+                "nodes": [
+                    "MyleneSimon"
+                ]
+            },
+            "nameWithOwner": "annotorious/annotorious-v2-plugins"
         },
         "astropy/astroplan": {
             "labContributors": {
@@ -2502,6 +2510,14 @@
             },
             "nameWithOwner": "pandas-dev/pandas"
         },
+        "paperless-ngx/paperless-ngx": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "paperless-ngx/paperless-ngx"
+        },
         "pennersr/django-allauth": {
             "labContributors": {
                 "nodes": [
@@ -2590,14 +2606,6 @@
                 ]
             },
             "nameWithOwner": "rda0/web-greeter-theme-luminosity"
-        },
-        "recogito/recogito-client-plugins": {
-            "labContributors": {
-                "nodes": [
-                    "MyleneSimon"
-                ]
-            },
-            "nameWithOwner": "recogito/recogito-client-plugins"
         },
         "reductus/reductus": {
             "labContributors": {
