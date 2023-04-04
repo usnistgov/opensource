@@ -475,6 +475,14 @@
             },
             "nameWithOwner": "NSLS-II/scipy-binder"
         },
+        "NTIA/scos-actions": {
+            "labContributors": {
+                "nodes": [
+                    "dgkuester"
+                ]
+            },
+            "nameWithOwner": "NTIA/scos-actions"
+        },
         "NVIDIA/AMGX": {
             "labContributors": {
                 "nodes": [
@@ -3186,6 +3194,14 @@
                 ]
             },
             "nameWithOwner": "yoursunny/ndn-cxx-breaks"
+        },
+        "zadam/trilium": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "zadam/trilium"
         },
         "zjkmxy/go-ndn": {
             "labContributors": {
