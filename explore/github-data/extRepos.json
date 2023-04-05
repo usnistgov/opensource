@@ -1344,14 +1344,6 @@
             },
             "nameWithOwner": "conda-forge/potentials-feedstock"
         },
-        "conda-forge/pymks-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "wd15"
-                ]
-            },
-            "nameWithOwner": "conda-forge/pymks-feedstock"
-        },
         "conda-forge/pyqt-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -1604,6 +1596,14 @@
                 ]
             },
             "nameWithOwner": "fishtree-attempt/r-socialsci"
+        },
+        "fonsp/Pluto.jl": {
+            "labContributors": {
+                "nodes": [
+                    "ggggggggg"
+                ]
+            },
+            "nameWithOwner": "fonsp/Pluto.jl"
         },
         "forensicswiki/wiki": {
             "labContributors": {
@@ -2535,6 +2535,14 @@
             },
             "nameWithOwner": "pennersr/django-allauth"
         },
+        "pinellolab/CRISPRme": {
+            "labContributors": {
+                "nodes": [
+                    "sdmiller93"
+                ]
+            },
+            "nameWithOwner": "pinellolab/CRISPRme"
+        },
         "plotly/plotly.js": {
             "labContributors": {
                 "nodes": [
@@ -2750,6 +2758,14 @@
                 ]
             },
             "nameWithOwner": "scattering/activation"
+        },
+        "schemaorg/schemaorg": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "schemaorg/schemaorg"
         },
         "scipy-conference/scipy_proceedings": {
             "labContributors": {

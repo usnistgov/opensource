@@ -1556,13 +1556,13 @@
                         "name": "ASL"
                     },
                     {
+                        "name": "Shell"
+                    },
+                    {
                         "name": "Batchfile"
                     },
                     {
                         "name": "Makefile"
-                    },
-                    {
-                        "name": "Shell"
                     }
                 ],
                 "totalCount": 8
@@ -5134,10 +5134,13 @@
             "languages": {
                 "nodes": [
                     {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
                         "name": "Python"
                     }
                 ],
-                "totalCount": 1
+                "totalCount": 2
             }
         },
         "usnistgov/PySTLTweak": {

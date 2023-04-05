@@ -1162,7 +1162,7 @@
         "website": null
     },
     "usnistgov/IrradInterPy": {
-        "description": "Irradiance interpolation using gray body model in Python. Includes PyQT5 GUI to load and graphically display interpolation results and functions which can be integrated into other applications",
+        "description": "Irradiance interpolation using a gray body model in Python. Includes PyQT5 GUI to load and graphically display interpolation results as well as functions for integration into other applications",
         "name": "usnistgov/IrradInterPy",
         "topics": null,
         "website": ""
