@@ -2304,14 +2304,14 @@
             "name": "Derek"
         },
         "MarcoFalke": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/6399679?u=0691974eedcc2ab5366cc1080fb1c030e87244c2&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6399679?u=82e3fd800b211a974f8ccbc0872e9cd96025ff11&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/managed-cryptocurrencies-bitcoin"
                 ]
             },
             "login": "MarcoFalke",
-            "name": null
+            "name": "MacrabFalke"
         },
         "MarkWheelhouse": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1918573?u=e0ecd41c3c29b3c843c1b231471864d2cbc75f65&v=4",
@@ -8462,6 +8462,16 @@
             "login": "cmacdonald",
             "name": "Craig Macdonald"
         },
+        "cmanion": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5713699?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/mbsdaism"
+                ]
+            },
+            "login": "cmanion",
+            "name": "Charles A. Manion"
+        },
         "cminiter": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/86003700?v=4",
             "contributedLabRepositories": {
@@ -11228,7 +11238,7 @@
                 ]
             },
             "login": "fanquake",
-            "name": "Michael Ford"
+            "name": "fanquake"
         },
         "farhanadeem": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6452355?v=4",
@@ -21128,6 +21138,16 @@
             "login": "philsong",
             "name": "\u83e0\u83dc"
         },
+        "phonghnguyen": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/31559388?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/PyHyperScattering"
+                ]
+            },
+            "login": "phonghnguyen",
+            "name": null
+        },
         "pierre-haessig": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1010404?v=4",
             "contributedLabRepositories": {
@@ -24999,7 +25019,8 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/alignn",
-                    "usnistgov/jarvis"
+                    "usnistgov/jarvis",
+                    "usnistgov/jarvis_leaderboard"
                 ]
             },
             "login": "tavazza",
