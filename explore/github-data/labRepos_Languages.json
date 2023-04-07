@@ -10297,15 +10297,9 @@
                 "nodes": [
                     {
                         "name": "C++"
-                    },
-                    {
-                        "name": "Shell"
-                    },
-                    {
-                        "name": "CMake"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 1
             }
         },
         "usnistgov/gdrive-file-io-utility": {
@@ -12003,6 +11997,9 @@
             "languages": {
                 "nodes": [
                     {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
                         "name": "Python"
                     },
                     {
@@ -12012,7 +12009,7 @@
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 4
             }
         },
         "usnistgov/jsfive": {
@@ -12388,10 +12385,13 @@
                         "name": "Python"
                     },
                     {
+                        "name": "Cython"
+                    },
+                    {
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 4
             }
         },
         "usnistgov/material-schema": {
