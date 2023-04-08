@@ -1541,6 +1541,14 @@
             },
             "nameWithOwner": "dwsideri/latex-cv"
         },
+        "elabftw/elabapi-python": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "elabftw/elabapi-python"
+        },
         "elabftw/elabftw": {
             "labContributors": {
                 "nodes": [
@@ -2888,14 +2896,6 @@
             },
             "nameWithOwner": "sphinx-contrib/doxylink"
         },
-        "sqlalchemy/sqlalchemy": {
-            "labContributors": {
-                "nodes": [
-                    "jat255"
-                ]
-            },
-            "nameWithOwner": "sqlalchemy/sqlalchemy"
-        },
         "srsran/srsRAN_4G": {
             "labContributors": {
                 "nodes": [
@@ -2967,14 +2967,6 @@
                 ]
             },
             "nameWithOwner": "tjol/sprintf-rs"
-        },
-        "tkphd/hpc-intro": {
-            "labContributors": {
-                "nodes": [
-                    "reid-a"
-                ]
-            },
-            "nameWithOwner": "tkphd/hpc-intro"
         },
         "tlafarge/NICOB_app_public": {
             "labContributors": {
@@ -3095,14 +3087,6 @@
                 ]
             },
             "nameWithOwner": "w3c/sdw"
-        },
-        "wendellpiez/metaschema": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "wendellpiez/metaschema"
         },
         "wendellpiez/oscal-xslt": {
             "labContributors": {
