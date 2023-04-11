@@ -2736,7 +2736,7 @@
         "website": ""
     },
     "usnistgov/alignn": {
-        "description": "Atomistic Line Graph Neural Network; https://pages.nist.gov/jarvis_leaderboard/",
+        "description": "Atomistic Line Graph Neural Network",
         "name": "usnistgov/alignn",
         "topics": null,
         "website": "https://jarvis.nist.gov/jalignn/"
@@ -6383,15 +6383,21 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/thermo-extrap": {
-        "description": "Thermodynamic Extrapolation/Interpolation Library",
-        "name": "usnistgov/thermo-extrap",
-        "topics": null,
-        "website": null
-    },
     "usnistgov/thermoML": {
         "description": null,
         "name": "usnistgov/thermoML",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/thermoextrap": {
+        "description": "Thermodynamic Extrapolation/Interpolation Library",
+        "name": "usnistgov/thermoextrap",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/thermoextrap-data": {
+        "description": null,
+        "name": "usnistgov/thermoextrap-data",
         "topics": null,
         "website": null
     },
