@@ -814,14 +814,6 @@
             },
             "nameWithOwner": "abusch/sinuous"
         },
-        "adriancable/webtransport-go": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "adriancable/webtransport-go"
-        },
         "adriankumpf/teslamate": {
             "labContributors": {
                 "nodes": [
@@ -3155,13 +3147,13 @@
             },
             "nameWithOwner": "wjakob/nanobind"
         },
-        "wpk-nist-gov/thermo-extrap": {
+        "wpk-nist-gov/thermoextrap": {
             "labContributors": {
                 "nodes": [
                     "JIMonroe"
                 ]
             },
-            "nameWithOwner": "wpk-nist-gov/thermo-extrap"
+            "nameWithOwner": "wpk-nist-gov/thermoextrap"
         },
         "wyuenho/emacs-pet": {
             "labContributors": {
@@ -3202,6 +3194,14 @@
                 ]
             },
             "nameWithOwner": "zadam/trilium"
+        },
+        "zeromq/zproject": {
+            "labContributors": {
+                "nodes": [
+                    "tblattner"
+                ]
+            },
+            "nameWithOwner": "zeromq/zproject"
         },
         "zjkmxy/go-ndn": {
             "labContributors": {
