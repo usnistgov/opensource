@@ -629,14 +629,6 @@
             },
             "nameWithOwner": "Rene2mt/OSCAL"
         },
-        "RobotnikAutomation/rbkairos_sim": {
-            "labContributors": {
-                "nodes": [
-                    "zeidk"
-                ]
-            },
-            "nameWithOwner": "RobotnikAutomation/rbkairos_sim"
-        },
         "SBuercklin/UnitfulChainRules.jl": {
             "labContributors": {
                 "nodes": [
@@ -1906,6 +1898,14 @@
             },
             "nameWithOwner": "ietf-wg-uuidrev/rfc4122bis"
         },
+        "ietf/wiki.ietf.org": {
+            "labContributors": {
+                "nodes": [
+                    "jimfenton"
+                ]
+            },
+            "nameWithOwner": "ietf/wiki.ietf.org"
+        },
         "iluwatar/uml-reverse-mapper": {
             "labContributors": {
                 "nodes": [
@@ -2220,6 +2220,14 @@
                 ]
             },
             "nameWithOwner": "materialsvirtuallab/maml"
+        },
+        "mattieserver/netbox-topology-views": {
+            "labContributors": {
+                "nodes": [
+                    "borchert-nist"
+                ]
+            },
+            "nameWithOwner": "mattieserver/netbox-topology-views"
         },
         "mermaid-js/mermaid": {
             "labContributors": {

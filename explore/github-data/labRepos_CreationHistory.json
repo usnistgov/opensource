@@ -4850,6 +4850,11 @@
             "firstCommitAt": "2016-01-05T15:28:22Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/test": {
+            "createdAt": "2023-04-11T18:43:05Z",
+            "firstCommitAt": "2023-04-11T18:43:24Z",
+            "initBeforeGitHubRepo": false
+        },
         "usnistgov/testais": {
             "createdAt": "2021-03-15T17:41:23Z",
             "firstCommitAt": "2021-06-07T14:21:02Z",
@@ -4873,6 +4878,11 @@
         "usnistgov/thermoextrap": {
             "createdAt": "2020-07-01T14:21:06Z",
             "firstCommitAt": "2020-03-02T20:01:13Z",
+            "initBeforeGitHubRepo": true
+        },
+        "usnistgov/thermoextrap-archive": {
+            "createdAt": "2023-04-11T12:42:55Z",
+            "firstCommitAt": "2020-03-02T20:10:08Z",
             "initBeforeGitHubRepo": true
         },
         "usnistgov/thermoextrap-data": {
