@@ -402,6 +402,14 @@
             },
             "nameWithOwner": "KittensAreDaBest/glass"
         },
+        "LLNL/ExaCA": {
+            "labContributors": {
+                "nodes": [
+                    "creuzige"
+                ]
+            },
+            "nameWithOwner": "LLNL/ExaCA"
+        },
         "Lambda-Emacs/lambda-line": {
             "labContributors": {
                 "nodes": [
@@ -1071,6 +1079,14 @@
                 ]
             },
             "nameWithOwner": "carpentries-incubator/hpc-workflows"
+        },
+        "carpentries/sandpaper": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "carpentries/sandpaper"
         },
         "carpentries/workbench-template-md": {
             "labContributors": {

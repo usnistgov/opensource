@@ -15261,6 +15261,31 @@
                 "totalCount": 1
             }
         },
+        "usnistgov/semait_mizr": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "R"
+                    },
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 6
+            }
+        },
         "usnistgov/semantic-segmentation-fc-densenet": {
             "languages": {
                 "nodes": [
