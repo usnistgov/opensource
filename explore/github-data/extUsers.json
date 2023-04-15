@@ -4712,7 +4712,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/86842?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/OSCAL"
+                    "usnistgov/OSCAL",
+                    "usnistgov/hugo-uswds-docs"
                 ]
             },
             "login": "afeld",
@@ -12432,6 +12433,16 @@
             },
             "login": "gregdel",
             "name": "Gr\u00e9goire Delattre"
+        },
+        "gregelin": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/24979?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/oscal-cli"
+                ]
+            },
+            "login": "gregelin",
+            "name": "Greg Elin"
         },
         "grimd34th": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/934782?u=7385bec6742dbe25a557515f92a49d046136dec8&v=4",
