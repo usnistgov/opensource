@@ -136,14 +136,6 @@
             },
             "nameWithOwner": "Boulder-Cryogenic-Quantum-Testbed/scresonators-samples"
         },
-        "Boulder-Cryogenic-Quantum-Testbed/simple-resonator-mask": {
-            "labContributors": {
-                "nodes": [
-                    "crmcrae"
-                ]
-            },
-            "nameWithOwner": "Boulder-Cryogenic-Quantum-Testbed/simple-resonator-mask"
-        },
         "BugsFramework/BF": {
             "labContributors": {
                 "nodes": [
@@ -288,14 +280,6 @@
                 ]
             },
             "nameWithOwner": "IHE/ITI.MHD"
-        },
-        "ImportantFederalAgencyTest/create-project-card-test": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "ImportantFederalAgencyTest/create-project-card-test"
         },
         "ImportantFederalAgencyTest/remove-project-card-test": {
             "labContributors": {
@@ -1465,14 +1449,6 @@
                 ]
             },
             "nameWithOwner": "devyanijivani/pygraspi"
-        },
-        "dfrws/dfrws2006-challenge": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "dfrws/dfrws2006-challenge"
         },
         "dfxml-working-group/dfxml_cpp": {
             "labContributors": {
@@ -3178,6 +3154,14 @@
                 ]
             },
             "nameWithOwner": "wyuenho/emacs-pet"
+        },
+        "xarray-contrib/xarray-tutorial": {
+            "labContributors": {
+                "nodes": [
+                    "BijalBPatel"
+                ]
+            },
+            "nameWithOwner": "xarray-contrib/xarray-tutorial"
         },
         "xee5ch/asdf-oscal-cli": {
             "labContributors": {
