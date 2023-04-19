@@ -86,7 +86,8 @@
                     "usnistgov/oscal-content",
                     "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools",
-                    "usnistgov/oscal-xslt"
+                    "usnistgov/oscal-xslt",
+                    "usnistgov/xslt3-functions"
                 ]
             },
             "login": "Arminta-Jenkins-NIST",
@@ -213,7 +214,8 @@
                     "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools",
                     "usnistgov/oscal-xslt",
-                    "usnistgov/silvir"
+                    "usnistgov/silvir",
+                    "usnistgov/xslt3-functions"
                 ]
             },
             "login": "Compton-NIST",
@@ -637,7 +639,8 @@
                     "usnistgov/oscal-content",
                     "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools",
-                    "usnistgov/oscal-xslt"
+                    "usnistgov/oscal-xslt",
+                    "usnistgov/xslt3-functions"
                 ]
             },
             "login": "JustKuzya",
@@ -2028,6 +2031,7 @@
                     "usnistgov/xml-util",
                     "usnistgov/xml_utils",
                     "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions",
                     "usnistgov/yabadaba",
                     "usnistgov/youbot"
                 ]
@@ -3312,6 +3316,7 @@
                     "usnistgov/xml-util",
                     "usnistgov/xml_utils",
                     "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions",
                     "usnistgov/yabadaba",
                     "usnistgov/youbot"
                 ]
@@ -3340,7 +3345,8 @@
                     "usnistgov/oscal-tools",
                     "usnistgov/oscal-xslt",
                     "usnistgov/oss-maven",
-                    "usnistgov/xslt-blender"
+                    "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions"
                 ]
             },
             "login": "aj-stein-nist",
@@ -5179,6 +5185,7 @@
                     "usnistgov/xml-util",
                     "usnistgov/xml_utils",
                     "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions",
                     "usnistgov/yabadaba",
                     "usnistgov/youbot"
                 ]
@@ -5280,7 +5287,8 @@
                     "usnistgov/schematron",
                     "usnistgov/swid-tools",
                     "usnistgov/vulntology",
-                    "usnistgov/xslt-blender"
+                    "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions"
                 ]
             },
             "login": "david-waltermire-nist",
@@ -7048,6 +7056,7 @@
                     "usnistgov/xml-util",
                     "usnistgov/xml_utils",
                     "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions",
                     "usnistgov/yabadaba",
                     "usnistgov/youbot"
                 ]
@@ -7152,7 +7161,8 @@
                     "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools",
                     "usnistgov/oscal-xslt",
-                    "usnistgov/xslt-blender"
+                    "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions"
                 ]
             },
             "login": "iMichaela",
@@ -8844,6 +8854,7 @@
                     "usnistgov/xml-util",
                     "usnistgov/xml_utils",
                     "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions",
                     "usnistgov/yabadaba",
                     "usnistgov/youbot"
                 ]
@@ -10197,6 +10208,7 @@
                     "usnistgov/xml-util",
                     "usnistgov/xml_utils",
                     "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions",
                     "usnistgov/yabadaba",
                     "usnistgov/youbot"
                 ]
@@ -11412,6 +11424,7 @@
                     "usnistgov/xml-util",
                     "usnistgov/xml_utils",
                     "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions",
                     "usnistgov/yabadaba",
                     "usnistgov/youbot"
                 ]
@@ -12606,6 +12619,7 @@
                     "usnistgov/xml-util",
                     "usnistgov/xml_utils",
                     "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions",
                     "usnistgov/yabadaba",
                     "usnistgov/youbot"
                 ]
@@ -12839,7 +12853,8 @@
                     "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools",
                     "usnistgov/oscal-xslt",
-                    "usnistgov/xslt-blender"
+                    "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions"
                 ]
             },
             "login": "nikitawootten-nist",
@@ -14584,6 +14599,7 @@
                     "usnistgov/xml-util",
                     "usnistgov/xml_utils",
                     "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions",
                     "usnistgov/yabadaba",
                     "usnistgov/youbot"
                 ]
@@ -15418,7 +15434,8 @@
                     "usnistgov/oscal-deep-diff",
                     "usnistgov/oscal-tools",
                     "usnistgov/oscal-xslt",
-                    "usnistgov/xslt-blender"
+                    "usnistgov/xslt-blender",
+                    "usnistgov/xslt3-functions"
                 ]
             },
             "login": "wendellpiez",
