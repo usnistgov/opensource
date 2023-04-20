@@ -1280,6 +1280,14 @@
             },
             "nameWithOwner": "community/community"
         },
+        "conda-forge/atomman-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "lmhale99"
+                ]
+            },
+            "nameWithOwner": "conda-forge/atomman-feedstock"
+        },
         "conda-forge/cdcs-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -1857,14 +1865,6 @@
                 ]
             },
             "nameWithOwner": "i-pi/i-pi"
-        },
-        "iMichaela/CRAFT": {
-            "labContributors": {
-                "nodes": [
-                    "JustKuzya"
-                ]
-            },
-            "nameWithOwner": "iMichaela/CRAFT"
         },
         "iamed2/LibPQ.jl": {
             "labContributors": {
