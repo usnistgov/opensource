@@ -1072,6 +1072,14 @@
             },
             "nameWithOwner": "carpentries-incubator/hpc-workflows"
         },
+        "carpentries/lesson-transition": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "carpentries/lesson-transition"
+        },
         "carpentries/sandpaper": {
             "labContributors": {
                 "nodes": [
@@ -1800,6 +1808,15 @@
                 ]
             },
             "nameWithOwner": "hpc-carpentry/hpc-python"
+        },
+        "hpc-carpentry/old-hpc-workflows": {
+            "labContributors": {
+                "nodes": [
+                    "reid-a",
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "hpc-carpentry/old-hpc-workflows"
         },
         "hpc-workshops/carpentrycon-lightning-talk": {
             "labContributors": {
