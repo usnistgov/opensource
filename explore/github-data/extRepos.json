@@ -24,14 +24,6 @@
             },
             "nameWithOwner": "11th-ndn-hackathon/ndn-fch-worker"
         },
-        "4dn-dcic/tibanna": {
-            "labContributors": {
-                "nodes": [
-                    "nate-d-olson"
-                ]
-            },
-            "nameWithOwner": "4dn-dcic/tibanna"
-        },
         "ADLINK-IST/opensplice": {
             "labContributors": {
                 "nodes": [
@@ -2463,6 +2455,14 @@
             },
             "nameWithOwner": "ni/nidaqmx-python"
         },
+        "nikblonder/oar-dmp-angular-ui": {
+            "labContributors": {
+                "nodes": [
+                    "chuanlin2018"
+                ]
+            },
+            "nameWithOwner": "nikblonder/oar-dmp-angular-ui"
+        },
         "nikitawootten/infra": {
             "labContributors": {
                 "nodes": [
@@ -2615,14 +2615,6 @@
                 ]
             },
             "nameWithOwner": "pydata/xarray"
-        },
-        "pyodide/pyodide": {
-            "labContributors": {
-                "nodes": [
-                    "bmaranville"
-                ]
-            },
-            "nameWithOwner": "pyodide/pyodide"
         },
         "qiskit-community/qiskit-community-tutorials": {
             "labContributors": {
