@@ -718,14 +718,6 @@
             },
             "nameWithOwner": "TLP-COI/tenor-annotation"
         },
-        "TLP-COI/text-data-course": {
-            "labContributors": {
-                "nodes": [
-                    "tbsexton"
-                ]
-            },
-            "nameWithOwner": "TLP-COI/text-data-course"
-        },
         "TUHH-TVT/openCOSMO-RS_cpp": {
             "labContributors": {
                 "nodes": [
@@ -2376,8 +2368,7 @@
         "named-data/ndncert": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/ndncert"

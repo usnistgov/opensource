@@ -5941,6 +5941,12 @@
         "topics": null,
         "website": "http://swcarpentry.github.io/python-novice-gapminder/"
     },
+    "usnistgov/pytorch_utils": {
+        "description": "Collection of PyTorch model training utils shared across many repos.",
+        "name": "usnistgov/pytorch_utils",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/qd-realization": {
         "description": "A quasi-deterministic (Q-D) channel implementation in MATLAB software",
         "name": "usnistgov/qd-realization",
