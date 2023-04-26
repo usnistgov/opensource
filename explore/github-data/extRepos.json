@@ -257,14 +257,6 @@
             },
             "nameWithOwner": "HL7/v2plus"
         },
-        "HossamT/hl7-parser-playground": {
-            "labContributors": {
-                "nodes": [
-                    "carolinerosin"
-                ]
-            },
-            "nameWithOwner": "HossamT/hl7-parser-playground"
-        },
         "IHE/ITI.MHD": {
             "labContributors": {
                 "nodes": [
@@ -782,14 +774,6 @@
             },
             "nameWithOwner": "VisionSystemsInc/pix2face"
         },
-        "abusch/sinuous": {
-            "labContributors": {
-                "nodes": [
-                    "jat255"
-                ]
-            },
-            "nameWithOwner": "abusch/sinuous"
-        },
         "adriankumpf/teslamate": {
             "labContributors": {
                 "nodes": [
@@ -853,6 +837,14 @@
                 ]
             },
             "nameWithOwner": "annotorious/annotorious-v2-plugins"
+        },
+        "astropenguin/xarray-dataclasses": {
+            "labContributors": {
+                "nodes": [
+                    "tbsexton"
+                ]
+            },
+            "nameWithOwner": "astropenguin/xarray-dataclasses"
         },
         "astropy/astroplan": {
             "labContributors": {
@@ -1923,14 +1915,6 @@
             },
             "nameWithOwner": "iofoundry/ontology"
         },
-        "iovisor/ubpf": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "iovisor/ubpf"
-        },
         "jaybrecht/ariac_ros2": {
             "labContributors": {
                 "nodes": [
@@ -2335,8 +2319,7 @@
         "named-data/ndn-cxx": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/ndn-cxx"
