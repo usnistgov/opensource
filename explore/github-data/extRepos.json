@@ -2234,8 +2234,7 @@
         "named-data/NFD": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/NFD"
@@ -2243,8 +2242,7 @@
         "named-data/NLSR": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/NLSR"
@@ -2943,14 +2941,6 @@
             },
             "nameWithOwner": "tntech-ngin/capture-systemd"
         },
-        "trimblenano/trimble_cu_capstone": {
-            "labContributors": {
-                "nodes": [
-                    "benerautio"
-                ]
-            },
-            "nameWithOwner": "trimblenano/trimble_cu_capstone"
-        },
         "tristanstraub/thecreeps-godotclj": {
             "labContributors": {
                 "nodes": [
@@ -2982,6 +2972,22 @@
                 ]
             },
             "nameWithOwner": "ucoProject/UCO"
+        },
+        "ucoProject/UCO-Profile-Example": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "ucoProject/UCO-Profile-Example"
+        },
+        "ucoProject/UCO-Profile-FOAF": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "ucoProject/UCO-Profile-FOAF"
         },
         "ucoProject/UCO-Taxonomy-MIME": {
             "labContributors": {
