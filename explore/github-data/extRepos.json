@@ -782,6 +782,14 @@
             },
             "nameWithOwner": "ahyatt/ekg"
         },
+        "aimat-lab/gcnn_keras": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "aimat-lab/gcnn_keras"
+        },
         "aldayuan/centralized-exercise-breakout-2": {
             "labContributors": {
                 "nodes": [
@@ -1287,14 +1295,6 @@
                 ]
             },
             "nameWithOwner": "conda-forge/cyrsoxs-feedstock"
-        },
-        "conda-forge/fipy-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "conda-forge/fipy-feedstock"
         },
         "conda-forge/jarvis-tools-feedstock": {
             "labContributors": {
