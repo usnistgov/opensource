@@ -1101,12 +1101,6 @@
         "topics": null,
         "website": "https://www.nist.gov/services-resources/software/ifc-file-analyzer"
     },
-    "usnistgov/IREX10": {
-        "description": "NIST evaluation of iris recognition technology",
-        "name": "usnistgov/IREX10",
-        "topics": null,
-        "website": "https://www.nist.gov/programs-projects/iris-exchange-irex-x-ongoing-evaluation-iris-recognition"
-    },
     "usnistgov/IREX10_Verification": {
         "description": "IREX10 Verification (one-to-one) Track",
         "name": "usnistgov/IREX10_Verification",
@@ -5134,6 +5128,12 @@
         "name": "usnistgov/modelmeth",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/module-utilities": {
+        "description": null,
+        "name": "usnistgov/module-utilities",
+        "topics": null,
+        "website": null
     },
     "usnistgov/mosaic": {
         "description": "A modular single-molecule analysis interface",
