@@ -2859,7 +2859,7 @@
         "description": "Atomistic Calculations on Quantum Computers",
         "name": "usnistgov/atomqc",
         "topics": null,
-        "website": ""
+        "website": "https://doi.org/10.1088/1361-648X/ac1154"
     },
     "usnistgov/atomvision": {
         "description": "Deep learning framework for atomistic image data",
@@ -6034,6 +6034,12 @@
     "usnistgov/robotpeginhole": {
         "description": "Using Gazebo and ROS 1 Noetic on windows to run Peg-in-hole Robot Wrist F/T Experiments  using NIST pegboard/",
         "name": "usnistgov/robotpeginhole",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ros_carla_seri": {
+        "description": "ROS bridge for CARLA for the SERI Project",
+        "name": "usnistgov/ros_carla_seri",
         "topics": null,
         "website": null
     },

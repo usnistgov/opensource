@@ -910,14 +910,6 @@
             },
             "nameWithOwner": "beyucel/snakemake-hacking"
         },
-        "bioconda/bioconda-recipes": {
-            "labContributors": {
-                "nodes": [
-                    "nate-d-olson"
-                ]
-            },
-            "nameWithOwner": "bioconda/bioconda-recipes"
-        },
         "biometricITC/Eye-Toolbox": {
             "labContributors": {
                 "nodes": [
@@ -2365,7 +2357,6 @@
         "named-data/python-ndn": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
                     "yoursunny"
                 ]
             },
