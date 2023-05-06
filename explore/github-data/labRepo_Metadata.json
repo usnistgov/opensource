@@ -1602,6 +1602,12 @@
         "topics": null,
         "website": "http://www.nist.gov/mml/csd/informatics_research/srsw.cfm"
     },
+    "usnistgov/NIST_Sample": {
+        "description": "NIST Sample Repository ",
+        "name": "usnistgov/NIST_Sample",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/NISTfit": {
         "description": "A heavily abstracted C++-based kernel for fitting correlations",
         "name": "usnistgov/NISTfit",
@@ -5378,6 +5384,12 @@
     "usnistgov/nist-supercloud": {
         "description": null,
         "name": "usnistgov/nist-supercloud",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/nist_umis": {
+        "description": "Python version of the UMIS website",
+        "name": "usnistgov/nist_umis",
         "topics": null,
         "website": null
     },
