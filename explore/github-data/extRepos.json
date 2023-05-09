@@ -169,46 +169,6 @@
             },
             "nameWithOwner": "CVEProject/cve-services"
         },
-        "ChalkLab/CakePHP_TRC": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "ChalkLab/CakePHP_TRC"
-        },
-        "ChalkLab/Dataset-NIST-TRC-JSONLD": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "ChalkLab/Dataset-NIST-TRC-JSONLD"
-        },
-        "ChalkLab/Dataset-NIST-TRC-MySQL": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "ChalkLab/Dataset-NIST-TRC-MySQL"
-        },
-        "ChalkLab/SciDataLib": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "ChalkLab/SciDataLib"
-        },
-        "ChalkLab/SciFlow": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "ChalkLab/SciFlow"
-        },
         "ClapeyronThermo/Clapeyron.jl": {
             "labContributors": {
                 "nodes": [
@@ -1158,14 +1118,6 @@
             },
             "nameWithOwner": "c-w/ghp-import"
         },
-        "caddyserver/caddy": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "caddyserver/caddy"
-        },
         "carpentries-incubator/hpc-intro": {
             "labContributors": {
                 "nodes": [
@@ -1368,6 +1320,46 @@
             },
             "nameWithOwner": "catppuccin/home-assistant"
         },
+        "chalklab/CakePHP_TRC": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "chalklab/CakePHP_TRC"
+        },
+        "chalklab/Dataset-NIST-TRC-JSONLD": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "chalklab/Dataset-NIST-TRC-JSONLD"
+        },
+        "chalklab/Dataset-NIST-TRC-MySQL": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "chalklab/Dataset-NIST-TRC-MySQL"
+        },
+        "chalklab/SciDataLib": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "chalklab/SciDataLib"
+        },
+        "chalklab/SciFlow": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "chalklab/SciFlow"
+        },
         "cisco/libacvp": {
             "labContributors": {
                 "nodes": [
@@ -1489,6 +1481,14 @@
                 ]
             },
             "nameWithOwner": "criosx/molgroups"
+        },
+        "criosx/sans_ml_streamlit": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "criosx/sans_ml_streamlit"
         },
         "dan2097/opsin": {
             "labContributors": {
@@ -1653,6 +1653,14 @@
                 ]
             },
             "nameWithOwner": "dwsideri/latex-cv"
+        },
+        "edmcouncil/rdf-toolkit": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "edmcouncil/rdf-toolkit"
         },
         "elabftw/elabapi-python": {
             "labContributors": {
@@ -2436,8 +2444,7 @@
         "named-data/YaNFD": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/YaNFD"
@@ -3180,6 +3187,14 @@
                 ]
             },
             "nameWithOwner": "ucoProject/UCO"
+        },
+        "ucoProject/UCO-Profile-BFO": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "ucoProject/UCO-Profile-BFO"
         },
         "ucoProject/UCO-Profile-Example": {
             "labContributors": {
