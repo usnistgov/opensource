@@ -370,14 +370,6 @@
             },
             "nameWithOwner": "JuliaDynamics/DrWatson.jl"
         },
-        "JuliaIO/HDF5.jl": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "JuliaIO/HDF5.jl"
-        },
         "JuliaLang/julia": {
             "labContributors": {
                 "nodes": [
@@ -797,14 +789,6 @@
                 ]
             },
             "nameWithOwner": "TrellixVulnTeam/NexusLIMS_05C4"
-        },
-        "UMD-ENMA165/4-21-22-Class": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "UMD-ENMA165/4-21-22-Class"
         },
         "UMD-ENMA165/file_reading": {
             "labContributors": {
@@ -1423,6 +1407,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/cyrsoxs-feedstock"
+        },
+        "conda-forge/gmsh-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "guyer"
+                ]
+            },
+            "nameWithOwner": "conda-forge/gmsh-feedstock"
         },
         "conda-forge/jarvis-tools-feedstock": {
             "labContributors": {
@@ -2277,14 +2269,6 @@
                 ]
             },
             "nameWithOwner": "lycheeverse/lychee"
-        },
-        "lycheeverse/lychee-action": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "lycheeverse/lychee-action"
         },
         "macports/macports-ports": {
             "labContributors": {
