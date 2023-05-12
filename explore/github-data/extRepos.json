@@ -370,14 +370,6 @@
             },
             "nameWithOwner": "JuliaDynamics/DrWatson.jl"
         },
-        "JuliaLang/julia": {
-            "labContributors": {
-                "nodes": [
-                    "ggggggggg"
-                ]
-            },
-            "nameWithOwner": "JuliaLang/julia"
-        },
         "JuliaLang/juliaup": {
             "labContributors": {
                 "nodes": [
@@ -813,14 +805,6 @@
                 ]
             },
             "nameWithOwner": "UMD-ENMA165/loop-de-loop"
-        },
-        "VisionSystemsInc/pix2face": {
-            "labContributors": {
-                "nodes": [
-                    "mlngan"
-                ]
-            },
-            "nameWithOwner": "VisionSystemsInc/pix2face"
         },
         "adriankumpf/teslamate": {
             "labContributors": {
@@ -1376,6 +1360,14 @@
             },
             "nameWithOwner": "community/community"
         },
+        "conda-forge/analphipy-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "wpk-nist-gov"
+                ]
+            },
+            "nameWithOwner": "conda-forge/analphipy-feedstock"
+        },
         "conda-forge/atomman-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -1391,6 +1383,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/cdcs-feedstock"
+        },
+        "conda-forge/cmomy-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "wpk-nist-gov"
+                ]
+            },
+            "nameWithOwner": "conda-forge/cmomy-feedstock"
         },
         "conda-forge/conda-forge.github.io": {
             "labContributors": {
@@ -1457,6 +1457,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/staged-recipes"
+        },
+        "conda-forge/tmmc-lnpy-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "wpk-nist-gov"
+                ]
+            },
+            "nameWithOwner": "conda-forge/tmmc-lnpy-feedstock"
         },
         "conda-forge/yabadaba-feedstock": {
             "labContributors": {
@@ -2133,6 +2141,14 @@
                 ]
             },
             "nameWithOwner": "johnnoone/json-spec"
+        },
+        "joshloyal/sliced": {
+            "labContributors": {
+                "nodes": [
+                    "bpsut"
+                ]
+            },
+            "nameWithOwner": "joshloyal/sliced"
         },
         "julia-vscode/julia-vscode": {
             "labContributors": {
