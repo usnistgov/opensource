@@ -1432,14 +1432,6 @@
             },
             "nameWithOwner": "conda-forge/potentials-feedstock"
         },
-        "conda-forge/pyqt-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "conda-forge/pyqt-feedstock"
-        },
         "conda-forge/sasview-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -1457,6 +1449,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/staged-recipes"
+        },
+        "conda-forge/thermoextrap-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "wpk-nist-gov"
+                ]
+            },
+            "nameWithOwner": "conda-forge/thermoextrap-feedstock"
         },
         "conda-forge/tmmc-lnpy-feedstock": {
             "labContributors": {
@@ -2882,14 +2882,6 @@
                 ]
             },
             "nameWithOwner": "ry-schneider/Iterative_Volterra_Propagator"
-        },
-        "sacmwg/draft-ietf-sacm-coswid": {
-            "labContributors": {
-                "nodes": [
-                    "david-waltermire-nist"
-                ]
-            },
-            "nameWithOwner": "sacmwg/draft-ietf-sacm-coswid"
         },
         "sandromiano/ninatool": {
             "labContributors": {
