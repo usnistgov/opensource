@@ -710,6 +710,14 @@
             },
             "nameWithOwner": "SciVedanta/SciVedanta.github.io"
         },
+        "SemanticComputing/fuseki-docker": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "SemanticComputing/fuseki-docker"
+        },
         "Sentieon/hap-eval": {
             "labContributors": {
                 "nodes": [
@@ -1839,14 +1847,6 @@
             },
             "nameWithOwner": "guyer/mpilogging"
         },
-        "gvwilson/sdlayout": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "gvwilson/sdlayout"
-        },
         "gvwilson/sdxpy": {
             "labContributors": {
                 "nodes": [
@@ -1986,6 +1986,14 @@
                 ]
             },
             "nameWithOwner": "hri-methods-metrics/hri-methods-metrics.github.io"
+        },
+        "huggingface/datasets": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "huggingface/datasets"
         },
         "hydra-repo/hydra-repo.io": {
             "labContributors": {
