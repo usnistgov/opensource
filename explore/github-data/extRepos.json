@@ -249,6 +249,14 @@
             },
             "nameWithOwner": "FDio/govpp"
         },
+        "FHIR/packages": {
+            "labContributors": {
+                "nodes": [
+                    "mfaughn"
+                ]
+            },
+            "nameWithOwner": "FHIR/packages"
+        },
         "GSA/fedramp-automation": {
             "labContributors": {
                 "nodes": [
@@ -849,7 +857,8 @@
         "aj-stein-nist/oscal-2023-workshop": {
             "labContributors": {
                 "nodes": [
-                    "nikitawootten-nist"
+                    "nikitawootten-nist",
+                    "wendellpiez"
                 ]
             },
             "nameWithOwner": "aj-stein-nist/oscal-2023-workshop"
@@ -1813,6 +1822,14 @@
                 ]
             },
             "nameWithOwner": "globus/globus-sample-data-portal"
+        },
+        "golang/go": {
+            "labContributors": {
+                "nodes": [
+                    "joefowler"
+                ]
+            },
+            "nameWithOwner": "golang/go"
         },
         "google/identity-credential": {
             "labContributors": {
