@@ -442,6 +442,14 @@
             },
             "nameWithOwner": "LibraryOfCongress/bagit-python"
         },
+        "Lightning-AI/lit-llama": {
+            "labContributors": {
+                "nodes": [
+                    "DerekJuba-NIST"
+                ]
+            },
+            "nameWithOwner": "Lightning-AI/lit-llama"
+        },
         "LydiaNosali/multi_tier_cache_simulator": {
             "labContributors": {
                 "nodes": [
@@ -966,6 +974,14 @@
                 ]
             },
             "nameWithOwner": "beartype/plum"
+        },
+        "benajamin/kkcalc": {
+            "labContributors": {
+                "nodes": [
+                    "delongchamp"
+                ]
+            },
+            "nameWithOwner": "benajamin/kkcalc"
         },
         "benedekfazekas/morpheus": {
             "labContributors": {
@@ -1806,14 +1822,6 @@
                 ]
             },
             "nameWithOwner": "github/docs"
-        },
-        "globus/globus-sample-data-portal": {
-            "labContributors": {
-                "nodes": [
-                    "elmiomar"
-                ]
-            },
-            "nameWithOwner": "globus/globus-sample-data-portal"
         },
         "golang/go": {
             "labContributors": {
@@ -2983,8 +2991,7 @@
         "signetlabdei/qd-realization": {
             "labContributors": {
                 "nodes": [
-                    "neerajvarshney",
-                    "steveblandino"
+                    "neerajvarshney"
                 ]
             },
             "nameWithOwner": "signetlabdei/qd-realization"
