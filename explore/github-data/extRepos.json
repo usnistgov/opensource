@@ -579,14 +579,6 @@
             },
             "nameWithOwner": "Opentrons/opentrons"
         },
-        "PM-Master/PMAdminTool": {
-            "labContributors": {
-                "nodes": [
-                    "dyiop"
-                ]
-            },
-            "nameWithOwner": "PM-Master/PMAdminTool"
-        },
         "PM-Master/policy-machine-core": {
             "labContributors": {
                 "nodes": [
@@ -596,14 +588,6 @@
                 ]
             },
             "nameWithOwner": "PM-Master/policy-machine-core"
-        },
-        "PolusAI/nyxus": {
-            "labContributors": {
-                "nodes": [
-                    "MyleneSimon"
-                ]
-            },
-            "nameWithOwner": "PolusAI/nyxus"
         },
         "PolusAI/polus-plugins": {
             "labContributors": {
@@ -2031,8 +2015,7 @@
         "hyperspy/rosettasciio": {
             "labContributors": {
                 "nodes": [
-                    "AndrewHerzing",
-                    "jat255"
+                    "AndrewHerzing"
                 ]
             },
             "nameWithOwner": "hyperspy/rosettasciio"
@@ -2076,14 +2059,6 @@
                 ]
             },
             "nameWithOwner": "ietf/wiki.ietf.org"
-        },
-        "iluwatar/uml-reverse-mapper": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "iluwatar/uml-reverse-mapper"
         },
         "influxdata/flux": {
             "labContributors": {
@@ -2900,6 +2875,14 @@
             },
             "nameWithOwner": "ry-schneider/Iterative_Volterra_Propagator"
         },
+        "rygall/cs613_project": {
+            "labContributors": {
+                "nodes": [
+                    "Kennethkimble"
+                ]
+            },
+            "nameWithOwner": "rygall/cs613_project"
+        },
         "sandromiano/ninatool": {
             "labContributors": {
                 "nodes": [
@@ -3297,7 +3280,6 @@
             "labContributors": {
                 "nodes": [
                     "neerajvarshney",
-                    "steveblandino",
                     "tangnist"
                 ]
             },
