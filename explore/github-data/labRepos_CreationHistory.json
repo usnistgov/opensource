@@ -1925,11 +1925,6 @@
             "firstCommitAt": "2020-12-08T17:43:40Z",
             "initBeforeGitHubRepo": true
         },
-        "usnistgov/WIPP-Plugins-base-templates": {
-            "createdAt": "2019-12-11T17:58:29Z",
-            "firstCommitAt": "2019-09-30T21:16:16Z",
-            "initBeforeGitHubRepo": true
-        },
         "usnistgov/WIPP-Registry": {
             "createdAt": "2020-08-13T14:18:41Z",
             "firstCommitAt": "2016-11-22T14:36:52Z",
@@ -3050,6 +3045,11 @@
             "firstCommitAt": "2020-10-15T02:32:20Z",
             "initBeforeGitHubRepo": true
         },
+        "usnistgov/fabric-testing-framework": {
+            "createdAt": "2023-05-22T19:32:59Z",
+            "firstCommitAt": "2023-05-22T19:33:02Z",
+            "initBeforeGitHubRepo": false
+        },
         "usnistgov/face-recognition-humans-machines": {
             "createdAt": "2021-12-16T20:38:24Z",
             "firstCommitAt": "2021-12-16T20:57:11Z",
@@ -3058,6 +3058,11 @@
         "usnistgov/facility": {
             "createdAt": "2016-03-07T16:44:34Z",
             "firstCommitAt": "2016-03-07T16:44:34Z",
+            "initBeforeGitHubRepo": true
+        },
+        "usnistgov/fair-chain-compute-container": {
+            "createdAt": "2019-12-11T17:58:29Z",
+            "firstCommitAt": "2019-09-30T21:16:16Z",
             "initBeforeGitHubRepo": true
         },
         "usnistgov/feasst": {
@@ -4004,11 +4009,6 @@
             "createdAt": "2015-09-02T12:21:50Z",
             "firstCommitAt": "2015-09-02T12:21:50Z",
             "initBeforeGitHubRepo": true
-        },
-        "usnistgov/nanolithography_toolbox_releases": {
-            "createdAt": "2020-03-31T18:30:12Z",
-            "firstCommitAt": "2020-03-31T18:35:57Z",
-            "initBeforeGitHubRepo": false
         },
         "usnistgov/nat": {
             "createdAt": "2017-06-20T19:51:32Z",
