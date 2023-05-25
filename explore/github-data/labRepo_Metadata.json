@@ -1334,11 +1334,14 @@
         "topics": null,
         "website": ""
     },
-    "usnistgov/ML5G-PS-004": {
-        "description": "Depth Map Estimation in 6G mmWave systems",
-        "name": "usnistgov/ML5G-PS-004",
-        "topics": null,
-        "website": null
+    "usnistgov/ML5G-PS-005": {
+        "description": "Digital-twin-enabled 6G: Depth Map Estimation in mmWave systems",
+        "name": "usnistgov/ML5G-PS-005",
+        "topics": [
+            "dataset",
+            "wireless-communication"
+        ],
+        "website": ""
     },
     "usnistgov/MMW-NIQE": {
         "description": "Python code for calculating the MMW-NIQE score for millimeter wave images",
