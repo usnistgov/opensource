@@ -1689,10 +1689,25 @@
                 "totalCount": 0
             }
         },
-        "usnistgov/ML5G-PS-004": {
+        "usnistgov/ML5G-PS-005": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/dataset",
+                        "topic": {
+                            "name": "dataset"
+                        },
+                        "url": "https://github.com/topics/dataset"
+                    },
+                    {
+                        "resourcePath": "/topics/wireless-communication",
+                        "topic": {
+                            "name": "wireless-communication"
+                        },
+                        "url": "https://github.com/topics/wireless-communication"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/MMW-NIQE": {
