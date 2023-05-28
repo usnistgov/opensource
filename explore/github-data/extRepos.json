@@ -2390,6 +2390,14 @@
             },
             "nameWithOwner": "mermaid-js/mermaid"
         },
+        "microsoft/vscode": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "microsoft/vscode"
+        },
         "miked63017/dinolite_uvc_led_control": {
             "labContributors": {
                 "nodes": [
@@ -2417,8 +2425,7 @@
         "named-data/NDN-packet-spec": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/NDN-packet-spec"
@@ -2673,6 +2680,14 @@
                 ]
             },
             "nameWithOwner": "opto/nostalgy-xpi"
+        },
+        "oscal-club/asdf-oscal-cli": {
+            "labContributors": {
+                "nodes": [
+                    "nikitawootten-nist"
+                ]
+            },
+            "nameWithOwner": "oscal-club/asdf-oscal-cli"
         },
         "oscal-club/awesome-oscal": {
             "labContributors": {
@@ -3332,14 +3347,6 @@
                 ]
             },
             "nameWithOwner": "xarray-contrib/xarray-tutorial"
-        },
-        "xee5ch/asdf-oscal-cli": {
-            "labContributors": {
-                "nodes": [
-                    "nikitawootten-nist"
-                ]
-            },
-            "nameWithOwner": "xee5ch/asdf-oscal-cli"
         },
         "xspec/xspec": {
             "labContributors": {
