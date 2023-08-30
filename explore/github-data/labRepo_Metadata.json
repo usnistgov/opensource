@@ -428,6 +428,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/AusteniteCalculator": {
+        "description": "Software and GUI for uncertainty quantification of austenite phase fraction",
+        "name": "usnistgov/AusteniteCalculator",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/BF": {
         "description": "Bugs Framework",
         "name": "usnistgov/BF",
@@ -639,6 +645,12 @@
     "usnistgov/CogMod": {
         "description": "Stochastic typing model for ICCM 2015 (International Conference on Cognitive Modeling)",
         "name": "usnistgov/CogMod",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/CommonDataExchange": {
+        "description": "Translating file formats of data schemas",
+        "name": "usnistgov/CommonDataExchange",
         "topics": null,
         "website": null
     },
@@ -1168,7 +1180,7 @@
         "website": null
     },
     "usnistgov/IrradInterPy": {
-        "description": "Irradiance interpolation using a gray body model in Python. Includes PyQT5 GUI to load and graphically display interpolation results as well as functions for integration into other applications",
+        "description": "Irradiance interpolation using a gray body model in Python. Includes PyQT5 GUI to load and graphically display interpolation results, as well as a functions library for integration into other applications",
         "name": "usnistgov/IrradInterPy",
         "topics": null,
         "website": ""
@@ -1630,10 +1642,10 @@
         "website": ""
     },
     "usnistgov/NISTtheDocs2Death": {
-        "description": "ReadTheDocs work-alike for sphinx documentation at the US National Institute of Standards and Technology",
+        "description": "ReadTheDocs work-alike for Sphinx documentation at the US National Institute of Standards and Technology",
         "name": "usnistgov/NISTtheDocs2Death",
         "topics": null,
-        "website": null
+        "website": "https://pages.nist.gov/NISTtheDocs2Death"
     },
     "usnistgov/NLPER": {
         "description": "A virtual escape room game design and implemented by NIST NLP18 class.",
@@ -1790,6 +1802,18 @@
         "name": "usnistgov/OSCAL-DEFINE",
         "topics": null,
         "website": null
+    },
+    "usnistgov/OSCAL-Pages": {
+        "description": "Open Security Controls Assessment Language (OSCAL) Website Content",
+        "name": "usnistgov/OSCAL-Pages",
+        "topics": null,
+        "website": "https://pages.nist.gov/OSCAL/"
+    },
+    "usnistgov/OSCAL-Reference": {
+        "description": "Model reference pages for the OSCAL project",
+        "name": "usnistgov/OSCAL-Reference",
+        "topics": null,
+        "website": ""
     },
     "usnistgov/OpenFSGIM": {
         "description": "A repository of software components for representing ASHRAE 201 Facility Smart Grid Information Model",
@@ -2181,7 +2205,7 @@
         "website": null
     },
     "usnistgov/SFA": {
-        "description": "The NIST STEP File Analyzer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
+        "description": "The NIST STEP File Analyzer and Viewer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
         "name": "usnistgov/SFA",
         "topics": null,
         "website": "https://www.nist.gov/services-resources/software/step-file-analyzer-and-viewer"
@@ -2792,6 +2816,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/aprs-ros-conveyor": {
+        "description": "A repository starting from the SURF2023 Project work getting the APRS Conveyor belt control working with ROS",
+        "name": "usnistgov/aprs-ros-conveyor",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ariac-docker": {
         "description": "Containerization of ARIAC competition server and competitors' code",
         "name": "usnistgov/ariac-docker",
@@ -2900,6 +2930,12 @@
         "topics": null,
         "website": "https://doi.org/10.1016/j.electacta.2022.140866"
     },
+    "usnistgov/autoware.universe.openplanner": {
+        "description": "Autoware - the world's leading open-source software project for autonomous driving + Latest OpenPlanner",
+        "name": "usnistgov/autoware.universe.openplanner",
+        "topics": null,
+        "website": "https://www.autoware.org/"
+    },
     "usnistgov/av_testbed_sim": {
         "description": "Simulation Software for Automated Vehicle Testbed",
         "name": "usnistgov/av_testbed_sim",
@@ -2931,7 +2967,7 @@
         "website": null
     },
     "usnistgov/bias-uq-pcr": {
-        "description": "Software and Data associated with \"Reducing Bias and Quantifying Uncertainty in Fluorescence Produced by PCR Under Review 2023,'' ",
+        "description": "Software and Data associated with \"Reducing Bias and Quantifying Uncertainty in Fluorescence Produced by PCR'' ",
         "name": "usnistgov/bias-uq-pcr",
         "topics": [
             "fluorescence",
@@ -3085,7 +3121,7 @@
             "llm",
             "transformers"
         ],
-        "website": "https://arxiv.org/abs/2209.08203"
+        "website": "https://doi.org/10.1021/acs.jpcc.3c03106"
     },
     "usnistgov/chimad-phase-field": {
         "description": "Dummy repository to redirect to https://pages.nist.gov/pfhub",
@@ -3720,6 +3756,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/dbridgenist": {
+        "description": null,
+        "name": "usnistgov/dbridgenist",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/decima": {
         "description": null,
         "name": "usnistgov/decima",
@@ -3762,10 +3804,22 @@
         "website": "https://dx.doi.org/10.1007/s40192-021-00213-8"
     },
     "usnistgov/dimspec": {
-        "description": "Database Infrastructure for Mass Spectrometry",
+        "description": "The Database Infrastructure for Mass Spectrometry (DIMSpec) project",
         "name": "usnistgov/dimspec",
-        "topics": null,
-        "website": null
+        "topics": [
+            "database",
+            "mass-spectrometry",
+            "nist",
+            "nist-database",
+            "pfas",
+            "plumber-api",
+            "r",
+            "scientific-research",
+            "scientific-software",
+            "shiny-r",
+            "sqlite3"
+        ],
+        "website": ""
     },
     "usnistgov/dioptra": {
         "description": "Test Software for the Characterization of AI Technologies ",
@@ -3972,10 +4026,16 @@
         "website": null
     },
     "usnistgov/fair-chain-compute-container": {
-        "description": "Specification and Guidelines for FAIR Interoperable Computational Containers",
+        "description": "Specification and Guidelines for FAIR Containerized Computational Software",
         "name": "usnistgov/fair-chain-compute-container",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/fastchebpure": {
+        "description": "Code and results for fitting superancillary equations to EOS",
+        "name": "usnistgov/fastchebpure",
+        "topics": null,
+        "website": null
     },
     "usnistgov/feasst": {
         "description": "The Free Energy and Advanced Sampling Simulation Toolkit (FEASST) is a free, open-source, modular program to conduct molecular and particle-based simulations with flat-histogram Monte Carlo methods.",
@@ -4087,6 +4147,12 @@
         "name": "usnistgov/forking-workflow-exercise",
         "topics": null,
         "website": null
+    },
+    "usnistgov/frme": {
+        "description": "Friction Ridge Metadata Explorer",
+        "name": "usnistgov/frme",
+        "topics": null,
+        "website": "https://fingerprint.nist.gov/frme"
     },
     "usnistgov/frpc": {
         "description": "Repository for the Face Recognition Prize Challenge",
@@ -4788,6 +4854,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/ixml-breadboard": {
+        "description": "Utilities and experiments with iXML (Invisible XML)",
+        "name": "usnistgov/ixml-breadboard",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/iz-darq": {
         "description": null,
         "name": "usnistgov/iz-darq",
@@ -4817,10 +4889,10 @@
             "ai",
             "quantum-computing"
         ],
-        "website": "https://jarvis-tools.readthedocs.io/"
+        "website": "https://pages.nist.gov/jarvis/"
     },
     "usnistgov/jarvis_leaderboard": {
-        "description": "This project provides benchmark-performances for materials science applications including Artificial Intelligence (AI), Electronic Structure (ES), Force-field (FF), Quantum Computation (QC) and Experiments (EXP) methods.",
+        "description": "This project provides benchmark-performances for materials science applications including Artificial Intelligence (AI), Electronic Structure (ES), Force-field (FF), Quantum Computation (QC) and Experiments (EXP) methods. https://arxiv.org/abs/2306.11688",
         "name": "usnistgov/jarvis_leaderboard",
         "topics": null,
         "website": "https://pages.nist.gov/jarvis_leaderboard/"
@@ -4893,6 +4965,12 @@
         "name": "usnistgov/leaveNotice",
         "topics": null,
         "website": "http://rewdy.com/tools/leavenotice-jquery-plugin"
+    },
+    "usnistgov/legokibblebalance": {
+        "description": null,
+        "name": "usnistgov/legokibblebalance",
+        "topics": null,
+        "website": null
     },
     "usnistgov/libbiomeval": {
         "description": "Software components for biometric technology evaluations.",
@@ -5071,6 +5149,12 @@
         ],
         "website": "https://pages.nist.gov/metaschema-java/"
     },
+    "usnistgov/metaschema-xslt": {
+        "description": "An implementation of the Metaschema information modeling language, in XSLT and XProc",
+        "name": "usnistgov/metaschema-xslt",
+        "topics": null,
+        "website": "https://pages.nist.gov/metaschema/"
+    },
     "usnistgov/mfgkb": {
         "description": "Manufacturing Knowledge Base",
         "name": "usnistgov/mfgkb",
@@ -5191,6 +5275,12 @@
         "name": "usnistgov/mouth2ear",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/mpilogging": {
+        "description": "Add-on for Python logging when using MPI",
+        "name": "usnistgov/mpilogging",
+        "topics": null,
+        "website": null
     },
     "usnistgov/muddy": {
         "description": null,
@@ -5331,6 +5421,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/nfflr": {
+        "description": "Neural force field learning toolkit",
+        "name": "usnistgov/nfflr",
+        "topics": null,
+        "website": "https://pages.nist.gov/nfflr/"
+    },
     "usnistgov/ngx-globus-sdk": {
         "description": null,
         "name": "usnistgov/ngx-globus-sdk",
@@ -5459,6 +5555,12 @@
         ],
         "website": ""
     },
+    "usnistgov/oar-auth-api": {
+        "description": "Authentication service interface for SSO",
+        "name": "usnistgov/oar-auth-api",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/oar-build": {
         "description": "Helper tools for building OAR components (see README_OARBUILD.md for summary)",
         "name": "usnistgov/oar-build",
@@ -5477,9 +5579,21 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/oar-file-manager-docker": {
+        "description": null,
+        "name": "usnistgov/oar-file-manager-docker",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/oar-filemanager-api": {
         "description": "Filemanager Service API",
         "name": "usnistgov/oar-filemanager-api",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/oar-fm-application-layer": {
+        "description": "File Manager Application Layer",
+        "name": "usnistgov/oar-fm-application-layer",
         "topics": null,
         "website": null
     },
@@ -5692,6 +5806,12 @@
     "usnistgov/pagetest": {
         "description": "Repo for testing pages functionality.  It does not contain anything useful.",
         "name": "usnistgov/pagetest",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/pair-wise_PCA": {
+        "description": null,
+        "name": "usnistgov/pair-wise_PCA",
         "topics": null,
         "website": null
     },
@@ -6076,6 +6196,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/ros2_nist_training": {
+        "description": "ROS 2 training",
+        "name": "usnistgov/ros2_nist_training",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ros_carla_seri": {
         "description": "ROS bridge for CARLA for the SERI Project",
         "name": "usnistgov/ros_carla_seri",
@@ -6154,6 +6280,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/sed_stan_templates": {
+        "description": "Stan template files and Docker images for using the Stan library for Bayesian modeling",
+        "name": "usnistgov/sed_stan_templates",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/semait_mizr": {
         "description": null,
         "name": "usnistgov/semait_mizr",
@@ -6175,6 +6307,12 @@
     "usnistgov/semi-supervised-neutron": {
         "description": "Here we look at semi-supervised approaches to analyzing neutron scattering data",
         "name": "usnistgov/semi-supervised-neutron",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/seri_carla_autoware": {
+        "description": "Packages for SERI project",
+        "name": "usnistgov/seri_carla_autoware",
         "topics": null,
         "website": null
     },
@@ -6208,6 +6346,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/simca-mcp": {
+        "description": "This repository contains data and Matlab scripts to facilitate the implementation of a DD-SIMCA model for the acceptance testing of purified m-cresol purple (mCP) for spectrophotometric pH measurements in seawater. ",
+        "name": "usnistgov/simca-mcp",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/simprocesd": {
         "description": "Simulated-Production Resource for Operations & Conditions Evaluations to Support Decision-making",
         "name": "usnistgov/simprocesd",
@@ -6215,10 +6359,10 @@
         "website": ""
     },
     "usnistgov/sitexpress": {
-        "description": "This tool provides an easy way to conduct an investment analysis and examine sensitivity using Monte Carlo techniques.",
+        "description": "This tool provides an easy way to conduct an investment analysis. SITExpress is a simplified version of NIST's Smart Investment Tool.",
         "name": "usnistgov/sitexpress",
         "topics": null,
-        "website": null
+        "website": ""
     },
     "usnistgov/slapseg": {
         "description": "Resources for NIST's Slap Fingerprint Segmentation Evaluations",
@@ -6287,6 +6431,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/ssmdevices": {
+        "description": "a collection of labbench drivers",
+        "name": "usnistgov/ssmdevices",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/state_meas_tomo": {
         "description": "Qubit state tomography with unknown measurement operators",
         "name": "usnistgov/state_meas_tomo",
@@ -6320,6 +6470,12 @@
     "usnistgov/stopped-flow-sans": {
         "description": "Jupyter notebooks and python routines for processing time-resolved SANS measurements at NCNR for stopped-flow experiments",
         "name": "usnistgov/stopped-flow-sans",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ststools": {
+        "description": null,
+        "name": "usnistgov/ststools",
         "topics": null,
         "website": null
     },
@@ -6369,7 +6525,7 @@
         "description": "TB3Py",
         "name": "usnistgov/tb3py",
         "topics": null,
-        "website": "https://arxiv.org/abs/2112.11585"
+        "website": "https://doi.org/10.1103/PhysRevMaterials.7.044603"
     },
     "usnistgov/tcamt": {
         "description": "Test Case Authoring and Management Tool",
