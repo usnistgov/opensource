@@ -176,6 +176,14 @@
             },
             "nameWithOwner": "Compton-NIST/oscal-workflow"
         },
+        "Cyber-Domain-Ontology/CDO-Monitor": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "Cyber-Domain-Ontology/CDO-Monitor"
+        },
         "Cyber-Domain-Ontology/CDO-Shapes-BFO": {
             "labContributors": {
                 "nodes": [
@@ -2167,6 +2175,14 @@
                 ]
             },
             "nameWithOwner": "ipfs/ipfs-docs"
+        },
+        "irlabamsterdam/iKAT": {
+            "labContributors": {
+                "nodes": [
+                    "isoboroff"
+                ]
+            },
+            "nameWithOwner": "irlabamsterdam/iKAT"
         },
         "jamesrhester/pycifrw": {
             "labContributors": {
