@@ -1077,14 +1077,6 @@
             },
             "nameWithOwner": "bluesky/tiled"
         },
-        "bokeh/bokeh": {
-            "labContributors": {
-                "nodes": [
-                    "lunarspectrum"
-                ]
-            },
-            "nameWithOwner": "bokeh/bokeh"
-        },
         "brotzeit/rustic": {
             "labContributors": {
                 "nodes": [
@@ -1528,6 +1520,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/yabadaba-feedstock"
+        },
+        "crazy-max/ghaction-github-pages": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "crazy-max/ghaction-github-pages"
         },
         "criosx/molgroups": {
             "labContributors": {
