@@ -1495,6 +1495,14 @@
             },
             "nameWithOwner": "conda-forge/jarvis-tools-feedstock"
         },
+        "conda-forge/libnpp-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "pbeaucage"
+                ]
+            },
+            "nameWithOwner": "conda-forge/libnpp-feedstock"
+        },
         "conda-forge/module-utilities-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -3017,6 +3025,14 @@
                 ]
             },
             "nameWithOwner": "rtbs-dev/paper-hcii-2023"
+        },
+        "rygall/cs613_project": {
+            "labContributors": {
+                "nodes": [
+                    "Kennethkimble"
+                ]
+            },
+            "nameWithOwner": "rygall/cs613_project"
         },
         "sam-super/environment": {
             "labContributors": {
