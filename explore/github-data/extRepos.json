@@ -433,6 +433,15 @@
             },
             "nameWithOwner": "JuliaDynamics/DrWatson.jl"
         },
+        "JustKuzya/metaschema-xslt": {
+            "labContributors": {
+                "nodes": [
+                    "nikitawootten-nist",
+                    "wendellpiez"
+                ]
+            },
+            "nameWithOwner": "JustKuzya/metaschema-xslt"
+        },
         "Kikobeats/json-stringify-deterministic": {
             "labContributors": {
                 "nodes": [
@@ -3258,6 +3267,14 @@
                 ]
             },
             "nameWithOwner": "tjol/sprintf-rs"
+        },
+        "tntech-ngin/ndn-packet-view": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "tntech-ngin/ndn-packet-view"
         },
         "tntech-ngin/ndn-traffic-capture-scripts": {
             "labContributors": {
