@@ -1086,14 +1086,6 @@
             },
             "nameWithOwner": "beartype/beartype"
         },
-        "beartype/plum": {
-            "labContributors": {
-                "nodes": [
-                    "rtbs-dev"
-                ]
-            },
-            "nameWithOwner": "beartype/plum"
-        },
         "benajamin/kkcalc": {
             "labContributors": {
                 "nodes": [
@@ -2258,6 +2250,14 @@
             },
             "nameWithOwner": "jenkinsci/code-coverage-api-plugin"
         },
+        "jenkinsci/dark-theme-plugin": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "jenkinsci/dark-theme-plugin"
+        },
         "jeremyevans/roda": {
             "labContributors": {
                 "nodes": [
@@ -2634,8 +2634,7 @@
         "named-data/name-based-access-control": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/name-based-access-control"
