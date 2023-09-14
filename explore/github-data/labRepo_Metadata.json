@@ -1361,6 +1361,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/MMW_reconstruction": {
+        "description": null,
+        "name": "usnistgov/MMW_reconstruction",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/MRT": {
         "description": "Modified Rhyme Test Speech Intelligibility Graphical User Interface",
         "name": "usnistgov/MRT",
@@ -2683,6 +2689,12 @@
         "name": "usnistgov/WSBD",
         "topics": null,
         "website": "https://bws.nist.gov/"
+    },
+    "usnistgov/WSDOM": {
+        "description": "Wide Scale Digital Optical Microscopy",
+        "name": "usnistgov/WSDOM",
+        "topics": null,
+        "website": null
     },
     "usnistgov/WebDeepZoomToolkit": {
         "description": "An extensible JavaScript framework for analysis of deep zoom images on the web.",
@@ -5291,6 +5303,12 @@
     "usnistgov/mpilogging": {
         "description": "Add-on for Python logging when using MPI",
         "name": "usnistgov/mpilogging",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/mri-tissue-mimics": {
+        "description": "This repository is used to aid in finding MRI tissue relaxation times for a target field strength, and to provide functionality to solve for tissue mimic composition given target tissue relaxation times.",
+        "name": "usnistgov/mri-tissue-mimics",
         "topics": null,
         "website": null
     },

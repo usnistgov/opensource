@@ -320,6 +320,14 @@
             },
             "nameWithOwner": "GovReady/oscal-content"
         },
+        "Gscorreia89/pyChemometrics": {
+            "labContributors": {
+                "nodes": [
+                    "bpsut"
+                ]
+            },
+            "nameWithOwner": "Gscorreia89/pyChemometrics"
+        },
         "HL7/v2plus": {
             "labContributors": {
                 "nodes": [
@@ -436,6 +444,7 @@
         "JustKuzya/metaschema-xslt": {
             "labContributors": {
                 "nodes": [
+                    "aj-stein-nist",
                     "nikitawootten-nist",
                     "wendellpiez"
                 ]
@@ -2386,14 +2395,6 @@
             },
             "nameWithOwner": "linux-test-project/lcov"
         },
-        "livecomsjournal/article_templates": {
-            "labContributors": {
-                "nodes": [
-                    "dwsideriusNIST"
-                ]
-            },
-            "nameWithOwner": "livecomsjournal/article_templates"
-        },
         "lotusnprod/lotus-web": {
             "labContributors": {
                 "nodes": [
@@ -2514,6 +2515,14 @@
                 ]
             },
             "nameWithOwner": "mermaid-js/mermaid"
+        },
+        "micropython/micropython": {
+            "labContributors": {
+                "nodes": [
+                    "mendenmh"
+                ]
+            },
+            "nameWithOwner": "micropython/micropython"
         },
         "microsoft/vscode": {
             "labContributors": {
