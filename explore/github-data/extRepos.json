@@ -128,6 +128,14 @@
             },
             "nameWithOwner": "Boulder-Cryogenic-Quantum-Testbed/scresonators"
         },
+        "Boulder-Cryogenic-Quantum-Testbed/simple-resonator-mask": {
+            "labContributors": {
+                "nodes": [
+                    "crmcrae"
+                ]
+            },
+            "nameWithOwner": "Boulder-Cryogenic-Quantum-Testbed/simple-resonator-mask"
+        },
         "BugsFramework/BF": {
             "labContributors": {
                 "nodes": [
@@ -311,14 +319,6 @@
                 ]
             },
             "nameWithOwner": "FlexBE/flexbe_behavior_engine"
-        },
-        "GovReady/oscal-content": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "GovReady/oscal-content"
         },
         "Gscorreia89/pyChemometrics": {
             "labContributors": {
@@ -2500,6 +2500,14 @@
             },
             "nameWithOwner": "materialsvirtuallab/maml"
         },
+        "mathworks/matlab-proxy": {
+            "labContributors": {
+                "nodes": [
+                    "AndrewHerzing"
+                ]
+            },
+            "nameWithOwner": "mathworks/matlab-proxy"
+        },
         "mattieserver/netbox-topology-views": {
             "labContributors": {
                 "nodes": [
@@ -2563,6 +2571,14 @@
                 ]
             },
             "nameWithOwner": "mlexchange/mlex"
+        },
+        "mprpic/cvelint": {
+            "labContributors": {
+                "nodes": [
+                    "Chris-Turner-NIST"
+                ]
+            },
+            "nameWithOwner": "mprpic/cvelint"
         },
         "mtex-toolbox/mtex": {
             "labContributors": {
