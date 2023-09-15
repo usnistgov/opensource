@@ -1462,6 +1462,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/NFIMM": {
+        "description": "NFIMM (NIST Fingerprint Image Metadata Modifier)  NFIMM functions to update image (file) metadata information.  It leaves the original image file unchanged and generates a new image file with the updated metadata.",
+        "name": "usnistgov/NFIMM",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/NFIQ2": {
         "description": "Optical live-scan and ink fingerprint image quality assessment tool",
         "name": "usnistgov/NFIQ2",
@@ -4726,6 +4732,12 @@
     "usnistgov/hugo-uswds-docs": {
         "description": "Am example website based on the USWDS Hugo theme, including documentation for this theme.",
         "name": "usnistgov/hugo-uswds-docs",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/hugo-uswds-nist": {
+        "description": null,
+        "name": "usnistgov/hugo-uswds-nist",
         "topics": null,
         "website": null
     },
