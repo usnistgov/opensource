@@ -2508,20 +2508,79 @@
         },
         "usnistgov/OSCAL-DEFINE": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/compliance",
+                        "topic": {
+                            "name": "compliance"
+                        },
+                        "url": "https://github.com/topics/compliance"
+                    },
+                    {
+                        "resourcePath": "/topics/nist",
+                        "topic": {
+                            "name": "nist"
+                        },
+                        "url": "https://github.com/topics/nist"
+                    },
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/OSCAL-Pages": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/compliance",
+                        "topic": {
+                            "name": "compliance"
+                        },
+                        "url": "https://github.com/topics/compliance"
+                    },
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "usnistgov/OSCAL-Reference": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/compliance",
+                        "topic": {
+                            "name": "compliance"
+                        },
+                        "url": "https://github.com/topics/compliance"
+                    },
+                    {
+                        "resourcePath": "/topics/nist",
+                        "topic": {
+                            "name": "nist"
+                        },
+                        "url": "https://github.com/topics/nist"
+                    },
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/OpenFSGIM": {
@@ -8313,9 +8372,16 @@
                             "name": "yaml"
                         },
                         "url": "https://github.com/topics/yaml"
+                    },
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
                     }
                 ],
-                "totalCount": 6
+                "totalCount": 7
             }
         },
         "usnistgov/oscal-tools": {
