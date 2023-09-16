@@ -934,6 +934,14 @@
             },
             "nameWithOwner": "UMD-ENMA165/loop-de-loop"
         },
+        "UNHSAILLab/Adversary-Engagement-Ontology": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "UNHSAILLab/Adversary-Engagement-Ontology"
+        },
         "Vishaal-Kanna/ENPM808X_Midterm_Project": {
             "labContributors": {
                 "nodes": [
@@ -1126,6 +1134,14 @@
                 ]
             },
             "nameWithOwner": "bio-ontology-research-group/unit-ontology"
+        },
+        "biometricITC/Fingerprint-Toolbox": {
+            "labContributors": {
+                "nodes": [
+                    "gfiumara"
+                ]
+            },
+            "nameWithOwner": "biometricITC/Fingerprint-Toolbox"
         },
         "biometricITC/cPP-biometrics": {
             "labContributors": {
@@ -2500,6 +2516,14 @@
             },
             "nameWithOwner": "materialsvirtuallab/maml"
         },
+        "mathworks/jupyter-matlab-proxy": {
+            "labContributors": {
+                "nodes": [
+                    "AndrewHerzing"
+                ]
+            },
+            "nameWithOwner": "mathworks/jupyter-matlab-proxy"
+        },
         "mathworks/matlab-proxy": {
             "labContributors": {
                 "nodes": [
@@ -3283,14 +3307,6 @@
                 ]
             },
             "nameWithOwner": "the-microanalysis-society/2023-IUMAS-workshop"
-        },
-        "tjol/sprintf-rs": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "tjol/sprintf-rs"
         },
         "tntech-ngin/ndn-packet-view": {
             "labContributors": {

@@ -1362,10 +1362,10 @@
         "website": null
     },
     "usnistgov/MMW_reconstruction": {
-        "description": null,
+        "description": "Python code for performing synthetic aperture radar (SAR) reconstruction for millimeter wave (MMW) systems that use cylindrical geometry.",
         "name": "usnistgov/MMW_reconstruction",
         "topics": null,
-        "website": null
+        "website": ""
     },
     "usnistgov/MRT": {
         "description": "Modified Rhyme Test Speech Intelligibility Graphical User Interface",
@@ -1812,19 +1812,30 @@
     "usnistgov/OSCAL-DEFINE": {
         "description": "Develop Enhancements, Future Implementations and New Education",
         "name": "usnistgov/OSCAL-DEFINE",
-        "topics": null,
-        "website": null
+        "topics": [
+            "compliance",
+            "nist",
+            "oscal"
+        ],
+        "website": ""
     },
     "usnistgov/OSCAL-Pages": {
         "description": "Open Security Controls Assessment Language (OSCAL) Website Content",
         "name": "usnistgov/OSCAL-Pages",
-        "topics": null,
+        "topics": [
+            "compliance",
+            "oscal"
+        ],
         "website": "https://pages.nist.gov/OSCAL/"
     },
     "usnistgov/OSCAL-Reference": {
         "description": "Model reference pages for the OSCAL project",
         "name": "usnistgov/OSCAL-Reference",
-        "topics": null,
+        "topics": [
+            "compliance",
+            "nist",
+            "oscal"
+        ],
         "website": ""
     },
     "usnistgov/OpenFSGIM": {
@@ -5817,7 +5828,8 @@
             "json",
             "nist",
             "security",
-            "yaml"
+            "yaml",
+            "oscal"
         ],
         "website": ""
     },
