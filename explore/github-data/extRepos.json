@@ -3020,14 +3020,6 @@
             },
             "nameWithOwner": "qiskit-community/qiskit-community-tutorials"
         },
-        "qiskit-community/qiskit-nature": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "qiskit-community/qiskit-nature"
-        },
         "rda0/web-greeter-theme-luminosity": {
             "labContributors": {
                 "nodes": [
@@ -3308,14 +3300,6 @@
             },
             "nameWithOwner": "the-microanalysis-society/2023-IUMAS-workshop"
         },
-        "tntech-ngin/ndn-packet-view": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "tntech-ngin/ndn-packet-view"
-        },
         "tntech-ngin/ndn-traffic-capture-scripts": {
             "labContributors": {
                 "nodes": [
@@ -3323,6 +3307,14 @@
                 ]
             },
             "nameWithOwner": "tntech-ngin/ndn-traffic-capture-scripts"
+        },
+        "tntech-ngin/ndn-traffic-plotting-scripts": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "tntech-ngin/ndn-traffic-plotting-scripts"
         },
         "torchmd/torchmd": {
             "labContributors": {
