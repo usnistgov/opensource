@@ -410,6 +410,12 @@
         "topics": null,
         "website": "https://ariac.readthedocs.io/en/latest/"
     },
+    "usnistgov/ASTM_E2919_22_Pose": {
+        "description": null,
+        "name": "usnistgov/ASTM_E2919_22_Pose",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ATICC": {
         "description": "Assessment of Trusted Internet Connection Compliance  (ATICC) Dashboard",
         "name": "usnistgov/ATICC",
@@ -1805,7 +1811,8 @@
             "authorization",
             "security",
             "compliance",
-            "yaml"
+            "yaml",
+            "oscal"
         ],
         "website": "https://pages.nist.gov/OSCAL/"
     },
@@ -5048,8 +5055,10 @@
     "usnistgov/liboscal-java": {
         "description": "A Java library to support processing OSCAL content",
         "name": "usnistgov/liboscal-java",
-        "topics": null,
-        "website": null
+        "topics": [
+            "oscal"
+        ],
+        "website": ""
     },
     "usnistgov/libtrevisan": {
         "description": "Trevisan's extractor",
@@ -5809,15 +5818,18 @@
             "json",
             "validation",
             "xml",
-            "yaml"
+            "yaml",
+            "oscal"
         ],
         "website": ""
     },
     "usnistgov/oscal-content": {
         "description": "NIST SP 800-53 content and other OSCAL content examples",
         "name": "usnistgov/oscal-content",
-        "topics": null,
-        "website": null
+        "topics": [
+            "oscal"
+        ],
+        "website": ""
     },
     "usnistgov/oscal-deep-diff": {
         "description": "Open Security Controls Assessment Language (OSCAL) Deep Differencing Tool",
@@ -5842,8 +5854,10 @@
     "usnistgov/oscal-xslt": {
         "description": "Open source XSLT for OSCAL display and processing",
         "name": "usnistgov/oscal-xslt",
-        "topics": null,
-        "website": null
+        "topics": [
+            "oscal"
+        ],
+        "website": ""
     },
     "usnistgov/oss-maven": {
         "description": null,

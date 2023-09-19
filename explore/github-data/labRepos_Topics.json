@@ -483,6 +483,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/ASTM_E2919_22_Pose": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/ATICC": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2501,9 +2507,16 @@
                             "name": "yaml"
                         },
                         "url": "https://github.com/topics/yaml"
+                    },
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
                     }
                 ],
-                "totalCount": 10
+                "totalCount": 11
             }
         },
         "usnistgov/OSCAL-DEFINE": {
@@ -7052,8 +7065,16 @@
         },
         "usnistgov/liboscal-java": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/libtrevisan": {
@@ -8317,15 +8338,30 @@
                             "name": "yaml"
                         },
                         "url": "https://github.com/topics/yaml"
+                    },
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
                     }
                 ],
-                "totalCount": 7
+                "totalCount": 8
             }
         },
         "usnistgov/oscal-content": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/oscal-deep-diff": {
@@ -8392,8 +8428,16 @@
         },
         "usnistgov/oscal-xslt": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/oscal",
+                        "topic": {
+                            "name": "oscal"
+                        },
+                        "url": "https://github.com/topics/oscal"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/oss-maven": {
