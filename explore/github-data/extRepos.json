@@ -64,14 +64,6 @@
             },
             "nameWithOwner": "AlexandreDecan/portion"
         },
-        "Alexhuszagh/rust-lexical": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "Alexhuszagh/rust-lexical"
-        },
         "AlgebraicJulia/Semagrams.jl": {
             "labContributors": {
                 "nodes": [
@@ -1554,6 +1546,14 @@
             },
             "nameWithOwner": "conda-forge/potentials-feedstock"
         },
+        "conda-forge/pyproject2conda-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "wpk-nist-gov"
+                ]
+            },
+            "nameWithOwner": "conda-forge/pyproject2conda-feedstock"
+        },
         "conda-forge/sasview-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -2074,7 +2074,6 @@
         "hpc-carpentry/coordination": {
             "labContributors": {
                 "nodes": [
-                    "reid-a",
                     "tkphd"
                 ]
             },
@@ -3011,14 +3010,6 @@
                 ]
             },
             "nameWithOwner": "qamarzsyed/IK_Solver_Robot_Arm"
-        },
-        "qiskit-community/qiskit-community-tutorials": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "qiskit-community/qiskit-community-tutorials"
         },
         "rda0/web-greeter-theme-luminosity": {
             "labContributors": {
