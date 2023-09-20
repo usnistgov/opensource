@@ -2100,10 +2100,10 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "Jupyter Notebook"
+                        "name": "C++"
                     },
                     {
-                        "name": "C++"
+                        "name": "Jupyter Notebook"
                     },
                     {
                         "name": "Python"
@@ -10675,12 +10675,6 @@
                 "totalCount": 4
             }
         },
-        "usnistgov/giab-data-reg-phase1": {
-            "languages": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
         "usnistgov/giab-defrabb": {
             "languages": {
                 "nodes": [],
@@ -14080,10 +14074,10 @@
                         "name": "TypeScript"
                     },
                     {
-                        "name": "HTML"
+                        "name": "Shell"
                     },
                     {
-                        "name": "Shell"
+                        "name": "HTML"
                     },
                     {
                         "name": "CSS"
