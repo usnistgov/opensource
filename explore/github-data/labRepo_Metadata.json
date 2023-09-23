@@ -4091,6 +4091,12 @@
         "topics": null,
         "website": "http://pages.nist.gov/feasst"
     },
+    "usnistgov/fhir-ig-starter": {
+        "description": null,
+        "name": "usnistgov/fhir-ig-starter",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/fhir.emf": {
         "description": "Dependency of fhir.forecast. Contains the mdel for generating fhir classes.",
         "name": "usnistgov/fhir.emf",
