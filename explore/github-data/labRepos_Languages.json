@@ -11058,28 +11058,16 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "C"
+                        "name": "HTML"
                     },
                     {
-                        "name": "C++"
+                        "name": "JavaScript"
                     },
                     {
-                        "name": "Cuda"
-                    },
-                    {
-                        "name": "Makefile"
-                    },
-                    {
-                        "name": "Python"
-                    },
-                    {
-                        "name": "CMake"
-                    },
-                    {
-                        "name": "Shell"
+                        "name": "CSS"
                     }
                 ],
-                "totalCount": 7
+                "totalCount": 3
             }
         },
         "usnistgov/hit-ack-generator": {
@@ -16512,6 +16500,37 @@
             }
         },
         "usnistgov/teqp": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "C++"
+                    },
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "CMake"
+                    },
+                    {
+                        "name": "TeX"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "HTML"
+                    }
+                ],
+                "totalCount": 8
+            }
+        },
+        "usnistgov/teqp-docs": {
             "languages": {
                 "nodes": [
                     {
