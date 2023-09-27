@@ -1675,7 +1675,7 @@
         "description": "NIST RSoXS Simulation Suite",
         "name": "usnistgov/NRSS",
         "topics": null,
-        "website": "https://nrss.readthedocs.io"
+        "website": "https://pages.nist.gov/NRSS/en/main/"
     },
     "usnistgov/NamedIoT": {
         "description": "Composition of IoT devices into CPS in one of the challenges on modern architecture. ANTD is working on a novel approach to express the composition using NDN naming power. This approach bypasses the need of a composition engine by providing in-network composition capabilities.",
@@ -4415,7 +4415,7 @@
             "finite-difference",
             "shared-memory-parallel"
         ],
-        "website": "https://hiperc.readthedocs.io"
+        "website": "https://pages.nist.gov/hiperc/en/latest/index.html"
     },
     "usnistgov/hit-ack-generator": {
         "description": "acknowledgement generator based on matrix",
@@ -6638,6 +6638,12 @@
             "cpp",
             "python"
         ],
+        "website": "https://teqp.readthedocs.io/en/latest/"
+    },
+    "usnistgov/teqp-docs": {
+        "description": "A fork for building and storing the docs to satisfy NIST policy",
+        "name": "usnistgov/teqp-docs",
+        "topics": null,
         "website": "https://teqp.readthedocs.io/en/latest/"
     },
     "usnistgov/tesim": {
