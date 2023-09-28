@@ -3231,6 +3231,12 @@
         "topics": null,
         "website": "https://cntr.readthedocs.io"
     },
+    "usnistgov/cookiecutter-nist-python": {
+        "description": "A cookiecutter template for python projects/packages at NIST",
+        "name": "usnistgov/cookiecutter-nist-python",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/cord19-cdcs-nist": {
         "description": "Curated Archive for Covid-19 Research Challenge Dataset ",
         "name": "usnistgov/cord19-cdcs-nist",
@@ -6027,6 +6033,12 @@
         "name": "usnistgov/ppdiffuse",
         "topics": null,
         "website": "https://pages.nist.gov/ppdiffuse"
+    },
+    "usnistgov/primo-explore-devenv": {
+        "description": "This repository is for developing Primo VE for the NIST Research Library and Museum. It's the first step of getting changes live in production. A node.js , gulp based development enviornment for Primo's new UI customizations (css,images,html and javascript)",
+        "name": "usnistgov/primo-explore-devenv",
+        "topics": null,
+        "website": null
     },
     "usnistgov/privacy_collaborative_research_cycle": {
         "description": "This repository houses the NIST, Privacy Engineering Program's Collaborative Research Cycle ",

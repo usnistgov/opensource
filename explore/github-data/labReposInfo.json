@@ -2805,7 +2805,7 @@
                 "totalCount": 959
             },
             "issues_Open": {
-                "totalCount": 27
+                "totalCount": 28
             },
             "languages": {
                 "totalCount": 3
@@ -2836,7 +2836,7 @@
                 "totalCount": 4
             },
             "stargazers": {
-                "totalCount": 137
+                "totalCount": 139
             },
             "url": "https://github.com/usnistgov/ACVP"
         },
@@ -2885,7 +2885,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 23
+                "totalCount": 24
             },
             "url": "https://github.com/usnistgov/ACVP-Server"
         },
@@ -5019,7 +5019,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "url": "https://github.com/usnistgov/CRPI"
         },
@@ -10617,7 +10617,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "url": "https://github.com/usnistgov/MATS"
         },
@@ -11801,7 +11801,7 @@
                 "totalCount": 48
             },
             "issues_Open": {
-                "totalCount": 5
+                "totalCount": 8
             },
             "languages": {
                 "totalCount": 6
@@ -11831,7 +11831,7 @@
                 "totalCount": 63
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 6
@@ -12005,10 +12005,10 @@
             },
             "homepageUrl": "https://www.nist.gov/services-resources/software/development-nfiq-20",
             "issues_Closed": {
-                "totalCount": 142
+                "totalCount": 144
             },
             "issues_Open": {
-                "totalCount": 40
+                "totalCount": 39
             },
             "languages": {
                 "totalCount": 10
@@ -12044,7 +12044,7 @@
                 "totalCount": 5
             },
             "stargazers": {
-                "totalCount": 109
+                "totalCount": 110
             },
             "url": "https://github.com/usnistgov/NFIQ2"
         },
@@ -14431,10 +14431,10 @@
             },
             "homepageUrl": "https://pages.nist.gov/OSCAL/",
             "issues_Closed": {
-                "totalCount": 788
+                "totalCount": 790
             },
             "issues_Open": {
-                "totalCount": 152
+                "totalCount": 153
             },
             "languages": {
                 "totalCount": 7
@@ -14458,13 +14458,13 @@
                 "name": "XSLT"
             },
             "pullRequests_Closed": {
-                "totalCount": 198
+                "totalCount": 199
             },
             "pullRequests_Merged": {
-                "totalCount": 616
+                "totalCount": 619
             },
             "pullRequests_Open": {
-                "totalCount": 8
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 11
@@ -14572,7 +14572,7 @@
                 "totalCount": 25
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 2
@@ -14593,10 +14593,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "issues_Open": {
-                "totalCount": 7
+                "totalCount": 6
             },
             "languages": {
                 "totalCount": 5
@@ -14623,16 +14623,16 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 8
+                "totalCount": 10
             },
             "pullRequests_Open": {
-                "totalCount": 3
+                "totalCount": 2
             },
             "repositoryTopics": {
                 "totalCount": 3
             },
             "stargazers": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "url": "https://github.com/usnistgov/OSCAL-Reference"
         },
@@ -16529,7 +16529,7 @@
                 "totalCount": 68
             },
             "issues_Open": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "languages": {
                 "totalCount": 3
@@ -17916,7 +17916,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 171
+                "totalCount": 172
             },
             "url": "https://github.com/usnistgov/SP800-90B_EntropyAssessment"
         },
@@ -18434,7 +18434,7 @@
                 "totalCount": 10
             },
             "stargazers": {
-                "totalCount": 51
+                "totalCount": 52
             },
             "url": "https://github.com/usnistgov/SimulatedRadarWaveformGenerator"
         },
@@ -22247,7 +22247,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 149
+                "totalCount": 150
             },
             "url": "https://github.com/usnistgov/alignn"
         },
@@ -25516,6 +25516,60 @@
                 "totalCount": 0
             },
             "url": "https://github.com/usnistgov/contracts"
+        },
+        "usnistgov/cookiecutter-nist-python": {
+            "createdAt": "2023-09-27T17:02:01Z",
+            "defaultBranchRef": {
+                "name": "develop"
+            },
+            "description": "A cookiecutter template for python projects/packages at NIST",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "nickname": "Modified BSD License",
+                "spdxId": "BSD-3-Clause",
+                "url": "http://choosealicense.com/licenses/bsd-3-clause/"
+            },
+            "mentionableUsers": {
+                "totalCount": 103
+            },
+            "name": "cookiecutter-nist-python",
+            "nameWithOwner": "usnistgov/cookiecutter-nist-python",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/cookiecutter-nist-python"
         },
         "usnistgov/cord19-cdcs-nist": {
             "createdAt": "2020-03-30T17:30:40Z",
@@ -32977,7 +33031,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 432
+                "totalCount": 433
             },
             "url": "https://github.com/usnistgov/fipy"
         },
@@ -37681,7 +37735,7 @@
             },
             "description": null,
             "forks": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -37724,7 +37778,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "url": "https://github.com/usnistgov/hugo-uswds-nist"
         },
@@ -39197,10 +39251,10 @@
                 "totalCount": 59
             },
             "pullRequests_Merged": {
-                "totalCount": 187
+                "totalCount": 188
             },
             "pullRequests_Open": {
-                "totalCount": 8
+                "totalCount": 7
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -39426,7 +39480,7 @@
                 "totalCount": 2
             },
             "issues_Open": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "languages": {
                 "totalCount": 1
@@ -39895,7 +39949,7 @@
                 "totalCount": 1
             },
             "languages": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "licenseInfo": {
                 "name": "Other",
@@ -40235,7 +40289,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1326
+                "totalCount": 1328
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -40935,10 +40989,10 @@
             },
             "homepageUrl": "https://pages.nist.gov/metaschema/",
             "issues_Closed": {
-                "totalCount": 94
+                "totalCount": 95
             },
             "issues_Open": {
-                "totalCount": 19
+                "totalCount": 18
             },
             "languages": {
                 "totalCount": 7
@@ -40965,10 +41019,10 @@
                 "totalCount": 54
             },
             "pullRequests_Merged": {
-                "totalCount": 217
+                "totalCount": 220
             },
             "pullRequests_Open": {
-                "totalCount": 6
+                "totalCount": 4
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -41022,7 +41076,7 @@
                 "totalCount": 156
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 11
@@ -44778,7 +44832,7 @@
                 "totalCount": 24
             },
             "pullRequests_Open": {
-                "totalCount": 16
+                "totalCount": 17
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -47296,6 +47350,60 @@
                 "totalCount": 0
             },
             "url": "https://github.com/usnistgov/ppdiffuse"
+        },
+        "usnistgov/primo-explore-devenv": {
+            "createdAt": "2023-09-27T13:05:20Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "This repository is for developing Primo VE for the NIST Research Library and Museum. It's the first step of getting changes live in production. A node.js , gulp based development enviornment for Primo's new UI customizations (css,images,html and javascript)",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": {
+                "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "nickname": "Modified BSD License",
+                "spdxId": "BSD-3-Clause",
+                "url": "http://choosealicense.com/licenses/bsd-3-clause/"
+            },
+            "mentionableUsers": {
+                "totalCount": 10
+            },
+            "name": "primo-explore-devenv",
+            "nameWithOwner": "usnistgov/primo-explore-devenv",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "JavaScript"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/primo-explore-devenv"
         },
         "usnistgov/privacy_collaborative_research_cycle": {
             "createdAt": "2022-08-16T16:31:12Z",
@@ -52125,19 +52233,19 @@
                 "name": "C++"
             },
             "pullRequests_Closed": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "pullRequests_Merged": {
                 "totalCount": 19
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 2
             },
             "stargazers": {
-                "totalCount": 29
+                "totalCount": 30
             },
             "url": "https://github.com/usnistgov/teqp"
         },
@@ -53205,7 +53313,7 @@
             },
             "description": null,
             "forks": {
-                "totalCount": 18
+                "totalCount": 19
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -54950,7 +55058,7 @@
                 "totalCount": 45
             },
             "issues_Open": {
-                "totalCount": 21
+                "totalCount": 22
             },
             "languages": {
                 "totalCount": 1
@@ -54986,7 +55094,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 24
+                "totalCount": 25
             },
             "url": "https://github.com/usnistgov/vulntology"
         },
