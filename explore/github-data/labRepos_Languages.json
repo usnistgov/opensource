@@ -8005,6 +8005,28 @@
                 "totalCount": 1
             }
         },
+        "usnistgov/cookiecutter-nist-python": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Batchfile"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/cord19-cdcs-nist": {
             "languages": {
                 "nodes": [
@@ -12558,9 +12580,12 @@
                     },
                     {
                         "name": "Makefile"
+                    },
+                    {
+                        "name": "JavaScript"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "usnistgov/liboscal-java": {
@@ -14898,6 +14923,25 @@
                     }
                 ],
                 "totalCount": 3
+            }
+        },
+        "usnistgov/primo-explore-devenv": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "SCSS"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "usnistgov/privacy_collaborative_research_cycle": {
