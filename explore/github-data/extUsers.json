@@ -2341,7 +2341,7 @@
                 ]
             },
             "login": "LukeDonmoyer",
-            "name": null
+            "name": "Luke Donmoyer"
         },
         "LyleLevine": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/104170178?v=4",
@@ -3242,6 +3242,16 @@
             },
             "login": "RONNCC",
             "name": "Ronnie Ghose"
+        },
+        "RS-Credentive": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/122729488?u=78ce966c56fe7ee9ef1893eb680278af047afdca&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/metaschema"
+                ]
+            },
+            "login": "RS-Credentive",
+            "name": "Robert Sherwood"
         },
         "RamyaGuru": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/16179561?u=95f6947d2eba8f96732f12565f74ff140c767a09&v=4",
@@ -8445,7 +8455,7 @@
             "name": "Audric Schiltknecht"
         },
         "chendaniely": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/5782147?u=de8c0781a5295e4cef53b2eb4b58e1886a14a8dc&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5782147?u=146ef85b99d0ea88eabc3fd9bc36b8e5515171aa&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/git-novice-MSE"
@@ -12176,6 +12186,7 @@
                 "nodes": [
                     "usnistgov/OSCAL",
                     "usnistgov/OSCAL-Pages",
+                    "usnistgov/metaschema",
                     "usnistgov/metaschema-xslt",
                     "usnistgov/xslt3-functions"
                 ]
@@ -14923,7 +14934,7 @@
             "name": "Jerome Ajot"
         },
         "jesferman": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/22868645?u=5064b5a44bd98b0062b53e082b8433c153b908ef&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22868645?u=e072a8aa2312a4afebf999154302ca464dc420f3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/hostap"
@@ -19160,6 +19171,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/hugo-uswds",
+                    "usnistgov/metaschema",
                     "usnistgov/vulntology"
                 ]
             },
@@ -21438,21 +21450,6 @@
                 ]
             },
             "login": "ornithophile",
-            "name": null
-        },
-        "oscalbuilder": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/70547961?v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "usnistgov/OSCAL",
-                    "usnistgov/OSCAL-Pages",
-                    "usnistgov/metaschema",
-                    "usnistgov/metaschema-java",
-                    "usnistgov/oscal-content",
-                    "usnistgov/oscal-tools"
-                ]
-            },
-            "login": "oscalbuilder",
             "name": null
         },
         "oskar456": {
