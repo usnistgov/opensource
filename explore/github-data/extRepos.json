@@ -2552,6 +2552,7 @@
             "labContributors": {
                 "nodes": [
                     "brucemiller",
+                    "gfiumara",
                     "joefowler",
                     "snarkhunter"
                 ]
@@ -3278,6 +3279,14 @@
                 ]
             },
             "nameWithOwner": "schemaorg/schemaorg"
+        },
+        "scitt-community/scitt-api-emulator": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "scitt-community/scitt-api-emulator"
         },
         "scitt-community/scitt-web": {
             "labContributors": {
