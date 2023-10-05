@@ -7651,10 +7651,10 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "HTML"
+                        "name": "TypeScript"
                     },
                     {
-                        "name": "TypeScript"
+                        "name": "HTML"
                     },
                     {
                         "name": "JavaScript"
@@ -10395,13 +10395,16 @@
                         "name": "Python"
                     },
                     {
+                        "name": "TeX"
+                    },
+                    {
                         "name": "CMake"
                     },
                     {
                         "name": "Dockerfile"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 5
             }
         },
         "usnistgov/feasst": {
