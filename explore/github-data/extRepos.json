@@ -144,14 +144,6 @@
             },
             "nameWithOwner": "BugsFramework/BF"
         },
-        "CISecurity/CISControls_OSCAL": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "CISecurity/CISControls_OSCAL"
-        },
         "CVEProject/cve-schema": {
             "labContributors": {
                 "nodes": [
@@ -255,14 +247,6 @@
                 ]
             },
             "nameWithOwner": "ENRE467/.github"
-        },
-        "ENRE467/Lab_7": {
-            "labContributors": {
-                "nodes": [
-                    "saahu27"
-                ]
-            },
-            "nameWithOwner": "ENRE467/Lab_7"
         },
         "ENRE467/Lab_8": {
             "labContributors": {
@@ -794,6 +778,7 @@
         "SasView/documents": {
             "labContributors": {
                 "nodes": [
+                    "caitwolf",
                     "pbeaucage"
                 ]
             },
@@ -803,6 +788,7 @@
             "labContributors": {
                 "nodes": [
                     "bmaranville",
+                    "caitwolf",
                     "pbeaucage"
                 ]
             },
@@ -811,6 +797,7 @@
         "SasView/sasview": {
             "labContributors": {
                 "nodes": [
+                    "caitwolf",
                     "pbeaucage"
                 ]
             },
@@ -1998,14 +1985,6 @@
                 ]
             },
             "nameWithOwner": "gentoo/qt"
-        },
-        "ginger-anderson/CISControls_OSCAL": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "ginger-anderson/CISControls_OSCAL"
         },
         "gmondee/massGui": {
             "labContributors": {
