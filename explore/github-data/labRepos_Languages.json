@@ -10109,6 +10109,28 @@
                 "totalCount": 5
             }
         },
+        "usnistgov/eerc2022": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/ejsonschema": {
             "languages": {
                 "nodes": [
@@ -14186,13 +14208,13 @@
                         "name": "HTML"
                     },
                     {
+                        "name": "Python"
+                    },
+                    {
                         "name": "CSS"
                     },
                     {
                         "name": "Dockerfile"
-                    },
-                    {
-                        "name": "Python"
                     },
                     {
                         "name": "SCSS"

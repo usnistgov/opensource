@@ -5540,6 +5540,55 @@
         },
         "usnistgov/eerc": {
             "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/calculator",
+                        "topic": {
+                            "name": "calculator"
+                        },
+                        "url": "https://github.com/topics/calculator"
+                    },
+                    {
+                        "resourcePath": "/topics/economics",
+                        "topic": {
+                            "name": "economics"
+                        },
+                        "url": "https://github.com/topics/economics"
+                    },
+                    {
+                        "resourcePath": "/topics/energy",
+                        "topic": {
+                            "name": "energy"
+                        },
+                        "url": "https://github.com/topics/energy"
+                    },
+                    {
+                        "resourcePath": "/topics/escalation",
+                        "topic": {
+                            "name": "escalation"
+                        },
+                        "url": "https://github.com/topics/escalation"
+                    },
+                    {
+                        "resourcePath": "/topics/rate",
+                        "topic": {
+                            "name": "rate"
+                        },
+                        "url": "https://github.com/topics/rate"
+                    },
+                    {
+                        "resourcePath": "/topics/react",
+                        "topic": {
+                            "name": "react"
+                        },
+                        "url": "https://github.com/topics/react"
+                    }
+                ],
+                "totalCount": 6
+            }
+        },
+        "usnistgov/eerc2022": {
+            "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
             }

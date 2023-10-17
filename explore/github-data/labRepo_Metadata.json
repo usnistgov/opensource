@@ -3974,8 +3974,21 @@
     "usnistgov/eerc": {
         "description": "NIST Energy Escalation Rate Calculator",
         "name": "usnistgov/eerc",
+        "topics": [
+            "calculator",
+            "economics",
+            "energy",
+            "escalation",
+            "rate",
+            "react"
+        ],
+        "website": "https://pages.nist.gov/eerc"
+    },
+    "usnistgov/eerc2022": {
+        "description": "Temporary repo for hosting 2022 release of eerc on NIST Pages.",
+        "name": "usnistgov/eerc2022",
         "topics": null,
-        "website": null
+        "website": "https://pages.nist.gov/eerc2022"
     },
     "usnistgov/ejsonschema": {
         "description": "Validator for the Enhanced JSON Schema framework",
