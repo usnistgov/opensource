@@ -2085,6 +2085,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/REFPROP-cpp-wrapper": {
+        "description": "NIST REFPROP wrapper for C++",
+        "name": "usnistgov/REFPROP-cpp-wrapper",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/REFPROP-docs": {
         "description": "A repository containing information about REFPROP for the public",
         "name": "usnistgov/REFPROP-docs",
@@ -7015,6 +7021,20 @@
         "name": "usnistgov/vcsms-client",
         "topics": null,
         "website": null
+    },
+    "usnistgov/viscoelastic_SLS_umat_with_radiation_stiffening": {
+        "description": "User material for finite element programs implmentmenting 3D viscoelasticity of the standard linear solid type with parameters for temperature and radiation dose effects, with calibrations for vinyl nitrile foam.",
+        "name": "usnistgov/viscoelastic_SLS_umat_with_radiation_stiffening",
+        "topics": [
+            "calculix",
+            "foam",
+            "impact-protection",
+            "material-model",
+            "radiation-damage",
+            "viscoelasticity",
+            "radiation-effects"
+        ],
+        "website": ""
     },
     "usnistgov/viz-nist-portal": {
         "description": "The NIST General Viz Portal",

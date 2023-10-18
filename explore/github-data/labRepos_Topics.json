@@ -2896,6 +2896,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/REFPROP-cpp-wrapper": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/REFPROP-docs": {
             "repositoryTopics": {
                 "nodes": [],
@@ -10015,6 +10021,62 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "usnistgov/viscoelastic_SLS_umat_with_radiation_stiffening": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/calculix",
+                        "topic": {
+                            "name": "calculix"
+                        },
+                        "url": "https://github.com/topics/calculix"
+                    },
+                    {
+                        "resourcePath": "/topics/foam",
+                        "topic": {
+                            "name": "foam"
+                        },
+                        "url": "https://github.com/topics/foam"
+                    },
+                    {
+                        "resourcePath": "/topics/impact-protection",
+                        "topic": {
+                            "name": "impact-protection"
+                        },
+                        "url": "https://github.com/topics/impact-protection"
+                    },
+                    {
+                        "resourcePath": "/topics/material-model",
+                        "topic": {
+                            "name": "material-model"
+                        },
+                        "url": "https://github.com/topics/material-model"
+                    },
+                    {
+                        "resourcePath": "/topics/radiation-damage",
+                        "topic": {
+                            "name": "radiation-damage"
+                        },
+                        "url": "https://github.com/topics/radiation-damage"
+                    },
+                    {
+                        "resourcePath": "/topics/viscoelasticity",
+                        "topic": {
+                            "name": "viscoelasticity"
+                        },
+                        "url": "https://github.com/topics/viscoelasticity"
+                    },
+                    {
+                        "resourcePath": "/topics/radiation-effects",
+                        "topic": {
+                            "name": "radiation-effects"
+                        },
+                        "url": "https://github.com/topics/radiation-effects"
+                    }
+                ],
+                "totalCount": 7
             }
         },
         "usnistgov/viz-nist-portal": {
