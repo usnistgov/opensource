@@ -1934,10 +1934,19 @@
                         "name": "R"
                     },
                     {
+                        "name": "CSS"
+                    },
+                    {
                         "name": "Dockerfile"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 5
             }
         },
         "usnistgov/CONTAM-apps": {
@@ -5479,13 +5488,13 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "C++"
-                    },
-                    {
                         "name": "Mathematica"
                     },
                     {
                         "name": "C"
+                    },
+                    {
+                        "name": "C++"
                     },
                     {
                         "name": "Python"
@@ -5503,10 +5512,10 @@
                         "name": "MATLAB"
                     },
                     {
-                        "name": "CMake"
+                        "name": "LabVIEW"
                     },
                     {
-                        "name": "LabVIEW"
+                        "name": "CMake"
                     },
                     {
                         "name": "Fortran"
