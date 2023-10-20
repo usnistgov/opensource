@@ -362,12 +362,6 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/AIRMF": {
-        "description": null,
-        "name": "usnistgov/AIRMF",
-        "topics": null,
-        "website": null
-    },
     "usnistgov/AM3DS": {
         "description": "Methods of defect detection on AM parts and AM ontology",
         "name": "usnistgov/AM3DS",
@@ -7057,8 +7051,17 @@
     "usnistgov/vulntology": {
         "description": "Development of the NIST vulnerability data ontology (Vulntology).",
         "name": "usnistgov/vulntology",
-        "topics": null,
-        "website": ""
+        "topics": [
+            "cve",
+            "cwe",
+            "json",
+            "specification",
+            "vulnerabilities",
+            "vulnerability-management",
+            "vulnerability-research",
+            "vulnerability-coordination"
+        ],
+        "website": "https://pages.nist.gov/vulntology"
     },
     "usnistgov/webalglib": {
         "description": "Alglib fitting routines compiled to web with emscripten",
