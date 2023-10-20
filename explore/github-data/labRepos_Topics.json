@@ -435,12 +435,6 @@
                 "totalCount": 0
             }
         },
-        "usnistgov/AIRMF": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
         "usnistgov/AM3DS": {
             "repositoryTopics": {
                 "nodes": [],
@@ -10099,8 +10093,65 @@
         },
         "usnistgov/vulntology": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/cve",
+                        "topic": {
+                            "name": "cve"
+                        },
+                        "url": "https://github.com/topics/cve"
+                    },
+                    {
+                        "resourcePath": "/topics/cwe",
+                        "topic": {
+                            "name": "cwe"
+                        },
+                        "url": "https://github.com/topics/cwe"
+                    },
+                    {
+                        "resourcePath": "/topics/json",
+                        "topic": {
+                            "name": "json"
+                        },
+                        "url": "https://github.com/topics/json"
+                    },
+                    {
+                        "resourcePath": "/topics/specification",
+                        "topic": {
+                            "name": "specification"
+                        },
+                        "url": "https://github.com/topics/specification"
+                    },
+                    {
+                        "resourcePath": "/topics/vulnerabilities",
+                        "topic": {
+                            "name": "vulnerabilities"
+                        },
+                        "url": "https://github.com/topics/vulnerabilities"
+                    },
+                    {
+                        "resourcePath": "/topics/vulnerability-management",
+                        "topic": {
+                            "name": "vulnerability-management"
+                        },
+                        "url": "https://github.com/topics/vulnerability-management"
+                    },
+                    {
+                        "resourcePath": "/topics/vulnerability-research",
+                        "topic": {
+                            "name": "vulnerability-research"
+                        },
+                        "url": "https://github.com/topics/vulnerability-research"
+                    },
+                    {
+                        "resourcePath": "/topics/vulnerability-coordination",
+                        "topic": {
+                            "name": "vulnerability-coordination"
+                        },
+                        "url": "https://github.com/topics/vulnerability-coordination"
+                    }
+                ],
+                "totalCount": 8
             }
         },
         "usnistgov/webalglib": {
