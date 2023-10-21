@@ -2805,7 +2805,7 @@
                 "totalCount": 964
             },
             "issues_Open": {
-                "totalCount": 23
+                "totalCount": 24
             },
             "languages": {
                 "totalCount": 3
@@ -14416,7 +14416,7 @@
                 "totalCount": 11
             },
             "stargazers": {
-                "totalCount": 587
+                "totalCount": 588
             },
             "url": "https://github.com/usnistgov/OSCAL"
         },
@@ -14470,7 +14470,7 @@
                 "totalCount": 3
             },
             "stargazers": {
-                "totalCount": 8
+                "totalCount": 9
             },
             "url": "https://github.com/usnistgov/OSCAL-DEFINE"
         },
@@ -17873,7 +17873,7 @@
             },
             "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
             "forks": {
-                "totalCount": 79
+                "totalCount": 80
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -24187,10 +24187,10 @@
                 "totalCount": 2
             },
             "pullRequests_Merged": {
-                "totalCount": 8
+                "totalCount": 10
             },
             "pullRequests_Open": {
-                "totalCount": 6
+                "totalCount": 4
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -31558,6 +31558,58 @@
             },
             "url": "https://github.com/usnistgov/dye_dna_plates"
         },
+        "usnistgov/easyexpress-public": {
+            "createdAt": "2023-10-20T13:52:01Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "EXPRESS language support for Visual Studio Code",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 10
+            },
+            "name": "easyexpress-public",
+            "nameWithOwner": "usnistgov/easyexpress-public",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/easyexpress-public"
+        },
         "usnistgov/eerc": {
             "createdAt": "2020-08-25T21:45:24Z",
             "defaultBranchRef": {
@@ -33250,7 +33302,7 @@
             },
             "homepageUrl": "http://www.ctcms.nist.gov/fipy",
             "issues_Closed": {
-                "totalCount": 592
+                "totalCount": 593
             },
             "issues_Open": {
                 "totalCount": 148
@@ -40547,7 +40599,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1356
+                "totalCount": 1355
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -41304,7 +41356,7 @@
                 "totalCount": 17
             },
             "issues_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "languages": {
                 "totalCount": 6
@@ -41331,7 +41383,7 @@
                 "totalCount": 49
             },
             "pullRequests_Merged": {
-                "totalCount": 166
+                "totalCount": 167
             },
             "pullRequests_Open": {
                 "totalCount": 3
@@ -41388,7 +41440,7 @@
                 "totalCount": 16
             },
             "pullRequests_Open": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -46091,7 +46143,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 27
+                "totalCount": 28
             },
             "url": "https://github.com/usnistgov/oscal-cli"
         },
@@ -46199,7 +46251,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 22
+                "totalCount": 23
             },
             "url": "https://github.com/usnistgov/oscal-deep-diff"
         },
@@ -52518,10 +52570,10 @@
             },
             "homepageUrl": "https://teqp.readthedocs.io/en/latest/",
             "issues_Closed": {
-                "totalCount": 40
+                "totalCount": 42
             },
             "issues_Open": {
-                "totalCount": 11
+                "totalCount": 10
             },
             "languages": {
                 "totalCount": 8
@@ -52548,7 +52600,7 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 20
+                "totalCount": 21
             },
             "pullRequests_Open": {
                 "totalCount": 0
