@@ -2324,14 +2324,6 @@
             },
             "nameWithOwner": "jeremyevans/roda"
         },
-        "jjhelmus/pyfive": {
-            "labContributors": {
-                "nodes": [
-                    "bmaranville"
-                ]
-            },
-            "nameWithOwner": "jjhelmus/pyfive"
-        },
         "jli10umd/NIST2023": {
             "labContributors": {
                 "nodes": [
@@ -3255,6 +3247,14 @@
                 ]
             },
             "nameWithOwner": "sintaxi/surge"
+        },
+        "snowfallorg/lib": {
+            "labContributors": {
+                "nodes": [
+                    "ptonner"
+                ]
+            },
+            "nameWithOwner": "snowfallorg/lib"
         },
         "sonic-net/sonic-buildimage": {
             "labContributors": {
