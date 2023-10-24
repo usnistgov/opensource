@@ -2074,6 +2074,9 @@
             "languages": {
                 "nodes": [
                     {
+                        "name": "HTML"
+                    },
+                    {
                         "name": "R"
                     },
                     {
@@ -2089,7 +2092,7 @@
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 6
             }
         },
         "usnistgov/ChebTools": {

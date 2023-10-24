@@ -8879,7 +8879,8 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/DiscreteEventLogisticsSystems",
-                    "usnistgov/dels-analysis-integration"
+                    "usnistgov/dels-analysis-integration",
+                    "usnistgov/saismo"
                 ]
             },
             "login": "conradbock",
@@ -19209,6 +19210,7 @@
                 "nodes": [
                     "usnistgov/hugo-uswds",
                     "usnistgov/metaschema",
+                    "usnistgov/metaschema-java",
                     "usnistgov/vulntology"
                 ]
             },
@@ -24590,7 +24592,6 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/cpe-reference-implementation",
-                    "usnistgov/metaschema",
                     "usnistgov/oss-maven"
                 ]
             },
