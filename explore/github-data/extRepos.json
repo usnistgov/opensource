@@ -1196,14 +1196,6 @@
             },
             "nameWithOwner": "brotzeit/rustic"
         },
-        "bspk/nistpages-docker": {
-            "labContributors": {
-                "nodes": [
-                    "regenscheid"
-                ]
-            },
-            "nameWithOwner": "bspk/nistpages-docker"
-        },
         "bumps/bumps": {
             "labContributors": {
                 "nodes": [
@@ -2049,6 +2041,14 @@
             },
             "nameWithOwner": "h5py/h5py"
         },
+        "h5wasm/h5wasm-plugins": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "h5wasm/h5wasm-plugins"
+        },
         "hachyderm/community": {
             "labContributors": {
                 "nodes": [
@@ -2169,14 +2169,6 @@
                 ]
             },
             "nameWithOwner": "huggingface/datasets"
-        },
-        "hydra-repo/hydra-repo.io": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "hydra-repo/hydra-repo.io"
         },
         "hyperspy/hyperspy": {
             "labContributors": {
