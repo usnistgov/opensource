@@ -2488,6 +2488,17 @@
         ],
         "website": ""
     },
+    "usnistgov/UniSpec": {
+        "description": "Implementation of UniSpec, a deep learning model for predicting full fragment ion peptide spectra.",
+        "name": "usnistgov/UniSpec",
+        "topics": [
+            "deep-learning",
+            "mass-spectrometry",
+            "pytorch",
+            "peptide-tandem-mass-spectra"
+        ],
+        "website": ""
+    },
     "usnistgov/UsabilityConsole": {
         "description": null,
         "name": "usnistgov/UsabilityConsole",
