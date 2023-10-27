@@ -3617,6 +3617,41 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/UniSpec": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/deep-learning",
+                        "topic": {
+                            "name": "deep-learning"
+                        },
+                        "url": "https://github.com/topics/deep-learning"
+                    },
+                    {
+                        "resourcePath": "/topics/mass-spectrometry",
+                        "topic": {
+                            "name": "mass-spectrometry"
+                        },
+                        "url": "https://github.com/topics/mass-spectrometry"
+                    },
+                    {
+                        "resourcePath": "/topics/pytorch",
+                        "topic": {
+                            "name": "pytorch"
+                        },
+                        "url": "https://github.com/topics/pytorch"
+                    },
+                    {
+                        "resourcePath": "/topics/peptide-tandem-mass-spectra",
+                        "topic": {
+                            "name": "peptide-tandem-mass-spectra"
+                        },
+                        "url": "https://github.com/topics/peptide-tandem-mass-spectra"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
         "usnistgov/UsabilityConsole": {
             "repositoryTopics": {
                 "nodes": [],
