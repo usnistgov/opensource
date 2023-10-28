@@ -14426,6 +14426,22 @@
                 "totalCount": 2
             }
         },
+        "usnistgov/open-notebook": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Jinja"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
         "usnistgov/openfoamEmbedded3DP": {
             "languages": {
                 "nodes": [
