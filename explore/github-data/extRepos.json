@@ -32,6 +32,14 @@
             },
             "nameWithOwner": "ACEnglish/laytr"
         },
+        "ACEnglish/truvari": {
+            "labContributors": {
+                "nodes": [
+                    "nate-d-olson"
+                ]
+            },
+            "nameWithOwner": "ACEnglish/truvari"
+        },
         "ADLINK-IST/opensplice": {
             "labContributors": {
                 "nodes": [
@@ -279,14 +287,6 @@
                 ]
             },
             "nameWithOwner": "FAIRsharing/fairsharing.github.io"
-        },
-        "FATHOM5/oscal": {
-            "labContributors": {
-                "nodes": [
-                    "iMichaela"
-                ]
-            },
-            "nameWithOwner": "FATHOM5/oscal"
         },
         "FDio/govpp": {
             "labContributors": {
@@ -782,19 +782,9 @@
             },
             "nameWithOwner": "SamR1/FitTrackee"
         },
-        "Sanchitkedia/ARIAC_2023": {
-            "labContributors": {
-                "nodes": [
-                    "saahu27",
-                    "zeidk"
-                ]
-            },
-            "nameWithOwner": "Sanchitkedia/ARIAC_2023"
-        },
         "SasView/sasmodels": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville",
                     "caitwolf",
                     "pbeaucage"
                 ]
@@ -833,14 +823,6 @@
                 ]
             },
             "nameWithOwner": "SemanticComputing/fuseki-docker"
-        },
-        "Sentieon/hap-eval": {
-            "labContributors": {
-                "nodes": [
-                    "jzook"
-                ]
-            },
-            "nameWithOwner": "Sentieon/hap-eval"
         },
         "SimIntToolkit/cpswt-core": {
             "labContributors": {
@@ -953,14 +935,6 @@
                 ]
             },
             "nameWithOwner": "UNHSAILLab/Adversary-Engagement-Ontology"
-        },
-        "Vishaal-Kanna/ENPM808X_Midterm_Project": {
-            "labContributors": {
-                "nodes": [
-                    "saahu27"
-                ]
-            },
-            "nameWithOwner": "Vishaal-Kanna/ENPM808X_Midterm_Project"
         },
         "XAI4Sci/XAI4Sci.github.io": {
             "labContributors": {
@@ -1857,14 +1831,6 @@
             },
             "nameWithOwner": "emmo-repo/CIF-ontology"
         },
-        "esbuild-kit/tsx": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "esbuild-kit/tsx"
-        },
         "evhub/coconut": {
             "labContributors": {
                 "nodes": [
@@ -2347,6 +2313,14 @@
                 ]
             },
             "nameWithOwner": "joshloyal/sliced"
+        },
+        "jpalardy/vim-slime": {
+            "labContributors": {
+                "nodes": [
+                    "ptonner"
+                ]
+            },
+            "nameWithOwner": "jpalardy/vim-slime"
         },
         "jpetazzo/pipework": {
             "labContributors": {
@@ -2954,11 +2928,18 @@
         "pennersr/django-allauth": {
             "labContributors": {
                 "nodes": [
-                    "knc6",
                     "rptmat57"
                 ]
             },
             "nameWithOwner": "pennersr/django-allauth"
+        },
+        "perma-id/w3id.org": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "perma-id/w3id.org"
         },
         "pinellolab/CRISPRme": {
             "labContributors": {
@@ -2984,6 +2965,14 @@
             },
             "nameWithOwner": "plotly/plotly.py"
         },
+        "privatenumber/tsx": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "privatenumber/tsx"
+        },
         "pwilmart/annotations": {
             "labContributors": {
                 "nodes": [
@@ -2991,14 +2980,6 @@
                 ]
             },
             "nameWithOwner": "pwilmart/annotations"
-        },
-        "pybind/pybind11": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "pybind/pybind11"
         },
         "pycalphad/pycalphad": {
             "labContributors": {
@@ -3024,13 +3005,13 @@
             },
             "nameWithOwner": "pymeasure/python-lab-automation-landscape"
         },
-        "qamarzsyed/IK_Solver_Robot_Arm": {
+        "quadram-institute-bioscience/NBI-Slurm": {
             "labContributors": {
                 "nodes": [
-                    "Sanchitkedia"
+                    "dmr3"
                 ]
             },
-            "nameWithOwner": "qamarzsyed/IK_Solver_Robot_Arm"
+            "nameWithOwner": "quadram-institute-bioscience/NBI-Slurm"
         },
         "reductus/reductus": {
             "labContributors": {
@@ -3104,14 +3085,6 @@
             },
             "nameWithOwner": "ros2-java/ros2_java_examples"
         },
-        "rtbs-dev/paper-hcii-2023": {
-            "labContributors": {
-                "nodes": [
-                    "conteam"
-                ]
-            },
-            "nameWithOwner": "rtbs-dev/paper-hcii-2023"
-        },
         "ruven/iipsrv": {
             "labContributors": {
                 "nodes": [
@@ -3176,6 +3149,14 @@
             },
             "nameWithOwner": "scitt-community/scitt-api-emulator"
         },
+        "scitt-community/scitt-examples": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "scitt-community/scitt-examples"
+        },
         "scitt-community/scitt-web": {
             "labContributors": {
                 "nodes": [
@@ -3191,14 +3172,6 @@
                 ]
             },
             "nameWithOwner": "seba-gardens/seba-gardens.github.io"
-        },
-        "semanticchemistry/semanticchemistry": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "semanticchemistry/semanticchemistry"
         },
         "senthilrch/kube-fledged": {
             "labContributors": {
@@ -3312,6 +3285,14 @@
             },
             "nameWithOwner": "static-frame/static-frame"
         },
+        "stooppas/moveit2_asynchronous_trajectory_execution": {
+            "labContributors": {
+                "nodes": [
+                    "Sanchitkedia"
+                ]
+            },
+            "nameWithOwner": "stooppas/moveit2_asynchronous_trajectory_execution"
+        },
         "stvdwtt/phase-field-schema": {
             "labContributors": {
                 "nodes": [
@@ -3327,6 +3308,14 @@
                 ]
             },
             "nameWithOwner": "swig/swig"
+        },
+        "swirlai/swirl-search": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "swirlai/swirl-search"
         },
         "tgrosinger/md-advanced-tables": {
             "labContributors": {
@@ -3368,6 +3357,14 @@
             },
             "nameWithOwner": "torchmd/torchmd"
         },
+        "transmute-industries/transmute": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "transmute-industries/transmute"
+        },
         "txie-93/cdvae": {
             "labContributors": {
                 "nodes": [
@@ -3375,6 +3372,14 @@
                 ]
             },
             "nameWithOwner": "txie-93/cdvae"
+        },
+        "typst/typst": {
+            "labContributors": {
+                "nodes": [
+                    "rtbs-dev"
+                ]
+            },
+            "nameWithOwner": "typst/typst"
         },
         "ucoProject/UCO": {
             "labContributors": {
@@ -3488,13 +3493,13 @@
             },
             "nameWithOwner": "w3c/sdw-sosa-ssn"
         },
-        "watertap-org/watertap-seto": {
+        "watertap-org/watertap-reflo": {
             "labContributors": {
                 "nodes": [
                     "Matthew-Boyd"
                 ]
             },
-            "nameWithOwner": "watertap-org/watertap-seto"
+            "nameWithOwner": "watertap-org/watertap-reflo"
         },
         "wd15/phase-field-schema": {
             "labContributors": {

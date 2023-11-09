@@ -4104,9 +4104,12 @@
                     },
                     {
                         "name": "JavaScript"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 6
             }
         },
         "usnistgov/NIST-FDD-for-Residential-Air-Conditioners-and-Heat-Pumps": {
@@ -7736,6 +7739,19 @@
                 "totalCount": 4
             }
         },
+        "usnistgov/blossom-core": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Go"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 2
+            }
+        },
         "usnistgov/blossom-dashboard": {
             "languages": {
                 "nodes": [
@@ -7750,6 +7766,53 @@
                     }
                 ],
                 "totalCount": 3
+            }
+        },
+        "usnistgov/blossom-dashboard-enrollment": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "CSS"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
+        "usnistgov/blossom-nist-member": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Go"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "HCL"
+                    },
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 6
             }
         },
         "usnistgov/blossom-oscal": {
@@ -10359,6 +10422,28 @@
                     }
                 ],
                 "totalCount": 2
+            }
+        },
+        "usnistgov/escherized-colloids": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "C++"
+                    },
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 5
             }
         },
         "usnistgov/exabgpsrx": {
@@ -14088,16 +14173,22 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "Shell"
-                    },
-                    {
                         "name": "Python"
                     },
                     {
+                        "name": "Shell"
+                    },
+                    {
                         "name": "Dockerfile"
+                    },
+                    {
+                        "name": "Mako"
+                    },
+                    {
+                        "name": "CSS"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 5
             }
         },
         "usnistgov/oar-build": {
@@ -14139,6 +14230,34 @@
                     }
                 ],
                 "totalCount": 5
+            }
+        },
+        "usnistgov/oar-dmp-angular-ui": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "SCSS"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "JavaScript"
+                    }
+                ],
+                "totalCount": 7
             }
         },
         "usnistgov/oar-file-manager-docker": {
@@ -14580,13 +14699,16 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "Shell"
+                        "name": "Makefile"
                     },
                     {
                         "name": "XSLT"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "usnistgov/oscal-deep-diff": {
@@ -15382,6 +15504,49 @@
                     }
                 ],
                 "totalCount": 2
+            }
+        },
+        "usnistgov/pypfhub": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "CoffeeScript"
+                    },
+                    {
+                        "name": "TeX"
+                    },
+                    {
+                        "name": "Nix"
+                    },
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "Mustache"
+                    },
+                    {
+                        "name": "Jinja"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 12
             }
         },
         "usnistgov/pyproject2conda": {
