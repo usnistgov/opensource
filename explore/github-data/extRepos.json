@@ -441,14 +441,6 @@
             },
             "nameWithOwner": "JoAnnJuzefyk/bottle"
         },
-        "JuliaDynamics/DrWatson.jl": {
-            "labContributors": {
-                "nodes": [
-                    "NicholasWMRitchie"
-                ]
-            },
-            "nameWithOwner": "JuliaDynamics/DrWatson.jl"
-        },
         "JustKuzya/metaschema-xslt": {
             "labContributors": {
                 "nodes": [
@@ -2160,6 +2152,14 @@
             },
             "nameWithOwner": "ietf-wg-scitt/draft-ietf-scitt-architecture"
         },
+        "ietf-wg-scitt/draft-ietf-scitt-software-use-cases": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "ietf-wg-scitt/draft-ietf-scitt-software-use-cases"
+        },
         "ietf-wg-uuidrev/rfc4122bis": {
             "labContributors": {
                 "nodes": [
@@ -3204,14 +3204,6 @@
                 ]
             },
             "nameWithOwner": "sinara-hw/Kasli-SOC"
-        },
-        "sinara-hw/Phaser": {
-            "labContributors": {
-                "nodes": [
-                    "dhslichter"
-                ]
-            },
-            "nameWithOwner": "sinara-hw/Phaser"
         },
         "sintaxi/surge": {
             "labContributors": {
