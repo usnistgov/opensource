@@ -224,6 +224,14 @@
             },
             "nameWithOwner": "Cyber-Domain-Ontology/cdo.github.io"
         },
+        "DOI-DO/dcat-us": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "DOI-DO/dcat-us"
+        },
         "DPDK/dpdk": {
             "labContributors": {
                 "nodes": [
@@ -1732,24 +1740,6 @@
             },
             "nameWithOwner": "delfick/python-dict2xml"
         },
-        "dfxml-working-group/dfxml_cpp": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist",
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "dfxml-working-group/dfxml_cpp"
-        },
-        "dfxml-working-group/dfxml_python": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist",
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "dfxml-working-group/dfxml_python"
-        },
         "digitalcorpora/digitalcorpora-stats": {
             "labContributors": {
                 "nodes": [
@@ -2949,6 +2939,14 @@
             },
             "nameWithOwner": "paperless-ngx/paperless-ngx"
         },
+        "pdxjohnny/pdxjohnny.github.io": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "pdxjohnny/pdxjohnny.github.io"
+        },
         "pennersr/django-allauth": {
             "labContributors": {
                 "nodes": [
@@ -3076,14 +3074,6 @@
                 ]
             },
             "nameWithOwner": "reflectometry/refl1d"
-        },
-        "regolith-linux/regolith-desktop": {
-            "labContributors": {
-                "nodes": [
-                    "ShawnGeller"
-                ]
-            },
-            "nameWithOwner": "regolith-linux/regolith-desktop"
         },
         "ronjones43/ndp": {
             "labContributors": {
@@ -3484,14 +3474,6 @@
                 ]
             },
             "nameWithOwner": "w3c/mathml"
-        },
-        "w3c/mathml-core": {
-            "labContributors": {
-                "nodes": [
-                    "brucemiller"
-                ]
-            },
-            "nameWithOwner": "w3c/mathml-core"
         },
         "w3c/sdw": {
             "labContributors": {
