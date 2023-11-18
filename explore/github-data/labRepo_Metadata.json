@@ -3731,6 +3731,12 @@
         "topics": null,
         "website": "http://neuralensemble.org/sumatra/"
     },
+    "usnistgov/correlogram_tools": {
+        "description": "This project includes tools to simulate 1D neutron dark field spectra and generate simulated raw and reconstructed neutron dark field and attenuation images.",
+        "name": "usnistgov/correlogram_tools",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/covid19-spectrum-monitoring-acquisition": {
         "description": "Source code used to acquire spectrum monitoring data from sensors for NIST Tech Note XXXX",
         "name": "usnistgov/covid19-spectrum-monitoring-acquisition",
