@@ -2110,6 +2110,14 @@
             },
             "nameWithOwner": "huggingface/datasets"
         },
+        "husarion/rosbot_xl_ros": {
+            "labContributors": {
+                "nodes": [
+                    "zeidk"
+                ]
+            },
+            "nameWithOwner": "husarion/rosbot_xl_ros"
+        },
         "hyperspy/hyperspy": {
             "labContributors": {
                 "nodes": [
@@ -2255,14 +2263,6 @@
                 ]
             },
             "nameWithOwner": "jazzband/django-auditlog"
-        },
-        "jenkinsci/code-coverage-api-plugin": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "jenkinsci/code-coverage-api-plugin"
         },
         "jenkinsci/dark-theme-plugin": {
             "labContributors": {
@@ -2632,7 +2632,8 @@
         "named-data/NFD": {
             "labContributors": {
                 "nodes": [
-                    "Pesa"
+                    "Pesa",
+                    "yoursunny"
                 ]
             },
             "nameWithOwner": "named-data/NFD"
