@@ -5223,7 +5223,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2023-11-17"
+                "lastModified": "2023-11-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -9394,7 +9394,7 @@
             },
             "date": {
                 "created": "2017-03-03",
-                "lastModified": "2023-11-14"
+                "lastModified": "2023-11-21"
             },
             "description": "Files associated with the AGA8 standard",
             "downloadURL": "https://api.github.com/repos/usnistgov/AGA8/downloads",
@@ -23059,7 +23059,7 @@
             },
             "date": {
                 "created": "2019-10-17",
-                "lastModified": "2022-12-22"
+                "lastModified": "2023-11-20"
             },
             "description": "Tensorflow 2.x Image Classification ResNet50 Model",
             "downloadURL": "https://api.github.com/repos/usnistgov/image-classification-resnet50/downloads",
@@ -26422,7 +26422,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2023-11-19"
+                "lastModified": "2023-11-20"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -40045,6 +40045,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/escherized-colloids.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-11-20",
+                "lastModified": "2023-11-20"
+            },
+            "description": "A public repository for managing the OSCAL conversions of Cybersecurity and Privacy Reference Datasets (see NIST CPRT project)",
+            "downloadURL": "https://api.github.com/repos/usnistgov/capordino-content/downloads",
+            "homepageURL": "https://github.com/usnistgov/capordino-content",
+            "laborHours": 0,
+            "languages": [],
+            "name": "capordino-content",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/capordino-content.git",
             "status": "Development",
             "tags": [
                 "github"
