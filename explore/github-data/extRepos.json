@@ -216,6 +216,14 @@
             },
             "nameWithOwner": "Cyber-Domain-Ontology/CDO-Shapes-OWL"
         },
+        "Cyber-Domain-Ontology/CDO-Utility-Local-UUID": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "Cyber-Domain-Ontology/CDO-Utility-Local-UUID"
+        },
         "Cyber-Domain-Ontology/cdo.github.io": {
             "labContributors": {
                 "nodes": [
@@ -675,14 +683,6 @@
                 ]
             },
             "nameWithOwner": "Open-Catalyst-Project/ocp"
-        },
-        "Opentrons/opentrons": {
-            "labContributors": {
-                "nodes": [
-                    "pbeaucage"
-                ]
-            },
-            "nameWithOwner": "Opentrons/opentrons"
         },
         "PM-Master/policy-machine-core": {
             "labContributors": {
@@ -3371,6 +3371,14 @@
                 ]
             },
             "nameWithOwner": "transmute-industries/transmute"
+        },
+        "trec-dd/trec-dd-example-code": {
+            "labContributors": {
+                "nodes": [
+                    "isoboroff"
+                ]
+            },
+            "nameWithOwner": "trec-dd/trec-dd-example-code"
         },
         "txie-93/cdvae": {
             "labContributors": {

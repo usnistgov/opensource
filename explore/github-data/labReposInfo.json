@@ -2827,10 +2827,10 @@
                 "totalCount": 23
             },
             "pullRequests_Merged": {
-                "totalCount": 434
+                "totalCount": 437
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 4
@@ -2854,7 +2854,7 @@
                 "totalCount": 249
             },
             "issues_Open": {
-                "totalCount": 28
+                "totalCount": 30
             },
             "languages": {
                 "totalCount": 4
@@ -3405,7 +3405,7 @@
             },
             "description": "Repository for ARIAC (Agile Robotics for Industrial Automation Competition), consisting of kit building and assembly in a simulated warehouse",
             "forks": {
-                "totalCount": 55
+                "totalCount": 56
             },
             "homepageUrl": "https://ariac.readthedocs.io/en/latest/",
             "issues_Closed": {
@@ -6472,7 +6472,7 @@
             },
             "description": "API that provides standards based economic calculations. ",
             "forks": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -6515,7 +6515,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "url": "https://github.com/usnistgov/E3"
         },
@@ -14407,10 +14407,10 @@
                 "totalCount": 202
             },
             "pullRequests_Merged": {
-                "totalCount": 625
+                "totalCount": 631
             },
             "pullRequests_Open": {
-                "totalCount": 10
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 11
@@ -14515,10 +14515,10 @@
                 "totalCount": 2
             },
             "pullRequests_Merged": {
-                "totalCount": 30
+                "totalCount": 31
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 2
@@ -15972,7 +15972,7 @@
             },
             "description": "Privacy Engineering Collaboration Space",
             "forks": {
-                "totalCount": 117
+                "totalCount": 118
             },
             "homepageUrl": "https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space",
             "issues_Closed": {
@@ -16035,7 +16035,7 @@
             },
             "licenseInfo": null,
             "mentionableUsers": {
-                "totalCount": 19
+                "totalCount": 20
             },
             "name": "PrivacyFrmwkResources",
             "nameWithOwner": "usnistgov/PrivacyFrmwkResources",
@@ -16048,10 +16048,10 @@
                 "totalCount": 4
             },
             "pullRequests_Merged": {
-                "totalCount": 11
+                "totalCount": 17
             },
             "pullRequests_Open": {
-                "totalCount": 7
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -18325,6 +18325,58 @@
             },
             "url": "https://github.com/usnistgov/SelfishMiningSim"
         },
+        "usnistgov/SerialTrackXR": {
+            "createdAt": "2023-11-21T22:59:14Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Adaptation of SerialTrack for 2D x-ray transmission images",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 10
+            },
+            "name": "SerialTrackXR",
+            "nameWithOwner": "usnistgov/SerialTrackXR",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/SerialTrackXR"
+        },
         "usnistgov/ShopbotPyQt": {
             "createdAt": "2021-03-22T20:32:36Z",
             "defaultBranchRef": {
@@ -18429,7 +18481,7 @@
                 "totalCount": 10
             },
             "stargazers": {
-                "totalCount": 54
+                "totalCount": 55
             },
             "url": "https://github.com/usnistgov/SimulatedRadarWaveformGenerator"
         },
@@ -22350,7 +22402,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 163
+                "totalCount": 165
             },
             "url": "https://github.com/usnistgov/alignn"
         },
@@ -31408,10 +31460,10 @@
                 "totalCount": 73
             },
             "pullRequests_Merged": {
-                "totalCount": 103
+                "totalCount": 104
             },
             "pullRequests_Open": {
-                "totalCount": 7
+                "totalCount": 6
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -39887,7 +39939,7 @@
                 "totalCount": 12
             },
             "stargazers": {
-                "totalCount": 253
+                "totalCount": 254
             },
             "url": "https://github.com/usnistgov/jarvis"
         },
@@ -41757,7 +41809,7 @@
                 "totalCount": 174
             },
             "pullRequests_Open": {
-                "totalCount": 8
+                "totalCount": 9
             },
             "repositoryTopics": {
                 "totalCount": 11
@@ -41781,7 +41833,7 @@
                 "totalCount": 12
             },
             "issues_Open": {
-                "totalCount": 50
+                "totalCount": 51
             },
             "languages": {
                 "totalCount": 6
@@ -42081,7 +42133,7 @@
             },
             "description": "Resources for Minutia Interoperability Exchange, NIST's family of interoperable fingerprint template tests.",
             "forks": {
-                "totalCount": 10
+                "totalCount": 11
             },
             "homepageUrl": "https://www.nist.gov/itl/iad/image-group/minutiae-interoperability-exchange-minex-iii",
             "issues_Closed": {
@@ -42925,7 +42977,7 @@
             },
             "description": "Multicomplex algebra",
             "forks": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -46633,7 +46685,7 @@
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "forks": {
-                "totalCount": 107
+                "totalCount": 108
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -50795,7 +50847,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 39
+                "totalCount": 40
             },
             "url": "https://github.com/usnistgov/sctools"
         },
@@ -54295,7 +54347,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 120
+                "totalCount": 121
             },
             "url": "https://github.com/usnistgov/trojai-literature"
         },
@@ -56055,10 +56107,10 @@
             },
             "homepageUrl": "https://pages.nist.gov/vulntology",
             "issues_Closed": {
-                "totalCount": 77
+                "totalCount": 78
             },
             "issues_Open": {
-                "totalCount": 15
+                "totalCount": 14
             },
             "languages": {
                 "totalCount": 1
