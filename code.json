@@ -1019,7 +1019,7 @@
             },
             "date": {
                 "created": "2015-02-09",
-                "lastModified": "2023-07-07"
+                "lastModified": "2023-11-21"
             },
             "description": "Tools for security content automation, baseline tailoring, and overlay development.",
             "downloadURL": "https://api.github.com/repos/usnistgov/sctools/downloads",
@@ -10803,7 +10803,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2023-11-19"
+                "lastModified": "2023-11-22"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -20998,7 +20998,7 @@
             },
             "date": {
                 "created": "2019-06-04",
-                "lastModified": "2023-10-09"
+                "lastModified": "2023-11-22"
             },
             "description": "A software tool that generates simulated radar signals and creates RF datasets for developing and testing machine/deep learning detection algorithms. ",
             "downloadURL": "https://api.github.com/repos/usnistgov/SimulatedRadarWaveformGenerator/downloads",
@@ -23818,7 +23818,7 @@
             },
             "date": {
                 "created": "2020-01-08",
-                "lastModified": "2023-09-22"
+                "lastModified": "2023-11-22"
             },
             "description": "This repository contains resources to support organizations’ use of the Privacy Framework. Resources include crosswalks, Profiles, guidelines, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyFrmwkResources/downloads",
@@ -26489,7 +26489,7 @@
             },
             "date": {
                 "created": "2020-06-01",
-                "lastModified": "2023-11-15"
+                "lastModified": "2023-11-22"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-literature/downloads",
@@ -28980,7 +28980,7 @@
             },
             "date": {
                 "created": "2021-01-05",
-                "lastModified": "2023-03-09"
+                "lastModified": "2023-11-21"
             },
             "description": "API that provides standards based economic calculations. ",
             "downloadURL": "https://api.github.com/repos/usnistgov/E3/downloads",
@@ -30282,7 +30282,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2023-11-07"
+                "lastModified": "2023-11-22"
             },
             "description": "Atomistic Line Graph Neural Network",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -36179,8 +36179,8 @@
                 "Python",
                 "HTML",
                 "CSS",
-                "Dockerfile",
                 "JavaScript",
+                "Dockerfile",
                 "Shell"
             ],
             "name": "nist_umis",
@@ -40242,6 +40242,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/capordino-content.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-11-21",
+                "lastModified": "2023-11-21"
+            },
+            "description": "Adaptation of SerialTrack for 2D x-ray transmission images",
+            "downloadURL": "https://api.github.com/repos/usnistgov/SerialTrackXR/downloads",
+            "homepageURL": "https://github.com/usnistgov/SerialTrackXR",
+            "laborHours": 0,
+            "languages": [],
+            "name": "SerialTrackXR",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/SerialTrackXR.git",
             "status": "Development",
             "tags": [
                 "github"
