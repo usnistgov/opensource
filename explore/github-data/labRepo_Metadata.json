@@ -1837,7 +1837,7 @@
             "nist",
             "oscal"
         ],
-        "website": ""
+        "website": "https://pages.nist.gov/OSCAL-Reference/"
     },
     "usnistgov/OpenFSGIM": {
         "description": "A repository of software components for representing ASHRAE 201 Facility Smart Grid Information Model",
@@ -2338,12 +2338,6 @@
     "usnistgov/SelfishMiningSim": {
         "description": "Program to simulate selfish mining attacks across different difficulty adjustment algorithms",
         "name": "usnistgov/SelfishMiningSim",
-        "topics": null,
-        "website": null
-    },
-    "usnistgov/SerialTrackXR": {
-        "description": "Adaptation of SerialTrack for 2D x-ray transmission images",
-        "name": "usnistgov/SerialTrackXR",
         "topics": null,
         "website": null
     },

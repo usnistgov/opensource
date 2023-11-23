@@ -2854,7 +2854,7 @@
                 "totalCount": 249
             },
             "issues_Open": {
-                "totalCount": 30
+                "totalCount": 31
             },
             "languages": {
                 "totalCount": 4
@@ -3442,7 +3442,7 @@
                 "totalCount": 43
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 2
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -9914,7 +9914,7 @@
             },
             "description": "Scoring and analysis software for the evaluation of Knowledge Directed Artificial Intelligence Reasoning Over Schemas (KAIROS)",
             "forks": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -9957,7 +9957,7 @@
                 "totalCount": 5
             },
             "stargazers": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "url": "https://github.com/usnistgov/KAIROS"
         },
@@ -11399,7 +11399,7 @@
             },
             "description": "Scoring tools for Media Forensics Evaluations",
             "forks": {
-                "totalCount": 9
+                "totalCount": 10
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -11437,7 +11437,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 27
+                "totalCount": 28
             },
             "url": "https://github.com/usnistgov/MediScore"
         },
@@ -14537,7 +14537,7 @@
             "forks": {
                 "totalCount": 5
             },
-            "homepageUrl": "",
+            "homepageUrl": "https://pages.nist.gov/OSCAL-Reference/",
             "issues_Closed": {
                 "totalCount": 8
             },
@@ -18324,58 +18324,6 @@
                 "totalCount": 6
             },
             "url": "https://github.com/usnistgov/SelfishMiningSim"
-        },
-        "usnistgov/SerialTrackXR": {
-            "createdAt": "2023-11-21T22:59:14Z",
-            "defaultBranchRef": {
-                "name": "main"
-            },
-            "description": "Adaptation of SerialTrack for 2D x-ray transmission images",
-            "forks": {
-                "totalCount": 0
-            },
-            "homepageUrl": null,
-            "issues_Closed": {
-                "totalCount": 0
-            },
-            "issues_Open": {
-                "totalCount": 0
-            },
-            "languages": {
-                "totalCount": 0
-            },
-            "licenseInfo": {
-                "name": "Other",
-                "nickname": null,
-                "spdxId": "NOASSERTION",
-                "url": "http://choosealicense.com/licenses/other/"
-            },
-            "mentionableUsers": {
-                "totalCount": 10
-            },
-            "name": "SerialTrackXR",
-            "nameWithOwner": "usnistgov/SerialTrackXR",
-            "owner": {
-                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
-                "login": "usnistgov"
-            },
-            "primaryLanguage": null,
-            "pullRequests_Closed": {
-                "totalCount": 0
-            },
-            "pullRequests_Merged": {
-                "totalCount": 0
-            },
-            "pullRequests_Open": {
-                "totalCount": 0
-            },
-            "repositoryTopics": {
-                "totalCount": 0
-            },
-            "stargazers": {
-                "totalCount": 0
-            },
-            "url": "https://github.com/usnistgov/SerialTrackXR"
         },
         "usnistgov/ShopbotPyQt": {
             "createdAt": "2021-03-22T20:32:36Z",
@@ -24274,7 +24222,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "licenseInfo": null,
             "mentionableUsers": {
@@ -24290,13 +24238,13 @@
                 "name": "TypeScript"
             },
             "pullRequests_Closed": {
-                "totalCount": 4
+                "totalCount": 6
             },
             "pullRequests_Merged": {
-                "totalCount": 15
+                "totalCount": 16
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 2
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -34233,7 +34181,7 @@
                 "totalCount": 94
             },
             "issues_Open": {
-                "totalCount": 15
+                "totalCount": 16
             },
             "languages": {
                 "totalCount": 3
@@ -37597,10 +37545,10 @@
                 "totalCount": 86
             },
             "pullRequests_Merged": {
-                "totalCount": 467
+                "totalCount": 468
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -39981,7 +39929,7 @@
                 "name": "Jupyter Notebook"
             },
             "pullRequests_Closed": {
-                "totalCount": 72
+                "totalCount": 73
             },
             "pullRequests_Merged": {
                 "totalCount": 189
@@ -40763,7 +40711,7 @@
                 "totalCount": 99
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 1
@@ -41022,7 +40970,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1382
+                "totalCount": 1383
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -46146,7 +46094,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 38
+                "totalCount": 37
             },
             "url": "https://github.com/usnistgov/ocr-pipeline"
         },
@@ -46846,10 +46794,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "issues_Open": {
-                "totalCount": 7
+                "totalCount": 6
             },
             "languages": {
                 "totalCount": 5
@@ -54152,7 +54100,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 208
+                "totalCount": 211
             },
             "url": "https://github.com/usnistgov/trec_eval"
         },
