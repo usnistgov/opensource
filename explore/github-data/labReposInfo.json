@@ -3603,7 +3603,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 41
+                "totalCount": 40
             },
             "url": "https://github.com/usnistgov/ActEV_Scorer"
         },
@@ -14172,7 +14172,7 @@
             },
             "description": null,
             "forks": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -16814,7 +16814,7 @@
                 "totalCount": 475
             },
             "issues_Open": {
-                "totalCount": 43
+                "totalCount": 44
             },
             "languages": {
                 "totalCount": 13
@@ -17504,7 +17504,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 174
+                "totalCount": 173
             },
             "url": "https://github.com/usnistgov/SCTK"
         },
@@ -17877,7 +17877,7 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 147
+                "totalCount": 148
             },
             "issues_Open": {
                 "totalCount": 15
@@ -22350,7 +22350,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 165
+                "totalCount": 164
             },
             "url": "https://github.com/usnistgov/alignn"
         },
@@ -30134,7 +30134,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "url": "https://github.com/usnistgov/crcl"
         },
@@ -34217,7 +34217,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 242
+                "totalCount": 241
             },
             "url": "https://github.com/usnistgov/frvt"
         },
@@ -35392,7 +35392,7 @@
                 "totalCount": 11
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 7
@@ -37801,6 +37801,55 @@
             },
             "url": "https://github.com/usnistgov/hl7-v2-validation-bundled"
         },
+        "usnistgov/hl7-v2-validation-utils": {
+            "createdAt": "2023-11-24T21:25:55Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Utilities for HL7 v2 Validation",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 10
+            },
+            "name": "hl7-v2-validation-utils",
+            "nameWithOwner": "usnistgov/hl7-v2-validation-utils",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Java"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/hl7-v2-validation-utils"
+        },
         "usnistgov/hl7-vocabulary-service": {
             "createdAt": "2019-10-11T15:41:06Z",
             "defaultBranchRef": {
@@ -39887,7 +39936,7 @@
                 "totalCount": 12
             },
             "stargazers": {
-                "totalCount": 255
+                "totalCount": 254
             },
             "url": "https://github.com/usnistgov/jarvis"
         },
@@ -40705,7 +40754,7 @@
                 "name": "Java"
             },
             "pullRequests_Closed": {
-                "totalCount": 68
+                "totalCount": 69
             },
             "pullRequests_Merged": {
                 "totalCount": 99
@@ -40927,7 +40976,7 @@
             },
             "description": "macOS Security Compliance Project",
             "forks": {
-                "totalCount": 158
+                "totalCount": 159
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -40970,7 +41019,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1384
+                "totalCount": 1385
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -41754,10 +41803,10 @@
                 "totalCount": 56
             },
             "pullRequests_Merged": {
-                "totalCount": 174
+                "totalCount": 178
             },
             "pullRequests_Open": {
-                "totalCount": 9
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 11
@@ -46610,7 +46659,7 @@
                 "name": "Java"
             },
             "pullRequests_Closed": {
-                "totalCount": 74
+                "totalCount": 75
             },
             "pullRequests_Merged": {
                 "totalCount": 90
@@ -47866,7 +47915,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 42
+                "totalCount": 41
             },
             "url": "https://github.com/usnistgov/pmml_pymcBN"
         },
@@ -54100,7 +54149,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 211
+                "totalCount": 210
             },
             "url": "https://github.com/usnistgov/trec_eval"
         },
@@ -54295,7 +54344,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 121
+                "totalCount": 120
             },
             "url": "https://github.com/usnistgov/trojai-literature"
         },
