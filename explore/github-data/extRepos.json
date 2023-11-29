@@ -320,6 +320,14 @@
             },
             "nameWithOwner": "FlexBE/flexbe_behavior_engine"
         },
+        "GSA/fedramp-automation": {
+            "labContributors": {
+                "nodes": [
+                    "david-waltermire-nist"
+                ]
+            },
+            "nameWithOwner": "GSA/fedramp-automation"
+        },
         "Gscorreia89/pyChemometrics": {
             "labContributors": {
                 "nodes": [
@@ -2754,14 +2762,6 @@
                 ]
             },
             "nameWithOwner": "named-data/ndns"
-        },
-        "named-data/ppa-packaging": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "named-data/ppa-packaging"
         },
         "named-data/repo-ng": {
             "labContributors": {
