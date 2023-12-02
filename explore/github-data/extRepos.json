@@ -644,6 +644,14 @@
             },
             "nameWithOwner": "NetherlandsForensicInstitute/hansken-case"
         },
+        "Nicoretti/crc": {
+            "labContributors": {
+                "nodes": [
+                    "bks-nist"
+                ]
+            },
+            "nameWithOwner": "Nicoretti/crc"
+        },
         "NixOS/nixpkgs": {
             "labContributors": {
                 "nodes": [
@@ -943,6 +951,14 @@
                 ]
             },
             "nameWithOwner": "UNHSAILLab/Adversary-Engagement-Ontology"
+        },
+        "VHRanger/CSRGraph": {
+            "labContributors": {
+                "nodes": [
+                    "rtbs-dev"
+                ]
+            },
+            "nameWithOwner": "VHRanger/CSRGraph"
         },
         "XAI4Sci/XAI4Sci.github.io": {
             "labContributors": {
@@ -2492,6 +2508,14 @@
             },
             "nameWithOwner": "martintb/typyEnv"
         },
+        "martinthomson/i-d-template": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "martinthomson/i-d-template"
+        },
         "materialsinnovation/pymks": {
             "labContributors": {
                 "nodes": [
@@ -2523,6 +2547,14 @@
                 ]
             },
             "nameWithOwner": "mathworks/matlab-proxy"
+        },
+        "matthewwardrop/formulaic": {
+            "labContributors": {
+                "nodes": [
+                    "ptonner"
+                ]
+            },
+            "nameWithOwner": "matthewwardrop/formulaic"
         },
         "mattieserver/netbox-topology-views": {
             "labContributors": {
@@ -3012,6 +3044,14 @@
             },
             "nameWithOwner": "quadram-institute-bioscience/NBI-Slurm"
         },
+        "qudt/qudt-public-repo": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "qudt/qudt-public-repo"
+        },
         "reductus/reductus": {
             "labContributors": {
                 "nodes": [
@@ -3187,14 +3227,6 @@
                 ]
             },
             "nameWithOwner": "sinara-hw/Kasli-SOC"
-        },
-        "sintaxi/surge": {
-            "labContributors": {
-                "nodes": [
-                    "wd15"
-                ]
-            },
-            "nameWithOwner": "sintaxi/surge"
         },
         "snowfallorg/lib": {
             "labContributors": {
@@ -3411,14 +3443,6 @@
                 ]
             },
             "nameWithOwner": "vdemichev/DiaNN"
-        },
-        "vitg-gsa-automation/chkschema": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "vitg-gsa-automation/chkschema"
         },
         "vsch/flexmark-java": {
             "labContributors": {
