@@ -4589,6 +4589,16 @@
             "login": "abrodkin",
             "name": "Alexey Brodkin"
         },
+        "abuckles-uci": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/135279879?u=1a543361c44f2afd1f310e8be506c41a4b9dc942&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/NEMO"
+                ]
+            },
+            "login": "abuckles-uci",
+            "name": "Aaron Buckles"
+        },
         "abuzarra": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/13432870?v=4",
             "contributedLabRepositories": {
@@ -14623,10 +14633,11 @@
             "name": "Jay Bonci"
         },
         "jaybrecht": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/50928580?v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/50928580?u=4f3dff59896a4ab0c02d5f3808b6e8c673fed42b&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/ARIAC"
+                    "usnistgov/ARIAC",
+                    "usnistgov/ARIAC_docs"
                 ]
             },
             "login": "jaybrecht",
