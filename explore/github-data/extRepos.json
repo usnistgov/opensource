@@ -976,6 +976,14 @@
             },
             "nameWithOwner": "XAI4Sci/XAI4Sci.github.io"
         },
+        "actions/deploy-pages": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "actions/deploy-pages"
+        },
         "actualbudget/actual": {
             "labContributors": {
                 "nodes": [
@@ -1217,6 +1225,14 @@
                 ]
             },
             "nameWithOwner": "bumps/bumps"
+        },
+        "cabo/kramdown-rfc": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "cabo/kramdown-rfc"
         },
         "carpentries-incubator/hpc-intro": {
             "labContributors": {
@@ -1506,14 +1522,6 @@
                 ]
             },
             "nameWithOwner": "codeforsanjose/codeforsanjose.github.io"
-        },
-        "community/community": {
-            "labContributors": {
-                "nodes": [
-                    "HowardCohl"
-                ]
-            },
-            "nameWithOwner": "community/community"
         },
         "conda-forge/analphipy-feedstock": {
             "labContributors": {
@@ -2980,6 +2988,14 @@
             },
             "nameWithOwner": "paperless-ngx/paperless-ngx"
         },
+        "paulbrodersen/netgraph": {
+            "labContributors": {
+                "nodes": [
+                    "rtbs-dev"
+                ]
+            },
+            "nameWithOwner": "paulbrodersen/netgraph"
+        },
         "pdxjohnny/pdxjohnny.github.io": {
             "labContributors": {
                 "nodes": [
@@ -3123,14 +3139,6 @@
                 ]
             },
             "nameWithOwner": "ros-planning/moveit2"
-        },
-        "ros2-java/ros2_java_examples": {
-            "labContributors": {
-                "nodes": [
-                    "wshackle"
-                ]
-            },
-            "nameWithOwner": "ros2-java/ros2_java_examples"
         },
         "ruven/iipsrv": {
             "labContributors": {
