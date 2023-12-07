@@ -3827,7 +3827,7 @@
             },
             "date": {
                 "created": "2016-01-23",
-                "lastModified": "2023-07-25"
+                "lastModified": "2023-12-07"
             },
             "description": "Modeling of CPS Framework",
             "downloadURL": "https://api.github.com/repos/usnistgov/cpsframework/downloads",
@@ -7025,7 +7025,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2023-12-01"
+                "lastModified": "2023-12-07"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -7034,11 +7034,11 @@
             "languages": [
                 "XSLT",
                 "HTML",
+                "Python",
                 "CSS",
                 "Makefile",
                 "XProc",
-                "Shell",
-                "Python"
+                "Shell"
             ],
             "name": "OSCAL",
             "organization": "National Institute of Standards and Technology",
@@ -7224,7 +7224,7 @@
             },
             "date": {
                 "created": "2016-10-03",
-                "lastModified": "2023-11-07"
+                "lastModified": "2023-12-06"
             },
             "description": "NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NEMO/downloads",
@@ -10771,7 +10771,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2023-12-05"
+                "lastModified": "2023-12-06"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -18278,7 +18278,7 @@
             },
             "date": {
                 "created": "2018-10-12",
-                "lastModified": "2023-12-01"
+                "lastModified": "2023-12-06"
             },
             "description": "Privacy Engineering Collaboration Space",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyEngCollabSpace/downloads",
@@ -22444,7 +22444,7 @@
             },
             "date": {
                 "created": "2019-09-19",
-                "lastModified": "2023-10-16"
+                "lastModified": "2023-12-06"
             },
             "description": "Documentation for and implementations of the metaschema modeling language",
             "downloadURL": "https://api.github.com/repos/usnistgov/metaschema/downloads",
@@ -23572,7 +23572,7 @@
             },
             "date": {
                 "created": "2019-12-11",
-                "lastModified": "2023-12-05"
+                "lastModified": "2023-12-06"
             },
             "description": "Specification and Guidelines for FAIR Containerized Computational Software",
             "downloadURL": "https://api.github.com/repos/usnistgov/fair-chain-compute-container/downloads",
@@ -24000,7 +24000,7 @@
             },
             "date": {
                 "created": "2020-01-17",
-                "lastModified": "2023-11-15"
+                "lastModified": "2023-12-06"
             },
             "description": "Example TrojAI Submission",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-example/downloads",
@@ -26422,7 +26422,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2023-12-05"
+                "lastModified": "2023-12-07"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -39908,7 +39908,7 @@
             },
             "date": {
                 "created": "2023-10-20",
-                "lastModified": "2023-10-30"
+                "lastModified": "2023-12-07"
             },
             "description": "EXPRESS language support for Visual Studio Code",
             "downloadURL": "https://api.github.com/repos/usnistgov/easyexpress-public/downloads",
@@ -40217,6 +40217,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/ijarvis.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-12-06",
+                "lastModified": "2023-12-06"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/ARIAC_docs/downloads",
+            "homepageURL": "https://github.com/usnistgov/ARIAC_docs",
+            "laborHours": 0,
+            "languages": [],
+            "name": "ARIAC_docs",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/ARIAC_docs.git",
             "status": "Development",
             "tags": [
                 "github"
