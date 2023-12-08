@@ -248,14 +248,6 @@
             },
             "nameWithOwner": "DOI-DO/dcat-us"
         },
-        "DPDK/dpdk": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "DPDK/dpdk"
-        },
         "Daniel-KM/Omeka-S-module-DataTypeGeometry": {
             "labContributors": {
                 "nodes": [
@@ -2281,7 +2273,6 @@
         "jaybrecht/ariac_ros2": {
             "labContributors": {
                 "nodes": [
-                    "Pavel-P",
                     "anthonydowns",
                     "zeidk"
                 ]
@@ -3059,6 +3050,14 @@
                 ]
             },
             "nameWithOwner": "pycalphad/pycalphad"
+        },
+        "pydantic/pydantic": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "pydantic/pydantic"
         },
         "pydata/xarray": {
             "labContributors": {
