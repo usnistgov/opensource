@@ -1057,14 +1057,6 @@
             },
             "nameWithOwner": "amlabdr/ip-service"
         },
-        "amlabdr/proxy_service": {
-            "labContributors": {
-                "nodes": [
-                    "MheniMerz"
-                ]
-            },
-            "nameWithOwner": "amlabdr/proxy_service"
-        },
         "annotorious/annotorious-v2-plugins": {
             "labContributors": {
                 "nodes": [
@@ -3590,6 +3582,14 @@
                 ]
             },
             "nameWithOwner": "williballenthin/INDXParse"
+        },
+        "wntrblm/nox": {
+            "labContributors": {
+                "nodes": [
+                    "wpk-nist-gov"
+                ]
+            },
+            "nameWithOwner": "wntrblm/nox"
         },
         "wpk-nist-gov/thermoextrap": {
             "labContributors": {
