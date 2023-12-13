@@ -413,7 +413,7 @@
             },
             "date": {
                 "created": "2014-08-25",
-                "lastModified": "2023-12-04"
+                "lastModified": "2023-12-12"
             },
             "description": "FiPy is a Finite Volume PDE solver written in Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/fipy/downloads",
@@ -14167,7 +14167,7 @@
             },
             "date": {
                 "created": "2017-12-13",
-                "lastModified": "2023-11-05"
+                "lastModified": "2023-12-12"
             },
             "description": "pyMCR: Multivariate Curve Resolution for Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/pyMCR/downloads",
@@ -16998,7 +16998,7 @@
             },
             "date": {
                 "created": "2018-06-25",
-                "lastModified": "2023-11-19"
+                "lastModified": "2023-12-12"
             },
             "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
             "downloadURL": "https://api.github.com/repos/usnistgov/ndn-dpdk/downloads",
@@ -24032,7 +24032,7 @@
             },
             "date": {
                 "created": "2020-01-24",
-                "lastModified": "2023-12-01"
+                "lastModified": "2023-12-12"
             },
             "description": "Repository for ARIAC (Agile Robotics for Industrial Automation Competition), consisting of kit building and assembly in a simulated warehouse",
             "downloadURL": "https://api.github.com/repos/usnistgov/ARIAC/downloads",
@@ -26422,7 +26422,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2023-12-10"
+                "lastModified": "2023-12-13"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -29756,7 +29756,7 @@
             },
             "date": {
                 "created": "2021-03-24",
-                "lastModified": "2023-10-13"
+                "lastModified": "2023-12-12"
             },
             "description": "Python tools for OpenFOAM simulations of filament shapes in embedded 3D printing",
             "downloadURL": "https://api.github.com/repos/usnistgov/openfoamEmbedded3DP/downloads",
@@ -31118,7 +31118,7 @@
             },
             "date": {
                 "created": "2021-06-30",
-                "lastModified": "2023-11-29"
+                "lastModified": "2023-12-12"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/OFDM-GAN/downloads",
@@ -35565,7 +35565,7 @@
             },
             "date": {
                 "created": "2022-08-10",
-                "lastModified": "2023-12-07"
+                "lastModified": "2023-12-12"
             },
             "description": "ChemNLP: A Natural Language Processing based Library for Materials Chemistry Text Data",
             "downloadURL": "https://api.github.com/repos/usnistgov/chemnlp/downloads",
@@ -37296,7 +37296,7 @@
             },
             "date": {
                 "created": "2023-02-09",
-                "lastModified": "2023-12-07"
+                "lastModified": "2023-12-12"
             },
             "description": "The Database Infrastructure for Mass Spectrometry (DIMSpec) project",
             "downloadURL": "https://api.github.com/repos/usnistgov/dimspec/downloads",
@@ -40231,9 +40231,9 @@
             },
             "date": {
                 "created": "2023-12-06",
-                "lastModified": "2023-12-06"
+                "lastModified": "2023-12-12"
             },
-            "description": "No description available...",
+            "description": "Documentation for the ARIAC competition",
             "downloadURL": "https://api.github.com/repos/usnistgov/ARIAC_docs/downloads",
             "homepageURL": "https://github.com/usnistgov/ARIAC_docs",
             "laborHours": 0,
@@ -40271,8 +40271,8 @@
             "laborHours": 0,
             "languages": [
                 "Python",
-                "Dockerfile",
-                "Shell"
+                "Shell",
+                "Dockerfile"
             ],
             "name": "ARIAC_evaluation",
             "organization": "National Institute of Standards and Technology",
@@ -40324,6 +40324,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/SERI-AV.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-12-12",
+                "lastModified": "2023-12-12"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/cdcs-k8s/downloads",
+            "homepageURL": "https://github.com/usnistgov/cdcs-k8s",
+            "laborHours": 0,
+            "languages": [],
+            "name": "cdcs-k8s",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/cdcs-k8s.git",
             "status": "Development",
             "tags": [
                 "github"
