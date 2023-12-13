@@ -402,13 +402,13 @@
         "description": "Repository for ARIAC (Agile Robotics for Industrial Automation Competition), consisting of kit building and assembly in a simulated warehouse",
         "name": "usnistgov/ARIAC",
         "topics": null,
-        "website": "https://ariac.readthedocs.io/en/latest/"
+        "website": "https://pages.nist.gov/ARIAC_docs/en/2023.5.0/index.html"
     },
     "usnistgov/ARIAC_docs": {
-        "description": null,
+        "description": "Documentation for the ARIAC competition",
         "name": "usnistgov/ARIAC_docs",
         "topics": null,
-        "website": null
+        "website": "https://pages.nist.gov/ARIAC_docs/en/latest/index.html"
     },
     "usnistgov/ARIAC_evaluation": {
         "description": null,
@@ -3185,6 +3185,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/cdcs-k8s": {
+        "description": null,
+        "name": "usnistgov/cdcs-k8s",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/cdcsclient-py": {
         "description": "A python implementation of a client that can access a remote CDCS server via its web API",
         "name": "usnistgov/cdcsclient-py",
@@ -4272,7 +4278,7 @@
             "simulation",
             "modeling"
         ],
-        "website": "http://www.ctcms.nist.gov/fipy"
+        "website": "http://pages.nist.gov/fipy/en/latest"
     },
     "usnistgov/fits-client": {
         "description": "HTTP Client for FITS Tool",
