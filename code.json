@@ -7025,7 +7025,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2023-12-08"
+                "lastModified": "2023-12-13"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -7677,7 +7677,7 @@
             },
             "date": {
                 "created": "2016-10-19",
-                "lastModified": "2023-12-05"
+                "lastModified": "2023-12-13"
             },
             "description": "Optical live-scan and ink fingerprint image quality assessment tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/NFIQ2/downloads",
@@ -27422,7 +27422,7 @@
             },
             "date": {
                 "created": "2020-07-22",
-                "lastModified": "2023-12-10"
+                "lastModified": "2023-12-13"
             },
             "description": "pySCATMECH is a Python interface to SCATMECH: Polarized Light Scattering C++ Class Library",
             "downloadURL": "https://api.github.com/repos/usnistgov/pySCATMECH/downloads",
@@ -36526,7 +36526,7 @@
             },
             "date": {
                 "created": "2022-10-11",
-                "lastModified": "2023-08-31"
+                "lastModified": "2023-12-13"
             },
             "description": "OSCAL content that supports the BloSS@M project.",
             "downloadURL": "https://api.github.com/repos/usnistgov/blossom-oscal/downloads",
@@ -40141,6 +40141,45 @@
                 "email": "devops@nist.gov"
             },
             "date": {
+                "created": "2023-10-28",
+                "lastModified": "2023-12-14"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/btc-cnsns/downloads",
+            "homepageURL": "https://github.com/usnistgov/btc-cnsns",
+            "laborHours": 0,
+            "languages": [
+                "C",
+                "Python",
+                "Makefile",
+                "Shell",
+                "C++",
+                "Dockerfile"
+            ],
+            "name": "btc-cnsns",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/btc-cnsns.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
                 "created": "2023-11-01",
                 "lastModified": "2023-11-01"
             },
@@ -40247,6 +40286,48 @@
             "status": "Development",
             "tags": [
                 "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-11-21",
+                "lastModified": "2023-12-13"
+            },
+            "description": "Adaptation of SerialTrack for 2D x-ray transmission images",
+            "downloadURL": "https://api.github.com/repos/usnistgov/SerialTrackXR/downloads",
+            "homepageURL": "https://github.com/usnistgov/SerialTrackXR",
+            "laborHours": 0,
+            "languages": [
+                "MATLAB",
+                "M"
+            ],
+            "name": "SerialTrackXR",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/SerialTrackXR.git",
+            "status": "Development",
+            "tags": [
+                "github",
+                "deformation-experiments",
+                "image-analysis",
+                "materials-science",
+                "mechanics-of-materials",
+                "particle-tracing",
+                "x-ray-images",
+                "in-situ-mechanical-testing"
             ],
             "vcs": "git"
         },
@@ -40396,7 +40477,7 @@
             },
             "date": {
                 "created": "2023-12-06",
-                "lastModified": "2023-12-12"
+                "lastModified": "2023-12-13"
             },
             "description": "Documentation for the ARIAC competition",
             "downloadURL": "https://api.github.com/repos/usnistgov/ARIAC_docs/downloads",
@@ -40428,7 +40509,7 @@
             },
             "date": {
                 "created": "2023-12-08",
-                "lastModified": "2023-12-08"
+                "lastModified": "2023-12-13"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/ARIAC_evaluation/downloads",
@@ -40521,6 +40602,72 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/cdcs-k8s.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-12-13",
+                "lastModified": "2023-12-13"
+            },
+            "description": "OAR Data Distribution Service (oar-distservice)",
+            "downloadURL": "https://api.github.com/repos/usnistgov/oar-distservice/downloads",
+            "homepageURL": "https://github.com/usnistgov/oar-distservice",
+            "laborHours": 0,
+            "languages": [
+                "Java"
+            ],
+            "name": "oar-distservice",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/oar-distservice.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-12-13",
+                "lastModified": "2023-12-13"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/AMVPDocs/downloads",
+            "homepageURL": "https://github.com/usnistgov/AMVPDocs",
+            "laborHours": 0,
+            "languages": [],
+            "name": "AMVPDocs",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/AMVPDocs.git",
             "status": "Development",
             "tags": [
                 "github"
