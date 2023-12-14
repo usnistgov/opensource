@@ -386,6 +386,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/AMVPDocs": {
+        "description": null,
+        "name": "usnistgov/AMVPDocs",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ANDiE-v1_0": {
         "description": "ANDiE: Autonomous Neutron Diffraction Explorer ",
         "name": "usnistgov/ANDiE-v1_0",
@@ -2359,6 +2365,20 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/SerialTrackXR": {
+        "description": "Adaptation of SerialTrack for 2D x-ray transmission images",
+        "name": "usnistgov/SerialTrackXR",
+        "topics": [
+            "deformation-experiments",
+            "image-analysis",
+            "materials-science",
+            "mechanics-of-materials",
+            "particle-tracing",
+            "x-ray-images",
+            "in-situ-mechanical-testing"
+        ],
+        "website": "https://data.nist.gov/od/id/mds2-3118"
+    },
     "usnistgov/ShopbotPyQt": {
         "description": "GUI for controlling custom Shopbot/Fluigent 3D printer with in situ cameras",
         "name": "usnistgov/ShopbotPyQt",
@@ -3146,6 +3166,12 @@
     "usnistgov/blossom-sam": {
         "description": "Software Assets Management for BloSS@M",
         "name": "usnistgov/blossom-sam",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/btc-cnsns": {
+        "description": null,
+        "name": "usnistgov/btc-cnsns",
         "topics": null,
         "website": null
     },
@@ -5776,6 +5802,12 @@
     "usnistgov/oar-dist-service": {
         "description": "OAR Distribution Service Repo",
         "name": "usnistgov/oar-dist-service",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/oar-distservice": {
+        "description": "OAR Data Distribution Service (oar-distservice)",
+        "name": "usnistgov/oar-distservice",
         "topics": null,
         "website": null
     },
