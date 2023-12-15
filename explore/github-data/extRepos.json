@@ -2053,14 +2053,6 @@
             },
             "nameWithOwner": "home-assistant/core"
         },
-        "hpc-carpentry/amdahl": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "hpc-carpentry/amdahl"
-        },
         "hpc-carpentry/coordination": {
             "labContributors": {
                 "nodes": [
@@ -3528,7 +3520,6 @@
         "wigig-tools/qd-realization": {
             "labContributors": {
                 "nodes": [
-                    "neerajvarshney",
                     "tangnist"
                 ]
             },
