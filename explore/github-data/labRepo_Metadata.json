@@ -3169,12 +3169,6 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/btc-cnsns": {
-        "description": null,
-        "name": "usnistgov/btc-cnsns",
-        "topics": null,
-        "website": null
-    },
     "usnistgov/capordino-content": {
         "description": "A public repository for managing the OSCAL conversions of Cybersecurity and Privacy Reference Datasets (see NIST CPRT project)",
         "name": "usnistgov/capordino-content",
@@ -7104,6 +7098,12 @@
     "usnistgov/ucef-wrappers": {
         "description": "Integration of different federate types into UCEF",
         "name": "usnistgov/ucef-wrappers",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/understanding-btcs": {
+        "description": null,
+        "name": "usnistgov/understanding-btcs",
         "topics": null,
         "website": null
     },
