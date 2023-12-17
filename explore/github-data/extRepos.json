@@ -515,13 +515,13 @@
             },
             "nameWithOwner": "ManOnDaMoon/omeka-s-module-Sitemaps"
         },
-        "Materials-Consortia/providers-dashboard": {
+        "Materials-Consortia/providers": {
             "labContributors": {
                 "nodes": [
                     "knc6"
                 ]
             },
-            "nameWithOwner": "Materials-Consortia/providers-dashboard"
+            "nameWithOwner": "Materials-Consortia/providers"
         },
         "MitjaNemec/ReplicateLayout": {
             "labContributors": {
@@ -2294,14 +2294,6 @@
                 ]
             },
             "nameWithOwner": "jli10umd/NIST2023"
-        },
-        "joefowler/golang-zmq-comparison": {
-            "labContributors": {
-                "nodes": [
-                    "ggggggggg"
-                ]
-            },
-            "nameWithOwner": "joefowler/golang-zmq-comparison"
         },
         "johnlumley/jwiXML": {
             "labContributors": {
