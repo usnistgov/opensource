@@ -155,7 +155,7 @@
         "CVEProject/cve-schema": {
             "labContributors": {
                 "nodes": [
-                    "david-waltermire-nist"
+                    "david-waltermire"
                 ]
             },
             "nameWithOwner": "CVEProject/cve-schema"
@@ -323,7 +323,7 @@
         "GSA/fedramp-automation": {
             "labContributors": {
                 "nodes": [
-                    "david-waltermire-nist"
+                    "david-waltermire"
                 ]
             },
             "nameWithOwner": "GSA/fedramp-automation"
@@ -3114,6 +3114,14 @@
             },
             "nameWithOwner": "saahu27/aprs"
         },
+        "saidfathalla/Science-knowledge-graph-ontologies": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "saidfathalla/Science-knowledge-graph-ontologies"
+        },
         "sam-super/environment": {
             "labContributors": {
                 "nodes": [
@@ -3421,7 +3429,7 @@
         "vsch/flexmark-java": {
             "labContributors": {
                 "nodes": [
-                    "david-waltermire-nist"
+                    "david-waltermire"
                 ]
             },
             "nameWithOwner": "vsch/flexmark-java"
