@@ -3708,7 +3708,7 @@
             },
             "date": {
                 "created": "2016-01-11",
-                "lastModified": "2023-11-24"
+                "lastModified": "2023-12-20"
             },
             "description": "Evaluation software used in the Text Retrieval Conference",
             "downloadURL": "https://api.github.com/repos/usnistgov/trec_eval/downloads",
@@ -5223,7 +5223,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2023-12-19"
+                "lastModified": "2023-12-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -8303,7 +8303,7 @@
             },
             "date": {
                 "created": "2016-12-05",
-                "lastModified": "2023-12-14"
+                "lastModified": "2023-12-20"
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "downloadURL": "https://api.github.com/repos/usnistgov/frvt/downloads",
@@ -9934,7 +9934,7 @@
             },
             "date": {
                 "created": "2017-04-14",
-                "lastModified": "2023-11-24"
+                "lastModified": "2023-12-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/pmml_pymcBN/downloads",
@@ -10803,7 +10803,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2023-12-06"
+                "lastModified": "2023-12-20"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -13663,7 +13663,7 @@
             },
             "date": {
                 "created": "2017-10-13",
-                "lastModified": "2023-12-17"
+                "lastModified": "2023-12-20"
             },
             "description": "Metrology for software; software for metrology",
             "downloadURL": "https://api.github.com/repos/usnistgov/Metrology/downloads",
@@ -14975,7 +14975,7 @@
             },
             "date": {
                 "created": "2018-02-15",
-                "lastModified": "2023-11-24"
+                "lastModified": "2023-12-20"
             },
             "description": "Scoring software for the TRECVID Activities in Extended Video (ActEV) evaluation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ActEV_Scorer/downloads",
@@ -17030,7 +17030,7 @@
             },
             "date": {
                 "created": "2018-06-25",
-                "lastModified": "2023-12-12"
+                "lastModified": "2023-12-19"
             },
             "description": "NDN-DPDK: High-Speed Named Data Networking Forwarder",
             "downloadURL": "https://api.github.com/repos/usnistgov/ndn-dpdk/downloads",
@@ -18310,7 +18310,7 @@
             },
             "date": {
                 "created": "2018-10-12",
-                "lastModified": "2023-12-17"
+                "lastModified": "2023-12-19"
             },
             "description": "Privacy Engineering Collaboration Space",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyEngCollabSpace/downloads",
@@ -26489,7 +26489,7 @@
             },
             "date": {
                 "created": "2020-06-01",
-                "lastModified": "2023-12-03"
+                "lastModified": "2023-12-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-literature/downloads",
@@ -26553,7 +26553,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2023-12-18"
+                "lastModified": "2023-12-19"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -27576,7 +27576,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2023-12-09"
+                "lastModified": "2023-12-20"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -30282,7 +30282,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2023-12-14"
+                "lastModified": "2023-12-20"
             },
             "description": "Atomistic Line Graph Neural Network",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -31247,7 +31247,7 @@
             },
             "date": {
                 "created": "2021-06-28",
-                "lastModified": "2023-11-28"
+                "lastModified": "2023-12-19"
             },
             "description": "Accurate and fast tight-binding calculations, using pre-fit coefficients and three-body terms.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ThreeBodyTB.jl/downloads",
@@ -33395,7 +33395,7 @@
             },
             "date": {
                 "created": "2022-01-05",
-                "lastModified": "2023-11-14"
+                "lastModified": "2023-12-20"
             },
             "description": "A module that can be used to model and simulate O-RAN-like behavior in ns-3.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ns3-oran/downloads",
@@ -40702,6 +40702,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/trec-browser.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-12-19",
+                "lastModified": "2023-12-19"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/ARIAC_tutorials/downloads",
+            "homepageURL": "https://github.com/usnistgov/ARIAC_tutorials",
+            "laborHours": 0,
+            "languages": [],
+            "name": "ARIAC_tutorials",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/ARIAC_tutorials.git",
             "status": "Development",
             "tags": [
                 "github"
