@@ -944,6 +944,14 @@
             },
             "nameWithOwner": "UNHSAILLab/Adversary-Engagement-Ontology"
         },
+        "USNIST/.github": {
+            "labContributors": {
+                "nodes": [
+                    "agmorey"
+                ]
+            },
+            "nameWithOwner": "USNIST/.github"
+        },
         "VHRanger/CSRGraph": {
             "labContributors": {
                 "nodes": [
@@ -2546,14 +2554,6 @@
             },
             "nameWithOwner": "maxim-lobanov/setup-xcode"
         },
-        "mermaid-js/mermaid": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "mermaid-js/mermaid"
-        },
         "micropython/micropython": {
             "labContributors": {
                 "nodes": [
@@ -2800,14 +2800,6 @@
                 ]
             },
             "nameWithOwner": "neo4j-graphacademy/app-python"
-        },
-        "networktocode/ntc-templates": {
-            "labContributors": {
-                "nodes": [
-                    "MheniMerz"
-                ]
-            },
-            "nameWithOwner": "networktocode/ntc-templates"
         },
         "nginxinc/docker-nginx": {
             "labContributors": {
@@ -3258,14 +3250,6 @@
             },
             "nameWithOwner": "srsran/srsRAN_Project"
         },
-        "static-frame/static-frame": {
-            "labContributors": {
-                "nodes": [
-                    "rtbs-dev"
-                ]
-            },
-            "nameWithOwner": "static-frame/static-frame"
-        },
         "stooppas/moveit2_asynchronous_trajectory_execution": {
             "labContributors": {
                 "nodes": [
@@ -3418,6 +3402,14 @@
             },
             "nameWithOwner": "ucoProject/ucoproject.github.io"
         },
+        "uscensusbureau/recon_replication": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "uscensusbureau/recon_replication"
+        },
         "vdemichev/DiaNN": {
             "labContributors": {
                 "nodes": [
@@ -3515,14 +3507,6 @@
                 ]
             },
             "nameWithOwner": "wigig-tools/isac-plm"
-        },
-        "wigig-tools/qd-realization": {
-            "labContributors": {
-                "nodes": [
-                    "tangnist"
-                ]
-            },
-            "nameWithOwner": "wigig-tools/qd-realization"
         },
         "williamratcliff/GNN-tutorial-APS-March-2023": {
             "labContributors": {
