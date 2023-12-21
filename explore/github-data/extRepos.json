@@ -818,8 +818,7 @@
         "SasView/sasview": {
             "labContributors": {
                 "nodes": [
-                    "caitwolf",
-                    "pbeaucage"
+                    "caitwolf"
                 ]
             },
             "nameWithOwner": "SasView/sasview"
@@ -1434,14 +1433,6 @@
                 ]
             },
             "nameWithOwner": "casework/ontology.caseontology.org"
-        },
-        "catppuccin/home-assistant": {
-            "labContributors": {
-                "nodes": [
-                    "jat255"
-                ]
-            },
-            "nameWithOwner": "catppuccin/home-assistant"
         },
         "chalklab/CakePHP_TRC": {
             "labContributors": {
@@ -3417,6 +3408,14 @@
                 ]
             },
             "nameWithOwner": "vdemichev/DiaNN"
+        },
+        "veraison/services": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "veraison/services"
         },
         "vsch/flexmark-java": {
             "labContributors": {
