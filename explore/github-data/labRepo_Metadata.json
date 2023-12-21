@@ -6129,6 +6129,12 @@
         ],
         "website": "https://pages.nist.gov/pfhub"
     },
+    "usnistgov/pfhub-cli": {
+        "description": "PFHub CLI tool",
+        "name": "usnistgov/pfhub-cli",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/pfhub-schema": {
         "description": "Phase-field simulation and benchmark schema in LinkML",
         "name": "usnistgov/pfhub-schema",
@@ -6341,12 +6347,6 @@
     "usnistgov/pycdcs": {
         "description": "Python class for interacting with CDCS databases",
         "name": "usnistgov/pycdcs",
-        "topics": null,
-        "website": null
-    },
-    "usnistgov/pypfhub": {
-        "description": "PFHub CLI tool",
-        "name": "usnistgov/pypfhub",
         "topics": null,
         "website": null
     },
