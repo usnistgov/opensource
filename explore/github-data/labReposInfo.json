@@ -11227,7 +11227,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 107
+                "totalCount": 108
             },
             "url": "https://github.com/usnistgov/MIST"
         },
@@ -11931,7 +11931,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 110
+                "totalCount": 111
             },
             "url": "https://github.com/usnistgov/Metrology"
         },
@@ -17701,7 +17701,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 178
+                "totalCount": 177
             },
             "url": "https://github.com/usnistgov/SCTK"
         },
@@ -18729,7 +18729,7 @@
                 "totalCount": 10
             },
             "stargazers": {
-                "totalCount": 56
+                "totalCount": 57
             },
             "url": "https://github.com/usnistgov/SimulatedRadarWaveformGenerator"
         },
@@ -32021,6 +32021,60 @@
             },
             "url": "https://github.com/usnistgov/docker-f4de"
         },
+        "usnistgov/dp-analysis-gdb": {
+            "createdAt": "2023-09-27T17:33:24Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": {
+                "name": "Apache License 2.0",
+                "nickname": null,
+                "spdxId": "Apache-2.0",
+                "url": "http://choosealicense.com/licenses/apache-2.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 10
+            },
+            "name": "dp-analysis-gdb",
+            "nameWithOwner": "usnistgov/dp-analysis-gdb",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Java"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/dp-analysis-gdb"
+        },
         "usnistgov/dpp-devid": {
             "createdAt": "2020-01-08T19:36:45Z",
             "defaultBranchRef": {
@@ -41389,7 +41443,7 @@
                 "totalCount": 187
             },
             "issues_Open": {
-                "totalCount": 17
+                "totalCount": 20
             },
             "languages": {
                 "totalCount": 6
@@ -47081,7 +47135,7 @@
             },
             "description": "Optimal Bayesian Experiment Design ",
             "forks": {
-                "totalCount": 7
+                "totalCount": 8
             },
             "homepageUrl": "http://pages.nist.gov/optbayesexpt",
             "issues_Closed": {
@@ -52110,10 +52164,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "issues_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "languages": {
                 "totalCount": 1
