@@ -539,14 +539,6 @@
             },
             "nameWithOwner": "MitjaNemec/ReplicateLayout"
         },
-        "NDN-Routing/infoedit": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "NDN-Routing/infoedit"
-        },
         "NIHS-DNFI/galaxy-cutsite-detection": {
             "labContributors": {
                 "nodes": [
@@ -1160,6 +1152,14 @@
                 ]
             },
             "nameWithOwner": "bluesky/tiled"
+        },
+        "boostorg/filesystem": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "boostorg/filesystem"
         },
         "boostorg/stacktrace": {
             "labContributors": {
@@ -2865,14 +2865,6 @@
                 ]
             },
             "nameWithOwner": "openwallet-foundation-labs/identity-credential"
-        },
-        "oscal-club/asdf-oscal-cli": {
-            "labContributors": {
-                "nodes": [
-                    "nikitawootten-nist"
-                ]
-            },
-            "nameWithOwner": "oscal-club/asdf-oscal-cli"
         },
         "oscal-club/awesome-oscal": {
             "labContributors": {
