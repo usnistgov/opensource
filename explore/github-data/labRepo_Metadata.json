@@ -7122,7 +7122,14 @@
     "usnistgov/understanding-btcs": {
         "description": "Software and Data Associated with \"Understanding Fast Adsorption in Single-Solute Breakthrough Curves\"",
         "name": "usnistgov/understanding-btcs",
-        "topics": null,
+        "topics": [
+            "boundary-layer",
+            "breakthrough-curves",
+            "nonlinear-dynamics",
+            "partial-differential-equations",
+            "perturbation-theory",
+            "traveling-waves"
+        ],
         "website": ""
     },
     "usnistgov/unified-report": {
