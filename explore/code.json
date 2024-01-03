@@ -3708,7 +3708,7 @@
             },
             "date": {
                 "created": "2016-01-11",
-                "lastModified": "2023-12-20"
+                "lastModified": "2024-01-02"
             },
             "description": "Evaluation software used in the Text Retrieval Conference",
             "downloadURL": "https://api.github.com/repos/usnistgov/trec_eval/downloads",
@@ -5223,7 +5223,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2023-12-29"
+                "lastModified": "2024-01-02"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -5843,7 +5843,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2023-11-17"
+                "lastModified": "2024-01-03"
             },
             "description": "python scripting tools for streamlined laboratory automation",
             "downloadURL": "https://api.github.com/repos/usnistgov/labbench/downloads",
@@ -5877,7 +5877,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2023-12-16"
+                "lastModified": "2024-01-03"
             },
             "description": "The NIST STEP File Analyzer and Viewer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SFA/downloads",
@@ -7025,7 +7025,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2023-12-29"
+                "lastModified": "2024-01-02"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -7076,7 +7076,7 @@
             },
             "date": {
                 "created": "2016-09-19",
-                "lastModified": "2023-12-10"
+                "lastModified": "2024-01-03"
             },
             "description": "NIST/NCCoE Mobile Threat Catalogue",
             "downloadURL": "https://api.github.com/repos/usnistgov/mobile-threat-catalogue/downloads",
@@ -8303,7 +8303,7 @@
             },
             "date": {
                 "created": "2016-12-05",
-                "lastModified": "2023-12-29"
+                "lastModified": "2024-01-02"
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "downloadURL": "https://api.github.com/repos/usnistgov/frvt/downloads",
@@ -9902,7 +9902,7 @@
             },
             "date": {
                 "created": "2017-04-14",
-                "lastModified": "2023-12-20"
+                "lastModified": "2024-01-02"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/pmml_pymcBN/downloads",
@@ -10771,7 +10771,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2023-12-21"
+                "lastModified": "2024-01-02"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -14943,7 +14943,7 @@
             },
             "date": {
                 "created": "2018-02-15",
-                "lastModified": "2023-12-20"
+                "lastModified": "2024-01-02"
             },
             "description": "Scoring software for the TRECVID Activities in Extended Video (ActEV) evaluation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ActEV_Scorer/downloads",
@@ -18278,7 +18278,7 @@
             },
             "date": {
                 "created": "2018-10-12",
-                "lastModified": "2023-12-26"
+                "lastModified": "2024-01-03"
             },
             "description": "Privacy Engineering Collaboration Space",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyEngCollabSpace/downloads",
@@ -26358,7 +26358,7 @@
             },
             "date": {
                 "created": "2020-06-01",
-                "lastModified": "2023-12-20"
+                "lastModified": "2024-01-02"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-literature/downloads",
@@ -26681,7 +26681,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2023-11-25"
+                "lastModified": "2024-01-03"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -30151,7 +30151,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2023-12-20"
+                "lastModified": "2024-01-02"
             },
             "description": "Atomistic Line Graph Neural Network",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -40072,12 +40072,8 @@
             "languages": [
                 "HTML",
                 "Jupyter Notebook",
-                "JavaScript",
                 "Python",
-                "CoffeeScript",
-                "TeX",
                 "Nix",
-                "CSS",
                 "Mustache",
                 "Jinja",
                 "Makefile",
