@@ -863,14 +863,6 @@
             },
             "nameWithOwner": "Systems-Modeling/SysML-v2-Pilot-Implementation"
         },
-        "Systems-Modeling/SysML-v2-Release": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "Systems-Modeling/SysML-v2-Release"
-        },
         "TLP-COI/text-data-course": {
             "labContributors": {
                 "nodes": [
@@ -2858,6 +2850,14 @@
             },
             "nameWithOwner": "opengeospatial/ogc-geosparql"
         },
+        "opennetworkinglab/aether-ueransim": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "opennetworkinglab/aether-ueransim"
+        },
         "openwallet-foundation-labs/identity-credential": {
             "labContributors": {
                 "nodes": [
@@ -3297,6 +3297,14 @@
                 ]
             },
             "nameWithOwner": "torchmd/torchmd"
+        },
+        "transmute-industries/ietf-spice-charter": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "transmute-industries/ietf-spice-charter"
         },
         "transmute-industries/transmute": {
             "labContributors": {
