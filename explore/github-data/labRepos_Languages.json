@@ -15149,22 +15149,10 @@
                         "name": "Jupyter Notebook"
                     },
                     {
-                        "name": "JavaScript"
-                    },
-                    {
                         "name": "Python"
                     },
                     {
-                        "name": "CoffeeScript"
-                    },
-                    {
-                        "name": "TeX"
-                    },
-                    {
                         "name": "Nix"
-                    },
-                    {
-                        "name": "CSS"
                     },
                     {
                         "name": "Mustache"
@@ -15179,7 +15167,7 @@
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 12
+                "totalCount": 8
             }
         },
         "usnistgov/pfhub-schema": {
