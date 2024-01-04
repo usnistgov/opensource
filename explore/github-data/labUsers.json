@@ -11170,6 +11170,7 @@
                     "usnistgov/DataModelDict",
                     "usnistgov/atomman",
                     "usnistgov/iprPy",
+                    "usnistgov/jarvis_leaderboard",
                     "usnistgov/potentials",
                     "usnistgov/pycdcs",
                     "usnistgov/yabadaba"
@@ -16452,6 +16453,11 @@
         },
         "timo-nist": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/153641793?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/trec-browser"
+                ]
+            },
             "login": "timo-nist",
             "name": "Timo Breuer"
         },
