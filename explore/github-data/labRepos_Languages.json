@@ -14759,10 +14759,10 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "Jupyter Notebook"
+                        "name": "Python"
                     },
                     {
-                        "name": "Python"
+                        "name": "Jupyter Notebook"
                     }
                 ],
                 "totalCount": 2
@@ -15143,31 +15143,19 @@
             "languages": {
                 "nodes": [
                     {
-                        "name": "HTML"
-                    },
-                    {
                         "name": "Jupyter Notebook"
                     },
                     {
                         "name": "Python"
                     },
                     {
-                        "name": "Nix"
-                    },
-                    {
                         "name": "Mustache"
                     },
                     {
-                        "name": "Jinja"
-                    },
-                    {
-                        "name": "Makefile"
-                    },
-                    {
-                        "name": "Shell"
+                        "name": "Nix"
                     }
                 ],
-                "totalCount": 8
+                "totalCount": 4
             }
         },
         "usnistgov/pfhub-schema": {

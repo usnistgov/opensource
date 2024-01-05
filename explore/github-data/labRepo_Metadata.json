@@ -6850,13 +6850,13 @@
         "website": null
     },
     "usnistgov/teqp": {
-        "description": null,
+        "description": "A highly efficient, flexible, and accurate implementation of thermodynamic EOS powered by automatic differentiation",
         "name": "usnistgov/teqp",
         "topics": [
             "cpp",
             "python"
         ],
-        "website": "https://teqp.readthedocs.io/en/latest/"
+        "website": "https://pages.nist.gov/teqp-docs/en/latest/index.html"
     },
     "usnistgov/teqp-docs": {
         "description": "Just the scripts for holding docs",
@@ -6964,10 +6964,10 @@
         "website": ""
     },
     "usnistgov/trec-browser": {
-        "description": "Metadata browser of the Text Retrieval",
+        "description": "Metadata browser of the Text REtrieval Conference",
         "name": "usnistgov/trec-browser",
         "topics": null,
-        "website": null
+        "website": "https://pages.nist.gov/trec-browser"
     },
     "usnistgov/trec_eval": {
         "description": "Evaluation software used in the Text Retrieval Conference",
