@@ -895,7 +895,7 @@
             },
             "date": {
                 "created": "2015-01-21",
-                "lastModified": "2023-10-25"
+                "lastModified": "2024-01-04"
             },
             "description": "Object Oriented for Finite Elements 3D version code.",
             "downloadURL": "https://api.github.com/repos/usnistgov/OOF3D/downloads",
@@ -3708,7 +3708,7 @@
             },
             "date": {
                 "created": "2016-01-11",
-                "lastModified": "2024-01-03"
+                "lastModified": "2024-01-04"
             },
             "description": "Evaluation software used in the Text Retrieval Conference",
             "downloadURL": "https://api.github.com/repos/usnistgov/trec_eval/downloads",
@@ -5223,7 +5223,7 @@
             },
             "date": {
                 "created": "2016-05-03",
-                "lastModified": "2024-01-02"
+                "lastModified": "2024-01-04"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/SCTK/downloads",
@@ -7224,7 +7224,7 @@
             },
             "date": {
                 "created": "2016-10-03",
-                "lastModified": "2023-12-31"
+                "lastModified": "2024-01-04"
             },
             "description": "NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NEMO/downloads",
@@ -7677,7 +7677,7 @@
             },
             "date": {
                 "created": "2016-10-19",
-                "lastModified": "2023-12-21"
+                "lastModified": "2024-01-04"
             },
             "description": "Optical live-scan and ink fingerprint image quality assessment tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/NFIQ2/downloads",
@@ -8303,7 +8303,7 @@
             },
             "date": {
                 "created": "2016-12-05",
-                "lastModified": "2024-01-02"
+                "lastModified": "2024-01-04"
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "downloadURL": "https://api.github.com/repos/usnistgov/frvt/downloads",
@@ -9934,7 +9934,7 @@
             },
             "date": {
                 "created": "2017-04-14",
-                "lastModified": "2024-01-02"
+                "lastModified": "2024-01-04"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/pmml_pymcBN/downloads",
@@ -10803,7 +10803,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2024-01-02"
+                "lastModified": "2024-01-04"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -13985,7 +13985,7 @@
             },
             "date": {
                 "created": "2017-11-21",
-                "lastModified": "2023-10-17"
+                "lastModified": "2024-01-04"
             },
             "description": "Circuits for functions of interest to cryptography",
             "downloadURL": "https://api.github.com/repos/usnistgov/Circuits/downloads",
@@ -14975,7 +14975,7 @@
             },
             "date": {
                 "created": "2018-02-15",
-                "lastModified": "2024-01-02"
+                "lastModified": "2024-01-04"
             },
             "description": "Scoring software for the TRECVID Activities in Extended Video (ActEV) evaluation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ActEV_Scorer/downloads",
@@ -26489,7 +26489,7 @@
             },
             "date": {
                 "created": "2020-06-01",
-                "lastModified": "2024-01-02"
+                "lastModified": "2024-01-04"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/trojai-literature/downloads",
@@ -26553,7 +26553,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2024-01-04"
+                "lastModified": "2024-01-05"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -29164,7 +29164,7 @@
             },
             "date": {
                 "created": "2021-01-21",
-                "lastModified": "2023-10-12"
+                "lastModified": "2024-01-05"
             },
             "description": "Data hub and data tool repository related to the NIST PFAS Program.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NISTPFAS/downloads",
@@ -29540,9 +29540,9 @@
             },
             "date": {
                 "created": "2021-02-22",
-                "lastModified": "2023-12-15"
+                "lastModified": "2024-01-04"
             },
-            "description": "No description available...",
+            "description": "A highly efficient, flexible, and accurate implementation of thermodynamic EOS powered by automatic differentiation",
             "downloadURL": "https://api.github.com/repos/usnistgov/teqp/downloads",
             "homepageURL": "https://github.com/usnistgov/teqp",
             "laborHours": 0,
@@ -29887,15 +29887,15 @@
             },
             "date": {
                 "created": "2021-03-24",
-                "lastModified": "2023-12-27"
+                "lastModified": "2024-01-04"
             },
             "description": "Python tools for OpenFOAM simulations of filament shapes in embedded 3D printing",
             "downloadURL": "https://api.github.com/repos/usnistgov/openfoamEmbedded3DP/downloads",
             "homepageURL": "https://github.com/usnistgov/openfoamEmbedded3DP",
             "laborHours": 0,
             "languages": [
-                "Jupyter Notebook",
-                "Python"
+                "Python",
+                "Jupyter Notebook"
             ],
             "name": "openfoamEmbedded3DP",
             "organization": "National Institute of Standards and Technology",
@@ -30850,7 +30850,7 @@
             },
             "date": {
                 "created": "2021-06-02",
-                "lastModified": "2022-10-13"
+                "lastModified": "2024-01-04"
             },
             "description": "C++ Library to load data from disk in parallel.",
             "downloadURL": "https://api.github.com/repos/usnistgov/FastLoader/downloads",
@@ -33395,7 +33395,7 @@
             },
             "date": {
                 "created": "2022-01-05",
-                "lastModified": "2023-12-23"
+                "lastModified": "2024-01-04"
             },
             "description": "A module that can be used to model and simulate O-RAN-like behavior in ns-3.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ns3-oran/downloads",
@@ -37461,7 +37461,7 @@
             },
             "date": {
                 "created": "2023-02-09",
-                "lastModified": "2023-12-12"
+                "lastModified": "2024-01-05"
             },
             "description": "The Database Infrastructure for Mass Spectrometry (DIMSpec) project",
             "downloadURL": "https://api.github.com/repos/usnistgov/dimspec/downloads",
@@ -40228,21 +40228,17 @@
             },
             "date": {
                 "created": "2023-11-01",
-                "lastModified": "2023-12-20"
+                "lastModified": "2024-01-04"
             },
             "description": "PFHub CLI tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/pfhub-cli/downloads",
             "homepageURL": "https://github.com/usnistgov/pfhub-cli",
             "laborHours": 0,
             "languages": [
-                "HTML",
                 "Jupyter Notebook",
                 "Python",
-                "Nix",
                 "Mustache",
-                "Jinja",
-                "Makefile",
-                "Shell"
+                "Nix"
             ],
             "name": "pfhub-cli",
             "organization": "National Institute of Standards and Technology",
@@ -40726,9 +40722,9 @@
             },
             "date": {
                 "created": "2023-12-18",
-                "lastModified": "2023-12-18"
+                "lastModified": "2024-01-04"
             },
-            "description": "Metadata browser of the Text Retrieval",
+            "description": "Metadata browser of the Text REtrieval Conference",
             "downloadURL": "https://api.github.com/repos/usnistgov/trec-browser/downloads",
             "homepageURL": "https://github.com/usnistgov/trec-browser",
             "laborHours": 0,
