@@ -758,14 +758,6 @@
             },
             "nameWithOwner": "RDFLib/rdflib"
         },
-        "Ramaze/innate": {
-            "labContributors": {
-                "nodes": [
-                    "mfaughn"
-                ]
-            },
-            "nameWithOwner": "Ramaze/innate"
-        },
         "Ramaze/ramaze": {
             "labContributors": {
                 "nodes": [
@@ -1876,14 +1868,6 @@
             },
             "nameWithOwner": "finos/common-cloud-controls"
         },
-        "fishtree-attempt/r-socialsci": {
-            "labContributors": {
-                "nodes": [
-                    "juanfung"
-                ]
-            },
-            "nameWithOwner": "fishtree-attempt/r-socialsci"
-        },
         "fonsp/Pluto.jl": {
             "labContributors": {
                 "nodes": [
@@ -2084,6 +2068,14 @@
                 ]
             },
             "nameWithOwner": "huggingface/datasets"
+        },
+        "huggingface/transformers": {
+            "labContributors": {
+                "nodes": [
+                    "tblattner"
+                ]
+            },
+            "nameWithOwner": "huggingface/transformers"
         },
         "husarion/rosbot_xl_ros": {
             "labContributors": {
@@ -2374,6 +2366,14 @@
                 ]
             },
             "nameWithOwner": "linux-test-project/lcov"
+        },
+        "llvm/llvm-project": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "llvm/llvm-project"
         },
         "lotusnprod/lotus-web": {
             "labContributors": {
@@ -2834,6 +2834,14 @@
             },
             "nameWithOwner": "open-reaction-database/ord-schema"
         },
+        "open5gs/open5gs": {
+            "labContributors": {
+                "nodes": [
+                    "pengnist"
+                ]
+            },
+            "nameWithOwner": "open5gs/open5gs"
+        },
         "opengeospatial/ogc-geosparql": {
             "labContributors": {
                 "nodes": [
@@ -2953,14 +2961,6 @@
                 ]
             },
             "nameWithOwner": "privatenumber/tsx"
-        },
-        "pycalphad/pycalphad": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "pycalphad/pycalphad"
         },
         "pydantic/pydantic": {
             "labContributors": {
