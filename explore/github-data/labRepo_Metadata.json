@@ -241,6 +241,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/2024-02-05_AGBT_NDO_GIAB-defrabb": {
+        "description": null,
+        "name": "usnistgov/2024-02-05_AGBT_NDO_GIAB-defrabb",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/3DScanningProject": {
         "description": null,
         "name": "usnistgov/3DScanningProject",
@@ -398,6 +404,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/APRS_description": {
+        "description": null,
+        "name": "usnistgov/APRS_description",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/AR-PMI": {
         "description": null,
         "name": "usnistgov/AR-PMI",
@@ -408,7 +420,7 @@
         "description": "Repository for ARIAC (Agile Robotics for Industrial Automation Competition), consisting of kit building and assembly in a simulated warehouse",
         "name": "usnistgov/ARIAC",
         "topics": null,
-        "website": "https://pages.nist.gov/ARIAC_docs/en/2023.5.0/index.html"
+        "website": "https://pages.nist.gov/ARIAC_docs/en/latest/index.html"
     },
     "usnistgov/ARIAC_docs": {
         "description": "Documentation for the ARIAC competition",
@@ -491,6 +503,12 @@
     "usnistgov/BaselineDeepLearningRadarDetectors": {
         "description": "Baseline models for the paper \"A Tutorial on Generating RF Datasets for Training and Testing Baseline Deep Learning Detectors: Radar Detection in the 3.5 GHz CBRS Band\"",
         "name": "usnistgov/BaselineDeepLearningRadarDetectors",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/BayesianFatigueModeling": {
+        "description": "Repository for statistical modeling of fatigue data using Bayesian hierarchical modeling",
+        "name": "usnistgov/BayesianFatigueModeling",
         "topics": null,
         "website": null
     },
@@ -699,6 +717,12 @@
     "usnistgov/Cys.sqlite": {
         "description": "A single file database containing comprehensive coverage of cysteine disulfide bonds in the protein databank",
         "name": "usnistgov/Cys.sqlite",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/DCSTest": {
+        "description": "test public repository",
+        "name": "usnistgov/DCSTest",
         "topics": null,
         "website": null
     },
@@ -1119,6 +1143,12 @@
         ],
         "website": "https://www.iarpa.gov/challenges/n2n/n2n.html"
     },
+    "usnistgov/IBA-Project": {
+        "description": "Code repository for the Intelligent Building Agents Project",
+        "name": "usnistgov/IBA-Project",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ICCF": {
         "description": null,
         "name": "usnistgov/ICCF",
@@ -1136,6 +1166,12 @@
         "name": "usnistgov/IEC61850-SV-IOPAnalyzer",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/IEEE_N42.59_lateral_resolution": {
+        "description": "Implements the lateral resolution test method from the IEEE N42.59 standard for millimeter wave imaging systems.",
+        "name": "usnistgov/IEEE_N42.59_lateral_resolution",
+        "topics": null,
+        "website": null
     },
     "usnistgov/IFA": {
         "description": "The NIST IFC File Analyzer (IFA) generates a spreadsheet from an IFC file.",
@@ -1194,6 +1230,12 @@
     "usnistgov/Intra-Vehicular-Networks": {
         "description": "SDN for Intra-Vehicular Networks",
         "name": "usnistgov/Intra-Vehicular-Networks",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/IntrinsicDACCycle": {
+        "description": "Tools for assessing sorbents Direct Air Capture (DAC) based on a thermodynamic treatment of refresh cycle and the intrinsic material properties.    ",
+        "name": "usnistgov/IntrinsicDACCycle",
         "topics": null,
         "website": null
     },
@@ -2037,9 +2079,9 @@
         "description": "Privacy Engineering Collaboration Space",
         "name": "usnistgov/PrivacyEngCollabSpace",
         "topics": [
-            "de-identification",
             "differential-privacy",
-            "risk-management"
+            "risk-management",
+            "disassociability"
         ],
         "website": "https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space"
     },
@@ -2078,6 +2120,20 @@
         "name": "usnistgov/PySTLTweak",
         "topics": null,
         "website": null
+    },
+    "usnistgov/Q-SLAW": {
+        "description": "qDIC-based Strain Localization Analysis with Wavelets (Q-SLAW)",
+        "name": "usnistgov/Q-SLAW",
+        "topics": [
+            "digital-image-correlation",
+            "image-analysis",
+            "image-processing",
+            "strain-analysis",
+            "strain-data",
+            "strain-imaging",
+            "compaction-band"
+        ],
+        "website": ""
     },
     "usnistgov/QIF": {
         "description": "NIST developed software that implements  codesynthesis, xerces, and postgres for windows MSVC and ubuntu with eclipse and gcc to handle QIF XML",
@@ -2437,6 +2493,12 @@
         "name": "usnistgov/SpectrumBrowser",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/TDE-issues": {
+        "description": null,
+        "name": "usnistgov/TDE-issues",
+        "topics": null,
+        "website": null
     },
     "usnistgov/TEChallenge": {
         "description": "Collaboration on the NIST Transactive Energy Challenge",
@@ -3038,6 +3100,12 @@
         "name": "usnistgov/autoSDC-ZnNi-corr",
         "topics": null,
         "website": "https://doi.org/10.1016/j.electacta.2022.140866"
+    },
+    "usnistgov/autorefl": {
+        "description": "autonomous neutron reflectometry",
+        "name": "usnistgov/autorefl",
+        "topics": null,
+        "website": null
     },
     "usnistgov/autoware.universe.openplanner": {
         "description": "Autoware - the world's leading open-source software project for autonomous driving + Latest OpenPlanner",
@@ -4542,6 +4610,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/hermes": {
+        "description": "flexible materials modeling and lab automation",
+        "name": "usnistgov/hermes",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/hevx": {
         "description": "High End Visualization (HEV) is a software environment for developing visualization applications in both desktop and immersive environments.",
         "name": "usnistgov/hevx",
@@ -4803,6 +4877,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/hl7-message-generator": {
+        "description": null,
+        "name": "usnistgov/hl7-message-generator",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/hl7-profile-validation": {
         "description": null,
         "name": "usnistgov/hl7-profile-validation",
@@ -4830,6 +4910,12 @@
     "usnistgov/hl7-v2-validation-utils": {
         "description": "Utilities for HL7 v2 Validation",
         "name": "usnistgov/hl7-v2-validation-utils",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/hl7-validation-report-summary": {
+        "description": null,
+        "name": "usnistgov/hl7-validation-report-summary",
         "topics": null,
         "website": null
     },
@@ -4985,7 +5071,13 @@
     "usnistgov/iheos-toolkit2": {
         "description": "XDS Toolkit",
         "name": "usnistgov/iheos-toolkit2",
-        "topics": null,
+        "topics": [
+            "conformance-tests",
+            "ihe",
+            "interoperability-testing",
+            "validation-tool",
+            "xds"
+        ],
         "website": "https://ihexds.nist.gov"
     },
     "usnistgov/ijarvis": {
@@ -5147,6 +5239,12 @@
         "name": "usnistgov/labbench",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/labbench-staged-recipes": {
+        "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
+        "name": "usnistgov/labbench-staged-recipes",
+        "topics": null,
+        "website": "https://conda-forge.org"
     },
     "usnistgov/labs-suite-config": {
         "description": null,
@@ -5368,6 +5466,21 @@
             "code-generation"
         ],
         "website": "https://pages.nist.gov/metaschema-java/"
+    },
+    "usnistgov/metaschema-node": {
+        "description": "Node tools and libraries providing a Metaschema toolchain",
+        "name": "usnistgov/metaschema-node",
+        "topics": [
+            "json",
+            "metaschema",
+            "modeling",
+            "parser-library",
+            "xml",
+            "yaml",
+            "nodejs",
+            "typescript"
+        ],
+        "website": ""
     },
     "usnistgov/metaschema-xslt": {
         "description": "An implementation of the Metaschema information modeling language, in XSLT and XProc",
@@ -5727,6 +5840,12 @@
     "usnistgov/nist-supercloud": {
         "description": null,
         "name": "usnistgov/nist-supercloud",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/nist_competitor": {
+        "description": null,
+        "name": "usnistgov/nist_competitor",
         "topics": null,
         "website": null
     },
@@ -6138,8 +6257,12 @@
     "usnistgov/pfhub-cli": {
         "description": "PFHub CLI tool",
         "name": "usnistgov/pfhub-cli",
-        "topics": null,
-        "website": null
+        "topics": [
+            "materials-science",
+            "phase-field",
+            "phase-field-method"
+        ],
+        "website": "https://pages.nist.gov/pfhub-cli"
     },
     "usnistgov/pfhub-schema": {
         "description": "Phase-field simulation and benchmark schema in LinkML",
@@ -6241,7 +6364,7 @@
         "website": null
     },
     "usnistgov/privacy_collaborative_research_cycle": {
-        "description": "This repository houses the NIST, Privacy Engineering Program's Collaborative Research Cycle ",
+        "description": "This repository houses the NIST,  submissions and evaluation data related to the Collaborative Research Cycle ",
         "name": "usnistgov/privacy_collaborative_research_cycle",
         "topics": null,
         "website": "https://pages.nist.gov/privacy_collaborative_research_cycle"
@@ -6440,11 +6563,11 @@
         "topics": null,
         "website": "https://wiki.hyperledger.org/display/fabric"
     },
-    "usnistgov/redledger-samples": {
-        "description": "Repository for REDLedger samples",
-        "name": "usnistgov/redledger-samples",
+    "usnistgov/redledger-fabric-samples": {
+        "description": "Samples for REDLedger Hyperledger Fabric",
+        "name": "usnistgov/redledger-fabric-samples",
         "topics": null,
-        "website": null
+        "website": "https://wiki.hyperledger.org/display/fabric"
     },
     "usnistgov/reductus": {
         "description": "Web-based, visual dataflow data reduction for neutron scattering instruments",
@@ -6723,6 +6846,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/srse": {
+        "description": null,
+        "name": "usnistgov/srse",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/ssmdevices": {
         "description": "a collection of labbench drivers",
         "name": "usnistgov/ssmdevices",
@@ -6964,9 +7093,16 @@
         "website": ""
     },
     "usnistgov/trec-browser": {
-        "description": "Metadata browser of the Text REtrieval Conference",
+        "description": "Metadata browser of TREC",
         "name": "usnistgov/trec-browser",
-        "topics": null,
+        "topics": [
+            "information-access",
+            "information-retrieval",
+            "metadata",
+            "shared-task",
+            "text-retrieval",
+            "trec"
+        ],
         "website": "https://pages.nist.gov/trec-browser"
     },
     "usnistgov/trec_eval": {

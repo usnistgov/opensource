@@ -248,6 +248,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/2024-02-05_AGBT_NDO_GIAB-defrabb": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/3DScanningProject": {
             "repositoryTopics": {
                 "nodes": [],
@@ -471,6 +477,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/APRS_description": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/AR-PMI": {
             "repositoryTopics": {
                 "nodes": [],
@@ -562,6 +574,12 @@
             }
         },
         "usnistgov/BaselineDeepLearningRadarDetectors": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/BayesianFatigueModeling": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -818,6 +836,12 @@
             }
         },
         "usnistgov/Cys.sqlite": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/DCSTest": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -1420,6 +1444,12 @@
                 "totalCount": 4
             }
         },
+        "usnistgov/IBA-Project": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/ICCF": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1433,6 +1463,12 @@
             }
         },
         "usnistgov/IEC61850-SV-IOPAnalyzer": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/IEEE_N42.59_lateral_resolution": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -1493,6 +1529,12 @@
             }
         },
         "usnistgov/Intra-Vehicular-Networks": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/IntrinsicDACCycle": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2830,13 +2872,6 @@
             "repositoryTopics": {
                 "nodes": [
                     {
-                        "resourcePath": "/topics/de-identification",
-                        "topic": {
-                            "name": "de-identification"
-                        },
-                        "url": "https://github.com/topics/de-identification"
-                    },
-                    {
                         "resourcePath": "/topics/differential-privacy",
                         "topic": {
                             "name": "differential-privacy"
@@ -2849,6 +2884,13 @@
                             "name": "risk-management"
                         },
                         "url": "https://github.com/topics/risk-management"
+                    },
+                    {
+                        "resourcePath": "/topics/disassociability",
+                        "topic": {
+                            "name": "disassociability"
+                        },
+                        "url": "https://github.com/topics/disassociability"
                     }
                 ],
                 "totalCount": 3
@@ -2888,6 +2930,62 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "usnistgov/Q-SLAW": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/digital-image-correlation",
+                        "topic": {
+                            "name": "digital-image-correlation"
+                        },
+                        "url": "https://github.com/topics/digital-image-correlation"
+                    },
+                    {
+                        "resourcePath": "/topics/image-analysis",
+                        "topic": {
+                            "name": "image-analysis"
+                        },
+                        "url": "https://github.com/topics/image-analysis"
+                    },
+                    {
+                        "resourcePath": "/topics/image-processing",
+                        "topic": {
+                            "name": "image-processing"
+                        },
+                        "url": "https://github.com/topics/image-processing"
+                    },
+                    {
+                        "resourcePath": "/topics/strain-analysis",
+                        "topic": {
+                            "name": "strain-analysis"
+                        },
+                        "url": "https://github.com/topics/strain-analysis"
+                    },
+                    {
+                        "resourcePath": "/topics/strain-data",
+                        "topic": {
+                            "name": "strain-data"
+                        },
+                        "url": "https://github.com/topics/strain-data"
+                    },
+                    {
+                        "resourcePath": "/topics/strain-imaging",
+                        "topic": {
+                            "name": "strain-imaging"
+                        },
+                        "url": "https://github.com/topics/strain-imaging"
+                    },
+                    {
+                        "resourcePath": "/topics/compaction-band",
+                        "topic": {
+                            "name": "compaction-band"
+                        },
+                        "url": "https://github.com/topics/compaction-band"
+                    }
+                ],
+                "totalCount": 7
             }
         },
         "usnistgov/QIF": {
@@ -3591,6 +3689,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/TDE-issues": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/TEChallenge": {
             "repositoryTopics": {
                 "nodes": [],
@@ -4241,6 +4345,12 @@
             }
         },
         "usnistgov/autoSDC-ZnNi-corr": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/autorefl": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -6361,6 +6471,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/hermes": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/hevx": {
             "repositoryTopics": {
                 "nodes": [],
@@ -6706,6 +6822,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/hl7-message-generator": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/hl7-profile-validation": {
             "repositoryTopics": {
                 "nodes": [],
@@ -6731,6 +6853,12 @@
             }
         },
         "usnistgov/hl7-v2-validation-utils": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/hl7-validation-report-summary": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -6941,8 +7069,44 @@
         },
         "usnistgov/iheos-toolkit2": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/conformance-tests",
+                        "topic": {
+                            "name": "conformance-tests"
+                        },
+                        "url": "https://github.com/topics/conformance-tests"
+                    },
+                    {
+                        "resourcePath": "/topics/ihe",
+                        "topic": {
+                            "name": "ihe"
+                        },
+                        "url": "https://github.com/topics/ihe"
+                    },
+                    {
+                        "resourcePath": "/topics/interoperability-testing",
+                        "topic": {
+                            "name": "interoperability-testing"
+                        },
+                        "url": "https://github.com/topics/interoperability-testing"
+                    },
+                    {
+                        "resourcePath": "/topics/validation-tool",
+                        "topic": {
+                            "name": "validation-tool"
+                        },
+                        "url": "https://github.com/topics/validation-tool"
+                    },
+                    {
+                        "resourcePath": "/topics/xds",
+                        "topic": {
+                            "name": "xds"
+                        },
+                        "url": "https://github.com/topics/xds"
+                    }
+                ],
+                "totalCount": 5
             }
         },
         "usnistgov/ijarvis": {
@@ -7184,6 +7348,12 @@
             }
         },
         "usnistgov/labbench": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/labbench-staged-recipes": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -7618,6 +7788,69 @@
                     }
                 ],
                 "totalCount": 11
+            }
+        },
+        "usnistgov/metaschema-node": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/json",
+                        "topic": {
+                            "name": "json"
+                        },
+                        "url": "https://github.com/topics/json"
+                    },
+                    {
+                        "resourcePath": "/topics/metaschema",
+                        "topic": {
+                            "name": "metaschema"
+                        },
+                        "url": "https://github.com/topics/metaschema"
+                    },
+                    {
+                        "resourcePath": "/topics/modeling",
+                        "topic": {
+                            "name": "modeling"
+                        },
+                        "url": "https://github.com/topics/modeling"
+                    },
+                    {
+                        "resourcePath": "/topics/parser-library",
+                        "topic": {
+                            "name": "parser-library"
+                        },
+                        "url": "https://github.com/topics/parser-library"
+                    },
+                    {
+                        "resourcePath": "/topics/xml",
+                        "topic": {
+                            "name": "xml"
+                        },
+                        "url": "https://github.com/topics/xml"
+                    },
+                    {
+                        "resourcePath": "/topics/yaml",
+                        "topic": {
+                            "name": "yaml"
+                        },
+                        "url": "https://github.com/topics/yaml"
+                    },
+                    {
+                        "resourcePath": "/topics/nodejs",
+                        "topic": {
+                            "name": "nodejs"
+                        },
+                        "url": "https://github.com/topics/nodejs"
+                    },
+                    {
+                        "resourcePath": "/topics/typescript",
+                        "topic": {
+                            "name": "typescript"
+                        },
+                        "url": "https://github.com/topics/typescript"
+                    }
+                ],
+                "totalCount": 8
             }
         },
         "usnistgov/metaschema-xslt": {
@@ -8150,6 +8383,12 @@
             }
         },
         "usnistgov/nist-supercloud": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/nist_competitor": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -8838,8 +9077,30 @@
         },
         "usnistgov/pfhub-cli": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/materials-science",
+                        "topic": {
+                            "name": "materials-science"
+                        },
+                        "url": "https://github.com/topics/materials-science"
+                    },
+                    {
+                        "resourcePath": "/topics/phase-field",
+                        "topic": {
+                            "name": "phase-field"
+                        },
+                        "url": "https://github.com/topics/phase-field"
+                    },
+                    {
+                        "resourcePath": "/topics/phase-field-method",
+                        "topic": {
+                            "name": "phase-field-method"
+                        },
+                        "url": "https://github.com/topics/phase-field-method"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "usnistgov/pfhub-schema": {
@@ -9357,7 +9618,7 @@
                 "totalCount": 0
             }
         },
-        "usnistgov/redledger-samples": {
+        "usnistgov/redledger-fabric-samples": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -9671,6 +9932,12 @@
             }
         },
         "usnistgov/spring_cluster": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/srse": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -10002,8 +10269,51 @@
         },
         "usnistgov/trec-browser": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/information-access",
+                        "topic": {
+                            "name": "information-access"
+                        },
+                        "url": "https://github.com/topics/information-access"
+                    },
+                    {
+                        "resourcePath": "/topics/information-retrieval",
+                        "topic": {
+                            "name": "information-retrieval"
+                        },
+                        "url": "https://github.com/topics/information-retrieval"
+                    },
+                    {
+                        "resourcePath": "/topics/metadata",
+                        "topic": {
+                            "name": "metadata"
+                        },
+                        "url": "https://github.com/topics/metadata"
+                    },
+                    {
+                        "resourcePath": "/topics/shared-task",
+                        "topic": {
+                            "name": "shared-task"
+                        },
+                        "url": "https://github.com/topics/shared-task"
+                    },
+                    {
+                        "resourcePath": "/topics/text-retrieval",
+                        "topic": {
+                            "name": "text-retrieval"
+                        },
+                        "url": "https://github.com/topics/text-retrieval"
+                    },
+                    {
+                        "resourcePath": "/topics/trec",
+                        "topic": {
+                            "name": "trec"
+                        },
+                        "url": "https://github.com/topics/trec"
+                    }
+                ],
+                "totalCount": 6
             }
         },
         "usnistgov/trec_eval": {
