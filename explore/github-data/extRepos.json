@@ -602,14 +602,6 @@
             },
             "nameWithOwner": "NREL/ssc"
         },
-        "NTIA/scos-actions": {
-            "labContributors": {
-                "nodes": [
-                    "dgkuester"
-                ]
-            },
-            "nameWithOwner": "NTIA/scos-actions"
-        },
         "NetherlandsForensicInstitute/hansken-case": {
             "labContributors": {
                 "nodes": [
@@ -854,6 +846,15 @@
                 ]
             },
             "nameWithOwner": "SemanticComputing/fuseki-docker"
+        },
+        "TLP-COI/awesome-tlp": {
+            "labContributors": {
+                "nodes": [
+                    "MKDJr",
+                    "rtbs-dev"
+                ]
+            },
+            "nameWithOwner": "TLP-COI/awesome-tlp"
         },
         "TLP-COI/text-data-course": {
             "labContributors": {
@@ -3363,6 +3364,14 @@
                 ]
             },
             "nameWithOwner": "tntech-ngin/ndn-traffic-plotting-scripts"
+        },
+        "tomcollins/json-schema-static-docs": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "tomcollins/json-schema-static-docs"
         },
         "torchmd/torchmd": {
             "labContributors": {
