@@ -18634,7 +18634,7 @@
             },
             "date": {
                 "created": "2018-12-07",
-                "lastModified": "2022-06-03"
+                "lastModified": "2024-04-10"
             },
             "description": "MATLAB code that can be used to calculate the Fourier transform of specific frequencies contained in a time series without including noise",
             "downloadURL": "https://api.github.com/repos/usnistgov/OptimalFourierTransform/downloads",
@@ -30157,7 +30157,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2024-03-28"
+                "lastModified": "2024-04-10"
             },
             "description": "Atomistic Line Graph Neural Network",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -41166,6 +41166,7 @@
             "laborHours": 0,
             "languages": [
                 "MATLAB",
+                "Jupyter Notebook",
                 "Fortran",
                 "M"
             ],
@@ -41390,6 +41391,41 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/blossom-chaincode.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2024-04-10",
+                "lastModified": "2024-04-10"
+            },
+            "description": "Openstudio measure for Birds Nest",
+            "downloadURL": "https://api.github.com/repos/usnistgov/openstudio-birds-nest-gem/downloads",
+            "homepageURL": "https://github.com/usnistgov/openstudio-birds-nest-gem",
+            "laborHours": 0,
+            "languages": [
+                "Ruby",
+                "HTML"
+            ],
+            "name": "openstudio-birds-nest-gem",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/openstudio-birds-nest-gem.git",
             "status": "Development",
             "tags": [
                 "github"
