@@ -457,6 +457,14 @@
             },
             "nameWithOwner": "JabRef/user-documentation"
         },
+        "JackMcKew/pyinstaller-action-windows": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "JackMcKew/pyinstaller-action-windows"
+        },
         "JoAnnJuzefyk/bottle": {
             "labContributors": {
                 "nodes": [
@@ -1266,14 +1274,6 @@
             },
             "nameWithOwner": "carpentries/lesson-transition"
         },
-        "carpentries/sandpaper": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "carpentries/sandpaper"
-        },
         "carpentries/varnish": {
             "labContributors": {
                 "nodes": [
@@ -1836,6 +1836,14 @@
             },
             "nameWithOwner": "digitalcorpora/mwe"
         },
+        "docker/buildx": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "docker/buildx"
+        },
         "docker/metadata-action": {
             "labContributors": {
                 "nodes": [
@@ -2342,6 +2350,14 @@
                 ]
             },
             "nameWithOwner": "jupyter/nbclient"
+        },
+        "jupyterhub/the-littlest-jupyterhub": {
+            "labContributors": {
+                "nodes": [
+                    "isoboroff"
+                ]
+            },
+            "nameWithOwner": "jupyterhub/the-littlest-jupyterhub"
         },
         "kchason/case-validation-action": {
             "labContributors": {
