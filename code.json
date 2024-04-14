@@ -5808,7 +5808,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2024-04-05"
+                "lastModified": "2024-04-14"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -20837,7 +20837,7 @@
             },
             "date": {
                 "created": "2019-05-31",
-                "lastModified": "2024-04-09"
+                "lastModified": "2024-04-14"
             },
             "description": "A set of tools for aligning and reconstructing electron tomography data",
             "downloadURL": "https://api.github.com/repos/usnistgov/tomotools/downloads",
@@ -26426,7 +26426,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2024-04-12"
+                "lastModified": "2024-04-13"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -26685,7 +26685,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2024-03-30"
+                "lastModified": "2024-04-14"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -39323,6 +39323,40 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/atic.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2023-09-06",
+                "lastModified": "2024-04-13"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/intermat/downloads",
+            "homepageURL": "https://github.com/usnistgov/intermat",
+            "laborHours": 0,
+            "languages": [
+                "Python"
+            ],
+            "name": "intermat",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/intermat.git",
             "status": "Development",
             "tags": [
                 "github"
