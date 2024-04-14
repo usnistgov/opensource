@@ -2845,7 +2845,7 @@
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "forks": {
-                "totalCount": 61
+                "totalCount": 62
             },
             "homepageUrl": "https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program",
             "issues_Closed": {
@@ -2883,7 +2883,7 @@
                 "totalCount": 4
             },
             "stargazers": {
-                "totalCount": 146
+                "totalCount": 147
             },
             "url": "https://github.com/usnistgov/ACVP"
         },
@@ -3557,7 +3557,7 @@
             },
             "homepageUrl": "https://pages.nist.gov/ARIAC_docs/en/latest/index.html",
             "issues_Closed": {
-                "totalCount": 222
+                "totalCount": 223
             },
             "issues_Open": {
                 "totalCount": 1
@@ -18736,7 +18736,7 @@
                 "totalCount": 5
             },
             "stargazers": {
-                "totalCount": 67
+                "totalCount": 66
             },
             "url": "https://github.com/usnistgov/STP2X3D"
         },
@@ -40915,6 +40915,60 @@
             },
             "url": "https://github.com/usnistgov/interlab_py"
         },
+        "usnistgov/intermat": {
+            "createdAt": "2023-09-06T20:30:55Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://arxiv.org/abs/2401.02021",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 12
+            },
+            "name": "intermat",
+            "nameWithOwner": "usnistgov/intermat",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 2
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 2
+            },
+            "url": "https://github.com/usnistgov/intermat"
+        },
         "usnistgov/iprPy": {
             "createdAt": "2016-03-30T19:33:58Z",
             "defaultBranchRef": {
@@ -42366,7 +42420,7 @@
             },
             "description": "macOS Security Compliance Project",
             "forks": {
-                "totalCount": 177
+                "totalCount": 178
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -42409,7 +42463,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1541
+                "totalCount": 1542
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -43112,7 +43166,7 @@
                 "totalCount": 140
             },
             "issues_Open": {
-                "totalCount": 39
+                "totalCount": 40
             },
             "languages": {
                 "totalCount": 5
@@ -54960,7 +55014,7 @@
                 "totalCount": 74
             },
             "issues_Open": {
-                "totalCount": 9
+                "totalCount": 10
             },
             "languages": {
                 "totalCount": 8
@@ -55813,7 +55867,7 @@
             },
             "description": "A set of tools for aligning and reconstructing electron tomography data",
             "forks": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -55856,7 +55910,7 @@
                 "totalCount": 2
             },
             "stargazers": {
-                "totalCount": 9
+                "totalCount": 10
             },
             "url": "https://github.com/usnistgov/tomotools"
         },
