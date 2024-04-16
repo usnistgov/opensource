@@ -912,6 +912,14 @@
             },
             "nameWithOwner": "TinkerTools/tinker9"
         },
+        "ToneyGroupCU/PyHyperScattering": {
+            "labContributors": {
+                "nodes": [
+                    "pbeaucage"
+                ]
+            },
+            "nameWithOwner": "ToneyGroupCU/PyHyperScattering"
+        },
         "UCLA-IRL/go-ndncert": {
             "labContributors": {
                 "nodes": [
@@ -2556,13 +2564,22 @@
             },
             "nameWithOwner": "metanorma/metanorma-tutorial"
         },
-        "metaschema-framework/metaschema-framework.github.io": {
+        "metaschema-framework/metaschema-java": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist",
+                    "david-waltermire"
+                ]
+            },
+            "nameWithOwner": "metaschema-framework/metaschema-java"
+        },
+        "metaschema-framework/metaschema.dev": {
             "labContributors": {
                 "nodes": [
                     "david-waltermire"
                 ]
             },
-            "nameWithOwner": "metaschema-framework/metaschema-framework.github.io"
+            "nameWithOwner": "metaschema-framework/metaschema.dev"
         },
         "mgmeyers/obsidian-pandoc-reference-list": {
             "labContributors": {
