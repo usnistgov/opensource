@@ -952,14 +952,6 @@
             },
             "nameWithOwner": "UMD-ENMA165/Variables_and_Types_02-13-24"
         },
-        "UMD-ENMA165/homework_template": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "UMD-ENMA165/homework_template"
-        },
         "UMD-ENMA165/loop-de-loop": {
             "labContributors": {
                 "nodes": [
@@ -1868,6 +1860,14 @@
             },
             "nameWithOwner": "docker/metadata-action"
         },
+        "donaldm314/dropbox-commandline-oauth-refresh": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "donaldm314/dropbox-commandline-oauth-refresh"
+        },
         "easingthemes/ssh-deploy": {
             "labContributors": {
                 "nodes": [
@@ -2164,6 +2164,14 @@
                 ]
             },
             "nameWithOwner": "hyperspy/hyperspy"
+        },
+        "hyperspy/hyperspy_gui_ipywidgets": {
+            "labContributors": {
+                "nodes": [
+                    "AndrewHerzing"
+                ]
+            },
+            "nameWithOwner": "hyperspy/hyperspy_gui_ipywidgets"
         },
         "ianhbell/REFPROP-interop": {
             "labContributors": {
@@ -2835,6 +2843,14 @@
                 ]
             },
             "nameWithOwner": "named-data/vagrant-jenkins"
+        },
+        "nasa/Transform-to-Open-Science": {
+            "labContributors": {
+                "nodes": [
+                    "andreamedinasmith"
+                ]
+            },
+            "nameWithOwner": "nasa/Transform-to-Open-Science"
         },
         "natesales/pathvector": {
             "labContributors": {
