@@ -48,6 +48,14 @@
             },
             "nameWithOwner": "AIF-development-team/adsorptioninformationformat"
         },
+        "AdvancedPhotonSource/GSAS-II": {
+            "labContributors": {
+                "nodes": [
+                    "creuzige"
+                ]
+            },
+            "nameWithOwner": "AdvancedPhotonSource/GSAS-II"
+        },
         "AlgebraicJulia/Semagrams.jl": {
             "labContributors": {
                 "nodes": [
@@ -514,14 +522,6 @@
             },
             "nameWithOwner": "KshitijKarnawat/ARIAC_2023"
         },
-        "LLNL/ExaCA": {
-            "labContributors": {
-                "nodes": [
-                    "creuzige"
-                ]
-            },
-            "nameWithOwner": "LLNL/ExaCA"
-        },
         "Lightning-AI/lit-llama": {
             "labContributors": {
                 "nodes": [
@@ -706,6 +706,14 @@
                 ]
             },
             "nameWithOwner": "PM-Master/policy-machine-core"
+        },
+        "Pinafore/2023-document-annotation": {
+            "labContributors": {
+                "nodes": [
+                    "daniel-stephens"
+                ]
+            },
+            "nameWithOwner": "Pinafore/2023-document-annotation"
         },
         "PlanSys2/ros2_planning_system": {
             "labContributors": {
@@ -1273,14 +1281,6 @@
                 ]
             },
             "nameWithOwner": "carpentries/lesson-transition"
-        },
-        "carpentries/varnish": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "carpentries/varnish"
         },
         "casework/CASE": {
             "labContributors": {
@@ -2011,6 +2011,14 @@
                 ]
             },
             "nameWithOwner": "gentoo/qt"
+        },
+        "ghostfolio/ghostfolio": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "ghostfolio/ghostfolio"
         },
         "gmondee/massGui": {
             "labContributors": {
