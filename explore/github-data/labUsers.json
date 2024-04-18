@@ -5919,6 +5919,11 @@
             "login": "dam8nist",
             "name": null
         },
+        "daniel-stephens": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/60607443?u=e770853d5f85c425a8780fb6300af12c505b7090&v=4",
+            "login": "daniel-stephens",
+            "name": "Daniel Stephens"
+        },
         "danielsmw": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/646114?u=21c0c3de20231601c612f738b449f223ebdcc6dc&v=4",
             "login": "danielsmw",
@@ -10151,7 +10156,8 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/2022-04-05-nist-online",
-                    "usnistgov/NIST-Tech-Pubs"
+                    "usnistgov/NIST-Tech-Pubs",
+                    "usnistgov/primo-explore-devenv"
                 ]
             },
             "login": "kmiller621",
