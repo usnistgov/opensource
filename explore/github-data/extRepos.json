@@ -618,6 +618,14 @@
             },
             "nameWithOwner": "NREL/ssc"
         },
+        "NSLS-II/scipy-binder": {
+            "labContributors": {
+                "nodes": [
+                    "pbeaucage"
+                ]
+            },
+            "nameWithOwner": "NSLS-II/scipy-binder"
+        },
         "NetherlandsForensicInstitute/hansken-case": {
             "labContributors": {
                 "nodes": [
@@ -776,6 +784,7 @@
             "labContributors": {
                 "nodes": [
                     "Chris-Turner-NIST",
+                    "derek-sappington",
                     "gscottwilson"
                 ]
             },
@@ -2949,6 +2958,14 @@
             },
             "nameWithOwner": "npgrosser/logseq-diagrams-as-code"
         },
+        "nsls2-conda-envs/nsls2-collection-tiled": {
+            "labContributors": {
+                "nodes": [
+                    "pbeaucage"
+                ]
+            },
+            "nameWithOwner": "nsls2-conda-envs/nsls2-collection-tiled"
+        },
         "omec-project/gnbsim": {
             "labContributors": {
                 "nodes": [
@@ -3430,13 +3447,13 @@
             },
             "nameWithOwner": "torchmd/torchmd"
         },
-        "transmute-industries/ietf-spice-charter": {
+        "transmute-industries/draft-ietf-spice-charter": {
             "labContributors": {
                 "nodes": [
                     "aj-stein-nist"
                 ]
             },
-            "nameWithOwner": "transmute-industries/ietf-spice-charter"
+            "nameWithOwner": "transmute-industries/draft-ietf-spice-charter"
         },
         "transmute-industries/transmute": {
             "labContributors": {
@@ -3686,14 +3703,6 @@
                 ]
             },
             "nameWithOwner": "x3dom/x3dom"
-        },
-        "xarray-contrib/xarray-tutorial": {
-            "labContributors": {
-                "nodes": [
-                    "BijalBPatel"
-                ]
-            },
-            "nameWithOwner": "xarray-contrib/xarray-tutorial"
         },
         "xspec/xspec": {
             "labContributors": {
