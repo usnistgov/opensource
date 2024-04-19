@@ -7374,6 +7374,12 @@
                 "totalCount": 1
             }
         },
+        "usnistgov/am-security": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/ambench-cdcs": {
             "languages": {
                 "nodes": [
@@ -7963,8 +7969,30 @@
         },
         "usnistgov/blossom-chaincode": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "Java"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "Promela"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "name": "JavaScript"
+                    }
+                ],
+                "totalCount": 7
             }
         },
         "usnistgov/blossom-core": {
