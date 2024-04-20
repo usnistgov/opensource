@@ -2142,14 +2142,6 @@
             },
             "nameWithOwner": "hpc-carpentry/hpc-carpentry.github.io"
         },
-        "hpc-carpentry/old-hpc-workflows": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "hpc-carpentry/old-hpc-workflows"
-        },
         "huggingface/datasets": {
             "labContributors": {
                 "nodes": [
@@ -2319,6 +2311,14 @@
                 ]
             },
             "nameWithOwner": "jeremylong/Open-Vulnerability-Project"
+        },
+        "jfernandez37/ARIAC_evaluation": {
+            "labContributors": {
+                "nodes": [
+                    "jaybrecht"
+                ]
+            },
+            "nameWithOwner": "jfernandez37/ARIAC_evaluation"
         },
         "jjhelmus/pyfive": {
             "labContributors": {
