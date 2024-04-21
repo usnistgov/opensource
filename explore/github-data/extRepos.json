@@ -594,14 +594,6 @@
             },
             "nameWithOwner": "NREL/HOPP"
         },
-        "NREL/SAM": {
-            "labContributors": {
-                "nodes": [
-                    "Matthew-Boyd"
-                ]
-            },
-            "nameWithOwner": "NREL/SAM"
-        },
         "NREL/hsds-examples": {
             "labContributors": {
                 "nodes": [
@@ -762,6 +754,14 @@
                 ]
             },
             "nameWithOwner": "Plant-Tracer/webapp"
+        },
+        "Python-PyQt/PyQt-builder": {
+            "labContributors": {
+                "nodes": [
+                    "Pesa"
+                ]
+            },
+            "nameWithOwner": "Python-PyQt/PyQt-builder"
         },
         "RDFLib/pySHACL": {
             "labContributors": {
@@ -1282,14 +1282,6 @@
                 ]
             },
             "nameWithOwner": "carpentries/instructor-training"
-        },
-        "carpentries/lesson-transition": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "carpentries/lesson-transition"
         },
         "casework/CASE": {
             "labContributors": {
@@ -3182,6 +3174,14 @@
                 ]
             },
             "nameWithOwner": "risharde/let-nosunny"
+        },
+        "ritster/methionine-analysis": {
+            "labContributors": {
+                "nodes": [
+                    "johnt02"
+                ]
+            },
+            "nameWithOwner": "ritster/methionine-analysis"
         },
         "rjsf-team/react-jsonschema-form": {
             "labContributors": {
