@@ -1129,14 +1129,6 @@
             },
             "nameWithOwner": "astra-vision/MonoScene"
         },
-        "astropenguin/xarray-dataclasses": {
-            "labContributors": {
-                "nodes": [
-                    "rtbs-dev"
-                ]
-            },
-            "nameWithOwner": "astropenguin/xarray-dataclasses"
-        },
         "autodiff/autodiff": {
             "labContributors": {
                 "nodes": [
@@ -1466,6 +1458,14 @@
                 ]
             },
             "nameWithOwner": "catchorg/Catch2"
+        },
+        "ccoffin/cve-schema": {
+            "labContributors": {
+                "nodes": [
+                    "david-waltermire"
+                ]
+            },
+            "nameWithOwner": "ccoffin/cve-schema"
         },
         "chalklab/CakePHP_TRC": {
             "labContributors": {
