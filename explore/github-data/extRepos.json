@@ -2029,6 +2029,14 @@
             },
             "nameWithOwner": "gcovr/gcovr"
         },
+        "genome-in-a-bottle/HG008-curations": {
+            "labContributors": {
+                "nodes": [
+                    "jzook"
+                ]
+            },
+            "nameWithOwner": "genome-in-a-bottle/HG008-curations"
+        },
         "gentoo/gentoo": {
             "labContributors": {
                 "nodes": [
@@ -3622,14 +3630,6 @@
                 ]
             },
             "nameWithOwner": "uncefact/spec-jsonld"
-        },
-        "uscensusbureau/recon_replication": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "uscensusbureau/recon_replication"
         },
         "vdemichev/DiaNN": {
             "labContributors": {
