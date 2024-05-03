@@ -690,6 +690,14 @@
             },
             "nameWithOwner": "Open-Catalyst-Project/ocp"
         },
+        "OpenSC/OpenSC": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "OpenSC/OpenSC"
+        },
         "Opentrons/buildroot": {
             "labContributors": {
                 "nodes": [
@@ -1064,14 +1072,6 @@
                 ]
             },
             "nameWithOwner": "actualbudget/actual"
-        },
-        "aimat-lab/gcnn_keras": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "aimat-lab/gcnn_keras"
         },
         "aj-stein-nist/metaschema-java": {
             "labContributors": {
@@ -1820,14 +1820,6 @@
                 ]
             },
             "nameWithOwner": "datacarpentry/r-socialsci"
-        },
-        "delfick/python-dict2xml": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "delfick/python-dict2xml"
         },
         "dfxml-working-group/dfxml_cpp": {
             "labContributors": {
@@ -2662,6 +2654,14 @@
             },
             "nameWithOwner": "mgmeyers/obsidian-pandoc-reference-list"
         },
+        "michaelklishin/langohr": {
+            "labContributors": {
+                "nodes": [
+                    "pdenno"
+                ]
+            },
+            "nameWithOwner": "michaelklishin/langohr"
+        },
         "micropython/micropython": {
             "labContributors": {
                 "nodes": [
@@ -3014,6 +3014,14 @@
             },
             "nameWithOwner": "nsls2-conda-envs/nsls2-collection-tiled"
         },
+        "ocaisa/hpc-workflows": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "ocaisa/hpc-workflows"
+        },
         "omec-project/gnbsim": {
             "labContributors": {
                 "nodes": [
@@ -3101,6 +3109,14 @@
                 ]
             },
             "nameWithOwner": "pinellolab/CRISPRme"
+        },
+        "pola-rs/polars": {
+            "labContributors": {
+                "nodes": [
+                    "reductionnist"
+                ]
+            },
+            "nameWithOwner": "pola-rs/polars"
         },
         "portfolio-performance/portfolio": {
             "labContributors": {
