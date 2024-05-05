@@ -2958,7 +2958,7 @@
         "website": ""
     },
     "usnistgov/alignn": {
-        "description": "Atomistic Line Graph Neural Network",
+        "description": "Atomistic Line Graph Neural Network https://scholar.google.com/citations?user=9Q-tNnwAAAAJ&hl=en",
         "name": "usnistgov/alignn",
         "topics": null,
         "website": "https://jarvis.nist.gov/jalignn/"
@@ -5446,6 +5446,12 @@
     "usnistgov/manyso": {
         "description": "A small C++ library for loading multiple copies of a DLL in memory",
         "name": "usnistgov/manyso",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/mass": {
+        "description": null,
+        "name": "usnistgov/mass",
         "topics": null,
         "website": null
     },
