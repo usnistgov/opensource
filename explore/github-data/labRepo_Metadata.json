@@ -786,6 +786,12 @@
         "topics": null,
         "website": ""
     },
+    "usnistgov/DielectricSpectroscopyFDTWater": {
+        "description": "Scripts for the paper, \"6 Peaks Over 6 Decades of Frequency: Polarizable Force Fields are Necessary to Reproduce Water's Full Dielectric Spectrum\"",
+        "name": "usnistgov/DielectricSpectroscopyFDTWater",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/DielectricSpectroscopyTheory": {
         "description": null,
         "name": "usnistgov/DielectricSpectroscopyTheory",
@@ -5274,7 +5280,7 @@
         "website": "https://pages.nist.gov/jarvis/"
     },
     "usnistgov/jarvis_leaderboard": {
-        "description": "Explore State-of-the-Art Materials Design Methods: https://arxiv.org/abs/2306.11688",
+        "description": "Explore State-of-the-Art Materials Design Methods: https://www.nature.com/articles/s41524-024-01259-w",
         "name": "usnistgov/jarvis_leaderboard",
         "topics": null,
         "website": "https://pages.nist.gov/jarvis_leaderboard/"
@@ -5750,6 +5756,12 @@
     "usnistgov/nccoe-sca": {
         "description": "The National Cybersecurity Center of Excellence's Validating the Integrity of Computing Devices project.",
         "name": "usnistgov/nccoe-sca",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/ncnr-event-processing": {
+        "description": "Tools for processing and visualizing event streams from NCNR instruments",
+        "name": "usnistgov/ncnr-event-processing",
         "topics": null,
         "website": null
     },
