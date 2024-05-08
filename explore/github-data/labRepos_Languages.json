@@ -2462,6 +2462,19 @@
                 "totalCount": 3
             }
         },
+        "usnistgov/DielectricSpectroscopyFDTWater": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "C"
+                    },
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2
+            }
+        },
         "usnistgov/DielectricSpectroscopyTheory": {
             "languages": {
                 "nodes": [
@@ -14142,6 +14155,37 @@
                     }
                 ],
                 "totalCount": 6
+            }
+        },
+        "usnistgov/ncnr-event-processing": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Vue"
+                    },
+                    {
+                        "name": "TypeScript"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "C"
+                    },
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "CSS"
+                    }
+                ],
+                "totalCount": 8
             }
         },
         "usnistgov/ndn-dpdk": {
