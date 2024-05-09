@@ -6549,6 +6549,12 @@
                 "totalCount": 5
             }
         },
+        "usnistgov/UUID": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/UniSpec": {
             "languages": {
                 "nodes": [
@@ -7327,6 +7333,25 @@
                     }
                 ],
                 "totalCount": 2
+            }
+        },
+        "usnistgov/active-learning": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "Nix"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "usnistgov/agreement-platform": {
@@ -12203,6 +12228,12 @@
                     }
                 ],
                 "totalCount": 1
+            }
+        },
+        "usnistgov/hl7-codeset-authoring-tool": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "usnistgov/hl7-codesets-adapter": {

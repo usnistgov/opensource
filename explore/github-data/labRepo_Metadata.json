@@ -2624,6 +2624,12 @@
         ],
         "website": ""
     },
+    "usnistgov/UUID": {
+        "description": "Repository of data collected in the investigation of UUIDs for a standards-based digital thread of product data.",
+        "name": "usnistgov/UUID",
+        "topics": null,
+        "website": ""
+    },
     "usnistgov/UniSpec": {
         "description": "Implementation of UniSpec, a deep learning model for predicting full fragment ion peptide spectra.",
         "name": "usnistgov/UniSpec",
@@ -2936,6 +2942,12 @@
     "usnistgov/active-evaluation": {
         "description": null,
         "name": "usnistgov/active-evaluation",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/active-learning": {
+        "description": "Play with active learning",
+        "name": "usnistgov/active-learning",
         "topics": null,
         "website": null
     },
@@ -4910,6 +4922,12 @@
     "usnistgov/hl7-auth": {
         "description": null,
         "name": "usnistgov/hl7-auth",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/hl7-codeset-authoring-tool": {
+        "description": null,
+        "name": "usnistgov/hl7-codeset-authoring-tool",
         "topics": null,
         "website": null
     },
