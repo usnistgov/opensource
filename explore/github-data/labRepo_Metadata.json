@@ -5753,6 +5753,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/mxr-scenario-generator": {
+        "description": null,
+        "name": "usnistgov/mxr-scenario-generator",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/n0mcli": {
         "description": "NET0 House Meter Client",
         "name": "usnistgov/n0mcli",
@@ -5998,6 +6004,12 @@
         "name": "usnistgov/npTDMS",
         "topics": null,
         "website": "http://nptdms.readthedocs.io"
+    },
+    "usnistgov/ns3-mxr": {
+        "description": null,
+        "name": "usnistgov/ns3-mxr",
+        "topics": null,
+        "website": null
     },
     "usnistgov/ns3-oran": {
         "description": "A module that can be used to model and simulate O-RAN-like behavior in ns-3.",
