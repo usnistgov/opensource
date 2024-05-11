@@ -1619,14 +1619,6 @@
             },
             "nameWithOwner": "conda-forge/cyrsoxs-feedstock"
         },
-        "conda-forge/gmsh-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "guyer"
-                ]
-            },
-            "nameWithOwner": "conda-forge/gmsh-feedstock"
-        },
         "conda-forge/iprpy-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -3038,14 +3030,6 @@
             },
             "nameWithOwner": "ontodev/robot"
         },
-        "open-navigation/navigation2": {
-            "labContributors": {
-                "nodes": [
-                    "zeidk"
-                ]
-            },
-            "nameWithOwner": "open-navigation/navigation2"
-        },
         "open-reaction-database/ord-schema": {
             "labContributors": {
                 "nodes": [
@@ -3271,6 +3255,14 @@
             },
             "nameWithOwner": "rjsf-team/react-jsonschema-form"
         },
+        "ros-navigation/navigation2": {
+            "labContributors": {
+                "nodes": [
+                    "zeidk"
+                ]
+            },
+            "nameWithOwner": "ros-navigation/navigation2"
+        },
         "ruven/iipsrv": {
             "labContributors": {
                 "nodes": [
@@ -3367,6 +3359,14 @@
             },
             "nameWithOwner": "scitt-community/scitt-web"
         },
+        "scout-zz/tt-fpga-hdl-project": {
+            "labContributors": {
+                "nodes": [
+                    "The-Chairman"
+                ]
+            },
+            "nameWithOwner": "scout-zz/tt-fpga-hdl-project"
+        },
         "seba-gardens/seba-gardens.github.io": {
             "labContributors": {
                 "nodes": [
@@ -3446,6 +3446,14 @@
                 ]
             },
             "nameWithOwner": "sphinx-doc/sphinx-docker-images"
+        },
+        "srsran/oran-sc-ric": {
+            "labContributors": {
+                "nodes": [
+                    "pengnist"
+                ]
+            },
+            "nameWithOwner": "srsran/oran-sc-ric"
         },
         "srsran/srsRAN_Project": {
             "labContributors": {
