@@ -5382,22 +5382,6 @@
                 "totalCount": 1
             }
         },
-        "usnistgov/Pope.jl": {
-            "languages": {
-                "nodes": [
-                    {
-                        "name": "Julia"
-                    },
-                    {
-                        "name": "Python"
-                    },
-                    {
-                        "name": "Shell"
-                    }
-                ],
-                "totalCount": 3
-            }
-        },
         "usnistgov/PrivacyEngCollabSpace": {
             "languages": {
                 "nodes": [
@@ -8810,16 +8794,13 @@
                         "name": "JavaScript"
                     },
                     {
-                        "name": "XSLT"
-                    },
-                    {
                         "name": "HTML"
                     },
                     {
                         "name": "CSS"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 4
             }
         },
         "usnistgov/core_explore_oaipmh_app": {
@@ -8991,10 +8972,10 @@
                         "name": "Python"
                     },
                     {
-                        "name": "HTML"
+                        "name": "XSLT"
                     },
                     {
-                        "name": "XSLT"
+                        "name": "HTML"
                     },
                     {
                         "name": "CSS"
@@ -16429,6 +16410,16 @@
                     }
                 ],
                 "totalCount": 5
+            }
+        },
+        "usnistgov/quantum-sensors-tdm": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/rad_calculator": {
