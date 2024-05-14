@@ -2093,12 +2093,6 @@
         "topics": null,
         "website": null
     },
-    "usnistgov/Pope.jl": {
-        "description": null,
-        "name": "usnistgov/Pope.jl",
-        "topics": null,
-        "website": null
-    },
     "usnistgov/PrivacyEngCollabSpace": {
         "description": "Privacy Engineering Collaboration Space",
         "name": "usnistgov/PrivacyEngCollabSpace",
@@ -6682,6 +6676,12 @@
         "name": "usnistgov/qpx-gamma",
         "topics": null,
         "website": ""
+    },
+    "usnistgov/quantum-sensors-tdm": {
+        "description": null,
+        "name": "usnistgov/quantum-sensors-tdm",
+        "topics": null,
+        "website": null
     },
     "usnistgov/rad_calculator": {
         "description": "Calculator for converting between surface temperature, radiance temperature, and emissivity, using a radiometer spectral response.",

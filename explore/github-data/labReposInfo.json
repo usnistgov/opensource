@@ -2849,10 +2849,10 @@
             },
             "homepageUrl": "https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program",
             "issues_Closed": {
-                "totalCount": 979
+                "totalCount": 980
             },
             "issues_Open": {
-                "totalCount": 30
+                "totalCount": 29
             },
             "languages": {
                 "totalCount": 3
@@ -3609,7 +3609,7 @@
                 "totalCount": 236
             },
             "issues_Open": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "languages": {
                 "totalCount": 3
@@ -8206,7 +8206,7 @@
                 "totalCount": 84
             },
             "issues_Open": {
-                "totalCount": 4
+                "totalCount": 6
             },
             "languages": {
                 "totalCount": 4
@@ -12553,14 +12553,14 @@
             },
             "description": "NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.",
             "forks": {
-                "totalCount": 58
+                "totalCount": 59
             },
             "homepageUrl": "",
             "issues_Closed": {
                 "totalCount": 66
             },
             "issues_Open": {
-                "totalCount": 17
+                "totalCount": 18
             },
             "languages": {
                 "totalCount": 6
@@ -16670,60 +16670,6 @@
             },
             "url": "https://github.com/usnistgov/PhishingLensModel"
         },
-        "usnistgov/Pope.jl": {
-            "createdAt": "2017-11-30T23:13:08Z",
-            "defaultBranchRef": {
-                "name": "master"
-            },
-            "description": null,
-            "forks": {
-                "totalCount": 0
-            },
-            "homepageUrl": null,
-            "issues_Closed": {
-                "totalCount": 14
-            },
-            "issues_Open": {
-                "totalCount": 7
-            },
-            "languages": {
-                "totalCount": 3
-            },
-            "licenseInfo": {
-                "name": "Other",
-                "nickname": null,
-                "spdxId": "NOASSERTION",
-                "url": "http://choosealicense.com/licenses/other/"
-            },
-            "mentionableUsers": {
-                "totalCount": 11
-            },
-            "name": "Pope.jl",
-            "nameWithOwner": "usnistgov/Pope.jl",
-            "owner": {
-                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
-                "login": "usnistgov"
-            },
-            "primaryLanguage": {
-                "name": "Julia"
-            },
-            "pullRequests_Closed": {
-                "totalCount": 1
-            },
-            "pullRequests_Merged": {
-                "totalCount": 14
-            },
-            "pullRequests_Open": {
-                "totalCount": 0
-            },
-            "repositoryTopics": {
-                "totalCount": 0
-            },
-            "stargazers": {
-                "totalCount": 1
-            },
-            "url": "https://github.com/usnistgov/Pope.jl"
-        },
         "usnistgov/PrivacyEngCollabSpace": {
             "createdAt": "2018-10-12T17:53:40Z",
             "defaultBranchRef": {
@@ -17339,7 +17285,7 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 76
+                "totalCount": 77
             },
             "issues_Open": {
                 "totalCount": 6
@@ -17536,7 +17482,7 @@
                 "totalCount": 453
             },
             "issues_Open": {
-                "totalCount": 65
+                "totalCount": 66
             },
             "languages": {
                 "totalCount": 0
@@ -18425,7 +18371,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 30
+                "totalCount": 31
             },
             "url": "https://github.com/usnistgov/SDNist"
         },
@@ -26386,10 +26332,10 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 34
+                "totalCount": 35
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -28288,7 +28234,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 5
+                "totalCount": 4
             },
             "licenseInfo": {
                 "name": "Other",
@@ -32174,7 +32120,7 @@
                 "totalCount": 60
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -32860,10 +32806,10 @@
             },
             "homepageUrl": "https://pages.nist.gov/dioptra/",
             "issues_Closed": {
-                "totalCount": 112
+                "totalCount": 121
             },
             "issues_Open": {
-                "totalCount": 58
+                "totalCount": 52
             },
             "languages": {
                 "totalCount": 9
@@ -32890,10 +32836,10 @@
                 "totalCount": 111
             },
             "pullRequests_Merged": {
-                "totalCount": 166
+                "totalCount": 167
             },
             "pullRequests_Open": {
-                "totalCount": 11
+                "totalCount": 12
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -35302,7 +35248,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 474
+                "totalCount": 475
             },
             "url": "https://github.com/usnistgov/fipy"
         },
@@ -35771,7 +35717,7 @@
                 "totalCount": 103
             },
             "issues_Open": {
-                "totalCount": 17
+                "totalCount": 18
             },
             "languages": {
                 "totalCount": 3
@@ -41848,7 +41794,7 @@
                 "totalCount": 44
             },
             "issues_Open": {
-                "totalCount": 43
+                "totalCount": 44
             },
             "languages": {
                 "totalCount": 5
@@ -42978,7 +42924,7 @@
             },
             "description": "macOS Security Compliance Project",
             "forks": {
-                "totalCount": 182
+                "totalCount": 183
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -43021,7 +42967,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1573
+                "totalCount": 1575
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -43193,10 +43139,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 253
+                "totalCount": 259
             },
             "issues_Open": {
-                "totalCount": 23
+                "totalCount": 17
             },
             "languages": {
                 "totalCount": 4
@@ -43223,10 +43169,10 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 0
+                "totalCount": 2
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -43778,7 +43724,7 @@
                 "totalCount": 140
             },
             "issues_Open": {
-                "totalCount": 70
+                "totalCount": 71
             },
             "languages": {
                 "totalCount": 5
@@ -49183,7 +49129,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 37
+                "totalCount": 38
             },
             "url": "https://github.com/usnistgov/oscal-cli"
         },
@@ -49213,7 +49159,7 @@
                 "url": "http://choosealicense.com/licenses/other/"
             },
             "mentionableUsers": {
-                "totalCount": 28
+                "totalCount": 27
             },
             "name": "oscal-content",
             "nameWithOwner": "usnistgov/oscal-content",
@@ -49351,7 +49297,7 @@
             },
             "description": "OSCAL (Open Security Controls Assessment Language) on an XProc3 platform",
             "forks": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -51866,7 +51812,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 9
+                "totalCount": 10
             },
             "url": "https://github.com/usnistgov/pysr"
         },
@@ -52291,6 +52237,55 @@
                 "totalCount": 15
             },
             "url": "https://github.com/usnistgov/qpx-gamma"
+        },
+        "usnistgov/quantum-sensors-tdm": {
+            "createdAt": "2024-05-13T21:48:34Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 3
+            },
+            "issues_Open": {
+                "totalCount": 6
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 11
+            },
+            "name": "quantum-sensors-tdm",
+            "nameWithOwner": "usnistgov/quantum-sensors-tdm",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/quantum-sensors-tdm"
         },
         "usnistgov/rad_calculator": {
             "createdAt": "2022-10-26T20:18:32Z",
