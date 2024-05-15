@@ -514,6 +514,14 @@
             },
             "nameWithOwner": "JustKuzya/metaschema-xslt"
         },
+        "KME/draft-moriarty-attestationsets": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "KME/draft-moriarty-attestationsets"
+        },
         "Kennethkimble/peg_puzzle_gazebo": {
             "labContributors": {
                 "nodes": [
@@ -871,14 +879,6 @@
                 ]
             },
             "nameWithOwner": "SciVedanta/gospel_ramakrishna"
-        },
-        "SemanticComputing/fuseki-docker": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "SemanticComputing/fuseki-docker"
         },
         "ShubhamTatvamasi/magma-galaxy": {
             "labContributors": {
