@@ -312,14 +312,6 @@
             },
             "nameWithOwner": "FAIR-Chem/fairchem"
         },
-        "FHIR/packages": {
-            "labContributors": {
-                "nodes": [
-                    "mfaughn"
-                ]
-            },
-            "nameWithOwner": "FHIR/packages"
-        },
         "FlexBE/flexbe_behavior_engine": {
             "labContributors": {
                 "nodes": [
@@ -1064,14 +1056,6 @@
                 ]
             },
             "nameWithOwner": "aj-stein-nist/metaschema-java"
-        },
-        "aj-stein-nist/oscal-2023-workshop": {
-            "labContributors": {
-                "nodes": [
-                    "wendellpiez"
-                ]
-            },
-            "nameWithOwner": "aj-stein-nist/oscal-2023-workshop"
         },
         "aj-stein/notebook": {
             "labContributors": {
@@ -2013,14 +1997,6 @@
             },
             "nameWithOwner": "gmondee/massGui"
         },
-        "golang/go": {
-            "labContributors": {
-                "nodes": [
-                    "joefowler"
-                ]
-            },
-            "nameWithOwner": "golang/go"
-        },
         "gtalarico/pyairtable": {
             "labContributors": {
                 "nodes": [
@@ -2117,14 +2093,6 @@
                 ]
             },
             "nameWithOwner": "hpc-carpentry/hpc-carpentry.github.io"
-        },
-        "huggingface/datasets": {
-            "labContributors": {
-                "nodes": [
-                    "knc6"
-                ]
-            },
-            "nameWithOwner": "huggingface/datasets"
         },
         "huggingface/transformers": {
             "labContributors": {
@@ -2255,6 +2223,14 @@
                 ]
             },
             "nameWithOwner": "iterative/dvc.org"
+        },
+        "iterative/dvclive": {
+            "labContributors": {
+                "nodes": [
+                    "MKDJr"
+                ]
+            },
+            "nameWithOwner": "iterative/dvclive"
         },
         "jamesrhester/pycifrw": {
             "labContributors": {
@@ -3271,6 +3247,14 @@
             },
             "nameWithOwner": "sam-super/environment"
         },
+        "samvincent/jekyll-haml": {
+            "labContributors": {
+                "nodes": [
+                    "mfaughn"
+                ]
+            },
+            "nameWithOwner": "samvincent/jekyll-haml"
+        },
         "scattering-alliance/scattering-alliance.github.io": {
             "labContributors": {
                 "nodes": [
@@ -3366,6 +3350,14 @@
                 ]
             },
             "nameWithOwner": "sleuthkit/governance"
+        },
+        "snakemake/snakemake": {
+            "labContributors": {
+                "nodes": [
+                    "nate-d-olson"
+                ]
+            },
+            "nameWithOwner": "snakemake/snakemake"
         },
         "snowfallorg/lib": {
             "labContributors": {
@@ -3710,6 +3702,14 @@
                 ]
             },
             "nameWithOwner": "wendellpiez/metaschema-xslt"
+        },
+        "wendellpiez/oscal-xproc3": {
+            "labContributors": {
+                "nodes": [
+                    "aj-stein-nist"
+                ]
+            },
+            "nameWithOwner": "wendellpiez/oscal-xproc3"
         },
         "wendellpiez/oscal-xslt": {
             "labContributors": {
