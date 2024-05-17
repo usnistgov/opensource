@@ -432,6 +432,14 @@
             },
             "nameWithOwner": "HewlettPackard/PacketRusher"
         },
+        "IN-CORE/pyincore": {
+            "labContributors": {
+                "nodes": [
+                    "22dylan"
+                ]
+            },
+            "nameWithOwner": "IN-CORE/pyincore"
+        },
         "IUPAC/WFChemCookbook": {
             "labContributors": {
                 "nodes": [
@@ -1579,6 +1587,14 @@
             },
             "nameWithOwner": "conda-forge/iprpy-feedstock"
         },
+        "conda-forge/jarvis-leaderboard-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "conda-forge/jarvis-leaderboard-feedstock"
+        },
         "conda-forge/jarvis-tools-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -1700,6 +1716,14 @@
                 ]
             },
             "nameWithOwner": "crazy-max/ghaction-github-pages"
+        },
+        "criosx/autocontrol": {
+            "labContributors": {
+                "nodes": [
+                    "hoogerheide"
+                ]
+            },
+            "nameWithOwner": "criosx/autocontrol"
         },
         "criosx/molgroups": {
             "labContributors": {
@@ -2485,6 +2509,14 @@
             },
             "nameWithOwner": "marda-alliance/phase-field-schema"
         },
+        "markets/awesome-ruby": {
+            "labContributors": {
+                "nodes": [
+                    "mfaughn"
+                ]
+            },
+            "nameWithOwner": "markets/awesome-ruby"
+        },
         "martinmoene/scope-lite": {
             "labContributors": {
                 "nodes": [
@@ -3045,6 +3077,14 @@
                 ]
             },
             "nameWithOwner": "pola-rs/polars"
+        },
+        "ponyorm/pony": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "ponyorm/pony"
         },
         "portfolio-performance/portfolio": {
             "labContributors": {
