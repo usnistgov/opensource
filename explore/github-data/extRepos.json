@@ -2885,6 +2885,14 @@
             },
             "nameWithOwner": "neo4j-graphacademy/app-python"
         },
+        "nexusformat/definitions": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "nexusformat/definitions"
+        },
         "nginxinc/docker-nginx": {
             "labContributors": {
                 "nodes": [
@@ -3049,7 +3057,8 @@
         "pola-rs/polars": {
             "labContributors": {
                 "nodes": [
-                    "reductionnist"
+                    "reductionnist",
+                    "rtbs-dev"
                 ]
             },
             "nameWithOwner": "pola-rs/polars"
