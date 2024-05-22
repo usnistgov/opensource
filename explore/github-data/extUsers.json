@@ -4509,6 +4509,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/CharpyCurveFitting",
+                    "usnistgov/NIST-Consensus-Builder",
                     "usnistgov/NIST-Decision-Tree",
                     "usnistgov/sed_stan_templates"
                 ]
@@ -25862,7 +25863,7 @@
             "login": "skarbot",
             "name": "kartik sundararajan"
         },
-        "skbhaskarla-nist": {
+        "skbhaskarlanist": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/165837427?v=4",
             "contributedLabRepositories": {
                 "nodes": [
@@ -25870,7 +25871,7 @@
                     "usnistgov/iheos-toolkit2"
                 ]
             },
-            "login": "skbhaskarla-nist",
+            "login": "skbhaskarlanist",
             "name": "Sunil K Bhaskarla"
         },
         "skeees": {
@@ -27494,6 +27495,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6546610?u=ba8ae28fb834b4151eb21a34bc7322d602fd6985&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "usnistgov/NIST-Consensus-Builder",
                     "usnistgov/NIST-Uncertainty-Machine"
                 ]
             },
