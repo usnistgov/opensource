@@ -1218,6 +1218,14 @@
             },
             "nameWithOwner": "cabo/kramdown-rfc"
         },
+        "cachix/devenv": {
+            "labContributors": {
+                "nodes": [
+                    "ptonner"
+                ]
+            },
+            "nameWithOwner": "cachix/devenv"
+        },
         "carpentries-incubator/hpc-intro": {
             "labContributors": {
                 "nodes": [
@@ -3127,6 +3135,14 @@
             },
             "nameWithOwner": "privatenumber/tsx"
         },
+        "pybind/pybind11": {
+            "labContributors": {
+                "nodes": [
+                    "ianhbell"
+                ]
+            },
+            "nameWithOwner": "pybind/pybind11"
+        },
         "pydantic/pydantic": {
             "labContributors": {
                 "nodes": [
@@ -3695,6 +3711,14 @@
                 ]
             },
             "nameWithOwner": "vdemichev/DiaNN"
+        },
+        "vega/ts-json-schema-generator": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "vega/ts-json-schema-generator"
         },
         "veraison/services": {
             "labContributors": {

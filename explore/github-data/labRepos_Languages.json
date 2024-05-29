@@ -14187,8 +14187,12 @@
         },
         "usnistgov/mxr-scenario-generator": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "usnistgov/n0mcli": {
@@ -14847,8 +14851,39 @@
         },
         "usnistgov/ns3-mxr": {
             "languages": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "name": "C++"
+                    },
+                    {
+                        "name": "Python"
+                    },
+                    {
+                        "name": "C"
+                    },
+                    {
+                        "name": "CMake"
+                    },
+                    {
+                        "name": "MATLAB"
+                    },
+                    {
+                        "name": "Makefile"
+                    },
+                    {
+                        "name": "Click"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "Gnuplot"
+                    },
+                    {
+                        "name": "Perl"
+                    }
+                ],
+                "totalCount": 10
             }
         },
         "usnistgov/ns3-oran": {
