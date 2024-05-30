@@ -1753,10 +1753,16 @@
                         "name": "Python"
                     },
                     {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
                         "name": "CSS"
+                    },
+                    {
+                        "name": "JavaScript"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 5
             }
         },
         "usnistgov/AusteniteCalculator": {
@@ -8059,13 +8065,16 @@
                         "name": "Rust"
                     },
                     {
+                        "name": "Nix"
+                    },
+                    {
                         "name": "Sass"
                     },
                     {
-                        "name": "PLpgSQL"
+                        "name": "JavaScript"
                     },
                     {
-                        "name": "JavaScript"
+                        "name": "PLpgSQL"
                     },
                     {
                         "name": "CSS"
@@ -8075,9 +8084,12 @@
                     },
                     {
                         "name": "HTML"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 8
+                "totalCount": 10
             }
         },
         "usnistgov/blob_utils": {
