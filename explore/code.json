@@ -413,7 +413,7 @@
             },
             "date": {
                 "created": "2014-08-25",
-                "lastModified": "2024-05-24"
+                "lastModified": "2024-05-30"
             },
             "description": "FiPy is a Finite Volume PDE solver written in Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/fipy/downloads",
@@ -3712,7 +3712,7 @@
             },
             "date": {
                 "created": "2016-01-11",
-                "lastModified": "2024-05-24"
+                "lastModified": "2024-05-31"
             },
             "description": "Evaluation software used in the Text Retrieval Conference",
             "downloadURL": "https://api.github.com/repos/usnistgov/trec_eval/downloads",
@@ -5011,7 +5011,7 @@
             },
             "date": {
                 "created": "2016-04-27",
-                "lastModified": "2024-05-20"
+                "lastModified": "2024-05-31"
             },
             "description": "JSIP: Java SIP specification Reference Implementation (moved from java.net)",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsip/downloads",
@@ -5882,7 +5882,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2024-05-20"
+                "lastModified": "2024-05-30"
             },
             "description": "The NIST STEP File Analyzer and Viewer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SFA/downloads",
@@ -13057,7 +13057,7 @@
             },
             "date": {
                 "created": "2017-09-15",
-                "lastModified": "2024-05-28"
+                "lastModified": "2024-05-30"
             },
             "description": "NIST transition-edge sensor (TES) data acquisition framework",
             "downloadURL": "https://api.github.com/repos/usnistgov/dastard/downloads",
@@ -14300,7 +14300,7 @@
             },
             "date": {
                 "created": "2017-12-29",
-                "lastModified": "2024-05-25"
+                "lastModified": "2024-05-30"
             },
             "description": "GUI for operating DASTARD",
             "downloadURL": "https://api.github.com/repos/usnistgov/dastardcommander/downloads",
@@ -25162,7 +25162,7 @@
             },
             "date": {
                 "created": "2020-04-08",
-                "lastModified": "2024-05-29"
+                "lastModified": "2024-05-30"
             },
             "description": "XML metadata for NIST Technical Series Publications",
             "downloadURL": "https://api.github.com/repos/usnistgov/NIST-Tech-Pubs/downloads",
@@ -26646,7 +26646,7 @@
             },
             "date": {
                 "created": "2020-06-23",
-                "lastModified": "2024-05-04"
+                "lastModified": "2024-05-30"
             },
             "description": "Translator from STEP format to X3D format",
             "downloadURL": "https://api.github.com/repos/usnistgov/STP2X3D/downloads",
@@ -27548,7 +27548,7 @@
             },
             "date": {
                 "created": "2020-08-10",
-                "lastModified": "2024-05-29"
+                "lastModified": "2024-05-30"
             },
             "description": "Public home for NIST open source software catalog",
             "downloadURL": "https://api.github.com/repos/usnistgov/opensource/downloads",
@@ -38154,7 +38154,7 @@
             },
             "date": {
                 "created": "2023-04-24",
-                "lastModified": "2023-04-24"
+                "lastModified": "2024-05-30"
             },
             "description": "Collection of PyTorch model training utils shared across many repos.",
             "downloadURL": "https://api.github.com/repos/usnistgov/pytorch_utils/downloads",
@@ -41551,7 +41551,7 @@
             },
             "date": {
                 "created": "2024-04-18",
-                "lastModified": "2024-05-28"
+                "lastModified": "2024-05-30"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/am-security/downloads",
@@ -41797,10 +41797,42 @@
                 "email": "devops@nist.gov"
             },
             "date": {
-                "created": "2024-05-04",
-                "lastModified": "2024-05-28"
+                "created": "2024-05-01",
+                "lastModified": "2024-05-30"
             },
             "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/CDCS/downloads",
+            "homepageURL": "https://github.com/usnistgov/CDCS",
+            "laborHours": 0,
+            "languages": [],
+            "name": "CDCS",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/CDCS.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2024-05-04",
+                "lastModified": "2024-05-30"
+            },
+            "description": "Microcalorimeter pulse-analysis software",
             "downloadURL": "https://api.github.com/repos/usnistgov/mass/downloads",
             "homepageURL": "https://github.com/usnistgov/mass",
             "laborHours": 0,
