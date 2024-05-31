@@ -2121,6 +2121,7 @@
         "hpc-carpentry/hpc-carpentry.github.io": {
             "labContributors": {
                 "nodes": [
+                    "reid-a",
                     "tkphd"
                 ]
             },
@@ -3166,6 +3167,14 @@
                 ]
             },
             "nameWithOwner": "pypa/cibuildwheel"
+        },
+        "pyvisa/pyvisa-py": {
+            "labContributors": {
+                "nodes": [
+                    "Matthew-Boyd"
+                ]
+            },
+            "nameWithOwner": "pyvisa/pyvisa-py"
         },
         "quadram-institute-bioscience/NBI-Slurm": {
             "labContributors": {
