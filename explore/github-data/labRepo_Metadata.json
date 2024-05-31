@@ -610,6 +610,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/CDCS": {
+        "description": null,
+        "name": "usnistgov/CDCS",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/CEGO": {
         "description": "C++11 Evolutionary Global Optimization",
         "name": "usnistgov/CEGO",
@@ -5498,10 +5504,10 @@
         "website": null
     },
     "usnistgov/mass": {
-        "description": null,
+        "description": "Microcalorimeter pulse-analysis software",
         "name": "usnistgov/mass",
         "topics": null,
-        "website": null
+        "website": ""
     },
     "usnistgov/masskit": {
         "description": "APIs and apps for mass spectrometry",
