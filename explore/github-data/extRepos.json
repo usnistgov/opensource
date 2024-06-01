@@ -929,14 +929,6 @@
             },
             "nameWithOwner": "TimD1/vcfdist"
         },
-        "TinkerTools/tinker9": {
-            "labContributors": {
-                "nodes": [
-                    "dmr3"
-                ]
-            },
-            "nameWithOwner": "TinkerTools/tinker9"
-        },
         "ToneyGroupCU/PyHyperScattering": {
             "labContributors": {
                 "nodes": [
@@ -1728,6 +1720,7 @@
         "criosx/molgroups": {
             "labContributors": {
                 "nodes": [
+                    "bmaranville",
                     "hoogerheide"
                 ]
             },
@@ -3241,6 +3234,14 @@
             },
             "nameWithOwner": "reflectometry/refl1d"
         },
+        "reflectometry/refl1d-demo": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "reflectometry/refl1d-demo"
+        },
         "ring-clojure/ring-websocket-async": {
             "labContributors": {
                 "nodes": [
@@ -3865,6 +3866,14 @@
                 ]
             },
             "nameWithOwner": "x3dom/x3dom"
+        },
+        "xorJane/maestro-workflow-lesson": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "xorJane/maestro-workflow-lesson"
         },
         "xspec/xspec": {
             "labContributors": {
