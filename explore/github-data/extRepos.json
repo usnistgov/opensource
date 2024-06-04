@@ -1105,6 +1105,14 @@
             },
             "nameWithOwner": "autowarefoundation/autoware"
         },
+        "batfish/batfish": {
+            "labContributors": {
+                "nodes": [
+                    "amar-ox"
+                ]
+            },
+            "nameWithOwner": "batfish/batfish"
+        },
         "beartype/beartype": {
             "labContributors": {
                 "nodes": [
@@ -3224,6 +3232,14 @@
                 ]
             },
             "nameWithOwner": "reflectometry/refl1d-demo"
+        },
+        "reflectometry/refl1d-demo-summerschool24": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "reflectometry/refl1d-demo-summerschool24"
         },
         "ring-clojure/ring-websocket-async": {
             "labContributors": {
