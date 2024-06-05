@@ -452,6 +452,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/ARUsabilityMetricsEnvironment": {
+        "description": "This is a plugin-like application that you can include in your project to record various metrics as a user interacts with your application. This data can then be used for usability analysis to determine where the user encountered hinderances to successfully performing a task.",
+        "name": "usnistgov/ARUsabilityMetricsEnvironment",
+        "topics": null,
+        "website": "https://www.nist.gov/itl/iad/visualization-and-usability-group"
+    },
     "usnistgov/ASTM_E2919_22_Pose": {
         "description": null,
         "name": "usnistgov/ASTM_E2919_22_Pose",
@@ -3218,6 +3224,12 @@
     "usnistgov/be_doccommon": {
         "description": "Common documentation elements for biometric evaluation repos: bibliography entries, graphics, etc.",
         "name": "usnistgov/be_doccommon",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/best-practices-mc": {
+        "description": null,
+        "name": "usnistgov/best-practices-mc",
         "topics": null,
         "website": null
     },
