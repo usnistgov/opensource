@@ -4577,6 +4577,60 @@
             },
             "url": "https://github.com/usnistgov/AusteniteCalculator"
         },
+        "usnistgov/BAM-DB": {
+            "createdAt": "2024-12-19T19:01:34Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Building Archetype Model (BAM) Database (DB).",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 9
+            },
+            "name": "BAM-DB",
+            "nameWithOwner": "usnistgov/BAM-DB",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Tcl"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/usnistgov/BAM-DB"
+        },
         "usnistgov/BF": {
             "createdAt": "2023-02-13T23:24:32Z",
             "defaultBranchRef": {
@@ -7169,7 +7223,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 37
+                "totalCount": 38
             },
             "url": "https://github.com/usnistgov/DT4SM"
         },
@@ -16761,7 +16815,7 @@
             },
             "description": "OpenSeadragon filtering plugin",
             "forks": {
-                "totalCount": 26
+                "totalCount": 27
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -18890,7 +18944,7 @@
                 "totalCount": 548
             },
             "issues_Open": {
-                "totalCount": 39
+                "totalCount": 40
             },
             "languages": {
                 "totalCount": 0
@@ -18993,7 +19047,7 @@
             },
             "licenseInfo": null,
             "mentionableUsers": {
-                "totalCount": 10
+                "totalCount": 11
             },
             "name": "REFPROP-tests",
             "nameWithOwner": "usnistgov/REFPROP-tests",
@@ -19035,7 +19089,7 @@
                 "totalCount": 546
             },
             "issues_Open": {
-                "totalCount": 14
+                "totalCount": 15
             },
             "languages": {
                 "totalCount": 13
@@ -20190,7 +20244,7 @@
             },
             "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
             "forks": {
-                "totalCount": 86
+                "totalCount": 87
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -22390,7 +22444,7 @@
                 "totalCount": 1
             },
             "stargazers": {
-                "totalCount": 14
+                "totalCount": 15
             },
             "url": "https://github.com/usnistgov/VoterRecordsInterchange"
         },
@@ -29116,7 +29170,7 @@
                 "totalCount": 0
             },
             "issues_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 2
@@ -29152,7 +29206,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 9
+                "totalCount": 11
             },
             "url": "https://github.com/usnistgov/chipsff"
         },
@@ -35291,7 +35345,7 @@
                 "totalCount": 148
             },
             "pullRequests_Merged": {
-                "totalCount": 238
+                "totalCount": 239
             },
             "pullRequests_Open": {
                 "totalCount": 29
@@ -39518,7 +39572,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "url": "https://github.com/usnistgov/grain-size-analysis-tools"
         },
@@ -42404,10 +42458,10 @@
                 "totalCount": 90
             },
             "pullRequests_Merged": {
-                "totalCount": 481
+                "totalCount": 484
             },
             "pullRequests_Open": {
-                "totalCount": 3
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -42419,7 +42473,9 @@
         },
         "usnistgov/hl7-igamt-infrastructure": {
             "createdAt": "2024-12-11T15:47:18Z",
-            "defaultBranchRef": null,
+            "defaultBranchRef": {
+                "name": "main"
+            },
             "description": null,
             "forks": {
                 "totalCount": 0
@@ -42432,7 +42488,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 0
+                "totalCount": 3
             },
             "licenseInfo": null,
             "mentionableUsers": {
@@ -42444,7 +42500,9 @@
                 "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
                 "login": "usnistgov"
             },
-            "primaryLanguage": null,
+            "primaryLanguage": {
+                "name": "Shell"
+            },
             "pullRequests_Closed": {
                 "totalCount": 0
             },
@@ -46245,7 +46303,7 @@
                 "totalCount": 251
             },
             "issues_Open": {
-                "totalCount": 15
+                "totalCount": 16
             },
             "languages": {
                 "totalCount": 6
@@ -46281,7 +46339,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1827
+                "totalCount": 1831
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -46453,10 +46511,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 278
+                "totalCount": 279
             },
             "issues_Open": {
-                "totalCount": 12
+                "totalCount": 11
             },
             "languages": {
                 "totalCount": 4
@@ -51025,7 +51083,7 @@
                 "totalCount": 101
             },
             "pullRequests_Open": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -51133,7 +51191,7 @@
                 "totalCount": 18
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -51597,7 +51655,7 @@
                 "totalCount": 34
             },
             "pullRequests_Merged": {
-                "totalCount": 303
+                "totalCount": 304
             },
             "pullRequests_Open": {
                 "totalCount": 8
@@ -54106,7 +54164,7 @@
                 "totalCount": 7
             },
             "pullRequests_Merged": {
-                "totalCount": 126
+                "totalCount": 127
             },
             "pullRequests_Open": {
                 "totalCount": 0
