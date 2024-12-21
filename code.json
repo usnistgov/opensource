@@ -1965,7 +1965,7 @@
             },
             "date": {
                 "created": "2015-06-19",
-                "lastModified": "2024-12-19"
+                "lastModified": "2024-12-20"
             },
             "description": "Wrappers around NIST REFPROP for languages such as Python, MATLAB, etc.",
             "downloadURL": "https://api.github.com/repos/usnistgov/REFPROP-wrappers/downloads",
@@ -1976,10 +1976,10 @@
                 "C",
                 "C++",
                 "Python",
+                "Jupyter Notebook",
                 "HTML",
                 "C#",
                 "MATLAB",
-                "Jupyter Notebook",
                 "LabVIEW",
                 "CMake",
                 "Fortran",
@@ -7737,7 +7737,7 @@
             },
             "date": {
                 "created": "2016-10-20",
-                "lastModified": "2024-07-26"
+                "lastModified": "2024-12-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/cds-base/downloads",
@@ -7773,7 +7773,7 @@
             },
             "date": {
                 "created": "2016-10-20",
-                "lastModified": "2024-07-26"
+                "lastModified": "2024-12-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/fits-webapp/downloads",
@@ -7784,7 +7784,9 @@
                 "JavaScript",
                 "HTML",
                 "Java",
-                "SCSS"
+                "SCSS",
+                "Shell",
+                "Dockerfile"
             ],
             "name": "fits-webapp",
             "organization": "National Institute of Standards and Technology",
@@ -11918,7 +11920,7 @@
             },
             "date": {
                 "created": "2017-07-14",
-                "lastModified": "2024-11-21"
+                "lastModified": "2024-12-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/MDCS/downloads",
@@ -14143,7 +14145,7 @@
             },
             "date": {
                 "created": "2017-12-13",
-                "lastModified": "2024-09-11"
+                "lastModified": "2024-12-20"
             },
             "description": "pyMCR: Multivariate Curve Resolution for Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/pyMCR/downloads",
@@ -14265,7 +14267,7 @@
             },
             "date": {
                 "created": "2017-12-18",
-                "lastModified": "2024-12-19"
+                "lastModified": "2024-12-20"
             },
             "description": "Catch-based C++ tests of REFPROP",
             "downloadURL": "https://api.github.com/repos/usnistgov/REFPROP-tests/downloads",
@@ -21766,7 +21768,7 @@
             },
             "date": {
                 "created": "2019-07-29",
-                "lastModified": "2024-11-25"
+                "lastModified": "2024-12-20"
             },
             "description": "NIST DTSA-II  - Power tools for X-ray Microanalysis",
             "downloadURL": "https://api.github.com/repos/usnistgov/DTSA-II/downloads",
@@ -21777,7 +21779,6 @@
                 "Python",
                 "HTML",
                 "Batchfile",
-                "NSIS",
                 "CSS",
                 "Shell"
             ],
@@ -21806,7 +21807,7 @@
             },
             "date": {
                 "created": "2019-07-29",
-                "lastModified": "2024-11-25"
+                "lastModified": "2024-12-20"
             },
             "description": "EPQ is the Electron Probe Quantification library - the basis for DTSA-II",
             "downloadURL": "https://api.github.com/repos/usnistgov/EPQ/downloads",
@@ -36191,7 +36192,7 @@
             },
             "date": {
                 "created": "2022-09-16",
-                "lastModified": "2024-12-10"
+                "lastModified": "2024-12-20"
             },
             "description": "NIST RSoXS Simulation Suite",
             "downloadURL": "https://api.github.com/repos/usnistgov/NRSS/downloads",
@@ -36756,7 +36757,7 @@
             },
             "date": {
                 "created": "2022-10-31",
-                "lastModified": "2024-07-22"
+                "lastModified": "2024-12-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/ccu_validation_scoring/downloads",
@@ -41709,7 +41710,7 @@
             },
             "date": {
                 "created": "2024-04-02",
-                "lastModified": "2024-12-19"
+                "lastModified": "2024-12-20"
             },
             "description": "Evaluation of universal machine learning force-fields https://arxiv.org/abs/2412.10516",
             "downloadURL": "https://api.github.com/repos/usnistgov/chipsff/downloads",
@@ -42037,16 +42038,18 @@
             },
             "date": {
                 "created": "2024-04-24",
-                "lastModified": "2024-09-09"
+                "lastModified": "2024-12-20"
             },
             "description": "OSCAL (Open Security Controls Assessment Language) on an XProc3 platform",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-xproc3/downloads",
             "homepageURL": "https://github.com/usnistgov/oscal-xproc3",
             "laborHours": 0,
             "languages": [
+                "HTML",
                 "XProc",
                 "XSLT",
                 "Shell",
+                "CSS",
                 "Batchfile",
                 "XQuery"
             ],
@@ -42366,7 +42369,7 @@
             },
             "date": {
                 "created": "2024-05-08",
-                "lastModified": "2024-12-12"
+                "lastModified": "2024-12-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/hl7-codeset-authoring-tool/downloads",
@@ -43896,7 +43899,7 @@
             },
             "date": {
                 "created": "2024-09-10",
-                "lastModified": "2024-12-19"
+                "lastModified": "2024-12-20"
             },
             "description": "NIST low-cost sensor GHG field station software ",
             "downloadURL": "https://api.github.com/repos/usnistgov/lcs_nec_fieldStation/downloads",
@@ -44150,9 +44153,9 @@
             },
             "date": {
                 "created": "2024-10-23",
-                "lastModified": "2024-11-25"
+                "lastModified": "2024-12-21"
             },
-            "description": "Installation scripts to automate the deployment process of the 5G Open RAN testbed consisting of the Near Real-Time RAN Intelligent Controller, 5G Core Network, Next Generation Node B, and User Equipment.",
+            "description": "Installation scripts to automate the deployment process of the 5G Open RAN (ORAN) testbed consisting of the Near Real-Time RAN Intelligent Controller, 5G Core Network, Next Generation Node B, and User Equipment.",
             "downloadURL": "https://api.github.com/repos/usnistgov/O-RAN-Testbed-Automation/downloads",
             "homepageURL": "https://github.com/usnistgov/O-RAN-Testbed-Automation",
             "laborHours": 0,
@@ -44273,7 +44276,7 @@
             },
             "date": {
                 "created": "2024-10-29",
-                "lastModified": "2024-12-19"
+                "lastModified": "2024-12-20"
             },
             "description": "Plugin for NEMO allowing creation, approval and rendering of custom forms for users/staff",
             "downloadURL": "https://api.github.com/repos/usnistgov/NEMO-custom-forms/downloads",
@@ -44768,7 +44771,7 @@
             },
             "date": {
                 "created": "2024-12-11",
-                "lastModified": "2024-12-19"
+                "lastModified": "2024-12-20"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/hl7-igamt-infrastructure/downloads",
@@ -44804,7 +44807,7 @@
             },
             "date": {
                 "created": "2024-12-19",
-                "lastModified": "2024-12-19"
+                "lastModified": "2024-12-20"
             },
             "description": "Building Archetype Model (BAM) Database (DB).",
             "downloadURL": "https://api.github.com/repos/usnistgov/BAM-DB/downloads",
@@ -44825,6 +44828,40 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/BAM-DB.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2024-12-20",
+                "lastModified": "2024-12-20"
+            },
+            "description": "Nonstructural Element Database - Beta version for internal development",
+            "downloadURL": "https://api.github.com/repos/usnistgov/NED/downloads",
+            "homepageURL": "https://github.com/usnistgov/NED",
+            "laborHours": 0,
+            "languages": [
+                "Jupyter Notebook"
+            ],
+            "name": "NED",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/NED.git",
             "status": "Development",
             "tags": [
                 "github"
