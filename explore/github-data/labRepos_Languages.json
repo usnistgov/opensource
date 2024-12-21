@@ -2648,16 +2648,13 @@
                         "name": "Batchfile"
                     },
                     {
-                        "name": "NSIS"
-                    },
-                    {
                         "name": "CSS"
                     },
                     {
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 7
+                "totalCount": 6
             }
         },
         "usnistgov/DataModelDict": {
@@ -4406,6 +4403,16 @@
                 "totalCount": 1
             }
         },
+        "usnistgov/NED": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
         "usnistgov/NEMO": {
             "languages": {
                 "nodes": [
@@ -6090,6 +6097,9 @@
                         "name": "Python"
                     },
                     {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
                         "name": "HTML"
                     },
                     {
@@ -6097,9 +6107,6 @@
                     },
                     {
                         "name": "MATLAB"
-                    },
-                    {
-                        "name": "Jupyter Notebook"
                     },
                     {
                         "name": "LabVIEW"
@@ -11885,9 +11892,15 @@
                     },
                     {
                         "name": "SCSS"
+                    },
+                    {
+                        "name": "Shell"
+                    },
+                    {
+                        "name": "Dockerfile"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 7
             }
         },
         "usnistgov/flask-plotly-socketio": {
@@ -16506,6 +16519,9 @@
             "languages": {
                 "nodes": [
                     {
+                        "name": "HTML"
+                    },
+                    {
                         "name": "XProc"
                     },
                     {
@@ -16515,13 +16531,16 @@
                         "name": "Shell"
                     },
                     {
+                        "name": "CSS"
+                    },
+                    {
                         "name": "Batchfile"
                     },
                     {
                         "name": "XQuery"
                     }
                 ],
-                "totalCount": 5
+                "totalCount": 7
             }
         },
         "usnistgov/oscal-xslt": {

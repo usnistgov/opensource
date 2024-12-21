@@ -7293,7 +7293,7 @@
                 "totalCount": 1
             },
             "languages": {
-                "totalCount": 7
+                "totalCount": 6
             },
             "licenseInfo": null,
             "mentionableUsers": {
@@ -13588,6 +13588,60 @@
             },
             "url": "https://github.com/usnistgov/NAD-Eval"
         },
+        "usnistgov/NED": {
+            "createdAt": "2024-12-20T15:12:13Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Nonstructural Element Database - Beta version for internal development",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 9
+            },
+            "name": "NED",
+            "nameWithOwner": "usnistgov/NED",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/usnistgov/NED"
+        },
         "usnistgov/NEMO": {
             "createdAt": "2016-10-03T16:30:30Z",
             "defaultBranchRef": {
@@ -13595,7 +13649,7 @@
             },
             "description": "NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.",
             "forks": {
-                "totalCount": 62
+                "totalCount": 63
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -13632,7 +13686,7 @@
                 "totalCount": 101
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "repositoryTopics": {
                 "totalCount": 6
@@ -15445,7 +15499,7 @@
             },
             "homepageUrl": "https://pages.nist.gov/NRSS/en/main/",
             "issues_Closed": {
-                "totalCount": 10
+                "totalCount": 11
             },
             "issues_Open": {
                 "totalCount": 7
@@ -15475,7 +15529,7 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 19
+                "totalCount": 20
             },
             "pullRequests_Open": {
                 "totalCount": 1
@@ -16288,7 +16342,7 @@
             "defaultBranchRef": {
                 "name": "main"
             },
-            "description": "Installation scripts to automate the deployment process of the 5G Open RAN testbed consisting of the Near Real-Time RAN Intelligent Controller, 5G Core Network, Next Generation Node B, and User Equipment.",
+            "description": "Installation scripts to automate the deployment process of the 5G Open RAN (ORAN) testbed consisting of the Near Real-Time RAN Intelligent Controller, 5G Core Network, Next Generation Node B, and User Equipment.",
             "forks": {
                 "totalCount": 0
             },
@@ -29167,10 +29221,10 @@
             },
             "homepageUrl": "https://pages.nist.gov/jarvis_leaderboard/Special/CHIPS_FF/",
             "issues_Closed": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "issues_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "languages": {
                 "totalCount": 2
@@ -29206,7 +29260,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 11
+                "totalCount": 12
             },
             "url": "https://github.com/usnistgov/chipsff"
         },
@@ -35345,10 +35399,10 @@
                 "totalCount": 148
             },
             "pullRequests_Merged": {
-                "totalCount": 239
+                "totalCount": 240
             },
             "pullRequests_Open": {
-                "totalCount": 29
+                "totalCount": 28
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -37930,7 +37984,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 5
+                "totalCount": 7
             },
             "licenseInfo": null,
             "mentionableUsers": {
@@ -46339,7 +46393,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1831
+                "totalCount": 1833
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -51557,7 +51611,7 @@
                 "totalCount": 42
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -52891,7 +52945,7 @@
                 "totalCount": 1
             },
             "languages": {
-                "totalCount": 5
+                "totalCount": 7
             },
             "licenseInfo": {
                 "name": "Other",
@@ -52909,16 +52963,16 @@
                 "login": "usnistgov"
             },
             "primaryLanguage": {
-                "name": "XProc"
+                "name": "HTML"
             },
             "pullRequests_Closed": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "pullRequests_Merged": {
-                "totalCount": 10
+                "totalCount": 12
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -55187,7 +55241,7 @@
                 "totalCount": 10
             },
             "stargazers": {
-                "totalCount": 80
+                "totalCount": 81
             },
             "url": "https://github.com/usnistgov/pyMCR"
         },
