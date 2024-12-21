@@ -2661,6 +2661,14 @@
             },
             "nameWithOwner": "langchain-ai/langchain"
         },
+        "libgeos/geos": {
+            "labContributors": {
+                "nodes": [
+                    "ianhbell"
+                ]
+            },
+            "nameWithOwner": "libgeos/geos"
+        },
         "linien-org/linien": {
             "labContributors": {
                 "nodes": [
@@ -4174,14 +4182,6 @@
                 ]
             },
             "nameWithOwner": "vega/ts-json-schema-generator"
-        },
-        "veraison/services": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "veraison/services"
         },
         "vulnmaster/Example-CASEUCO-Batch-Processor": {
             "labContributors": {

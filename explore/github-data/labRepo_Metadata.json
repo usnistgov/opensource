@@ -1659,6 +1659,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/NED": {
+        "description": "Nonstructural Element Database - Beta version for internal development",
+        "name": "usnistgov/NED",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/NEMO": {
         "description": "NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.",
         "name": "usnistgov/NEMO",
@@ -2043,7 +2049,7 @@
         "website": null
     },
     "usnistgov/O-RAN-Testbed-Automation": {
-        "description": "Installation scripts to automate the deployment process of the 5G Open RAN testbed consisting of the Near Real-Time RAN Intelligent Controller, 5G Core Network, Next Generation Node B, and User Equipment.",
+        "description": "Installation scripts to automate the deployment process of the 5G Open RAN (ORAN) testbed consisting of the Near Real-Time RAN Intelligent Controller, 5G Core Network, Next Generation Node B, and User Equipment.",
         "name": "usnistgov/O-RAN-Testbed-Automation",
         "topics": null,
         "website": "https://doi.org/10.18434/mds2-3592"
