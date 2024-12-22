@@ -625,6 +625,14 @@
             },
             "nameWithOwner": "MonitorControl/MonitorControl"
         },
+        "NDN-Routing/infoedit": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "NDN-Routing/infoedit"
+        },
         "NIST-ISODB/isodb-library": {
             "labContributors": {
                 "nodes": [
@@ -1053,6 +1061,14 @@
                 ]
             },
             "nameWithOwner": "actualbudget/actual"
+        },
+        "adafruit/circuitpython": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "adafruit/circuitpython"
         },
         "adamantine-sim/adamantine": {
             "labContributors": {
@@ -3328,14 +3344,6 @@
                 ]
             },
             "nameWithOwner": "nodelib/nodelib"
-        },
-        "npgrosser/logseq-diagrams-as-code": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "npgrosser/logseq-diagrams-as-code"
         },
         "nsakibuccs/nsakibuccs.github.io": {
             "labContributors": {
