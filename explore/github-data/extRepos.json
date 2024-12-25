@@ -3142,14 +3142,6 @@
             },
             "nameWithOwner": "named-data/StateVectorSync"
         },
-        "named-data/YaNFD": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "named-data/YaNFD"
-        },
         "named-data/actions": {
             "labContributors": {
                 "nodes": [
@@ -3214,6 +3206,14 @@
                 ]
             },
             "nameWithOwner": "named-data/ndncert"
+        },
+        "named-data/ndnd": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "named-data/ndnd"
         },
         "named-data/ndns": {
             "labContributors": {
