@@ -40,14 +40,6 @@
             },
             "nameWithOwner": "AIF-development-team/checkAIF"
         },
-        "AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent": {
-            "labContributors": {
-                "nodes": [
-                    "jaitegchahal123"
-                ]
-            },
-            "nameWithOwner": "AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent"
-        },
         "AdvancedPhotonSource/GSAS-II": {
             "labContributors": {
                 "nodes": [
@@ -2094,6 +2086,14 @@
             },
             "nameWithOwner": "fatiando/pooch"
         },
+        "feder-cr/Jobs_Applier_AI_Agent": {
+            "labContributors": {
+                "nodes": [
+                    "jaitegchahal123"
+                ]
+            },
+            "nameWithOwner": "feder-cr/Jobs_Applier_AI_Agent"
+        },
         "feos-org/feos": {
             "labContributors": {
                 "nodes": [
@@ -3503,14 +3503,6 @@
                 ]
             },
             "nameWithOwner": "pdenno/schedulingTBD"
-        },
-        "peer-connectivity-estimator/bitcoin-network-logger": {
-            "labContributors": {
-                "nodes": [
-                    "Simewu"
-                ]
-            },
-            "nameWithOwner": "peer-connectivity-estimator/bitcoin-network-logger"
         },
         "peer-connectivity-estimator/cjdns-researcher": {
             "labContributors": {
