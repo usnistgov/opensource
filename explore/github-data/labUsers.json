@@ -924,9 +924,13 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/30417543?u=6990cfa95254e6c75b286df4cb7d31712516e7de&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "usnistgov/ChebTools",
+                    "usnistgov/NISTfit",
                     "usnistgov/REFPROP-cmake",
                     "usnistgov/REFPROP-cpp-wrapper",
-                    "usnistgov/REFPROP-wrappers"
+                    "usnistgov/REFPROP-tests",
+                    "usnistgov/REFPROP-wrappers",
+                    "usnistgov/potter"
                 ]
             },
             "login": "Matthew-Boyd",
@@ -4952,10 +4956,18 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/20804724?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "usnistgov/COSMOSAC",
+                    "usnistgov/ChebTools",
                     "usnistgov/DielectricSpectroscopyFDTWater",
                     "usnistgov/DielectricSpectroscopyTheory",
+                    "usnistgov/NISTfit",
+                    "usnistgov/REFPROP-cmake",
                     "usnistgov/REFPROP-tests",
+                    "usnistgov/REFPROP-wrappers",
                     "usnistgov/TDE-issues",
+                    "usnistgov/potter",
+                    "usnistgov/temo",
+                    "usnistgov/teqp",
                     "usnistgov/thermoML"
                 ]
             },
