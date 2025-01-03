@@ -3688,6 +3688,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/chaincode-pis": {
+        "description": null,
+        "name": "usnistgov/chaincode-pis",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/chef-cookbook-httpd": {
         "description": "the ELSA cookbook for handling webserver installations",
         "name": "usnistgov/chef-cookbook-httpd",
@@ -7641,6 +7647,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/teqpflsh": {
+        "description": "Routines and algorithms for doing iterative calculations with thermodynamic models",
+        "name": "usnistgov/teqpflsh",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/tesim": {
         "description": "Tennessee Eastman simulation using Gilbert channel modeling PLC scan failure due to network uncertainties.",
         "name": "usnistgov/tesim",
@@ -7674,6 +7686,12 @@
     "usnistgov/test-sample-io": {
         "description": null,
         "name": "usnistgov/test-sample-io",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/test_secret": {
+        "description": null,
+        "name": "usnistgov/test_secret",
         "topics": null,
         "website": null
     },
