@@ -9006,6 +9006,16 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/chaincode-pis": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
         "usnistgov/chef-cookbook-httpd": {
             "languages": {
                 "nodes": [
@@ -12571,9 +12581,12 @@
                     },
                     {
                         "name": "C"
+                    },
+                    {
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 4
             }
         },
         "usnistgov/hermes": {
@@ -18841,6 +18854,25 @@
                 "totalCount": 2
             }
         },
+        "usnistgov/teqpflsh": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "name": "C++"
+                    },
+                    {
+                        "name": "CMake"
+                    },
+                    {
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
         "usnistgov/tesim": {
             "languages": {
                 "nodes": [
@@ -18897,6 +18929,12 @@
             }
         },
         "usnistgov/test-sample-io": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/test_secret": {
             "languages": {
                 "nodes": [],
                 "totalCount": 0
