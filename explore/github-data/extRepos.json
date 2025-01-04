@@ -859,6 +859,14 @@
             },
             "nameWithOwner": "SasView/sasdata"
         },
+        "SasView/sasmodels": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "SasView/sasmodels"
+        },
         "SasView/sasview": {
             "labContributors": {
                 "nodes": [
@@ -2198,14 +2206,6 @@
             },
             "nameWithOwner": "genome-in-a-bottle/HG008-curations"
         },
-        "gentoo/qt": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "gentoo/qt"
-        },
         "ggerganov/llama.cpp": {
             "labContributors": {
                 "nodes": [
@@ -2835,7 +2835,6 @@
         "marda-alliance/phase-field-schema": {
             "labContributors": {
                 "nodes": [
-                    "tkphd",
                     "wd15",
                     "ztrautt"
                 ]
@@ -3885,6 +3884,14 @@
                 ]
             },
             "nameWithOwner": "scipy-conference/scipy_proceedings"
+        },
+        "scipy/scipy": {
+            "labContributors": {
+                "nodes": [
+                    "bmaranville"
+                ]
+            },
+            "nameWithOwner": "scipy/scipy"
         },
         "scitt-community/.github": {
             "labContributors": {
