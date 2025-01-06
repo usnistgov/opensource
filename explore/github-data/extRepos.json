@@ -2732,14 +2732,6 @@
             },
             "nameWithOwner": "linuxboot/uefisettings"
         },
-        "llvm/llvm-project": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "llvm/llvm-project"
-        },
         "lmhale99/iprPy": {
             "labContributors": {
                 "nodes": [
@@ -3230,6 +3222,14 @@
             },
             "nameWithOwner": "named-data/ndns"
         },
+        "named-data/ndnstatus": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "named-data/ndnstatus"
+        },
         "named-data/ppa-packaging": {
             "labContributors": {
                 "nodes": [
@@ -3431,14 +3431,6 @@
                 ]
             },
             "nameWithOwner": "ontodev/robot"
-        },
-        "open5gs/open5gs": {
-            "labContributors": {
-                "nodes": [
-                    "pengnist"
-                ]
-            },
-            "nameWithOwner": "open5gs/open5gs"
         },
         "openforcefield/openff-toolkit": {
             "labContributors": {
