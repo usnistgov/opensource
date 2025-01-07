@@ -1265,6 +1265,12 @@
                 "totalCount": 2
             }
         },
+        "usnistgov/5vgp-dynamic-ensembles": {
+            "languages": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/800-157r1": {
             "languages": {
                 "nodes": [
@@ -2642,6 +2648,9 @@
                         "name": "Python"
                     },
                     {
+                        "name": "TeX"
+                    },
+                    {
                         "name": "HTML"
                     },
                     {
@@ -2654,7 +2663,7 @@
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 6
+                "totalCount": 7
             }
         },
         "usnistgov/DataModelDict": {
