@@ -497,22 +497,6 @@
             },
             "nameWithOwner": "KnowLedgerProject/KnowLedgerProject.github.io"
         },
-        "KnowLedgerProject/KnowMo": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "KnowLedgerProject/KnowMo"
-        },
-        "KnowLedgerProject/KnowYou": {
-            "labContributors": {
-                "nodes": [
-                    "stuchalk"
-                ]
-            },
-            "nameWithOwner": "KnowLedgerProject/KnowYou"
-        },
         "KnowLedgerRDM/KnowLedgerRDM.github.io": {
             "labContributors": {
                 "nodes": [
@@ -520,6 +504,22 @@
                 ]
             },
             "nameWithOwner": "KnowLedgerRDM/KnowLedgerRDM.github.io"
+        },
+        "KnowLedgerRDM/KnowMo": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "KnowLedgerRDM/KnowMo"
+        },
+        "KnowLedgerRDM/KnowYou": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "KnowLedgerRDM/KnowYou"
         },
         "LLNL/LCUSS": {
             "labContributors": {
@@ -1238,6 +1238,14 @@
             },
             "nameWithOwner": "bioconda/bioconda-recipes"
         },
+        "biometricITC/Face-Toolbox": {
+            "labContributors": {
+                "nodes": [
+                    "gfiumara"
+                ]
+            },
+            "nameWithOwner": "biometricITC/Face-Toolbox"
+        },
         "biometricITC/Fingerprint-Toolbox": {
             "labContributors": {
                 "nodes": [
@@ -1661,6 +1669,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/alignn-feedstock"
+        },
+        "conda-forge/analphipy-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "wpk-nist-gov"
+                ]
+            },
+            "nameWithOwner": "conda-forge/analphipy-feedstock"
         },
         "conda-forge/atomman-feedstock": {
             "labContributors": {
@@ -2873,6 +2889,14 @@
             },
             "nameWithOwner": "materials-data-facility/awesome-bayesian-optimization"
         },
+        "matin/garth": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "matin/garth"
+        },
         "matlantis-pfcc/atomistic-simulation-tutorial": {
             "labContributors": {
                 "nodes": [
@@ -3335,14 +3359,6 @@
                 ]
             },
             "nameWithOwner": "nikblonder/oar-dmp-angular-ui"
-        },
-        "nix-community/nixvim": {
-            "labContributors": {
-                "nodes": [
-                    "ptonner"
-                ]
-            },
-            "nameWithOwner": "nix-community/nixvim"
         },
         "nlfiedler/timedog": {
             "labContributors": {
