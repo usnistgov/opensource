@@ -1167,7 +1167,7 @@
             },
             "date": {
                 "created": "2015-03-12",
-                "lastModified": "2024-05-31"
+                "lastModified": "2025-01-07"
             },
             "description": "NIST Real-Time Control Systems Library including Posemath, NML communications & Java Plotter",
             "downloadURL": "https://api.github.com/repos/usnistgov/rcslib/downloads",
@@ -1210,7 +1210,7 @@
             },
             "date": {
                 "created": "2015-03-20",
-                "lastModified": "2024-12-21"
+                "lastModified": "2025-01-07"
             },
             "description": "The CHiMaD Phase Field Community Website",
             "downloadURL": "https://api.github.com/repos/usnistgov/pfhub/downloads",
@@ -10785,7 +10785,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2024-12-28"
+                "lastModified": "2025-01-06"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ https://www.youtube.com/watch?v=2-XHeC8gbeY",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -21770,7 +21770,7 @@
             },
             "date": {
                 "created": "2019-07-29",
-                "lastModified": "2024-12-31"
+                "lastModified": "2025-01-06"
             },
             "description": "NIST DTSA-II  - Power tools for X-ray Microanalysis",
             "downloadURL": "https://api.github.com/repos/usnistgov/DTSA-II/downloads",
@@ -21779,6 +21779,7 @@
             "languages": [
                 "Java",
                 "Python",
+                "TeX",
                 "HTML",
                 "Batchfile",
                 "CSS",
@@ -25066,7 +25067,7 @@
             },
             "date": {
                 "created": "2020-03-26",
-                "lastModified": "2024-12-10"
+                "lastModified": "2025-01-06"
             },
             "description": "Scanning probe control and sample navigation for atom-based devices",
             "downloadURL": "https://api.github.com/repos/usnistgov/ABDNavigator/downloads",
@@ -29426,7 +29427,7 @@
             },
             "date": {
                 "created": "2021-02-22",
-                "lastModified": "2025-01-05"
+                "lastModified": "2025-01-06"
             },
             "description": "A highly efficient, flexible, and accurate implementation of thermodynamic EOS powered by automatic differentiation",
             "downloadURL": "https://api.github.com/repos/usnistgov/teqp/downloads",
@@ -44844,7 +44845,7 @@
             },
             "date": {
                 "created": "2024-12-20",
-                "lastModified": "2025-01-03"
+                "lastModified": "2025-01-06"
             },
             "description": "Nonstructural Element Database - Beta version for internal development",
             "downloadURL": "https://api.github.com/repos/usnistgov/NED/downloads",
@@ -44878,7 +44879,7 @@
             },
             "date": {
                 "created": "2025-01-02",
-                "lastModified": "2025-01-06"
+                "lastModified": "2025-01-07"
             },
             "description": "Routines and algorithms for doing iterative calculations with thermodynamic models",
             "downloadURL": "https://api.github.com/repos/usnistgov/teqpflsh/downloads",
@@ -44968,6 +44969,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/test_secret.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-01-06",
+                "lastModified": "2025-01-06"
+            },
+            "description": "5vgp dynamic ensembles",
+            "downloadURL": "https://api.github.com/repos/usnistgov/5vgp-dynamic-ensembles/downloads",
+            "homepageURL": "https://github.com/usnistgov/5vgp-dynamic-ensembles",
+            "laborHours": 0,
+            "languages": [],
+            "name": "5vgp-dynamic-ensembles",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/5vgp-dynamic-ensembles.git",
             "status": "Development",
             "tags": [
                 "github"
