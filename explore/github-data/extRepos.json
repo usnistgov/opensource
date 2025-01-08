@@ -513,6 +513,14 @@
             },
             "nameWithOwner": "KnowLedgerRDM/KnowMo"
         },
+        "KnowLedgerRDM/KnowStuff": {
+            "labContributors": {
+                "nodes": [
+                    "stuchalk"
+                ]
+            },
+            "nameWithOwner": "KnowLedgerRDM/KnowStuff"
+        },
         "KnowLedgerRDM/KnowYou": {
             "labContributors": {
                 "nodes": [
@@ -1279,14 +1287,6 @@
             },
             "nameWithOwner": "bluesky/tiled"
         },
-        "boostorg/filesystem": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "boostorg/filesystem"
-        },
         "bucardo/dbdpg": {
             "labContributors": {
                 "nodes": [
@@ -1742,6 +1742,14 @@
                 ]
             },
             "nameWithOwner": "conda-forge/git-feedstock"
+        },
+        "conda-forge/iprpy-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "lmhale99"
+                ]
+            },
+            "nameWithOwner": "conda-forge/iprpy-feedstock"
         },
         "conda-forge/jarvis-leaderboard-feedstock": {
             "labContributors": {
@@ -4357,14 +4365,6 @@
                 ]
             },
             "nameWithOwner": "yegle/fava-docker"
-        },
-        "yoursunny/NFD-nightly": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "yoursunny/NFD-nightly"
         },
         "yoursunny/ndn-cxx-breaks": {
             "labContributors": {

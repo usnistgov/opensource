@@ -2350,6 +2350,60 @@
             },
             "url": "https://github.com/usnistgov/2024-11-04_ASHG_NDO_GIAB-Q100-benchmark"
         },
+        "usnistgov/2025-01-15-blackbird": {
+            "createdAt": "2025-01-07T15:07:37Z",
+            "defaultBranchRef": {
+                "name": "nist-pages"
+            },
+            "description": "HPC Carpentry workshop for NIST's Blackbird cluster",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://pages.nist.gov/2025-01-15-blackbird/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 9
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 11
+            },
+            "name": "2025-01-15-blackbird",
+            "nameWithOwner": "usnistgov/2025-01-15-blackbird",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5330158?v=4",
+                "login": "usnistgov"
+            },
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/usnistgov/2025-01-15-blackbird"
+        },
         "usnistgov/3DScanningProject": {
             "createdAt": "2017-08-10T16:09:10Z",
             "defaultBranchRef": {
@@ -3348,7 +3402,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "url": "https://github.com/usnistgov/AFL-automation"
         },
@@ -7934,7 +7988,7 @@
                 "totalCount": 2
             },
             "pullRequests_Merged": {
-                "totalCount": 8
+                "totalCount": 9
             },
             "pullRequests_Open": {
                 "totalCount": 1
@@ -12780,7 +12834,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 134
+                "totalCount": 135
             },
             "url": "https://github.com/usnistgov/MIST"
         },
@@ -18985,7 +19039,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 20
+                "totalCount": 21
             },
             "url": "https://github.com/usnistgov/REFPROP-docs"
         },
@@ -19050,7 +19104,7 @@
                 "totalCount": 548
             },
             "issues_Open": {
-                "totalCount": 40
+                "totalCount": 41
             },
             "languages": {
                 "totalCount": 0
@@ -19226,7 +19280,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 196
+                "totalCount": 197
             },
             "url": "https://github.com/usnistgov/REFPROP-wrappers"
         },
@@ -20099,10 +20153,10 @@
             },
             "homepageUrl": "https://www.nist.gov/services-resources/software/step-file-analyzer-and-viewer",
             "issues_Closed": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "issues_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "languages": {
                 "totalCount": 1
@@ -20906,7 +20960,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "url": "https://github.com/usnistgov/ShopbotPyQt"
         },
@@ -25246,7 +25300,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 242
+                "totalCount": 243
             },
             "url": "https://github.com/usnistgov/alignn"
         },
@@ -29361,7 +29415,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 13
+                "totalCount": 16
             },
             "url": "https://github.com/usnistgov/chipsff"
         },
@@ -35509,7 +35563,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 232
+                "totalCount": 233
             },
             "url": "https://github.com/usnistgov/dioptra"
         },
@@ -37966,7 +38020,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 521
+                "totalCount": 522
             },
             "url": "https://github.com/usnistgov/fipy"
         },
@@ -45259,7 +45313,7 @@
                 "totalCount": 12
             },
             "stargazers": {
-                "totalCount": 320
+                "totalCount": 321
             },
             "url": "https://github.com/usnistgov/jarvis"
         },
@@ -45361,7 +45415,7 @@
                 "totalCount": 12
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "repositoryTopics": {
                 "totalCount": 2
@@ -46494,7 +46548,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 1854
+                "totalCount": 1857
             },
             "url": "https://github.com/usnistgov/macos_security"
         },
@@ -53746,7 +53800,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "url": "https://github.com/usnistgov/pf-recommended-practices"
         },
@@ -54319,7 +54373,7 @@
                 "totalCount": 7
             },
             "pullRequests_Merged": {
-                "totalCount": 127
+                "totalCount": 128
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -56083,7 +56137,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 16
+                "totalCount": 17
             },
             "url": "https://github.com/usnistgov/qpx-gamma"
         },
@@ -59091,7 +59145,7 @@
                 "totalCount": 5
             },
             "stargazers": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "url": "https://github.com/usnistgov/steppyngstounes"
         },
@@ -60006,7 +60060,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "url": "https://github.com/usnistgov/teqpflsh"
         },
