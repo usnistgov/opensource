@@ -5302,6 +5302,12 @@
         "topics": null,
         "website": null
     },
+    "usnistgov/hit-ss-tool": {
+        "description": null,
+        "name": "usnistgov/hit-ss-tool",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/hit-stats-logger": {
         "description": "Logging Library for Health IT Projects",
         "name": "usnistgov/hit-stats-logger",
@@ -7663,7 +7669,7 @@
         "description": "Routines and algorithms for doing iterative calculations with thermodynamic models",
         "name": "usnistgov/teqpflsh",
         "topics": null,
-        "website": null
+        "website": "https://ianhbell.github.io/teqpflsh-docs/"
     },
     "usnistgov/tesim": {
         "description": "Tennessee Eastman simulation using Gilbert channel modeling PLC scan failure due to network uncertainties.",

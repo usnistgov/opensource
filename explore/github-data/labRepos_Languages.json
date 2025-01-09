@@ -13062,6 +13062,28 @@
                 "totalCount": 1
             }
         },
+        "usnistgov/hit-ss-tool": {
+            "languages": {
+                "nodes": [
+                    {
+                        "name": "HTML"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "SCSS"
+                    },
+                    {
+                        "name": "CSS"
+                    },
+                    {
+                        "name": "Java"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
         "usnistgov/hit-stats-logger": {
             "languages": {
                 "nodes": [
@@ -14144,9 +14166,12 @@
                 "nodes": [
                     {
                         "name": "JavaScript"
+                    },
+                    {
+                        "name": "Python"
                     }
                 ],
-                "totalCount": 1
+                "totalCount": 2
             }
         },
         "usnistgov/jsip": {
