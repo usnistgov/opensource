@@ -413,7 +413,7 @@
             },
             "date": {
                 "created": "2014-08-25",
-                "lastModified": "2025-01-08"
+                "lastModified": "2025-01-09"
             },
             "description": "FiPy is a Finite Volume PDE solver written in Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/fipy/downloads",
@@ -1965,7 +1965,7 @@
             },
             "date": {
                 "created": "2015-06-19",
-                "lastModified": "2025-01-08"
+                "lastModified": "2025-01-10"
             },
             "description": "Wrappers around NIST REFPROP for languages such as Python, MATLAB, etc.",
             "downloadURL": "https://api.github.com/repos/usnistgov/REFPROP-wrappers/downloads",
@@ -5011,7 +5011,7 @@
             },
             "date": {
                 "created": "2016-04-27",
-                "lastModified": "2024-12-15"
+                "lastModified": "2025-01-09"
             },
             "description": "JSIP: Java SIP specification Reference Implementation (moved from java.net)",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsip/downloads",
@@ -7038,7 +7038,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2025-01-06"
+                "lastModified": "2025-01-09"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -7690,7 +7690,7 @@
             },
             "date": {
                 "created": "2016-10-19",
-                "lastModified": "2024-12-30"
+                "lastModified": "2025-01-09"
             },
             "description": "Optical live-scan and ink fingerprint image quality assessment tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/NFIQ2/downloads",
@@ -10785,7 +10785,7 @@
             },
             "date": {
                 "created": "2017-06-22",
-                "lastModified": "2025-01-07"
+                "lastModified": "2025-01-09"
             },
             "description": "JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ https://www.youtube.com/watch?v=2-XHeC8gbeY",
             "downloadURL": "https://api.github.com/repos/usnistgov/jarvis/downloads",
@@ -19612,14 +19612,15 @@
             },
             "date": {
                 "created": "2019-03-15",
-                "lastModified": "2024-12-17"
+                "lastModified": "2025-01-09"
             },
             "description": "A pure javascript HDF5 reader",
             "downloadURL": "https://api.github.com/repos/usnistgov/jsfive/downloads",
             "homepageURL": "https://github.com/usnistgov/jsfive",
             "laborHours": 0,
             "languages": [
-                "JavaScript"
+                "JavaScript",
+                "Python"
             ],
             "name": "jsfive",
             "organization": "National Institute of Standards and Technology",
@@ -24054,7 +24055,7 @@
             },
             "date": {
                 "created": "2020-01-24",
-                "lastModified": "2025-01-03"
+                "lastModified": "2025-01-10"
             },
             "description": "Repository for ARIAC (Agile Robotics for Industrial Automation Competition), consisting of kit building and assembly in a simulated warehouse",
             "downloadURL": "https://api.github.com/repos/usnistgov/ARIAC/downloads",
@@ -26440,7 +26441,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2025-01-08"
+                "lastModified": "2025-01-09"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -27463,7 +27464,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2025-01-03"
+                "lastModified": "2025-01-09"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -29427,7 +29428,7 @@
             },
             "date": {
                 "created": "2021-02-22",
-                "lastModified": "2025-01-07"
+                "lastModified": "2025-01-08"
             },
             "description": "A highly efficient, flexible, and accurate implementation of thermodynamic EOS powered by automatic differentiation",
             "downloadURL": "https://api.github.com/repos/usnistgov/teqp/downloads",
@@ -30170,7 +30171,7 @@
             },
             "date": {
                 "created": "2021-04-19",
-                "lastModified": "2025-01-07"
+                "lastModified": "2025-01-09"
             },
             "description": "Atomistic Line Graph Neural Network https://scholar.google.com/citations?user=9Q-tNnwAAAAJ&hl=en    https://www.youtube.com/watch?v=WYePjZMzx3M",
             "downloadURL": "https://api.github.com/repos/usnistgov/alignn/downloads",
@@ -31000,7 +31001,7 @@
             },
             "date": {
                 "created": "2021-06-15",
-                "lastModified": "2024-08-30"
+                "lastModified": "2025-01-08"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/PS-002-WALDO/downloads",
@@ -31863,7 +31864,7 @@
             },
             "date": {
                 "created": "2021-09-01",
-                "lastModified": "2025-01-03"
+                "lastModified": "2025-01-09"
             },
             "description": "A WebAssembly HDF5 reader/writer library ",
             "downloadURL": "https://api.github.com/repos/usnistgov/h5wasm/downloads",
@@ -33180,7 +33181,7 @@
             },
             "date": {
                 "created": "2021-12-30",
-                "lastModified": "2024-11-12"
+                "lastModified": "2025-01-09"
             },
             "description": "Program to generate vulnerable and fixed synthetic test cases expressing specific flaws.",
             "downloadURL": "https://api.github.com/repos/usnistgov/VTSG/downloads",
@@ -44879,7 +44880,7 @@
             },
             "date": {
                 "created": "2025-01-02",
-                "lastModified": "2025-01-07"
+                "lastModified": "2025-01-09"
             },
             "description": "Routines and algorithms for doing iterative calculations with thermodynamic models",
             "downloadURL": "https://api.github.com/repos/usnistgov/teqpflsh/downloads",
@@ -45043,6 +45044,44 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/2025-01-15-blackbird.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-01-08",
+                "lastModified": "2025-01-08"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/hit-ss-tool/downloads",
+            "homepageURL": "https://github.com/usnistgov/hit-ss-tool",
+            "laborHours": 0,
+            "languages": [
+                "HTML",
+                "JavaScript",
+                "SCSS",
+                "CSS",
+                "Java"
+            ],
+            "name": "hit-ss-tool",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/hit-ss-tool.git",
             "status": "Development",
             "tags": [
                 "github"
