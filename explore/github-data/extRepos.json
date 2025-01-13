@@ -1630,14 +1630,6 @@
             },
             "nameWithOwner": "cloud-gov/pages-build-container"
         },
-        "codeplea/tinyexpr": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "codeplea/tinyexpr"
-        },
         "coleifer/peewee": {
             "labContributors": {
                 "nodes": [
@@ -1957,6 +1949,14 @@
                 ]
             },
             "nameWithOwner": "digitalcorpora/digitalcorpora_app"
+        },
+        "digitalcorpora/s3-bucket-listing": {
+            "labContributors": {
+                "nodes": [
+                    "simsong"
+                ]
+            },
+            "nameWithOwner": "digitalcorpora/s3-bucket-listing"
         },
         "divideconcept/fastnumpyio": {
             "labContributors": {
@@ -4033,6 +4033,7 @@
         "srsran/srsRAN_Project": {
             "labContributors": {
                 "nodes": [
+                    "Simewu",
                     "pengnist"
                 ]
             },
