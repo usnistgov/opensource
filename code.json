@@ -5682,7 +5682,7 @@
             },
             "date": {
                 "created": "2016-06-08",
-                "lastModified": "2024-12-19"
+                "lastModified": "2025-01-13"
             },
             "description": "The NIST Open Access to Research (OAR) Public Data Repository (PDR) system software",
             "downloadURL": "https://api.github.com/repos/usnistgov/oar-pdr/downloads",
@@ -5811,7 +5811,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2025-01-03"
+                "lastModified": "2025-01-13"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -5851,7 +5851,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2024-11-19"
+                "lastModified": "2025-01-13"
             },
             "description": "python scripting tools for streamlined laboratory automation",
             "downloadURL": "https://api.github.com/repos/usnistgov/labbench/downloads",
@@ -7038,7 +7038,7 @@
             },
             "date": {
                 "created": "2016-09-16",
-                "lastModified": "2025-01-09"
+                "lastModified": "2025-01-13"
             },
             "description": "Open Security Controls Assessment Language (OSCAL)",
             "downloadURL": "https://api.github.com/repos/usnistgov/OSCAL/downloads",
@@ -14294,7 +14294,7 @@
             },
             "date": {
                 "created": "2017-12-14",
-                "lastModified": "2024-07-22"
+                "lastModified": "2025-01-13"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/iz-darq/downloads",
@@ -19122,7 +19122,7 @@
             },
             "date": {
                 "created": "2019-02-18",
-                "lastModified": "2025-01-08"
+                "lastModified": "2025-01-14"
             },
             "description": "Core components of the Policy Machine, a NGAC reference implementation.",
             "downloadURL": "https://api.github.com/repos/usnistgov/policy-machine-core/downloads",
@@ -21053,7 +21053,7 @@
             },
             "date": {
                 "created": "2019-06-04",
-                "lastModified": "2024-12-22"
+                "lastModified": "2025-01-14"
             },
             "description": "A software tool that generates simulated radar signals and creates RF datasets for developing and testing machine/deep learning detection algorithms. ",
             "downloadURL": "https://api.github.com/repos/usnistgov/SimulatedRadarWaveformGenerator/downloads",
@@ -21346,7 +21346,7 @@
             },
             "date": {
                 "created": "2019-06-20",
-                "lastModified": "2024-12-13"
+                "lastModified": "2025-01-13"
             },
             "description": "Optimal Bayesian Experiment Design ",
             "downloadURL": "https://api.github.com/repos/usnistgov/optbayesexpt/downloads",
@@ -24538,7 +24538,7 @@
             },
             "date": {
                 "created": "2020-02-24",
-                "lastModified": "2024-11-26"
+                "lastModified": "2025-01-13"
             },
             "description": "A flexible 3D visualizer for displaying, debugging, presenting, and understanding ns-3 scenarios.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NetSimulyzer/downloads",
@@ -37773,7 +37773,7 @@
             },
             "date": {
                 "created": "2023-02-13",
-                "lastModified": "2025-01-11"
+                "lastModified": "2025-01-13"
             },
             "description": "Bugs Framework",
             "downloadURL": "https://api.github.com/repos/usnistgov/BF/downloads",
@@ -40302,7 +40302,7 @@
             },
             "date": {
                 "created": "2023-09-29",
-                "lastModified": "2024-12-18"
+                "lastModified": "2025-01-13"
             },
             "description": "BLCC conducts economic analyses by evaluating the relative cost effectiveness of alternative buildings and building-related systems or components.",
             "downloadURL": "https://api.github.com/repos/usnistgov/blcc/downloads",
@@ -43471,7 +43471,7 @@
             },
             "date": {
                 "created": "2024-07-01",
-                "lastModified": "2024-12-30"
+                "lastModified": "2025-01-13"
             },
             "description": "development pipelines for HG002",
             "downloadURL": "https://api.github.com/repos/usnistgov/hg2-t2t-benchmark-dev/downloads",
@@ -45216,7 +45216,7 @@
             },
             "date": {
                 "created": "2025-01-07",
-                "lastModified": "2025-01-10"
+                "lastModified": "2025-01-13"
             },
             "description": "HPC Carpentry workshop for NIST's Blackbird cluster",
             "downloadURL": "https://api.github.com/repos/usnistgov/2025-01-15-blackbird/downloads",
@@ -45284,6 +45284,111 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/hit-ss-tool.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-01-13",
+                "lastModified": "2025-01-13"
+            },
+            "description": "Autoware - the world's leading open-source software project for autonomous driving",
+            "downloadURL": "https://api.github.com/repos/usnistgov/NIST_DM_Autoware/downloads",
+            "homepageURL": "https://github.com/usnistgov/NIST_DM_Autoware",
+            "laborHours": 0,
+            "languages": [
+                "Dockerfile",
+                "Shell",
+                "HCL"
+            ],
+            "name": "NIST_DM_Autoware",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/NIST_DM_Autoware.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-01-13",
+                "lastModified": "2025-01-13"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/NIST_DM_IndividualParams/downloads",
+            "homepageURL": "https://github.com/usnistgov/NIST_DM_IndividualParams",
+            "laborHours": 0,
+            "languages": [
+                "CMake"
+            ],
+            "name": "NIST_DM_IndividualParams",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/NIST_DM_IndividualParams.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-01-13",
+                "lastModified": "2025-01-13"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/NIST_DM_AutowareLaunch/downloads",
+            "homepageURL": "https://github.com/usnistgov/NIST_DM_AutowareLaunch",
+            "laborHours": 0,
+            "languages": [
+                "Python",
+                "CMake"
+            ],
+            "name": "NIST_DM_AutowareLaunch",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/NIST_DM_AutowareLaunch.git",
             "status": "Development",
             "tags": [
                 "github"
