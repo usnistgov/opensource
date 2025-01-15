@@ -5811,7 +5811,7 @@
             },
             "date": {
                 "created": "2016-06-09",
-                "lastModified": "2025-01-13"
+                "lastModified": "2025-01-14"
             },
             "description": "Industry Working Group on Automated Cryptographic Algorithm Validation",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP/downloads",
@@ -5885,7 +5885,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2025-01-11"
+                "lastModified": "2025-01-14"
             },
             "description": "The NIST STEP File Analyzer and Viewer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SFA/downloads",
@@ -7237,7 +7237,7 @@
             },
             "date": {
                 "created": "2016-10-03",
-                "lastModified": "2024-12-27"
+                "lastModified": "2025-01-14"
             },
             "description": "NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.",
             "downloadURL": "https://api.github.com/repos/usnistgov/NEMO/downloads",
@@ -25886,7 +25886,7 @@
             },
             "date": {
                 "created": "2020-04-21",
-                "lastModified": "2025-01-05"
+                "lastModified": "2025-01-14"
             },
             "description": "A static analyzer powered by AI",
             "downloadURL": "https://api.github.com/repos/usnistgov/ai-bugfinder-testbed/downloads",
@@ -26608,7 +26608,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2025-01-13"
+                "lastModified": "2025-01-14"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -28181,7 +28181,7 @@
             },
             "date": {
                 "created": "2020-09-09",
-                "lastModified": "2024-12-30"
+                "lastModified": "2025-01-14"
             },
             "description": "A repository tracking releases of NIST's ACVP server. See www.github.com/usnistgov/ACVP for the protocol.",
             "downloadURL": "https://api.github.com/repos/usnistgov/ACVP-Server/downloads",
@@ -37844,6 +37844,40 @@
                 "email": "devops@nist.gov"
             },
             "date": {
+                "created": "2023-02-16",
+                "lastModified": "2025-01-14"
+            },
+            "description": "ingest and aggregation code for raw sensor output data",
+            "downloadURL": "https://api.github.com/repos/usnistgov/nasctn-sea-ingest/downloads",
+            "homepageURL": "https://github.com/usnistgov/nasctn-sea-ingest",
+            "laborHours": 0,
+            "languages": [
+                "Python"
+            ],
+            "name": "nasctn-sea-ingest",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/nasctn-sea-ingest.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
                 "created": "2023-02-28",
                 "lastModified": "2023-02-28"
             },
@@ -43047,7 +43081,7 @@
             },
             "date": {
                 "created": "2024-06-21",
-                "lastModified": "2024-11-05"
+                "lastModified": "2025-01-14"
             },
             "description": "Resources for NIST's Friction Ridge Image and Features Technology Evaluations",
             "downloadURL": "https://api.github.com/repos/usnistgov/frif/downloads",
@@ -43471,7 +43505,7 @@
             },
             "date": {
                 "created": "2024-07-01",
-                "lastModified": "2025-01-13"
+                "lastModified": "2025-01-14"
             },
             "description": "development pipelines for HG002",
             "downloadURL": "https://api.github.com/repos/usnistgov/hg2-t2t-benchmark-dev/downloads",
@@ -44359,15 +44393,14 @@
             },
             "date": {
                 "created": "2024-10-23",
-                "lastModified": "2025-01-12"
+                "lastModified": "2025-01-14"
             },
             "description": "Installation scripts to automate the deployment process of the 5G Open RAN (ORAN) testbed consisting of the Near Real-Time RAN Intelligent Controller, 5G Core Network, Next Generation Node B, and User Equipment.",
             "downloadURL": "https://api.github.com/repos/usnistgov/O-RAN-Testbed-Automation/downloads",
             "homepageURL": "https://github.com/usnistgov/O-RAN-Testbed-Automation",
             "laborHours": 0,
             "languages": [
-                "Shell",
-                "Batchfile"
+                "Shell"
             ],
             "name": "O-RAN-Testbed-Automation",
             "organization": "National Institute of Standards and Technology",
@@ -44911,13 +44944,19 @@
             },
             "date": {
                 "created": "2024-12-03",
-                "lastModified": "2024-12-18"
+                "lastModified": "2025-01-14"
             },
             "description": "Digital Identities - Mobile Driver’s License (mDL) Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/nccoe-mdl-project-static-website/downloads",
             "homepageURL": "https://github.com/usnistgov/nccoe-mdl-project-static-website",
             "laborHours": 0,
-            "languages": [],
+            "languages": [
+                "JavaScript",
+                "Python",
+                "HTML",
+                "Makefile",
+                "CSS"
+            ],
             "name": "nccoe-mdl-project-static-website",
             "organization": "National Institute of Standards and Technology",
             "permissions": {
@@ -45258,7 +45297,7 @@
             },
             "date": {
                 "created": "2025-01-10",
-                "lastModified": "2025-01-12"
+                "lastModified": "2025-01-14"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/hit-ss-tool/downloads",
@@ -45389,6 +45428,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/NIST_DM_AutowareLaunch.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-01-14",
+                "lastModified": "2025-01-14"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/agentdojo-inspect/downloads",
+            "homepageURL": "https://github.com/usnistgov/agentdojo-inspect",
+            "laborHours": 0,
+            "languages": [],
+            "name": "agentdojo-inspect",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/agentdojo-inspect.git",
             "status": "Development",
             "tags": [
                 "github"
