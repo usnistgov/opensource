@@ -681,6 +681,14 @@
             },
             "nameWithOwner": "OR13/draft-steele-spice-profiles-bcp"
         },
+        "ORNL-MDF/Myna": {
+            "labContributors": {
+                "nodes": [
+                    "sylitw"
+                ]
+            },
+            "nameWithOwner": "ORNL-MDF/Myna"
+        },
         "ORNL-MDF/containers": {
             "labContributors": {
                 "nodes": [
@@ -870,7 +878,6 @@
         "SasView/sasview": {
             "labContributors": {
                 "nodes": [
-                    "bmaranville",
                     "caitwolf",
                     "katieweigandt"
                 ]
@@ -2732,6 +2739,14 @@
             },
             "nameWithOwner": "langchain-ai/langchain"
         },
+        "lepture/shibuya": {
+            "labContributors": {
+                "nodes": [
+                    "jat255"
+                ]
+            },
+            "nameWithOwner": "lepture/shibuya"
+        },
         "libgeos/geos": {
             "labContributors": {
                 "nodes": [
@@ -2827,6 +2842,7 @@
         "mahynski/pychemauth": {
             "labContributors": {
                 "nodes": [
+                    "davidasheen",
                     "mbfong"
                 ]
             },
@@ -3551,6 +3567,14 @@
                 ]
             },
             "nameWithOwner": "pierreaubert/spinorama"
+        },
+        "pnpm/pnpm": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "pnpm/pnpm"
         },
         "pola-rs/polars": {
             "labContributors": {
@@ -5842,6 +5866,7 @@
             "labContributors": {
                 "nodes": [
                     "JustKuzya",
+                    "colton-lapp",
                     "etrapnell-nist",
                     "hbooth",
                     "mtrapnell-nist"
@@ -6088,6 +6113,14 @@
                 ]
             },
             "nameWithOwner": "usnistgov/hit-ss-tool"
+        },
+        "usnistgov/hit-xml-validation": {
+            "labContributors": {
+                "nodes": [
+                    "ncrouzier-nist"
+                ]
+            },
+            "nameWithOwner": "usnistgov/hit-xml-validation"
         },
         "usnistgov/hl7-auth": {
             "labContributors": {
@@ -6412,6 +6445,15 @@
                 ]
             },
             "nameWithOwner": "usnistgov/mxr-scenario-generator"
+        },
+        "usnistgov/nasctn-sea-ingest": {
+            "labContributors": {
+                "nodes": [
+                    "dgkuester",
+                    "sandersa-nist"
+                ]
+            },
+            "nameWithOwner": "usnistgov/nasctn-sea-ingest"
         },
         "usnistgov/nccoe-mdl-project-static-website": {
             "labContributors": {
@@ -6883,6 +6925,14 @@
             },
             "nameWithOwner": "usnistgov/rsoxs"
         },
+        "usnistgov/schematronValidation": {
+            "labContributors": {
+                "nodes": [
+                    "ncrouzier-nist"
+                ]
+            },
+            "nameWithOwner": "usnistgov/schematronValidation"
+        },
         "usnistgov/sctools": {
             "labContributors": {
                 "nodes": [
@@ -7141,14 +7191,6 @@
             },
             "nameWithOwner": "vulnmaster/Example-CASEUCO-Batch-Processor"
         },
-        "w3c-ccg/traceability-interop": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "w3c-ccg/traceability-interop"
-        },
         "w3c/mathml": {
             "labContributors": {
                 "nodes": [
@@ -7196,6 +7238,14 @@
                 ]
             },
             "nameWithOwner": "wendellpiez/oscal-xslt"
+        },
+        "wfondrie/mzsniffer": {
+            "labContributors": {
+                "nodes": [
+                    "neely"
+                ]
+            },
+            "nameWithOwner": "wfondrie/mzsniffer"
         },
         "wigig-tools/isac-plm": {
             "labContributors": {
