@@ -8319,7 +8319,7 @@
             },
             "date": {
                 "created": "2016-12-05",
-                "lastModified": "2025-01-02"
+                "lastModified": "2025-01-29"
             },
             "description": "Repository for the Face Recognition Vendor Test (FRVT)",
             "downloadURL": "https://api.github.com/repos/usnistgov/frvt/downloads",
@@ -14445,7 +14445,7 @@
             },
             "date": {
                 "created": "2018-01-04",
-                "lastModified": "2022-07-29"
+                "lastModified": "2025-01-29"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/hit-pcd-message-validation/downloads",
@@ -23219,7 +23219,7 @@
             },
             "date": {
                 "created": "2019-10-17",
-                "lastModified": "2024-10-22"
+                "lastModified": "2025-01-29"
             },
             "description": "Tensorflow 2.x Image Regression ResNet50 Model",
             "downloadURL": "https://api.github.com/repos/usnistgov/image-regression-resnet50/downloads",
@@ -26612,7 +26612,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2025-01-24"
+                "lastModified": "2025-01-30"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -33238,7 +33238,7 @@
             },
             "date": {
                 "created": "2021-11-12",
-                "lastModified": "2025-01-28"
+                "lastModified": "2025-01-29"
             },
             "description": "SDNist: Benchmark data and evaluation tools for data synthesizers.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SDNist/downloads",
@@ -36651,7 +36651,7 @@
             },
             "date": {
                 "created": "2022-09-21",
-                "lastModified": "2022-09-21"
+                "lastModified": "2025-01-29"
             },
             "description": "WCTP validaiton for NIST validation tool",
             "downloadURL": "https://api.github.com/repos/usnistgov/hit-wctp-validation/downloads",
@@ -39923,7 +39923,7 @@
             },
             "date": {
                 "created": "2023-09-09",
-                "lastModified": "2025-01-28"
+                "lastModified": "2025-01-29"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/pyproject2conda/downloads",
@@ -40902,7 +40902,7 @@
             },
             "date": {
                 "created": "2023-12-01",
-                "lastModified": "2025-01-28"
+                "lastModified": "2025-01-29"
             },
             "description": "Open source MRI phantom",
             "downloadURL": "https://api.github.com/repos/usnistgov/open-source-mri-phantom/downloads",
@@ -42402,7 +42402,7 @@
             },
             "date": {
                 "created": "2024-04-30",
-                "lastModified": "2025-01-03"
+                "lastModified": "2025-01-29"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/APRS_ros2_demo_sim/downloads",
@@ -42412,7 +42412,6 @@
                 "Python",
                 "C++",
                 "CMake",
-                "Dockerfile",
                 "Shell"
             ],
             "name": "APRS_ros2_demo_sim",
@@ -44675,7 +44674,7 @@
             },
             "date": {
                 "created": "2024-11-06",
-                "lastModified": "2025-01-12"
+                "lastModified": "2025-01-29"
             },
             "description": "Phase Field Method Recommended Practices in a Jupyter Book",
             "downloadURL": "https://api.github.com/repos/usnistgov/pf-recommended-practices/downloads",
@@ -44683,7 +44682,8 @@
             "laborHours": 0,
             "languages": [
                 "TeX",
-                "Jupyter Notebook"
+                "Jupyter Notebook",
+                "Nix"
             ],
             "name": "pf-recommended-practices",
             "organization": "National Institute of Standards and Technology",
@@ -44697,41 +44697,6 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/pf-recommended-practices.git",
-            "status": "Development",
-            "tags": [
-                "github"
-            ],
-            "vcs": "git"
-        },
-        {
-            "contact": {
-                "URL": "https://github.com/usnistgov",
-                "email": "devops@nist.gov"
-            },
-            "date": {
-                "created": "2024-11-06",
-                "lastModified": "2025-01-10"
-            },
-            "description": "Software test harness for running Video LINCS leaderboards.",
-            "downloadURL": "https://api.github.com/repos/usnistgov/vlincs-test-harness/downloads",
-            "homepageURL": "https://github.com/usnistgov/vlincs-test-harness",
-            "laborHours": 0,
-            "languages": [
-                "Python",
-                "Shell"
-            ],
-            "name": "vlincs-test-harness",
-            "organization": "National Institute of Standards and Technology",
-            "permissions": {
-                "licenses": [
-                    {
-                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
-                        "name": "NIST"
-                    }
-                ],
-                "usageType": "openSource"
-            },
-            "repositoryURL": "git://github.com/usnistgov/vlincs-test-harness.git",
             "status": "Development",
             "tags": [
                 "github"
@@ -45586,6 +45551,76 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/nccoe-mdl-webauthnsample.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-01-29",
+                "lastModified": "2025-01-29"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/hit-pcd-tool-core/downloads",
+            "homepageURL": "https://github.com/usnistgov/hit-pcd-tool-core",
+            "laborHours": 0,
+            "languages": [
+                "Java"
+            ],
+            "name": "hit-pcd-tool-core",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/hit-pcd-tool-core.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-01-29",
+                "lastModified": "2025-01-29"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/hit-core-wctp/downloads",
+            "homepageURL": "https://github.com/usnistgov/hit-core-wctp",
+            "laborHours": 0,
+            "languages": [
+                "XSLT",
+                "Java",
+                "CSS"
+            ],
+            "name": "hit-core-wctp",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/hit-core-wctp.git",
             "status": "Development",
             "tags": [
                 "github"
