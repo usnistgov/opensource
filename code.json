@@ -413,7 +413,7 @@
             },
             "date": {
                 "created": "2014-08-25",
-                "lastModified": "2025-02-01"
+                "lastModified": "2025-02-03"
             },
             "description": "FiPy is a Finite Volume PDE solver written in Python",
             "downloadURL": "https://api.github.com/repos/usnistgov/fipy/downloads",
@@ -14521,7 +14521,7 @@
             },
             "date": {
                 "created": "2018-01-12",
-                "lastModified": "2024-11-19"
+                "lastModified": "2025-02-03"
             },
             "description": "A small C++ library for loading multiple copies of a DLL in memory",
             "downloadURL": "https://api.github.com/repos/usnistgov/manyso/downloads",
@@ -18260,7 +18260,7 @@
             },
             "date": {
                 "created": "2018-10-12",
-                "lastModified": "2025-02-02"
+                "lastModified": "2025-02-03"
             },
             "description": "Privacy Engineering Collaboration Space",
             "downloadURL": "https://api.github.com/repos/usnistgov/PrivacyEngCollabSpace/downloads",
@@ -25219,7 +25219,7 @@
             },
             "date": {
                 "created": "2020-04-08",
-                "lastModified": "2025-01-02"
+                "lastModified": "2025-02-03"
             },
             "description": "XML metadata for NIST Technical Series Publications",
             "downloadURL": "https://api.github.com/repos/usnistgov/NIST-Tech-Pubs/downloads",
@@ -26445,7 +26445,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2025-02-02"
+                "lastModified": "2025-02-04"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -29432,7 +29432,7 @@
             },
             "date": {
                 "created": "2021-02-22",
-                "lastModified": "2025-01-08"
+                "lastModified": "2025-02-03"
             },
             "description": "A highly efficient, flexible, and accurate implementation of thermodynamic EOS powered by automatic differentiation",
             "downloadURL": "https://api.github.com/repos/usnistgov/teqp/downloads",
@@ -33037,14 +33037,13 @@
             },
             "date": {
                 "created": "2021-11-12",
-                "lastModified": "2025-02-01"
+                "lastModified": "2025-02-03"
             },
             "description": "SDNist: Benchmark data and evaluation tools for data synthesizers.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SDNist/downloads",
             "homepageURL": "https://github.com/usnistgov/SDNist",
             "laborHours": 0,
             "languages": [
-                "HTML",
                 "Python",
                 "Jinja"
             ],
@@ -33185,7 +33184,7 @@
             },
             "date": {
                 "created": "2021-12-30",
-                "lastModified": "2025-01-09"
+                "lastModified": "2025-02-03"
             },
             "description": "Program to generate vulnerable and fixed synthetic test cases expressing specific flaws.",
             "downloadURL": "https://api.github.com/repos/usnistgov/VTSG/downloads",
@@ -35907,17 +35906,13 @@
             },
             "date": {
                 "created": "2022-08-16",
-                "lastModified": "2024-12-18"
+                "lastModified": "2025-02-03"
             },
             "description": "This repository houses the NIST,  submissions and evaluation data related to the Collaborative Research Cycle ",
             "downloadURL": "https://api.github.com/repos/usnistgov/privacy_collaborative_research_cycle/downloads",
             "homepageURL": "https://github.com/usnistgov/privacy_collaborative_research_cycle",
             "laborHours": 0,
-            "languages": [
-                "Jupyter Notebook",
-                "HTML",
-                "Python"
-            ],
+            "languages": [],
             "name": "privacy_collaborative_research_cycle",
             "organization": "National Institute of Standards and Technology",
             "permissions": {
@@ -44204,14 +44199,15 @@
             },
             "date": {
                 "created": "2024-10-23",
-                "lastModified": "2025-01-25"
+                "lastModified": "2025-02-03"
             },
             "description": "Installation scripts to automate the deployment process of the 5G Open RAN (ORAN) testbed consisting of the Near Real-Time RAN Intelligent Controller, 5G Core Network, Next Generation Node B, and User Equipment.",
             "downloadURL": "https://api.github.com/repos/usnistgov/O-RAN-Testbed-Automation/downloads",
             "homepageURL": "https://github.com/usnistgov/O-RAN-Testbed-Automation",
             "laborHours": 0,
             "languages": [
-                "Shell"
+                "Shell",
+                "Batchfile"
             ],
             "name": "O-RAN-Testbed-Automation",
             "organization": "National Institute of Standards and Technology",
@@ -45042,7 +45038,7 @@
             },
             "date": {
                 "created": "2025-01-08",
-                "lastModified": "2025-01-30"
+                "lastModified": "2025-02-03"
             },
             "description": "Web-based information model for manufacturing in a circular economy",
             "downloadURL": "https://api.github.com/repos/usnistgov/circular-economy-manufacturing-models/downloads",
@@ -45454,6 +45450,43 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/AutonomousVariableChoiceExample.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-02-03",
+                "lastModified": "2025-02-04"
+            },
+            "description": "Repository for pushing resources for seized material sampling calculations to pages.nist.gov",
+            "downloadURL": "https://api.github.com/repos/usnistgov/seized-material-sampling-app/downloads",
+            "homepageURL": "https://github.com/usnistgov/seized-material-sampling-app",
+            "laborHours": 0,
+            "languages": [
+                "JavaScript",
+                "CSS",
+                "R",
+                "HTML"
+            ],
+            "name": "seized-material-sampling-app",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/seized-material-sampling-app.git",
             "status": "Development",
             "tags": [
                 "github"
