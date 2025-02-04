@@ -1387,6 +1387,14 @@
             },
             "nameWithOwner": "carpentries/instructor-training"
         },
+        "carpentries/workbench": {
+            "labContributors": {
+                "nodes": [
+                    "guyer"
+                ]
+            },
+            "nameWithOwner": "carpentries/workbench"
+        },
         "casework/CASE": {
             "labContributors": {
                 "nodes": [
@@ -2029,6 +2037,14 @@
             },
             "nameWithOwner": "earlephilhower/arduino-pico"
         },
+        "edgecomllc/eupf": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "edgecomllc/eupf"
+        },
         "eesociety/eesociety.github.io": {
             "labContributors": {
                 "nodes": [
@@ -2116,14 +2132,6 @@
                 ]
             },
             "nameWithOwner": "feder-cr/Jobs_Applier_AI_Agent_AIHawk"
-        },
-        "feos-org/feos": {
-            "labContributors": {
-                "nodes": [
-                    "ianhbell"
-                ]
-            },
-            "nameWithOwner": "feos-org/feos"
         },
         "finos/common-cloud-controls": {
             "labContributors": {
@@ -2535,6 +2543,14 @@
                 ]
             },
             "nameWithOwner": "jab/bidict"
+        },
+        "jacobbubu/webcrypto-ed25519": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "jacobbubu/webcrypto-ed25519"
         },
         "james-pre/utilium": {
             "labContributors": {
@@ -3246,8 +3262,7 @@
         "named-data/ppa-packaging": {
             "labContributors": {
                 "nodes": [
-                    "Pesa",
-                    "yoursunny"
+                    "Pesa"
                 ]
             },
             "nameWithOwner": "named-data/ppa-packaging"
@@ -3271,7 +3286,8 @@
         "named-data/testbed": {
             "labContributors": {
                 "nodes": [
-                    "Pesa"
+                    "Pesa",
+                    "yoursunny"
                 ]
             },
             "nameWithOwner": "named-data/testbed"
@@ -3300,14 +3316,6 @@
             },
             "nameWithOwner": "nexusformat/definitions"
         },
-        "ngruver/NOS": {
-            "labContributors": {
-                "nodes": [
-                    "ptonner"
-                ]
-            },
-            "nameWithOwner": "ngruver/NOS"
-        },
         "ni/nifpga-python": {
             "labContributors": {
                 "nodes": [
@@ -3332,14 +3340,6 @@
                 ]
             },
             "nameWithOwner": "nlfiedler/timedog"
-        },
-        "nodejs/undici": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "nodejs/undici"
         },
         "nodelib/nodelib": {
             "labContributors": {
@@ -3460,14 +3460,6 @@
                 ]
             },
             "nameWithOwner": "patherlkd/easy-pair-table-lammps"
-        },
-        "paulbrodersen/netgraph": {
-            "labContributors": {
-                "nodes": [
-                    "rtbs-dev"
-                ]
-            },
-            "nameWithOwner": "paulbrodersen/netgraph"
         },
         "pdenno/schedulingTBD": {
             "labContributors": {
@@ -4198,14 +4190,6 @@
             },
             "nameWithOwner": "unslothai/unsloth"
         },
-        "usnistgov/2024-02-05_AGBT_NDO_GIAB-defrabb": {
-            "labContributors": {
-                "nodes": [
-                    "nate-d-olson"
-                ]
-            },
-            "nameWithOwner": "usnistgov/2024-02-05_AGBT_NDO_GIAB-defrabb"
-        },
         "usnistgov/2024-06-10-nist": {
             "labContributors": {
                 "nodes": [
@@ -4373,8 +4357,7 @@
             "labContributors": {
                 "nodes": [
                     "jaybrecht",
-                    "jfernandez37",
-                    "saahu27"
+                    "jfernandez37"
                 ]
             },
             "nameWithOwner": "usnistgov/ARIAC_evaluation"
@@ -4427,6 +4410,14 @@
                 ]
             },
             "nameWithOwner": "usnistgov/Annotune-v2"
+        },
+        "usnistgov/AutonomousVariableChoiceExample": {
+            "labContributors": {
+                "nodes": [
+                    "austinmcdannald"
+                ]
+            },
+            "nameWithOwner": "usnistgov/AutonomousVariableChoiceExample"
         },
         "usnistgov/BAM-DB": {
             "labContributors": {
@@ -4949,14 +4940,6 @@
                 ]
             },
             "nameWithOwner": "usnistgov/PyHyperScattering"
-        },
-        "usnistgov/Q-SLAW": {
-            "labContributors": {
-                "nodes": [
-                    "AlexLandauer"
-                ]
-            },
-            "nameWithOwner": "usnistgov/Q-SLAW"
         },
         "usnistgov/REFPROP-cmake": {
             "labContributors": {
@@ -6678,8 +6661,7 @@
             "labContributors": {
                 "nodes": [
                     "MelvinMartins-NIST",
-                    "RayPlante",
-                    "deoyani"
+                    "RayPlante"
                 ]
             },
             "nameWithOwner": "usnistgov/oar-fm-application-layer"
@@ -7027,6 +7009,14 @@
             },
             "nameWithOwner": "usnistgov/security-invite"
         },
+        "usnistgov/seized-material-sampling-app": {
+            "labContributors": {
+                "nodes": [
+                    "jbprothero"
+                ]
+            },
+            "nameWithOwner": "usnistgov/seized-material-sampling-app"
+        },
         "usnistgov/simprocesd": {
             "labContributors": {
                 "nodes": [
@@ -7195,6 +7185,14 @@
                 ]
             },
             "nameWithOwner": "usnistgov/understanding-btcs"
+        },
+        "usnistgov/v2-validation": {
+            "labContributors": {
+                "nodes": [
+                    "carolinerosin"
+                ]
+            },
+            "nameWithOwner": "usnistgov/v2-validation"
         },
         "usnistgov/vulntology": {
             "labContributors": {
@@ -7372,14 +7370,6 @@
                 ]
             },
             "nameWithOwner": "xojs/xo"
-        },
-        "yegle/fava-docker": {
-            "labContributors": {
-                "nodes": [
-                    "kentj"
-                ]
-            },
-            "nameWithOwner": "yegle/fava-docker"
         },
         "yoursunny/ndn-cxx-breaks": {
             "labContributors": {
