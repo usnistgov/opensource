@@ -5852,7 +5852,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2025-01-13"
+                "lastModified": "2025-02-05"
             },
             "description": "python scripting tools for streamlined laboratory automation",
             "downloadURL": "https://api.github.com/repos/usnistgov/labbench/downloads",
@@ -5886,7 +5886,7 @@
             },
             "date": {
                 "created": "2016-06-10",
-                "lastModified": "2025-01-31"
+                "lastModified": "2025-02-05"
             },
             "description": "The NIST STEP File Analyzer and Viewer (SFA) generates a spreadsheet and a visualization from an ISO 10303 Part 21 STEP file.",
             "downloadURL": "https://api.github.com/repos/usnistgov/SFA/downloads",
@@ -18558,7 +18558,7 @@
             },
             "date": {
                 "created": "2018-11-19",
-                "lastModified": "2024-12-14"
+                "lastModified": "2025-02-05"
             },
             "description": "Software components for biometric technology evaluations.",
             "downloadURL": "https://api.github.com/repos/usnistgov/libbiomeval/downloads",
@@ -25855,7 +25855,7 @@
             },
             "date": {
                 "created": "2020-04-17",
-                "lastModified": "2025-01-28"
+                "lastModified": "2025-02-06"
             },
             "description": "Multi-spectrum Analysis Tool for Spectroscopy",
             "downloadURL": "https://api.github.com/repos/usnistgov/MATS/downloads",
@@ -26612,7 +26612,7 @@
             },
             "date": {
                 "created": "2020-06-05",
-                "lastModified": "2025-02-04"
+                "lastModified": "2025-02-06"
             },
             "description": "macOS Security Compliance Project",
             "downloadURL": "https://api.github.com/repos/usnistgov/macos_security/downloads",
@@ -27635,7 +27635,7 @@
             },
             "date": {
                 "created": "2020-08-05",
-                "lastModified": "2025-01-28"
+                "lastModified": "2025-02-06"
             },
             "description": "NIST SP 800-53 content and other OSCAL content examples",
             "downloadURL": "https://api.github.com/repos/usnistgov/oscal-content/downloads",
@@ -29530,7 +29530,7 @@
             },
             "date": {
                 "created": "2021-02-11",
-                "lastModified": "2025-01-27"
+                "lastModified": "2025-02-06"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/800-63-4/downloads",
@@ -29599,7 +29599,7 @@
             },
             "date": {
                 "created": "2021-02-22",
-                "lastModified": "2025-02-04"
+                "lastModified": "2025-02-05"
             },
             "description": "A highly efficient, flexible, and accurate implementation of thermodynamic EOS powered by automatic differentiation",
             "downloadURL": "https://api.github.com/repos/usnistgov/teqp/downloads",
@@ -31520,7 +31520,7 @@
             },
             "date": {
                 "created": "2021-07-19",
-                "lastModified": "2024-11-03"
+                "lastModified": "2025-02-06"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/ctRSD-simulator/downloads",
@@ -39421,7 +39421,7 @@
             },
             "date": {
                 "created": "2023-07-17",
-                "lastModified": "2025-01-21"
+                "lastModified": "2025-02-06"
             },
             "description": "AtomGPT: Atomistic Generative Pretrained Transformer for Forward and Inverse Materials Design https://www.youtube.com/watch?v=7v2WYvwGhy8",
             "downloadURL": "https://api.github.com/repos/usnistgov/atomgpt/downloads",
@@ -40385,7 +40385,7 @@
             },
             "date": {
                 "created": "2023-10-06",
-                "lastModified": "2024-10-17"
+                "lastModified": "2025-02-05"
             },
             "description": "Authentication and Identity services for NIST OAR data systems",
             "downloadURL": "https://api.github.com/repos/usnistgov/oar-auth-py/downloads",
@@ -42865,7 +42865,7 @@
             },
             "date": {
                 "created": "2024-05-21",
-                "lastModified": "2025-01-07"
+                "lastModified": "2025-02-05"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/oar-rmm-python/downloads",
@@ -43632,7 +43632,7 @@
             },
             "date": {
                 "created": "2024-07-09",
-                "lastModified": "2025-02-04"
+                "lastModified": "2025-02-05"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/aprs_ros2_demo/downloads",
@@ -45420,13 +45420,16 @@
             },
             "date": {
                 "created": "2025-01-14",
-                "lastModified": "2025-01-14"
+                "lastModified": "2025-02-06"
             },
             "description": "No description available...",
             "downloadURL": "https://api.github.com/repos/usnistgov/agentdojo-inspect/downloads",
             "homepageURL": "https://github.com/usnistgov/agentdojo-inspect",
             "laborHours": 0,
-            "languages": [],
+            "languages": [
+                "Python",
+                "Jupyter Notebook"
+            ],
             "name": "agentdojo-inspect",
             "organization": "National Institute of Standards and Technology",
             "permissions": {
@@ -45688,6 +45691,38 @@
                 "usageType": "openSource"
             },
             "repositoryURL": "git://github.com/usnistgov/seized-material-sampling-app.git",
+            "status": "Development",
+            "tags": [
+                "github"
+            ],
+            "vcs": "git"
+        },
+        {
+            "contact": {
+                "URL": "https://github.com/usnistgov",
+                "email": "devops@nist.gov"
+            },
+            "date": {
+                "created": "2025-02-05",
+                "lastModified": "2025-02-05"
+            },
+            "description": "No description available...",
+            "downloadURL": "https://api.github.com/repos/usnistgov/NEMO-sensors/downloads",
+            "homepageURL": "https://github.com/usnistgov/NEMO-sensors",
+            "laborHours": 0,
+            "languages": [],
+            "name": "NEMO-sensors",
+            "organization": "National Institute of Standards and Technology",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://raw.githubusercontent.com/usnistgov/opensource-repo/master/LICENSE.md",
+                        "name": "NIST"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "repositoryURL": "git://github.com/usnistgov/NEMO-sensors.git",
             "status": "Development",
             "tags": [
                 "github"
