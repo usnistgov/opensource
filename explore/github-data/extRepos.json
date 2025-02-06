@@ -1940,14 +1940,6 @@
             },
             "nameWithOwner": "dfxml-working-group/dfxml_schema"
         },
-        "digitalcorpora/admin": {
-            "labContributors": {
-                "nodes": [
-                    "simsong"
-                ]
-            },
-            "nameWithOwner": "digitalcorpora/admin"
-        },
         "digitalcorpora/digitalcorpora-stats": {
             "labContributors": {
                 "nodes": [
@@ -4711,6 +4703,14 @@
             },
             "nameWithOwner": "usnistgov/NEMO-custom-forms"
         },
+        "usnistgov/NEMO-sensors": {
+            "labContributors": {
+                "nodes": [
+                    "rptmat57"
+                ]
+            },
+            "nameWithOwner": "usnistgov/NEMO-sensors"
+        },
         "usnistgov/NFIMM": {
             "labContributors": {
                 "nodes": [
@@ -6328,14 +6328,6 @@
             },
             "nameWithOwner": "usnistgov/libbiomeval"
         },
-        "usnistgov/liboscal-java": {
-            "labContributors": {
-                "nodes": [
-                    "aj-stein-nist"
-                ]
-            },
-            "nameWithOwner": "usnistgov/liboscal-java"
-        },
         "usnistgov/macos_security": {
             "labContributors": {
                 "nodes": [
@@ -6368,14 +6360,6 @@
                 ]
             },
             "nameWithOwner": "usnistgov/masskit"
-        },
-        "usnistgov/mayer-extrapolation": {
-            "labContributors": {
-                "nodes": [
-                    "HaroldHatchNIST"
-                ]
-            },
-            "nameWithOwner": "usnistgov/mayer-extrapolation"
         },
         "usnistgov/mcvqoe": {
             "labContributors": {
@@ -6809,7 +6793,6 @@
         "usnistgov/oscal-cli": {
             "labContributors": {
                 "nodes": [
-                    "aj-stein-nist",
                     "david-waltermire",
                     "iMichaela"
                 ]
