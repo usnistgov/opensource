@@ -329,14 +329,6 @@
             },
             "nameWithOwner": "GSA/uswds-hugo"
         },
-        "GT-ARTISAN/AMOS-Gateway": {
-            "labContributors": {
-                "nodes": [
-                    "nsfphyman"
-                ]
-            },
-            "nameWithOwner": "GT-ARTISAN/AMOS-Gateway"
-        },
         "HL7/ig-template-base": {
             "labContributors": {
                 "nodes": [
@@ -1229,6 +1221,14 @@
             },
             "nameWithOwner": "apache/arrow-rs"
         },
+        "astra-toolbox/astra-toolbox": {
+            "labContributors": {
+                "nodes": [
+                    "AndrewHerzing"
+                ]
+            },
+            "nameWithOwner": "astra-toolbox/astra-toolbox"
+        },
         "astral-sh/uv": {
             "labContributors": {
                 "nodes": [
@@ -1460,6 +1460,14 @@
             },
             "nameWithOwner": "casework/CASE-Implementation-ExifTool"
         },
+        "casework/CASE-Implementation-GNU-Time": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Implementation-GNU-Time"
+        },
         "casework/CASE-Implementation-PROV-O": {
             "labContributors": {
                 "nodes": [
@@ -1500,6 +1508,14 @@
             },
             "nameWithOwner": "casework/CASE-Mapping-Python"
         },
+        "casework/CASE-Mapping-Template-Python": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Mapping-Template-Python"
+        },
         "casework/CASE-Mapping-Template-Stubs": {
             "labContributors": {
                 "nodes": [
@@ -1516,6 +1532,14 @@
                 ]
             },
             "nameWithOwner": "casework/CASE-Utilities-Python"
+        },
+        "casework/CASE-Utility-SHACL-Inheritance-Reviewer": {
+            "labContributors": {
+                "nodes": [
+                    "ajnelson-nist"
+                ]
+            },
+            "nameWithOwner": "casework/CASE-Utility-SHACL-Inheritance-Reviewer"
         },
         "casework/casework.github.io": {
             "labContributors": {
@@ -4873,6 +4897,7 @@
                     "JustKuzya",
                     "david-waltermire",
                     "iMichaela",
+                    "selenaxiao-nist",
                     "wendellpiez"
                 ]
             },
