@@ -64,14 +64,6 @@
             },
             "nameWithOwner": "BFO-ontology/BFO-2020"
         },
-        "Bilsyp/ndn-api-client": {
-            "labContributors": {
-                "nodes": [
-                    "yoursunny"
-                ]
-            },
-            "nameWithOwner": "Bilsyp/ndn-api-client"
-        },
         "Boulder-Cryogenic-Quantum-Testbed/scresonators": {
             "labContributors": {
                 "nodes": [
@@ -1029,13 +1021,13 @@
             },
             "nameWithOwner": "UCLA-IRL/ndn-workspace-solid"
         },
-        "UMD-ENMA165/Variables_and_Types_02-13-24": {
+        "UMD-ENMA165-2025-Spring/experimental-guyer": {
             "labContributors": {
                 "nodes": [
                     "guyer"
                 ]
             },
-            "nameWithOwner": "UMD-ENMA165/Variables_and_Types_02-13-24"
+            "nameWithOwner": "UMD-ENMA165-2025-Spring/experimental-guyer"
         },
         "UMD-ENMA165/loop-de-loop": {
             "labContributors": {
@@ -4299,7 +4291,6 @@
         "usnistgov/AFL-automation": {
             "labContributors": {
                 "nodes": [
-                    "bpsut",
                     "martintb",
                     "pbeaucage"
                 ]
@@ -4458,6 +4449,14 @@
                 ]
             },
             "nameWithOwner": "usnistgov/C-V2XInteroperabilityAnalyzer"
+        },
+        "usnistgov/C-V2XInteroperabilityTestingTool": {
+            "labContributors": {
+                "nodes": [
+                    "eysong"
+                ]
+            },
+            "nameWithOwner": "usnistgov/C-V2XInteroperabilityTestingTool"
         },
         "usnistgov/CAD-PMI-Testing": {
             "labContributors": {
@@ -5388,7 +5387,6 @@
             "labContributors": {
                 "nodes": [
                     "Guillaume-sousa",
-                    "MyleneSimon",
                     "pdessauw"
                 ]
             },
@@ -5959,14 +5957,6 @@
                 ]
             },
             "nameWithOwner": "usnistgov/fhirAdapter"
-        },
-        "usnistgov/fhirLib": {
-            "labContributors": {
-                "nodes": [
-                    "andrewmccaffreynist"
-                ]
-            },
-            "nameWithOwner": "usnistgov/fhirLib"
         },
         "usnistgov/fipy": {
             "labContributors": {
@@ -6808,9 +6798,7 @@
         "usnistgov/oscal-content": {
             "labContributors": {
                 "nodes": [
-                    "JustKuzya",
-                    "iMichaela",
-                    "oscalbuilder"
+                    "iMichaela"
                 ]
             },
             "nameWithOwner": "usnistgov/oscal-content"
@@ -6918,6 +6906,14 @@
                 ]
             },
             "nameWithOwner": "usnistgov/psud"
+        },
+        "usnistgov/pyMDSS": {
+            "labContributors": {
+                "nodes": [
+                    "apanna"
+                ]
+            },
+            "nameWithOwner": "usnistgov/pyMDSS"
         },
         "usnistgov/pySCATMECH": {
             "labContributors": {
