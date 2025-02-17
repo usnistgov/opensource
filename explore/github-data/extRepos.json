@@ -577,14 +577,6 @@
             },
             "nameWithOwner": "MADICES/MADICES-2025"
         },
-        "MDAnalysis/transport-analysis": {
-            "labContributors": {
-                "nodes": [
-                    "jaclark5"
-                ]
-            },
-            "nameWithOwner": "MDAnalysis/transport-analysis"
-        },
         "ML-Materials-Standards/.github": {
             "labContributors": {
                 "nodes": [
@@ -1327,6 +1319,14 @@
             },
             "nameWithOwner": "cachix/devenv"
         },
+        "cadkin/adamantine": {
+            "labContributors": {
+                "nodes": [
+                    "wd15"
+                ]
+            },
+            "nameWithOwner": "cadkin/adamantine"
+        },
         "carpentries-incubator/HPC-workflow-lesson-maestro": {
             "labContributors": {
                 "nodes": [
@@ -1386,14 +1386,6 @@
                 ]
             },
             "nameWithOwner": "casework/CASE-Application-Navigator"
-        },
-        "casework/CASE-Bindings-CSharp-Monitor": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "casework/CASE-Bindings-CSharp-Monitor"
         },
         "casework/CASE-Corpora": {
             "labContributors": {
@@ -1621,14 +1613,6 @@
             },
             "nameWithOwner": "choderalab/pymbar"
         },
-        "ciphertechsolutions/CASE-Bindings-CSharp": {
-            "labContributors": {
-                "nodes": [
-                    "ajnelson-nist"
-                ]
-            },
-            "nameWithOwner": "ciphertechsolutions/CASE-Bindings-CSharp"
-        },
         "cloud-gov/pages-build-container": {
             "labContributors": {
                 "nodes": [
@@ -1636,6 +1620,14 @@
                 ]
             },
             "nameWithOwner": "cloud-gov/pages-build-container"
+        },
+        "codesynthesis-com/odb": {
+            "labContributors": {
+                "nodes": [
+                    "tblattner"
+                ]
+            },
+            "nameWithOwner": "codesynthesis-com/odb"
         },
         "coleifer/peewee": {
             "labContributors": {
@@ -2237,15 +2229,6 @@
             },
             "nameWithOwner": "genome-in-a-bottle/HG008-curations"
         },
-        "ggerganov/llama.cpp": {
-            "labContributors": {
-                "nodes": [
-                    "DerekJuba-NIST",
-                    "tblattner"
-                ]
-            },
-            "nameWithOwner": "ggerganov/llama.cpp"
-        },
         "ggggggggg/moss": {
             "labContributors": {
                 "nodes": [
@@ -2253,6 +2236,15 @@
                 ]
             },
             "nameWithOwner": "ggggggggg/moss"
+        },
+        "ggml-org/llama.cpp": {
+            "labContributors": {
+                "nodes": [
+                    "DerekJuba-NIST",
+                    "tblattner"
+                ]
+            },
+            "nameWithOwner": "ggml-org/llama.cpp"
         },
         "ghostfolio/ghostfolio": {
             "labContributors": {
@@ -2600,13 +2592,13 @@
             },
             "nameWithOwner": "jensengroup/xyz2mol_tm"
         },
-        "jeremylong/Open-Vulnerability-Project": {
+        "jeremylong/open-vulnerability-cli": {
             "labContributors": {
                 "nodes": [
                     "Chris-Turner-NIST"
                 ]
             },
-            "nameWithOwner": "jeremylong/Open-Vulnerability-Project"
+            "nameWithOwner": "jeremylong/open-vulnerability-cli"
         },
         "jessek/hashdeep": {
             "labContributors": {
@@ -3438,14 +3430,6 @@
             },
             "nameWithOwner": "openwallet-foundation-labs/identity-credential"
         },
-        "patherlkd/easy-pair-table-lammps": {
-            "labContributors": {
-                "nodes": [
-                    "jaclark5"
-                ]
-            },
-            "nameWithOwner": "patherlkd/easy-pair-table-lammps"
-        },
         "pdenno/schedulingTBD": {
             "labContributors": {
                 "nodes": [
@@ -3536,14 +3520,6 @@
                 ]
             },
             "nameWithOwner": "portfolio-performance/portfolio"
-        },
-        "potfit/potfit": {
-            "labContributors": {
-                "nodes": [
-                    "lmhale99"
-                ]
-            },
-            "nameWithOwner": "potfit/potfit"
         },
         "pradyunsg/furo": {
             "labContributors": {
@@ -4351,7 +4327,6 @@
         "usnistgov/ARIAC_docs": {
             "labContributors": {
                 "nodes": [
-                    "Sanchitkedia",
                     "anthonydowns",
                     "jaybrecht",
                     "jfernandez37",
@@ -4716,6 +4691,14 @@
             },
             "nameWithOwner": "usnistgov/NEMO"
         },
+        "usnistgov/NEMO-contracts": {
+            "labContributors": {
+                "nodes": [
+                    "rptmat57"
+                ]
+            },
+            "nameWithOwner": "usnistgov/NEMO-contracts"
+        },
         "usnistgov/NEMO-custom-forms": {
             "labContributors": {
                 "nodes": [
@@ -4942,14 +4925,6 @@
                 ]
             },
             "nameWithOwner": "usnistgov/PIV-Public-Comments"
-        },
-        "usnistgov/PrivacyEngCollabSpace": {
-            "labContributors": {
-                "nodes": [
-                    "ngrayson1"
-                ]
-            },
-            "nameWithOwner": "usnistgov/PrivacyEngCollabSpace"
         },
         "usnistgov/ProSAS-An-O-RAN-Approach-to-Spectrum-Sharing-between-LTE-and-NR": {
             "labContributors": {
@@ -5327,7 +5302,7 @@
             },
             "nameWithOwner": "usnistgov/blossom-dashboard"
         },
-        "usnistgov/blossom-nist-member": {
+        "usnistgov/blossom-member": {
             "labContributors": {
                 "nodes": [
                     "JustKuzya",
@@ -5335,7 +5310,7 @@
                     "selenaxiao-nist"
                 ]
             },
-            "nameWithOwner": "usnistgov/blossom-nist-member"
+            "nameWithOwner": "usnistgov/blossom-member"
         },
         "usnistgov/blossom-oscal": {
             "labContributors": {
