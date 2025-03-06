@@ -2496,6 +2496,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/AMB2022-template",
+                    "usnistgov/AMB2025-template",
                     "usnistgov/ambench"
                 ]
             },
@@ -7849,7 +7850,7 @@
             "name": "Bastian K\u00f6cher"
         },
         "black-roland": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1756198?u=26383819c4a157b16598cf9bc2d49d2568dceb79&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1756198?u=452241d78474e60d11df4950f4e03ec809e7e89b&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/pscr-openwrt-packages-fork"
@@ -9075,7 +9076,7 @@
                 ]
             },
             "login": "cheroy-ntia",
-            "name": "Chen"
+            "name": "Chen Heroy"
         },
         "chetanag35": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/38294868?v=4",
@@ -15880,6 +15881,16 @@
             "login": "jesferman",
             "name": "Jes\u00fas Fern\u00e1ndez Manzano"
         },
+        "jess-s": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/33878359?u=4f0d126401782ba112543cb36f98ddfd64040de3&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/genomics_ppfl"
+                ]
+            },
+            "login": "jess-s",
+            "name": "Jess"
+        },
         "jessegzhang": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/12622213?v=4",
             "contributedLabRepositories": {
@@ -15888,6 +15899,16 @@
                 ]
             },
             "login": "jessegzhang",
+            "name": null
+        },
+        "jessxd25": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/199840958?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/genomics_ppfl"
+                ]
+            },
+            "login": "jessxd25",
             "name": null
         },
         "jetic83": {
@@ -17488,6 +17509,7 @@
                 "nodes": [
                     "usnistgov/HLG-MOS_Synthetic_Data_Test_Drive",
                     "usnistgov/SDNist",
+                    "usnistgov/genomics_ppfl",
                     "usnistgov/pair-wise_PCA",
                     "usnistgov/privacy_collaborative_research_cycle"
                 ]
@@ -25008,7 +25030,7 @@
             "name": "Rob Van Mieghem"
         },
         "rochacbruno": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/458654?u=04a4ee6b77a1b2ac39c78a7a24855c252c4f281a&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/458654?u=431454c77ca5aad84f84fafb898d0942654ddaee&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/cookiecutter-nist-python"

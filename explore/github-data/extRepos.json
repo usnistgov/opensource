@@ -1012,14 +1012,6 @@
             },
             "nameWithOwner": "ZachBurkhead/scidata_lotus_new"
         },
-        "aaronriekenberg/rust-parallel": {
-            "labContributors": {
-                "nodes": [
-                    "rtbs-dev"
-                ]
-            },
-            "nameWithOwner": "aaronriekenberg/rust-parallel"
-        },
         "actions/attest-build-provenance": {
             "labContributors": {
                 "nodes": [
@@ -3091,6 +3083,14 @@
             },
             "nameWithOwner": "ocaisa/hpc-workflows"
         },
+        "ocaisa/probable-pancake": {
+            "labContributors": {
+                "nodes": [
+                    "tkphd"
+                ]
+            },
+            "nameWithOwner": "ocaisa/probable-pancake"
+        },
         "omec-project/gnbsim": {
             "labContributors": {
                 "nodes": [
@@ -3756,6 +3756,14 @@
                 ]
             },
             "nameWithOwner": "tier4/nebula"
+        },
+        "tinygo-org/tinygo": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "tinygo-org/tinygo"
         },
         "tomcollins/json-schema-static-docs": {
             "labContributors": {
