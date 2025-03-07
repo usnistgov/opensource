@@ -576,6 +576,14 @@
             },
             "nameWithOwner": "MonitorControl/MonitorControl"
         },
+        "MythTV/mythtv": {
+            "labContributors": {
+                "nodes": [
+                    "mdsteveb"
+                ]
+            },
+            "nameWithOwner": "MythTV/mythtv"
+        },
         "NDN-Routing/infoedit": {
             "labContributors": {
                 "nodes": [
@@ -801,14 +809,6 @@
             },
             "nameWithOwner": "Rombur/adamantine"
         },
-        "STOR-i/GaussianProcesses.jl": {
-            "labContributors": {
-                "nodes": [
-                    "apintar"
-                ]
-            },
-            "nameWithOwner": "STOR-i/GaussianProcesses.jl"
-        },
         "Santiso-Group/despasito": {
             "labContributors": {
                 "nodes": [
@@ -849,14 +849,6 @@
                 ]
             },
             "nameWithOwner": "SasView/sasview"
-        },
-        "SciML/DelayDiffEq.jl": {
-            "labContributors": {
-                "nodes": [
-                    "ggggggggg"
-                ]
-            },
-            "nameWithOwner": "SciML/DelayDiffEq.jl"
         },
         "SciVedanta/SciVedanta.github.io": {
             "labContributors": {
@@ -1547,14 +1539,6 @@
                 ]
             },
             "nameWithOwner": "conda-forge/atomman-feedstock"
-        },
-        "conda-forge/bumps-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "bmaranville"
-                ]
-            },
-            "nameWithOwner": "conda-forge/bumps-feedstock"
         },
         "conda-forge/cdcs-feedstock": {
             "labContributors": {
@@ -2335,6 +2319,14 @@
             },
             "nameWithOwner": "iliekturtles/uom"
         },
+        "immregistries/nist-validator-connector": {
+            "labContributors": {
+                "nodes": [
+                    "cerbeor"
+                ]
+            },
+            "nameWithOwner": "immregistries/nist-validator-connector"
+        },
         "inteam-eu-org/chocolo": {
             "labContributors": {
                 "nodes": [
@@ -2757,6 +2749,14 @@
                 ]
             },
             "nameWithOwner": "michaelklishin/langohr"
+        },
+        "microsoft/TypeScript-DOM-lib-generator": {
+            "labContributors": {
+                "nodes": [
+                    "yoursunny"
+                ]
+            },
+            "nameWithOwner": "microsoft/TypeScript-DOM-lib-generator"
         },
         "microsoft/azure-tools-for-java": {
             "labContributors": {
@@ -3678,7 +3678,6 @@
         "sphinx-doc/sphinx": {
             "labContributors": {
                 "nodes": [
-                    "guyer",
                     "kentj"
                 ]
             },

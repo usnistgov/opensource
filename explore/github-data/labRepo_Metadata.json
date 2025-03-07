@@ -506,12 +506,6 @@
         "topics": null,
         "website": "https://pages.nist.gov/ARIAC_docs/en/latest/index.html"
     },
-    "usnistgov/ARIAC_evaluation": {
-        "description": null,
-        "name": "usnistgov/ARIAC_evaluation",
-        "topics": null,
-        "website": null
-    },
     "usnistgov/ARIAC_tutorials": {
         "description": null,
         "name": "usnistgov/ARIAC_tutorials",
@@ -6964,6 +6958,12 @@
         ],
         "website": ""
     },
+    "usnistgov/oscal-tests": {
+        "description": null,
+        "name": "usnistgov/oscal-tests",
+        "topics": null,
+        "website": null
+    },
     "usnistgov/oscal-tools": {
         "description": "Tools for the OSCAL project",
         "name": "usnistgov/oscal-tools",
@@ -8225,6 +8225,12 @@
     "usnistgov/vlincs": {
         "description": "The Video LINCS program aims to develop re-identification methods that autonomously associate objects across diverse, non-collaborative, video sensor footage, to distill raw pixel data into spatio-temporal motion vectors, providing the ability to analyze these patterns for anomalies and threats.",
         "name": "usnistgov/vlincs",
+        "topics": null,
+        "website": null
+    },
+    "usnistgov/vlincs-example": {
+        "description": "Example submissions for vlincs",
+        "name": "usnistgov/vlincs-example",
         "topics": null,
         "website": null
     },
