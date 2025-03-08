@@ -4522,7 +4522,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/117103409?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/ccu_validation_scoring"
+                    "usnistgov/ccu_validation_scoring",
+                    "usnistgov/vlincs",
+                    "usnistgov/vlincs-example"
                 ]
             },
             "login": "audreytong",
@@ -11291,6 +11293,11 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/21085183?v=4",
             "login": "kkinist",
             "name": "Karl Irikura"
+        },
+        "kleczynski-nist": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/201855814?v=4",
+            "login": "kleczynski-nist",
+            "name": null
         },
         "kmiller621": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/49953271?v=4",
