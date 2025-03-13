@@ -560,6 +560,22 @@
             },
             "nameWithOwner": "Miserlou/Zappa"
         },
+        "MolSSI/QCElemental": {
+            "labContributors": {
+                "nodes": [
+                    "jaclark5"
+                ]
+            },
+            "nameWithOwner": "MolSSI/QCElemental"
+        },
+        "MolSSI/QCFractal": {
+            "labContributors": {
+                "nodes": [
+                    "jaclark5"
+                ]
+            },
+            "nameWithOwner": "MolSSI/QCFractal"
+        },
         "MonitorControl/MonitorControl": {
             "labContributors": {
                 "nodes": [
@@ -583,6 +599,14 @@
                 ]
             },
             "nameWithOwner": "NDN-Routing/infoedit"
+        },
+        "NIST-BWS/.github": {
+            "labContributors": {
+                "nodes": [
+                    "kevinmangold"
+                ]
+            },
+            "nameWithOwner": "NIST-BWS/.github"
         },
         "NIST-ISODB/isodb-library": {
             "labContributors": {
@@ -679,14 +703,6 @@
                 ]
             },
             "nameWithOwner": "OpenSC/OpenSC"
-        },
-        "Opentrons/buildroot": {
-            "labContributors": {
-                "nodes": [
-                    "pbeaucage"
-                ]
-            },
-            "nameWithOwner": "Opentrons/buildroot"
         },
         "PDBeurope/ccdutils": {
             "labContributors": {
@@ -2462,14 +2478,6 @@
             },
             "nameWithOwner": "jupyter/jupyter_client"
         },
-        "jupyter/nbclient": {
-            "labContributors": {
-                "nodes": [
-                    "wpk-nist-gov"
-                ]
-            },
-            "nameWithOwner": "jupyter/nbclient"
-        },
         "jupyterhub/the-littlest-jupyterhub": {
             "labContributors": {
                 "nodes": [
@@ -2943,14 +2951,6 @@
                 ]
             },
             "nameWithOwner": "named-data/ndnd"
-        },
-        "named-data/ndns": {
-            "labContributors": {
-                "nodes": [
-                    "Pesa"
-                ]
-            },
-            "nameWithOwner": "named-data/ndns"
         },
         "named-data/ndnstatus": {
             "labContributors": {
@@ -3545,14 +3545,6 @@
             },
             "nameWithOwner": "scout-zz/tt-fpga-hdl-project"
         },
-        "seba-gardens/seba-gardens.github.io": {
-            "labContributors": {
-                "nodes": [
-                    "tkphd"
-                ]
-            },
-            "nameWithOwner": "seba-gardens/seba-gardens.github.io"
-        },
         "silverqx/TinyORM": {
             "labContributors": {
                 "nodes": [
@@ -4089,6 +4081,14 @@
                 ]
             },
             "nameWithOwner": "usnistgov/BayesianFatigueModeling"
+        },
+        "usnistgov/BenchQC": {
+            "labContributors": {
+                "nodes": [
+                    "knc6"
+                ]
+            },
+            "nameWithOwner": "usnistgov/BenchQC"
         },
         "usnistgov/C-V2XInteroperabilityAnalyzer": {
             "labContributors": {
@@ -5468,14 +5468,6 @@
             },
             "nameWithOwner": "usnistgov/core_website_app"
         },
-        "usnistgov/correlogram_tools": {
-            "labContributors": {
-                "nodes": [
-                    "caitwolf"
-                ]
-            },
-            "nameWithOwner": "usnistgov/correlogram_tools"
-        },
         "usnistgov/ctRSD-simulator": {
             "labContributors": {
                 "nodes": [
@@ -6086,7 +6078,6 @@
         "usnistgov/mcvqoe-base": {
             "labContributors": {
                 "nodes": [
-                    "garyhowarth",
                     "jordanodell",
                     "pfinknist"
                 ]
