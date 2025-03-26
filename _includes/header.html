@@ -1,45 +1,55 @@
-<nav id="header-slim" class="navbar navbar-default">
-
-  <div>
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#siteNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-
-      <p id="nist-menu-tab" class="pull-left"><a href="https://www.nist.gov"></a></p>
-      <a class="navbar-brand" href="/opensource">{{ site.name }}</a>
-      <span class="badge" style="color:black;background-color:#f0f0f0;vertical-align: text-top;margin-top: 10px;">{{ site.version }}</span>
-    </div>
-
-    <div id="siteNavbar" class="collapse navbar-collapse">
-      <ul class="nav navbar-nav navbar-right navbar-collapse">
-        <li id="data-portal">
-          <a class="navbar-normal" href="https://data.nist.gov">Data Portal</a></li>
-        <li id="explore"
-          {% if page.url == "/opensource/explore/" %} class="active dropdown"
-          {% else %} class="dropdown"
-          {% endif %}><a class="navbar-normal" href="/opensource/explore/">Explore</a>
-          <div class="dropdown-content">
-            <p><a class="navbar-normal" href="/opensource/explore/dependencies/">Dependencies</a></p>
-            <p><a class="navbar-normal" href="/opensource/explore/popular-repos/">Popular Repositories</a></p>
-          </div>
-        </li>
-
-        <li id="about"
-            {% if page.url == "/opensource/about/" %} class="active dropdown"
-            {% else %} class="dropdown"
-            {% endif %}><a class="navbar-normal" href="/opensource/about/">About</a>
-          <!-- <div class="dropdown-content">
-            <p><a class="navbar-normal" href="/opensource/about/using-github/">Using GitHub</a></p>
-            <p><a class="navbar-normal" href="/opensource/about/licenses/">Licensing</a></p>
-            <p><a class="navbar-normal" href="https://github.com/usnistgov/opensource">This Site</a></p>
-          </div> -->
-        </li>
-        <li id="github"><a href="https://github.com/usnistgov"><span class="fa fa-github fa-lg"></span></a></li>
-      </ul>
-    </div>
-
+<div data-elastic-exclude="">
+  <div class="nist-print-header" style="display:none;">
+    <p class="nist-print-header__url">https://www.nist.gov/national-institute-standards-and-technology</p>
+    <img class="nist-print-header__logo" width="289" height="38" src="https://www.nist.gov/libraries/nist-component-library/dist/img/logo/nist_logo_sidestack.svg" alt="National Institute of Standards and Technology">
   </div>
-</nav>
+  
+  <div class="usa-overlay"></div>
+  <header class="usa-header nist-header--www nist-header--full" role="banner">
+    <div class="usa-navbar" style="height: 0%; margin-left: 0%;">
+      <div class="usa-logo flex-fill">
+        <a href="/" title="National Institute of Standards and Technology" aria-label="Home">
+          <img src="https://www.nist.gov/libraries/nist-component-library/dist/img/logo/NIST-Logo-Brand-White.svg" alt="National Institute of Standards and Technology" width="300px" height="42px"></a>
+        </a>
+      </div>
+    </div>
+  
+    <nav aria-label="Primary navigation" class="usa-nav">
+      <div class="usa-nav__inner">
+        <button class="usa-nav__close">Close</button>
+        <ul class="usa-nav__primary usa-accordion">
+          <li class="usa-nav__primary-item">
+            <a class="usa-nav__link" href="/">Code Portal</a>
+          </li>
+          <li class="usa-nav__primary-item">
+            <a class="usa-nav__link" href="https://data.nist.gov/">Data Portal</a>
+          </li>
+          <li class="usa-nav__primary-item">
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="primary_menu-2"><span>Tools</span></button>
+            <div id="primary_menu-2" class="usa-nav__submenu usa-megamenu" hidden="">
+              <div class="grid-row">
+                <div class="tablet:grid-col-fill">
+                  <ul class="usa-nav__submenu-list">
+                    <li class="usa-nav__submenu-item">
+                      <a onclick="return cref('explore/');" class="usa-nav__link">Explore</a>
+                    </li>
+                    <li class="usa-nav__submenu-item">
+                      <a onclick="return cref('explore/dependencies/');" class="usa-nav__link">Dependencies</a>
+                    </li>
+                    <li class="usa-nav__submenu-item">
+                      <a onclick="return cref('explore/popular-repos/');" class="usa-nav__link">Popular Repositories</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+          <li class="usa-nav__primary-item">
+            <a class="usa-nav__link" onclick="return cref('about/');">About</a>
+          </li>
+          <li class="usa-nav__primary-item">
+            <a class="usa-nav__link" href="https://github.com/usnistgov">Github</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+</div>

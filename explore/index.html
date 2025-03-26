@@ -5,7 +5,7 @@ layout: default
 
 {% raw %}
 
-<link rel="stylesheet" type="text/css" href="../css/graphstyle.css" />
+<link rel="stylesheet" type="text/css" href="../css/graphstyle.css" integrity="sha384-aJ1LQcwuCuWvb9fri5hzlj6SRYmDbqLyHp3TcI7QfnAoESJcJ3ryXk6scEV8+P5f" crossorigin="anonymous"/>
 
 <h1 class="page-header text-center">
     NIST GitHub Visualizations
@@ -23,23 +23,23 @@ layout: default
 </center>
 
 <!-- Load basic D3 and helper scripts -->
-<script src="https://cdn.llnl.gov/d3/5.16.0/d3.min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://cdn.llnl.gov/d3-tip/1.0/d3-tip.js"></script>
-<script type="text/javascript" src="https://cdn.llnl.gov/d3-v4-cloud/1.2.2/build/d3.layout.cloud.js"></script>
-<script type="text/javascript" src="https://cdn.llnl.gov/d3-simple-slider/1.8.0/d3-simple-slider.min.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/helpers.js"></script>
+<script type="text/javascript" src="/opensource/js/d3.min.js" charset="UTF-8" integrity="sha384-M06Cb6r/Yrkprjr7ngOrJlzgekrkkdmGZDES/SUnkUpUol0/qjsaQWQfLzq0mcfg" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/d3-tip.js" integrity="sha384-1LMfYEqPB+pb4nNozEX7btDPve9YdmyJygY9lrAdVwJiVu2I7I83LaPDzpYw08It" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/d3.layout.cloud.js" integrity="sha384-YnAif9IpA/4/ktYGgqNSqt+xk59QNOouCwtqTXVFqduoSfLrqivRhiIC3ZYvI/2b" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/d3-simple-slider.min.js" integrity="sha384-wnPPImf4dI5QElsqeOjY2hFZvdkWXA2g6Bbw5IOPPj5zB86JoKrA6Qt7G/1kxJTO" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/helpers.js" integrity="sha384-MQo+SQGSnUrP7jJv4qoOju6iKVWNW/tthKncygG9bThv2vbGszY+YInZMsbHSLus" crossorigin="anonymous"></script>
 
 <!-- Load drawing JS -->
-<script type="text/javascript" src="/opensource/js/explore/line_repoCreationHistory.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/pie_members.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/pie_repos.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/line_repoActivityExplore.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/scatter_repoPulls.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/scatter_repoIssues.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/cloud_languages.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/cloud_topics.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/sunburst_licenses.js"></script>
-<script type="text/javascript" src="/opensource/js/explore/pack_hierarchy.js"></script>
+<script type="text/javascript" src="/opensource/js/explore/line_repoCreationHistory.js" integrity="sha384-h08e0jmzvUxQp2GKccP6lqFmA3deKKMsqShijsv1RtNVORt9KDM5ruYct+zKsks/" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/pie_members.js" integrity="sha384-twDQ2WwCKgQSKrU65PVTfuUA3zbSJn+740+y6Vx1zdFIGdGgPJ3ZI4cY6Yn/+lWK" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/pie_repos.js" integrity="sha384-cc6EMD3u0g6aQDvbgVzeegw/TouBQWQt7mOqpa8E0nRc6njcLva8meslJA8yYMxh" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/line_repoActivityExplore.js" integrity="sha384-SGj9ablGuAQtjGF2Noe2Z64qAj6UI2wMD15Qf/dY96szPaMlWE6nVLV3Pwi50Z8K" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/scatter_repoPulls.js" integrity="sha384-2d/QtJ4g5FKpwJkAYnQh3VhjiHYGPp1c3eSnaMCsnWe3pE1jht25cRl9P3b6eGrE" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/scatter_repoIssues.js" integrity="sha384-GtcwwTuCjrFGuaPldmp7ZlIDtyVujw5hZMowPsGFRfHKfCVLG4Ek/t9Do7ZXVsW4" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/cloud_languages.js" integrity="sha384-I6gu7yMJ8qyXONFEUYuyiSt4wVbXJFjxZvSiSpdhIRDp7QRijqKB/DnZ9t8HMoWw" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/cloud_topics.js" integrity="sha384-1+QkNX/FIwWKgdIhvIZoTDqGYHaE5TitJ8zPsbRT9OcXPtBwWyPomuWxC3ku6Rdq" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/sunburst_licenses.js" integrity="sha384-SE41c0u84Jr3vPLmazNa5P6nICLjjmqdNo402H9IL8xoJHjbav+m2FRFTChhnLoz" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/opensource/js/explore/pack_hierarchy.js" integrity="sha384-FTL9fx0ubo9kqjriP0no35O2zXgrzHto/MPRymidAN3ZQVze0IuqJLAKD1UECYE6" crossorigin="anonymous"></script>
 
 <script>
     // GiHub Data Directory
