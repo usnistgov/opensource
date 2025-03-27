@@ -8,6 +8,19 @@
 <!-- <script src="https://cdn.jsdelivr.net/npm/anchor-js@5.0.0/anchor.min.js" integrity="sha384-jSRyD8wNnUz5C4NoTBYsKI6tN7xI3kanaqGb3XNbQyioKv0Syqx5uPDEasUzZYGy" crossorigin="anonymous"></script> -->
 <!-- <script src="/js/anchor.min.js"></script> -->
 
-<!-- <script>
-    anchors.add()
-</script> -->
+<script>
+    // anchors.add()
+    function toggleSubMenu() {
+        var submenu = document.getElementById("primary_menu-2");
+        var button = document.querySelector('.usa-accordion__button');
+
+        // Toggle the hidden attribute
+        if (submenu.hidden) {
+            submenu.hidden = false;
+            button.setAttribute("aria-expanded", "true");
+        } else {
+            submenu.hidden = true;
+            button.setAttribute("aria-expanded", "false");
+        }
+    }
+</script>
