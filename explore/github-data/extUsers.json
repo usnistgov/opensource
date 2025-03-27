@@ -681,16 +681,6 @@
             "login": "BlackStreetA0",
             "name": null
         },
-        "Bodleum": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/60107449?u=991a6a80035b21dc68c9df1181897a205047a236&v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "usnistgov/AGA8"
-                ]
-            },
-            "login": "Bodleum",
-            "name": "Daniel Laing"
-        },
         "Borromini": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8218431?v=4",
             "contributedLabRepositories": {
@@ -3375,7 +3365,7 @@
             "name": "Pierre R"
         },
         "PierreRochard": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/6299681?u=ba17c56b3889ac23bef6647179fba48f79314f71&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6299681?u=23390087e41a89d495803886ac2e4b33ad913d84&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/managed-cryptocurrencies-bitcoin"
@@ -4095,6 +4085,16 @@
             },
             "login": "TPRoberts",
             "name": "Thomas Roberts"
+        },
+        "TRThurman": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1623380?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/UUID"
+                ]
+            },
+            "login": "TRThurman",
+            "name": null
         },
         "Tauheed-Elahee": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/36247967?u=4b2bc7487ab035e06291d285481bef1838357805&v=4",
@@ -7341,7 +7341,7 @@
             "name": "Bartosz Baranowski"
         },
         "bardiharborow": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1073681?v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1073681?u=5f9beb46757340f39067c48557a1137133d91a39&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/managed-cryptocurrencies-bitcoin"
@@ -7849,7 +7849,7 @@
             "name": "Bastian K\u00f6cher"
         },
         "black-roland": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1756198?u=1fe4e4b94fc6a3d5ce91624c24f17915bdfaf101&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1756198?u=c9aedef06316df42f604157af0062297b5801211&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/pscr-openwrt-packages-fork"
@@ -8745,7 +8745,7 @@
                 ]
             },
             "login": "catilac",
-            "name": "Moon Dav\u00e9"
+            "name": "Moon"
         },
         "catleeball": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/43632885?u=12a4210512a8bca49878b3b9a61fd4409b9b097f&v=4",
@@ -9803,14 +9803,14 @@
             "name": null
         },
         "cw00h": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/67567023?v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67567023?u=80609f6e268dfa44e47570774495c4cfc7eef124&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/agentdojo-inspect"
                 ]
             },
             "login": "cw00h",
-            "name": "Woo hyuk Choi"
+            "name": "Woohyuk Choi"
         },
         "cwluxul": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/31484871?v=4",
@@ -10116,6 +10116,16 @@
             },
             "login": "danielkucera",
             "name": "Daniel Kucera"
+        },
+        "daniellaing": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/60107449?u=991a6a80035b21dc68c9df1181897a205047a236&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/AGA8"
+                ]
+            },
+            "login": "daniellaing",
+            "name": "Daniel Laing"
         },
         "danitool": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/11631584?u=0b2767164aad17feaefe48e31501545d74a53c91&v=4",
@@ -10844,7 +10854,8 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/HLG-MOS_Synthetic_Data_Test_Drive",
-                    "usnistgov/SDNist"
+                    "usnistgov/SDNist",
+                    "usnistgov/genomics_ppfl"
                 ]
             },
             "login": "djstreat",
@@ -11927,7 +11938,7 @@
             "name": "Emily Dolson"
         },
         "emocibob": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/6080834?u=257c509f37cd9bf0000aa440740dcda26fc33b64&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6080834?u=f53c94bdd9d42866f49bbf57290ff520bbfd7e38&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/psc-ns3"
@@ -13043,10 +13054,9 @@
             "name": "Gavin Andresen"
         },
         "gawbul": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/321291?u=c716d6b135409b2a096435129453863e5c550baf&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/321291?u=701bb38c3c5ee3908bfeb367feb71e22a2d85be9&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "usnistgov/2017-04-04-commerce-library",
                     "usnistgov/2017-04-11-nist",
                     "usnistgov/2017-05-24-nist",
                     "usnistgov/2017-06-26-nist",
@@ -15800,7 +15810,7 @@
             "name": "Jeffery To"
         },
         "jeffrade": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1307806?u=e1a953f31c4811b129b5f5b742237846408d46ae&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1307806?u=f22cf17d20da8b1512bbadce2b1bc0cfe7e8c9d5&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/managed-cryptocurrencies-bitcoin"
@@ -16088,7 +16098,7 @@
             "name": "Jimmy Song"
         },
         "jimpo": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/881253?u=c6cf723ac2c78d38bf31ae2665cb16e3e4452227&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/881253?u=200a956a4174f3c273177ccfb6093df5fcc8e31f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/managed-cryptocurrencies-bitcoin"
@@ -22229,7 +22239,7 @@
             "name": "Nil Admirari"
         },
         "nik9993": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/867058?u=9ccf280d642135f69e5d69b00a62fdfd1da8f13d&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/867058?u=5c19adf823d046ae94266957e392082a2d421c62&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/pscr-openwrt-fork"
@@ -22321,6 +22331,16 @@
             },
             "login": "nist-sgcps",
             "name": null
+        },
+        "nitishingde": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/24220456?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "usnistgov/hedgehog"
+                ]
+            },
+            "login": "nitishingde",
+            "name": "Nitish Shingde"
         },
         "nitroshift": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8588457?u=e116412b6c9681e7f15c83e372447fae01d23970&v=4",
@@ -22790,7 +22810,7 @@
             "name": "Jacob Glueck"
         },
         "ornithophile": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/47016563?u=7e0e0d1a54e2ea845652b7f3ca84ffa7059fd718&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/47016563?u=2b47ac90bd924b54a2a7cfb9974b7cb4899bcea4&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/AGA8"
@@ -23047,7 +23067,7 @@
             "name": "Patrick Gallagher"
         },
         "patrickbrown-dev": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/4147775?u=04b81701253ab000a5ad5cd1fe18a2f0e96a0854&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4147775?u=544c99d5da5057e37b203f27a385d676d1aefdff&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/managed-cryptocurrencies-bitcoin"
@@ -26464,7 +26484,7 @@
             "name": "Pierre-Clement Simon"
         },
         "sipa": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/548488?u=7999a16349f0df0fb273fffa18e5a955c9d3f11c&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/548488?u=ca72436c817b15925f5037d435b3430d8227fd9f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/managed-cryptocurrencies-bitcoin"
@@ -28966,7 +28986,7 @@
             "name": "Jonathan McDowell"
         },
         "ui-patrick-chen": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/2849339?v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2849339?u=c5cb11c2f5163847c13b9f30af3226d5322a90c7&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "usnistgov/pscr-openwrt-packages-fork"
