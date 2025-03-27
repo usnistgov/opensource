@@ -25,19 +25,19 @@
             <a class="usa-nav__link" href="https://data.nist.gov/">Data Portal</a>
           </li>
           <li class="usa-nav__primary-item">
-            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="primary_menu-2"><span>Tools</span></button>
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="primary_menu-2" onclick="return toggleSubMenu()"><span>Tools</span></button>
             <div id="primary_menu-2" class="usa-nav__submenu usa-megamenu" hidden="">
               <div class="grid-row">
                 <div class="tablet:grid-col-fill">
                   <ul class="usa-nav__submenu-list">
                     <li class="usa-nav__submenu-item">
-                      <a onclick="return cref('explore/');" class="usa-nav__link">Explore</a>
+                      <a href="/explore/" class="usa-nav__link">Explore</a>
                     </li>
                     <li class="usa-nav__submenu-item">
-                      <a onclick="return cref('explore/dependencies/');" class="usa-nav__link">Dependencies</a>
+                      <a href="/explore/dependencies/" class="usa-nav__link">Dependencies</a>
                     </li>
                     <li class="usa-nav__submenu-item">
-                      <a onclick="return cref('explore/popular-repos/');" class="usa-nav__link">Popular Repositories</a>
+                      <a href="/explore//popular-repos/" class="usa-nav__link">Popular Repositories</a>
                     </li>
                   </ul>
                 </div>
