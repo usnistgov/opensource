@@ -14,6 +14,7 @@ A comprehensive static website showcasing NIST’s open‑source portal. Powered
 
 ## 🛠️ Solution Architecture
 
+### The portal high level architecture.
 ```plaintext
                                     ┌─────────────────────────┐
                                     │    Author Content       │
@@ -39,6 +40,83 @@ A comprehensive static website showcasing NIST’s open‑source portal. Powered
            └── CI builds deploy `_site/` to static host (GH Pages, Netlify, S3, etc.) ──┘
 ```
 
+### The portal low level architecture
+```plaintext
+                                 ┌──────────────────────────┐
+                                 │   opensource-theme       │
+                                 │  (Jekyll template repo)  │
+                                 └────────────┬─────────────┘
+                                              │ used by
+                                              ▼
+                            ┌───────────────────────────────────┐
+                            │        Portal Repository         │
+                            │  (Jekyll + theme + static assets)│
+                            │  - Uses opensource-theme layouts │
+                            │  - Contains content dirs:        │
+                            │    explore/, catalog/,           │
+                            │    category/, repo/              │
+                            └────────────┬──────────────────────┘
+                                         │
+  ┌──────────────────────────────────────┼────────────────────────────────────┐
+  │                                      │                                    │
+  │                                      │                                    │
+  ▼                                      ▼                                    ▼
+┌──────────────────┐             ┌──────────────────────┐                ┌─────────────────────┐
+│ opensource-data  │             │ opensource-actions   │                │ nist-software-      │
+│ GitHub Action    │             │ GitHub Action        │                │ scraper (fixed      │
+│ - Uses scraper   │             │ - Docker-based       │                │ version)            │
+│   to gather      │             │ - Uses GraphQL       │                │                     │
+│   Code.gov data  │             │   to fetch NIST      │                │                     │
+│ - Generates      │             │   repos, contributors│                │                     │
+│   code.json      │             │   languages          │                │                     │
+│                  │             │ - Updates content in │                │                     │
+│                  │             │   explore/, catalog/ │                │                     │
+│                  │             │   category/, repo/   │                │                     │
+└──────┬───────────┘             └────────┬─────────────┘                └────────┬────────────┘
+       │                                 │                                        │
+       ▼                                 │                                        ▼
+   Generates                           Updates                                 Provides
+   `code.json`                         portal                               Code Gov scraper
+   for portal                         content                                functionality
+                                       and commit                            in fixed version
+       │                                 │                                        │
+       └──────────────┬──────────────────┴────────────────────────────────────────┘
+                      ▼
+       ┌─────────────────────────────────────────────────────┐
+       │        Portal Repository Ready For Build            │
+       │   (Updated content dirs & code.json)                │
+       └────────────┬────────────────────────────────────────┘
+                    │
+                    ▼
+           ┌─────────────────────────┐
+           │   Jekyll Build &        │
+           │   Deployment Stage      │
+           │ - Uses opensource-theme │
+           │ - Outputs `_site/`      │
+           │ - Deploys to host       │
+           └─────────────────────────┘
+```
+## 🔄 Workflow Breakdown
+1. [opensource-theme](https://github.com/usnistgov/opensource-theme)
+    * Provides the underlying Jekyll layouts, includes, styles, and scripts used by the portal for consistent rendering.
+2. Portal Repository
+    * Contains Jekyll configuration, Markdown content directories (explore, catalog, category, repo), static assets, and references the theme.
+    * Provides the structure into which both update workflows inject content.
+3. [opensource-data](https://github.com/usnistgov/opensource-data)
+    * Executes as a GitHub Action using the fixed nist-software-scraper.
+    * Scrapes data from NIST Github org and generates code.json, which then populates the portal repository for client-side indexing and display 
+4. [opensource-actions](https://github.com/usnistgov/opensource-actions)
+    * Runs as a Docker-based GitHub Action using GitHub’s GraphQL API.
+    * Fetches metadata (repositories, contributors, languages) for all NIST GitHub repos.
+    * Updates Markdown content in explore, catalog, category, and repo in the portal, and commits those changes back github.com.
+5. [nist-software-scraper](https://github.com/usnistgov/nist-software-scraper)
+    * A version-locked scraper providing consistent metadata output to opensource-data for Code.gov structure compliance
+6. [opensource-repo](https://github.com/usnistgov/opensource-repo)
+    * A reference repository template aimed at provide better metadata capture for category, catalog and exploration in the portal.
+7. Build & Deployment
+    * With updated content and code.json, Jekyll builds the site using the theme.
+    * The output is pushed to a static hosting service (e.g. GitHub Pages, Netlify), serving end-users with the latest content.
+      
 ## 📁 Folder Structure
 
 ```plaintext
@@ -74,15 +152,15 @@ opensource-nist-pages/
 ## 📘 Technical Details
 
 ### Jekyll Build Process
-- Collections: Defined in _config.yml (e.g., catalog, repo, category, radiuss, _posts)
-- Markdown files with front matter are converted into HTML via layouts in _layouts/
-- Includes support reusable components (_includes/header.html, _includes/footer.html, etc.)
-- Indexing: JavaScript (AngularJS / jQuery) creates searchable, filterable lists at runtime
+* Collections: Defined in _config.yml (e.g., catalog, repo, category, radiuss, _posts)
+* Markdown files with front matter are converted into HTML via layouts in _layouts/
+* Includes support reusable components (_includes/header.html, _includes/footer.html, etc.)
+* Indexing: JavaScript (AngularJS / jQuery) creates searchable, filterable lists at runtime
 
 ### Client-Side Features
-- Search: Real-time JavaScript search across catalog and repos
-- Visualizations: D3.js word clouds and charts in explore/ directory
-- UI Frameworks: Bootstrap for responsiveness, Font Awesome for icons
+* Search: Real-time JavaScript search across catalog and repos
+* Visualizations: D3.js word clouds and charts in explore/ directory
+* UI Frameworks: Bootstrap for responsiveness, Font Awesome for icons
 
 ### Development & Deployment Workflow
 1- Install dependencies:
@@ -113,11 +191,11 @@ bundle exec jekyll build
 - Deploy via your chosen static host (GitHub Pages, Netlify, AWS S3, etc.)
 
 ## ☁️ Continuous Integration
-- .travis.yml runs on every push:
+* .travis.yml runs on every push:
   - Installs dependencies
   - Builds site
   - Optionally deploys on successful builds on main branch
-- Use your own CI (GitHub Actions, CircleCI) by mirroring this pipeline
+* Use your own CI (GitHub Actions, CircleCI) by mirroring this pipeline
 
 ## 👥 Contributing
 1- Fork the repo and clone your fork
